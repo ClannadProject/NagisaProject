@@ -2,7 +2,6 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.clannadutils.interfaces.AdvancedEnum;
 import de.knoobie.project.nagisa.gson.model.bo.enums.NameLanguage;
 import de.knoobie.project.nagisa.gson.model.dto.json.artist.ArtistAlias;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
@@ -27,6 +26,20 @@ class TransientName {
         this.setName(name);
         this.setDate(date);
         this.setLanguage(language);
+    }
+
+    public static List<String> getOnlyNames(List<TransientName> names) {
+        List<String> result = new ArrayList<>();
+
+        if (ListUtils.isEmpty(names)) {
+            return result;
+        }
+
+        names.stream().forEach((name) -> {
+            result.add(name.getName());
+        });
+
+        return result;
     }
 
     public static List<TransientName> parseNames(List<ArtistAlias> aliases) {
