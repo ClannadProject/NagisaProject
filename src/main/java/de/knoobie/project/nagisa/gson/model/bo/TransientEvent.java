@@ -2,7 +2,6 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
 import de.knoobie.project.nagisa.gson.model.dto.json.event.Event;
 import de.knoobie.project.nagisa.gson.model.dto.json.organisation.OrganisationReleaseEvent;
 import java.util.ArrayList;
@@ -11,6 +10,8 @@ import lombok.Data;
 
 public @Data
 class TransientEvent {
+
+    public static final String VGMDB_DIR = "event";
 
     private String startdate;
     private String enddate;
@@ -21,7 +22,7 @@ class TransientEvent {
     private String vgmdbLink;
 
     private List<TransientEventRelease> releases = new ArrayList<>();
-    
+
     public TransientEvent(OrganisationReleaseEvent event) {
         if (event == null) {
             return;
@@ -30,7 +31,7 @@ class TransientEvent {
         this.setLink(StringUtils.trim(event.getLink()));
         this.setShortname(StringUtils.trim(event.getShortname()));
     }
-    
+
     public TransientEvent(Event event) {
         if (event == null) {
             return;
