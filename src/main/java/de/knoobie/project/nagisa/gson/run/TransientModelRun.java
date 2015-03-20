@@ -2,15 +2,57 @@ package de.knoobie.project.nagisa.gson.run;
 
 import de.knoobie.project.nagisa.gson.model.bo.TransientArtist;
 import de.knoobie.project.nagisa.gson.model.bo.TransientOrganisation;
+import de.knoobie.project.nagisa.gson.model.bo.TransientProduct;
 import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
 import de.knoobie.project.nagisa.gson.util.SearchUtils;
 
 public class TransientModelRun {
 
     public static void main(String[] args) throws Exception {
-        test_getOrg("1");
+//        test_getOrg("1");
 //        test_getArtist("Band", "6310");
 //        test_getArtist("Person", "5");
+        
+//        test_Product("1018"); // Francise
+//        test_Product("1019"); // Game
+//        test_Product("1020"); // Video
+//        test_Product("1021"); // Video
+        test_Product("1028"); // Game
+    }
+
+    private static void test_Product(String query) throws Exception {
+        TransientProduct product = new TransientProduct(SearchUtils.getProduct(query));
+
+        System.out.println("Product: " + product.getName() + " / " + product.getLink());
+        System.out.println("getDescription: " + product.getDescription());
+        System.out.println("getReleaseDate: " + product.getReleaseDate());
+        System.out.println("getOrganizations: " + product.getOrganizations());
+
+        System.out.println("Type: " + product.getType().getHumanizedName());
+
+        System.out.println("Francise:");
+        product.getFrancises().stream().forEach((francise) -> {
+            System.out.println(" - " + francise.getNames().get(0).getName() + " | " + francise.getLink()
+                    + " | " + francise.getPlatform()+ " | " + francise.getRegion());
+        });
+        
+        System.out.println("Titles:");
+        product.getTitles().stream().forEach((title) -> {
+            System.out.println(" - " + title.getNames().get(0).getName() + " | " + title.getLink()
+                    + " | " + title.getPlatform()+ " | " + title.getRegion());
+        });
+        
+        System.out.println("Releases:");
+        product.getReleases().stream().forEach((release) -> {
+            System.out.println(" - " + release.getNames().get(0).getName() + " | " + release.getLink()
+                    + " | " + release.getPlatform()+ " | " + release.getRegion());
+        });
+        
+        System.out.println("Albums:");
+        product.getAlbums().stream().forEach((album) -> {
+            System.out.println(" - " + album.getNames().get(0).getName() + " | " + album.getCatalog()
+                    + " | " + album.getLink() + " | " + album.getType());
+        });
     }
 
     private static void test_getOrg(String query) throws Exception {
@@ -24,7 +66,7 @@ public class TransientModelRun {
         org.getReleases().stream().forEach((release) -> {
             System.out.println(" - " + release.getNames().get(0).getName() + " | " + release.getCatalog()
                     + " | " + release.getLink() + " | " + release.getType() + " | " + release.getRole()
-                    + (release.getEvent() != null ? "(Event: " + release.getEvent().getName() + " / Link: "+release.getEvent().getLink()+")" : ""));
+                    + (release.getEvent() != null ? "(Event: " + release.getEvent().getName() + " / Link: " + release.getEvent().getLink() + ")" : ""));
         });
     }
 
