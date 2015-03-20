@@ -8,7 +8,7 @@ public enum ProductType implements AdvancedEnum {
     unknown("Unknown"),
     Game("Game"),
     Video("Video"),
-    Francise("Francise"),
+    Franchise("Franchise"),
     Radio_Drama("Radio & Drama"),
     Print_Publication("Print Publication"),
     Goods("Goods");
@@ -34,7 +34,7 @@ public enum ProductType implements AdvancedEnum {
         return ProductType.values();
     }
 
-    public static ProductType getArtistTypeByName(String name) {
+    public static ProductType getProductTypeByName(String name) {
         if (StringUtils.isEmpty(name)) {
             return ProductType.unknown;
         }
