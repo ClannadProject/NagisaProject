@@ -25,7 +25,7 @@ public class NewMain {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws Exception {
-        event();
+//        event();
 //        test_getArtist("Band", "6310");
 //        test_getArtist("Person", "5");
 //        event();
@@ -40,82 +40,82 @@ public class NewMain {
 //        search("haruhi");
     }
 
-    private static void event() throws Exception {
-        TransientEvent event = new TransientEvent(SearchUtils.getEvent("175"));
-        System.out.println("-->getName " + event.getName());
-        System.out.println("-->getDescription " + event.getDescription());
-        System.out.println("-->getLink " + event.getLink());
-        System.out.println("-->getStartdate " + event.getStartdate());
-        System.out.println("-->getEnddate " + event.getEnddate());
+//    private static void event() throws Exception {
+//        TransientEvent event = new TransientEvent(SearchUtils.getEvent("175"));
+//        System.out.println("-->getName " + event.getName());
+//        System.out.println("-->getDescription " + event.getDescription());
+//        System.out.println("-->getLink " + event.getLink());
+//        System.out.println("-->getStartdate " + event.getStartdate());
+//        System.out.println("-->getEnddate " + event.getEnddate());
+//
+//        System.out.println("Releases:");
+//        event.getReleases().stream().forEach((release) -> {
+//            System.out.println(" - " + release.getNames().get(0).getName() + " | " + release.getCatalog() + " | " + release.getLink() + " | " + release.getReleaseType()+ " | " + release.getReleaseDate());
+//        });
+//    }
 
-        System.out.println("Releases:");
-        event.getReleases().stream().forEach((release) -> {
-            System.out.println(" - " + release.getNames().get(0).getName() + " | " + release.getCatalog() + " | " + release.getLink() + " | " + release.getReleaseType()+ " | " + release.getReleaseDate());
-        });
-    }
+//    private static void organisation() throws Exception {
+//        Organisation p = SearchUtils.getOrganisation("429");
+//        System.out.println("-->getName " + p.getName());
+//        System.out.println("-->getDescription " + p.getDescription());
+//        System.out.println("-->getLink " + p.getLink());
+//        System.out.println("-->getRegion " + p.getRegion());
+//        System.out.println("-->getPictureFull " + p.getPictureFull());
+//        System.out.println("-->getType " + p.getType());
+//        for (OrganisationRelease album : p.getReleases()) {
+//            System.out.println("------------------------------------------------> ");
+//            System.out.println("-getNames-> " + album.getNames().getEn());
+//            System.out.println("-getNames-> " + album.getNames().getJa());
+//            System.out.println("-Roles-> " + album.getRole());
+//            System.out.println("-Type-> " + album.getType());
+//            System.out.println("-Link-> " + album.getLink());
+//            if (album.getEvent() != null) {
+//                System.out.println("-Event Name-> " + album.getEvent().toString());
+//            }
+//
+//        }
+//    }
 
-    private static void organisation() throws Exception {
-        Organisation p = SearchUtils.getOrganisation("429");
-        System.out.println("-->getName " + p.getName());
-        System.out.println("-->getDescription " + p.getDescription());
-        System.out.println("-->getLink " + p.getLink());
-        System.out.println("-->getRegion " + p.getRegion());
-        System.out.println("-->getPictureFull " + p.getPictureFull());
-        System.out.println("-->getType " + p.getType());
-        for (OrganisationRelease album : p.getReleases()) {
-            System.out.println("------------------------------------------------> ");
-            System.out.println("-getNames-> " + album.getNames().getEn());
-            System.out.println("-getNames-> " + album.getNames().getJa());
-            System.out.println("-Roles-> " + album.getRole());
-            System.out.println("-Type-> " + album.getType());
-            System.out.println("-Link-> " + album.getLink());
-            if (album.getEvent() != null) {
-                System.out.println("-Event Name-> " + album.getEvent().toString());
-            }
+//    private static void artist() throws Exception {
+//        Artist p = SearchUtils.getArtist("5");
+//        System.out.println("-->getName " + p.getName());
+//        System.out.println("-->getNotes " + p.getNotes());
+//        System.out.println("-->getLink " + p.getLink());
+//        System.out.println("-->getBirthdate " + p.getBirthdate());
+//        System.out.println("-->getPictureFull " + p.getPictureFull());
+//        System.out.println("-->getSex " + p.getSex());
+//        for (ArtistAlias alias : p.getAliases()) {
+//            System.out.println("------------------------------------------------> ");
+//            System.out.println("-Alias-> " + alias.getNames().getEn());
+//        }
+//        for (ArtistDiscography album : p.getDiscography()) {
+//            System.out.println("------------------------------------------------> ");
+//            System.out.println("-ArtistDiscography-> " + album.getTitles().getEn());
+//            System.out.println("-ArtistDiscography-> " + album.getTitles().getJa());
+//            System.out.println("-Roles-> " + album.getRoles().toString());
+//            System.out.println("-Type-> " + album.getType());
+//        }
+//    }
 
-        }
-    }
-
-    private static void artist() throws Exception {
-        Artist p = SearchUtils.getArtist("5");
-        System.out.println("-->getName " + p.getName());
-        System.out.println("-->getNotes " + p.getNotes());
-        System.out.println("-->getLink " + p.getLink());
-        System.out.println("-->getBirthdate " + p.getBirthdate());
-        System.out.println("-->getPictureFull " + p.getPictureFull());
-        System.out.println("-->getSex " + p.getSex());
-        for (ArtistAlias alias : p.getAliases()) {
-            System.out.println("------------------------------------------------> ");
-            System.out.println("-Alias-> " + alias.getNames().getEn());
-        }
-        for (ArtistDiscography album : p.getDiscography()) {
-            System.out.println("------------------------------------------------> ");
-            System.out.println("-ArtistDiscography-> " + album.getTitles().getEn());
-            System.out.println("-ArtistDiscography-> " + album.getTitles().getJa());
-            System.out.println("-Roles-> " + album.getRoles().toString());
-            System.out.println("-Type-> " + album.getType());
-        }
-    }
-
-    private static void product() throws IOException, Exception {
-        Product p = SearchUtils.getProduct("1122");
-        System.out.println(p.getName());
-        System.out.println("-->getName " + p.getName());
-        for (ProductTitle title : p.getTitles()) {
-            System.out.println("------------------------------------------------> ");
-            System.out.println("-Title-> " + title.getNames().getEnglish());
-            System.out.println("-Title-> " + title.getNames().getEn());
-        }
-        for (ProductAlbum album : p.getAlbums()) {
-            System.out.println("------------------------------------------------> ");
-            System.out.println("-Album Name-> " + album.getNames().getEnglish());
-            System.out.println("-Album Name-> " + album.getNames().getEn());
-            System.out.println("-Album Name-> " + album.getNames().getJa());
-        }
-    }
+//    private static void product() throws IOException, Exception {
+//        Product p = SearchUtils.getProduct("1122");
+//        System.out.println(p.getName());
+//        System.out.println("-->getName " + p.getName());
+//        for (ProductTitle title : p.getTitles()) {
+//            System.out.println("------------------------------------------------> ");
+//            System.out.println("-Title-> " + title.getNames().getEnglish());
+//            System.out.println("-Title-> " + title.getNames().getEn());
+//        }
+//        for (ProductAlbum album : p.getAlbums()) {
+//            System.out.println("------------------------------------------------> ");
+//            System.out.println("-Album Name-> " + album.getNames().getEnglish());
+//            System.out.println("-Album Name-> " + album.getNames().getEn());
+//            System.out.println("-Album Name-> " + album.getNames().getJa());
+//        }
+//    }
 
     private static void test_getArtist(String person_band, String query) throws Exception {
-        TransientArtist artist = new TransientArtist(SearchUtils.getArtist(query));
+        TransientArtist artist = VGMdb.getArtist(query);
 
         System.out.println("test_getArtist()");
         System.out.println(person_band + ": " + artist.getName() + " / " + artist.getLink());
@@ -162,7 +162,7 @@ public class NewMain {
     }
 
     private static void album() throws IOException, Exception {
-        TransientAlbum p = new TransientAlbum(SearchUtils.getAlbum("38626"));
+        TransientAlbum p = VGMdb.getAlbum("38626");
         System.out.println(p.getName());
         p.getNames().stream().forEach((name) -> {
             System.out.println("Language: " + name.getLanguage().getHumanizedName() + " - Name: " + name.getName());
@@ -220,7 +220,7 @@ public class NewMain {
 //    }
     private static void search(String query) throws Exception {
 
-        SearchResult p = SearchUtils.find(query);
+        SearchResult p = VGMdb.find(query);
         System.out.println("-->getLink " + p.getLink());
         System.out.println("-->getQuery " + p.getQuery());
         System.out.println("--> Anzahl getAlbums = " + p.getResults().getAlbums().size());
