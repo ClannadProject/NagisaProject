@@ -3,6 +3,7 @@ package de.knoobie.project.nagisa.gson.model.bo;
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
+import de.knoobie.project.nagisa.gson.model.bo.enums.NameLanguage;
 import de.knoobie.project.nagisa.gson.model.bo.enums.WebsiteType;
 import de.knoobie.project.nagisa.gson.model.dto.json.artist.Artist;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
@@ -12,6 +13,8 @@ import lombok.Data;
 
 public @Data
 class TransientArtist {
+
+    public static final String VGMDB_DIR = "artist";
 
     private String name;
     private String link;
@@ -37,7 +40,25 @@ class TransientArtist {
 
     // @todo add Album Votes && weighted album rating
     public TransientArtist(Names names, String link) {
+        this(names, new ArrayList<>(), link);
+    }
+
+    public TransientArtist(Names names, List<String> aliases, String link) {
         this.setAliases(TransientName.parseNames(names));
+
+        if (!ListUtils.isEmpty(aliases)) {
+            aliases.stream().forEach((alias) -> {
+                this.getAliases().add(new TransientName(
+                        StringUtils.trim(alias),
+                        NameLanguage.alias));
+            });
+        }
+        if (!ListUtils.isEmpty(this.getAliases())) {
+            this.getAliases().stream().filter((alias) -> (alias.getLanguage() == NameLanguage.original
+                    || alias.getLanguage() == NameLanguage.eng)).forEach((aliasName) -> {
+                        this.setName(StringUtils.trim(aliasName.getName()));
+                    });
+        }
         this.setLink(link);
     }
 
