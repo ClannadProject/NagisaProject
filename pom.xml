@@ -16,7 +16,7 @@
         </dependency>
         <dependency> 
             <groupId>de.knoobie</groupId> 
-            <artifactId>ClannadUtils</artifactId> 
+            <artifactId>ClannadProjectUtils</artifactId> 
             <version>trunk</version> 
         </dependency>
         <dependency> 
