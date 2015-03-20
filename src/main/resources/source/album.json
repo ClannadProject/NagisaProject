@@ -1,0 +1,529 @@
+{
+    "arrangers": [],
+    "catalog": "PCCG-01351",
+    "category": "Animation",
+    "classification": "Original Soundtrack, Vocal",
+    "composers": [
+        {
+            "link": "artist/7317",
+            "names": {
+                "en": "Hiroyuki Sawano",
+                "ja": "澤野弘之"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "http://vgmdb.net/db/assets/covers/38626-1370611541.png",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/38626-1370611541.png",
+            "name": "Front",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/38626-1370611541.png"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/38626-1372470272.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/38626-1372470272.jpg",
+            "name": "Back",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/38626-1372470272.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/38626-1372470549.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/38626-1372470549.jpg",
+            "name": "Booklet Spread Back",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/38626-1372470549.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/38626-1372470433.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/38626-1372470433.jpg",
+            "name": "Booklet Spread Front",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/38626-1372470433.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/38626-1372470662.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/38626-1372470662.jpg",
+            "name": "Disc",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/38626-1372470662.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "77:27",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English (from furigana)": "attack ON titan",
+                        "Japanese (furigana)": "アタックオンタイタン",
+                        "Original": "ətˈæk 0N tάɪtn",
+                        "Romaji": "attack ON titan"
+                    },
+                    "track_length": "4:17"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "The Reluctant Heroes",
+                        "Japanese (furigana)": "ザリラクタントヒーローズ",
+                        "Original": "The Reluctant Heroes",
+                        "Romaji": "The Reluctant Heroes"
+                    },
+                    "track_length": "4:27"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "eye-water",
+                        "Japanese (furigana)": "アイウォーター",
+                        "Original": "eye-water",
+                        "Romaji": "eye-water"
+                    },
+                    "track_length": "3:01"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Three-Dimensional Maneuver",
+                        "Japanese (furigana)": "リッタイキドウ",
+                        "Original": "立body機motion",
+                        "Romaji": "Rittai Kidou"
+                    },
+                    "track_length": "5:43"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "counter.attack-mankind",
+                        "Japanese (furigana)": "カウンターアタックマンカインド",
+                        "Original": "cóunter・attàck-mˈænkάɪnd",
+                        "Romaji": "counter.attack-mankind"
+                    },
+                    "track_length": "6:07"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "army ATTACK",
+                        "Japanese (furigana)": "アーミーアタック",
+                        "Original": "army⇒G♂",
+                        "Romaji": "army ATTACK"
+                    },
+                    "track_length": "3:26"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Bird in a Cage",
+                        "Japanese (furigana)": "フォーゲルイムケーフィヒ",
+                        "Original": "Vogel im Käfig",
+                        "Romaji": "Vogel im Käfig"
+                    },
+                    "track_length": "6:20"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "DOA",
+                        "Japanese (furigana)": "ディーオーエー",
+                        "Original": "DOA",
+                        "Romaji": "DOA"
+                    },
+                    "track_length": "3:26"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Titan Invasion",
+                        "Japanese (furigana)": "キョジンシンコウ",
+                        "Original": "凸】♀】♂】←巨人",
+                        "Romaji": "Kyojin Shinkou"
+                    },
+                    "track_length": "4:21"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "E.M.A.",
+                        "Japanese (furigana)": "イー・エム・エー",
+                        "Original": "E・M・A",
+                        "Romaji": "E.M.A."
+                    },
+                    "track_length": "5:43"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Female Titan Extermination",
+                        "Japanese (furigana)": "メガタキョジン クチク",
+                        "Original": "巨♀～9地区",
+                        "Romaji": "Megata Kyojin Kuchiku"
+                    },
+                    "track_length": "5:15"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Building Blocks",
+                        "Japanese (furigana)": "バオクレッツェ",
+                        "Original": "Bauklötze",
+                        "Romaji": "Bauklötze"
+                    },
+                    "track_length": "3:56"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Daily Life",
+                        "Japanese (furigana)": "ニチジョウ",
+                        "Original": "2chi城",
+                        "Romaji": "Nichijou"
+                    },
+                    "track_length": "6:48"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "XL-TT",
+                        "Japanese (furigana)": "エックスエル ティーティー",
+                        "Original": "XL-TT",
+                        "Romaji": "XL-TT"
+                    },
+                    "track_length": "6:37"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "Call your name",
+                        "Japanese (furigana)": "コールユアネーム",
+                        "Original": "Call your name",
+                        "Romaji": "Call your name"
+                    },
+                    "track_length": "4:28"
+                },
+                {
+                    "names": {
+                        "English (from furigana)": "bonus-piano adlib",
+                        "Japanese (furigana)": "オマケピアノアドリブ",
+                        "Original": "omake-pfadlib",
+                        "Romaji": "omake-piano adlib"
+                    },
+                    "track_length": "3:32"
+                }
+            ]
+        }
+    ],
+    "link": "album/38626",
+    "lyricists": [
+        {
+            "link": "artist/12223",
+            "names": {
+                "en": "Rie"
+            }
+        },
+        {
+            "link": "artist/12216",
+            "names": {
+                "en": "mpi"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2013-04-10T04:36",
+        "edited_date": "2014-05-21T10:14",
+        "freedb": 4,
+        "ttl": 86400,
+        "visitors": 23578
+    },
+    "name": "\"Attack on Titan\" Original Soundtrack",
+    "names": {
+        "en": "\"Attack on Titan\" Original Soundtrack",
+        "ja": "TVアニメ「進撃の巨人」オリジナルサウンドトラック",
+        "ja-latn": "Shingeki no Kyojin Original Soundtrack"
+    },
+    "notes": "All Music Composed & Produced by HIROYUKI SAWANO\nCo-produced, directed by YASUSHI HORIGUCHI (Legendoor)\nRecording, Mixing & Mastering Engineer : MITSUNORI AIZAWA\nMastering Engineer : YUTA TADA\nRecorded at Studio Sound Valley, Bunkamura Studio, Studio Green Bird\nMixed at Studio Sound Valley, Studio Green Bird\nMastered at PONY CANYON\nScore Copy : SHOJI KOBAYASHI\nMusicians\nDrums : YU \"masshoi\" YAMAUCHI\nBass : TANABE TOSHIO\nGuitars : HIROSHI IIMURO, TETSURO TOYAMA\nStrings section : DAISENSEI Muroya strings\nAnother Violin : DAISENSEI Muroya\nTrumpet : SHIRO SASAKI\nHorn : OTOHIKO FUJITA, YASUSHI KATSUMATA, MARIE FUJITA\nYU SAKUMA, SHINICHI KOTANI, TAKANORI TAKAHASHI\nVocal : Mika Kobayashi (01,12), Aimee Blackschleger (08)\nCyua (07), mpi (02,15), CASG (Caramel Apple Sound Gadget) (15)\nLyrics : Rie (01,07,12), mpi (02,08,15)\nAdditional Orchestra : [nZk] Philharmonic Orchestra\nPiano, Keyboards & All Instruments : HIROYUKI SAWANO\nSpecial Thanks : TETSURO ARAKI\nProducer : TETSUYA KINOSHITA (PONY CANYON)\nDesign : HIROMI SUEOKA (NPC)\nKey Animation : MASAYUKI SATOU\nFinishing : SATOSHI HASHIMOTO\nBackground : SHUICHI TSUJI",
+    "performers": [
+        {
+            "link": "artist/7317",
+            "names": {
+                "en": "Hiroyuki Sawano",
+                "ja": "澤野弘之"
+            }
+        },
+        {
+            "link": "artist/10929",
+            "names": {
+                "en": "Yu \"masshoi\" Yamauchi"
+            }
+        },
+        {
+            "link": "artist/2254",
+            "names": {
+                "en": "Toshino Tanabe",
+                "ja": "田辺トシノ"
+            }
+        },
+        {
+            "link": "artist/3176",
+            "names": {
+                "en": "Hiroshi Iimuro",
+                "ja": "飯室博"
+            }
+        },
+        {
+            "link": "artist/7924",
+            "names": {
+                "en": "Tetsuro Toyama",
+                "ja": "遠山哲朗"
+            }
+        },
+        {
+            "link": "artist/7412",
+            "names": {
+                "en": "Daisensei Muroya Strings",
+                "ja": "大先生室屋ストリングス"
+            }
+        },
+        {
+            "link": "artist/7413",
+            "names": {
+                "en": "Daisensei Muroya"
+            }
+        },
+        {
+            "link": "artist/4422",
+            "names": {
+                "en": "Otohiko Fujita",
+                "ja": "藤田乙比古"
+            }
+        },
+        {
+            "link": "artist/7411",
+            "names": {
+                "en": "Yasushi Katsumata",
+                "ja": "勝俣泰"
+            }
+        },
+        {
+            "link": "artist/13977",
+            "names": {
+                "en": "Marie Fujita",
+                "ja": "藤田麻理絵"
+            }
+        },
+        {
+            "link": "artist/15805",
+            "names": {
+                "en": "Yu Sakuma",
+                "ja": "佐久間優"
+            }
+        },
+        {
+            "link": "artist/15810",
+            "names": {
+                "en": "Shinichi Kotani",
+                "ja": "小谷晋一"
+            }
+        },
+        {
+            "link": "artist/7816",
+            "names": {
+                "en": "Takanori Takahashi",
+                "ja": "高橋臣宜"
+            }
+        },
+        {
+            "link": "artist/12213",
+            "names": {
+                "en": "Mika Kobayashi",
+                "ja": "小林未郁"
+            }
+        },
+        {
+            "link": "artist/12216",
+            "names": {
+                "en": "mpi"
+            }
+        },
+        {
+            "link": "artist/7736",
+            "names": {
+                "en": "Aimee Blackschleger"
+            }
+        },
+        {
+            "link": "artist/5163",
+            "names": {
+                "en": "Cyua",
+                "ja": "キュア"
+            }
+        },
+        {
+            "link": "artist/15114",
+            "names": {
+                "en": "CASG"
+            }
+        },
+        {
+            "names": {
+                "en": "[nZk] Philharmonic Orchestra"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/38626-1370611541.png",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/38626-1370611541.png",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/1982",
+            "names": {
+                "en": "Attack on Titan",
+                "ja": "進撃の巨人",
+                "ja-latn": "Shingeki no Kyojin"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/22",
+        "names": {
+            "en": "Pony Canyon",
+            "ja": "株式会社ポニーキャニオン",
+            "ja-latn": "Pony Canyon"
+        }
+    },
+    "rating": 3.62,
+    "related": [
+        {
+            "catalog": "Utsukushiki Zankoku na Sekai / Yoko Hikasa",
+            "link": "album/37693",
+            "names": {
+                "en": "Utsukushiki Zankoku na Sekai / Yoko Hikasa",
+                "ja": "美しき残酷な世界 / 日笠陽子",
+                "ja-latn": "Utsukushiki Zankoku na Sekai / Yoko Hikasa"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "Utsukushiki Zankoku na Sekai / Yoko Hikasa [Limited Edition]",
+            "link": "album/37694",
+            "names": {
+                "en": "Utsukushiki Zankoku na Sekai / Yoko Hikasa [Limited Edition]",
+                "ja": "美しき残酷な世界 / 日笠陽子",
+                "ja-latn": "Utsukushiki Zankoku na Sekai / Yoko Hikasa [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "Jiyuu e no Shingeki / Linked Horizon [Limited Edition]",
+            "link": "album/38593",
+            "names": {
+                "en": "Jiyuu e no Shingeki / Linked Horizon [Limited Edition]",
+                "ja": "自由への進撃 / Linked Horizon",
+                "ja-latn": "Jiyuu e no Shingeki / Linked Horizon [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "Jiyuu e no Shingeki / Linked Horizon",
+            "link": "album/38594",
+            "names": {
+                "en": "Jiyuu e no Shingeki / Linked Horizon",
+                "ja": "自由への進撃 / Linked Horizon",
+                "ja-latn": "Jiyuu e no Shingeki / Linked Horizon"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "Isayama Hajime Kanshuu Nise Yokoku Drama CD \"Sasha no Dotou...",
+            "link": "album/42343",
+            "names": {
+                "en": "Isayama Hajime Kanshuu Nise Yokoku Drama CD \"Sasha no Dotou...",
+                "ja": "諫山創監修ニセ予告...",
+                "ja-latn": "Isayama Hajime Kanshuu Nise Yokoku Drama CD \"Sasha no Dotou..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "great escape / cinema staff",
+            "link": "album/40067",
+            "names": {
+                "en": "great escape / cinema staff",
+                "ja": "great escape / cinema staff",
+                "ja-latn": "great escape / cinema staff"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "\"Attack on Titan\" Original Soundtrack II",
+            "link": "album/40757",
+            "names": {
+                "en": "\"Attack on Titan\" Original Soundtrack II",
+                "ja": "TVアニメ「進撃の巨人」オリジナルサウンド...",
+                "ja-latn": "Shingeki no Kyojin Original Soundtrack II"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "Attack on Titan Bonus Drama CD Heichou vs. Mikasa Dotou no...",
+            "link": "album/49788",
+            "names": {
+                "en": "Attack on Titan Bonus Drama CD Heichou vs. Mikasa Dotou no...",
+                "ja": "進撃の巨人 特典ドラマCD 兵長vs.ミカサ...",
+                "ja-latn": "Attack on Titan Bonus Drama CD Heichou vs. Mikasa Dotou no..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "Guren no Yumiya [Kouhaku Special Size] / Linked Horizon",
+            "link": "album/43532",
+            "names": {
+                "en": "Guren no Yumiya [Kouhaku Special Size] / Linked Horizon",
+                "ja": "紅蓮の弓矢[紅白スペシャルSize] / Linked Horizon",
+                "ja-latn": "Guren no Yumiya [Kouhaku Special Size] / Linked Horizon"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "Attack on Titan Reading & Live Event \"Attack On Taikan\"",
+            "link": "album/42284",
+            "names": {
+                "en": "Attack on Titan Reading & Live Event \"Attack On Taikan\"",
+                "ja": "「進撃の巨人」Reading&Live Event「Attack 音...",
+                "ja-latn": "Attack on Titan Reading & Live Event \"Attack On Taikan\""
+            },
+            "type": "bonus"
+        }
+    ],
+    "release_date": "2013-06-28",
+    "release_price": {
+        "currency": "JPY",
+        "price": 3150.0
+    },
+    "reprints": [
+        {
+            "catalog": "MICK-7002",
+            "link": "album/51396",
+            "note": "Taiwanese, Bootleg printing, 2014"
+        },
+        {
+            "catalog": "ANIM-0001",
+            "link": "album/51293",
+            "note": "British, Jul 25, 2014"
+        }
+    ],
+    "stores": [
+        {
+            "link": "http://https://itunes.apple.com/us/album/attack-on-titan-original-soundtrack/id907281681",
+            "name": "iTunes"
+        },
+        {
+            "link": "http://www.cdjapan.co.jp/detailview.html?KEY=PCCG-1351",
+            "name": "CD Japan"
+        },
+        {
+            "link": "http://www.play-asia.com/Shingeki_No_Kyojin_Attack_On_Titan_Original_Soundtrack-paOS-13-71-1l5-70-6i0r.html",
+            "name": "Play-Asia"
+        },
+        {
+            "link": "http://www.yesasia.com/global/tv-anime-shingeki-no-kyojin-attack-on-titan-original-soundtrack-japan/1033201285-0-0-0-en/info.html",
+            "name": "YesAsia"
+        }
+    ],
+    "vgmdb_link": "http://vgmdb.net/album/38626?perpage=99999",
+    "votes": 30,
+    "websites": {
+        "Review": [
+            {
+                "link": "http://blog.animeinstrumentality.net/2013/09/attack-on-titan-original-soundtrack-bombastically-fitting-but-underwhelming/",
+                "name": "Attack on Titan Original Soundtrack - Review - Anime Instrumentality Blog"
+            }
+        ]
+    }
+}

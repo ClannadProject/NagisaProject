@@ -1,0 +1,872 @@
+{
+    "link": "search/artists/haruhi",
+    "meta": {},
+    "query": "haruhi",
+    "results": {
+        "albums": [
+            {
+                "catalog": "HBDC-002",
+                "link": "album/19906",
+                "release_date": "2003-03-14",
+                "titles": {
+                    "en": "Drama CD Cosmos no Sora ni ~Suimen no Haruhi~",
+                    "ja": "ドラマCD 秋桜の空に～水面の晴姫～",
+                    "ja-latn": "Drama CD Cosmos no Sora ni ~Suimen no Haruhi~"
+                }
+            },
+            {
+                "catalog": "HBMS-023",
+                "link": "album/7934",
+                "release_date": "2005-07-29",
+                "titles": {
+                    "en": "Happiness! Character song CD Vol.1 – Haruhi Kamisaka with Yui Sakakibara",
+                    "ja": "はぴねす！ Character song CD Vol.1 神坂春姫 with 榊原ゆい 「Catch Your Dreams!!」",
+                    "ja-latn": "Happiness! Character song CD Vol.1 – Haruhi Kamisaka with Yui Sakakibara"
+                }
+            },
+            {
+                "catalog": "ZMCZ-3051",
+                "link": "album/7930",
+                "release_date": "2006-12-20",
+                "titles": {
+                    "en": "Happiness! De:Lucks Character Ending Collection Vol.I – Haruhi Kamisaka (C.V. Yui Sakakibara)",
+                    "ja": "はぴねす！でらっくす キャラクターエンディングコレクションVol.Ⅰ 神坂春姫(C.V.榊原ゆい)",
+                    "ja-latn": "Happiness! De:Lucks Character Ending Collection Vol.I – Haruhi Kamisaka (C.V. Yui Sakakibara)"
+                }
+            },
+            {
+                "catalog": "RMCD-0001",
+                "link": "album/20750",
+                "release_date": "2006-12-31",
+                "titles": {
+                    "en": "HARUHIGURASI",
+                    "ja": "はるひぐらし",
+                    "ja-latn": "HARUHIGURASI"
+                }
+            },
+            {
+                "catalog": "LACA-15005",
+                "link": "album/50797",
+                "release_date": "2010-02-24",
+                "titles": {
+                    "en": "Imaginary ENOZ featuring HARUHI",
+                    "ja": "Imaginary ENOZ featuring HARUHI",
+                    "ja-latn": "Imaginary ENOZ featuring HARUHI"
+                }
+            },
+            {
+                "catalog": "LACA-5883",
+                "link": "album/17615",
+                "release_date": "2009-03-25",
+                "titles": {
+                    "en": "SUZUMIYA HARUHI NO CHOKURETSU × SUZUMIYA HARUHI NO HEIRETSU VOCAL MINI ALBUM",
+                    "ja": "涼宮ハルヒの直列 涼宮ハルヒの並列 VOCAL MINI ALBUM",
+                    "ja-latn": "SUZUMIYA HARUHI NO CHOKURETSU × SUZUMIYA HARUHI NO HEIRETSU VOCAL MINI ALBUM"
+                }
+            },
+            {
+                "catalog": "LACA-5830",
+                "link": "album/10444",
+                "release_date": "2009-01-21",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Gekidou Vocal Mini Album",
+                    "ja": "涼宮ハルヒの激動 ボーカルミニアルバム",
+                    "ja-latn": "Suzumiya Haruhi no Gekidou Vocal Mini Album"
+                }
+            },
+            {
+                "catalog": "LACA-5920",
+                "link": "album/19029",
+                "release_date": "2009-06-24",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Gensou",
+                    "ja": "涼宮ハルヒの弦奏",
+                    "ja-latn": "Suzumiya Haruhi no Gensou"
+                }
+            },
+            {
+                "catalog": "KABA-1610",
+                "link": "album/47228",
+                "release_date": "2010-02-26",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Gensou",
+                    "ja": "涼宮ハルヒの弦奏",
+                    "ja-latn": "Suzumiya Haruhi no Gensou"
+                }
+            },
+            {
+                "catalog": "N/A",
+                "link": "album/43737",
+                "release_date": "2007-06-10",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Henkyoku",
+                    "ja": "涼宮ハルヒの編曲",
+                    "ja-latn": "Suzumiya Haruhi no Henkyoku"
+                }
+            },
+            {
+                "catalog": "LACA-5942",
+                "link": "album/49100",
+                "release_date": "2009-08-05",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Kioku",
+                    "ja": "涼宮ハルヒの記憶",
+                    "ja-latn": "Suzumiya Haruhi no Kioku"
+                }
+            },
+            {
+                "catalog": "LACA-5941",
+                "link": "album/49101",
+                "release_date": "2009-08-05",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Kiroku",
+                    "ja": "涼宮ハルヒの記録",
+                    "ja-latn": "Suzumiya Haruhi no Kiroku"
+                }
+            },
+            {
+                "catalog": "TAM3-0011",
+                "link": "album/6611",
+                "release_date": "2007-02-25",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Kyouen",
+                    "ja": "涼宮ハルヒの競演",
+                    "ja-latn": "Suzumiya Haruhi no Kyouen"
+                }
+            },
+            {
+                "catalog": "LACA-5728",
+                "link": "album/7078",
+                "release_date": "2008-01-23",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yakusoku Ending Theme",
+                    "ja": "ＰＳＰゲーム「涼宮ハルヒの約束」エンディングテーマ　世界が夢見るユメノナカ／最終未来を見せて！",
+                    "ja-latn": "Suzumiya Haruhi no Yakusoku Ending Theme: \"Sekai ga Yume miru YUME NO NAKA\" / \"Saishuu Mirai o Misete!\""
+                }
+            },
+            {
+                "catalog": "LACA-5950",
+                "link": "album/50798",
+                "release_date": "2009-08-26",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yuuutsu -Super Remix- Full-Mix",
+                    "ja": "涼宮ハルヒの憂鬱 -Super Remix- Full-Mix",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu -Super Remix- Full-Mix"
+                }
+            },
+            {
+                "catalog": "LZM-2012",
+                "link": "album/50833",
+                "release_date": "2009-08-14",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yuuutsu -Super Remix- NON STOP MEGA MIX",
+                    "ja": "涼宮ハルヒの憂鬱 -Super Remix- NON STOP MEGA MIX",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu -Super Remix- NON STOP MEGA MIX"
+                }
+            },
+            {
+                "catalog": "LACA-5523",
+                "link": "album/50793",
+                "release_date": "2006-07-05",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.1",
+                    "ja": "涼宮ハルヒの憂鬱 SOS団ラジオ支部 番外編CD Vol.1",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.1"
+                }
+            },
+            {
+                "catalog": "LACA-5556",
+                "link": "album/50794",
+                "release_date": "2006-09-21",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.2",
+                    "ja": "涼宮ハルヒの憂鬱 SOS団ラジオ支部 番外編CD Vol.2",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.2"
+                }
+            },
+            {
+                "catalog": "LACA-5584",
+                "link": "album/50795",
+                "release_date": "2006-12-21",
+                "titles": {
+                    "en": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.3",
+                    "ja": "涼宮ハルヒの憂鬱 SOS団ラジオ支部 番外編CD Vol.3",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Bangai Hen CD Vol.3"
+                }
+            },
+            {
+                "catalog": "KABA-5601-CD",
+                "link": "album/50844",
+                "release_date": "2009-05-29",
+                "titles": {
+                    "en": "Suzumiya Haruhi-chan no Yuuutsu & Nyoroon Churuya-san Special Soundtrack CD",
+                    "ja": "涼宮ハルヒちゃんの憂鬱 & にょろーんちゅるやさん 特製サウンドトラックCD",
+                    "ja-latn": "Suzumiya Haruhi-chan no Yuuutsu & Nyoroon Churuya-san Special Soundtrack CD"
+                }
+            },
+            {
+                "catalog": "LACM-4268",
+                "link": "album/30552",
+                "release_date": "2006-06-21",
+                "titles": {
+                    "en": "The Assortment of Haruhi Suzumiya ~TV Anime \"The Melancholy of Haruhi Suzumiya\" Song Collection Single~",
+                    "ja": "涼宮ハルヒの詰合 ～TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル～",
+                    "ja-latn": "Suzumiya Haruhi no Tsumeawase ~TV Anime \"Suzumiya Haruhi no Yuuutsu\" Gekichuu Kashuu Single~"
+                }
+            },
+            {
+                "catalog": "KABA-6001-DVD",
+                "link": "album/48936",
+                "release_date": "2009-08-28",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.1",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第1回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-1-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6002-DVD",
+                "link": "album/48938",
+                "release_date": "2009-09-25",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.2",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第2回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-2-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6003-DVD",
+                "link": "album/48939",
+                "release_date": "2009-10-30",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.3",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第3回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-3-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6004-DVD",
+                "link": "album/48940",
+                "release_date": "2009-11-27",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.4",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第4回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-4-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6005-DVD",
+                "link": "album/48942",
+                "release_date": "2009-12-25",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.5",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第5回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-5-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6006-DVD",
+                "link": "album/48943",
+                "release_date": "2010-01-29",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.6",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第6回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-6-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6007-DVD",
+                "link": "album/48945",
+                "release_date": "2010-02-26",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.7",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第7回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-7-Kai"
+                }
+            },
+            {
+                "catalog": "KABA-6008-DVD",
+                "link": "album/48946",
+                "release_date": "2010-03-26",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya \"SOS Dan Meikyoku Album\" Vol.8",
+                    "ja": "涼宮ハルヒの憂鬱 ｢SOS団名曲アルバム｣ 第8回",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu \"SOS Dan Meikyoku Album\" Dai-8-Kai"
+                }
+            },
+            {
+                "catalog": "20880",
+                "link": "album/32806",
+                "release_date": "2007-05-29",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya - HAREHAREYUKAI",
+                    "ja": "The Melancholy of Haruhi Suzumiya - HAREHAREYUKAI",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya - HAREHAREYUKAI"
+                }
+            },
+            {
+                "catalog": "LACM-4261",
+                "link": "album/12529",
+                "release_date": "2006-05-10",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya - HAREHAREYUKAI",
+                    "ja": "涼宮ハルヒの憂鬱 - ハレ晴レユカイ",
+                    "ja-latn": "Suzumiya Haruhi no Yuutsu - HAREHAREYUKAI"
+                }
+            },
+            {
+                "catalog": "LACA-5585",
+                "link": "album/50796",
+                "release_date": "2007-01-24",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya : Drama CD Sound Around",
+                    "ja": "涼宮ハルヒの憂鬱 ドラマCD サウンドアラウンド",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu : Drama CD Sound Around"
+                }
+            },
+            {
+                "catalog": "20882",
+                "link": "album/40139",
+                "release_date": "2007-09-25",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.1 HARUHI SUZUMIYA",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.1 HARUHI SUZUMIYA",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.1 HARUHI SUZUMIYA"
+                }
+            },
+            {
+                "catalog": "LACM-4269",
+                "link": "album/41089",
+                "release_date": "2006-07-05",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.1 HARUHI SUZUMIYA",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.1 涼宮ハルヒ",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.1 HARUHI SUZUMIYA"
+                }
+            },
+            {
+                "catalog": "20884",
+                "link": "album/41051",
+                "release_date": "2007-07-03",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.2 YUKI NAGATO",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.2 YUKI NAGATO",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.2 YUKI NAGATO"
+                }
+            },
+            {
+                "catalog": "LACM-4270",
+                "link": "album/41091",
+                "release_date": "2006-07-05",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.2 YUKI NAGATO",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.2 長門有希",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.2 YUKI NAGATO"
+                }
+            },
+            {
+                "catalog": "20885",
+                "link": "album/41052",
+                "release_date": "2007-07-03",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.3 MIKURU ASAHINA",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.3 MIKURU ASAHINA",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.3 MIKURU ASAHINA"
+                }
+            },
+            {
+                "catalog": "LACM-4271",
+                "link": "album/41092",
+                "release_date": "2006-07-05",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.3 MIKURU ASAHINA",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.3 朝比奈みくる",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.3 MIKURU ASAHINA"
+                }
+            },
+            {
+                "catalog": "20887",
+                "link": "album/41053",
+                "release_date": "2007-09-04",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.4 TSURUYA-SAN",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.4 TSURUYA-SAN",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.4 TSURUYA-SAN"
+                }
+            },
+            {
+                "catalog": "LACM-4323",
+                "link": "album/41093",
+                "release_date": "2006-12-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.4 TSURUYA-SAN",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.4 鶴屋さん",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.4 TSURUYA-SAN"
+                }
+            },
+            {
+                "catalog": "20890",
+                "link": "album/41056",
+                "release_date": "2007-11-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.5 RYOKO ASAKURA",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.5 RYOKO ASAKURA",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.5 RYOKO ASAKURA"
+                }
+            },
+            {
+                "catalog": "LACM-4324",
+                "link": "album/41121",
+                "release_date": "2006-12-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.5 RYOKO ASAKURA",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.5 朝倉涼子",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.5 RYOKO ASAKURA"
+                }
+            },
+            {
+                "catalog": "20888",
+                "link": "album/41054",
+                "release_date": "2007-09-04",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.6 KYON'S SISTER",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.6 KYON'S SISTER",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.6 KYON'S SISTER"
+                }
+            },
+            {
+                "catalog": "LACM-4341",
+                "link": "album/41122",
+                "release_date": "2007-01-24",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.6 KYON'S SISTER",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソングVol.6 キョンの妹",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.6 KYON'S SISTER"
+                }
+            },
+            {
+                "catalog": "20891",
+                "link": "album/41057",
+                "release_date": "2007-11-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.7 EMIRI KIMIDORI",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.7 EMIRI KIMIDORI",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.7 EMIRI KIMIDORI"
+                }
+            },
+            {
+                "catalog": "LACM-4342",
+                "link": "album/41124",
+                "release_date": "2007-01-24",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.7 EMIRI KIMIDORI",
+                    "ja": "涼宮ハルヒの憂鬱 キャラターソング Vol.7 喜緑江美里",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.7 EMIRI KIMIDORI"
+                }
+            },
+            {
+                "catalog": "20892",
+                "link": "album/41058",
+                "release_date": "2007-11-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.8 ITSUKI KOIZUMI",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.8 ITSUKI KOIZUMI",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.8 ITSUKI KOIZUMI"
+                }
+            },
+            {
+                "catalog": "LACM-4355",
+                "link": "album/41125",
+                "release_date": "2007-02-21",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.8 ITSUKI KOIZUMI",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.8 古泉一樹",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.8 ITSUKI KOIZUMI"
+                }
+            },
+            {
+                "catalog": "20889",
+                "link": "album/41055",
+                "release_date": "2007-09-04",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.9 KYON",
+                    "ja": "The Melancholy of Haruhi Suzumiya Character Song Vol.9 KYON",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.9 KYON"
+                }
+            },
+            {
+                "catalog": "LACM-4356",
+                "link": "album/41126",
+                "release_date": "2007-02-21",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Character Song Vol.9 KYON",
+                    "ja": "涼宮ハルヒの憂鬱 キャラクターソング Vol.9 キョン",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Character Song Vol.9 KYON"
+                }
+            },
+            {
+                "catalog": "KAXA-9805",
+                "link": "album/46641",
+                "release_date": "2014-08-29",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya First Series Blu-ray Disc BOX SOUNDTRACK",
+                    "ja": "涼宮ハルヒの憂鬱 第1期シリーズ Blu-ray Disc BOX サウンドトラック",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu Dai-1-Ki Series Blu-ray Disc BOX SOUNDTRACK"
+                }
+            },
+            {
+                "catalog": "20883",
+                "link": "album/40140",
+                "release_date": "2007-11-06",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Insert Songs Single Suzumiya Haruhi no Tsumeawase",
+                    "ja": "The Melancholy of Haruhi Suzumiya Insert Songs Single Suzumiya Haruhi no Tsumeawase",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Insert Songs Single Suzumiya Haruhi no Tsumeawase"
+                }
+            },
+            {
+                "catalog": "LACM-4650",
+                "link": "album/46259",
+                "release_date": "2009-09-30",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.1 HARUHI SUZUMIYA",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.1 涼宮ハルヒ",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.1 HARUHI SUZUMIYA"
+                }
+            },
+            {
+                "catalog": "LACM-4651",
+                "link": "album/46260",
+                "release_date": "2009-09-30",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.2 YUKI NAGATO",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.2 長門有希",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.2 YUKI NAGATO"
+                }
+            },
+            {
+                "catalog": "LACM-4652",
+                "link": "album/46261",
+                "release_date": "2009-09-30",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.3 MIKURU ASAHINA",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.3 朝比奈みくる",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.3 MIKURU ASAHINA"
+                }
+            },
+            {
+                "catalog": "LACM-4659",
+                "link": "album/46266",
+                "release_date": "2009-11-18",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.4 ITSUKI KOIZUMI",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.4 古泉一樹",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.4 ITSUKI KOIZUMI"
+                }
+            },
+            {
+                "catalog": "LACM-4660",
+                "link": "album/46267",
+                "release_date": "2009-12-09",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.5 KYON",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.5 キョン",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.5 KYON"
+                }
+            },
+            {
+                "catalog": "LACM-4668",
+                "link": "album/46269",
+                "release_date": "2009-12-09",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.6 TSURUYA-SAN",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.6 鶴屋さん",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.6 TSURUYA-SAN"
+                }
+            },
+            {
+                "catalog": "LACM-4669",
+                "link": "album/46270",
+                "release_date": "2009-12-09",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya New Character Song Vol.7 TANIGUCHI",
+                    "ja": "涼宮ハルヒの憂鬱 新キャラクターソングVol.7 谷口",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya New Character Song Vol.7 TANIGUCHI"
+                }
+            },
+            {
+                "catalog": "LACM-4316",
+                "link": "album/49108",
+                "release_date": "2006-11-22",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Radio New Opening Theme Song: Saikyou Pare Parade",
+                    "ja": "涼宮ハルヒの憂鬱 SOS団ラジオ支部OP主題歌 最強パレパレード",
+                    "ja-latn": "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu OP Shudaika: Saikyou Pare Parade"
+                }
+            },
+            {
+                "catalog": "KABA-1501-CD",
+                "link": "album/46238",
+                "release_date": "2006-06-23",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 01\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト01」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 01\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1502-CD",
+                "link": "album/46243",
+                "release_date": "2006-07-28",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 02\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト02」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 02\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1503-CD",
+                "link": "album/46245",
+                "release_date": "2006-08-25",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 03\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト03」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 03\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1504-CD",
+                "link": "album/46246",
+                "release_date": "2006-09-22",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 04\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト04」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 04\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1505-CD",
+                "link": "album/46247",
+                "release_date": "2006-10-27",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 05\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト05」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 05\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1506-CD",
+                "link": "album/46248",
+                "release_date": "2006-11-22",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 06\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト06」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 06\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1507-CD",
+                "link": "album/46254",
+                "release_date": "2006-12-22",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 07\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト07」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 07\" CD"
+                }
+            },
+            {
+                "catalog": "KABA-1508-CD",
+                "link": "album/46255",
+                "release_date": "2007-01-26",
+                "titles": {
+                    "en": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 08\" CD",
+                    "ja": "涼宮ハルヒの憂鬱 サウンドトラック&ラジオ番組「涼宮ハルヒの憂鬱 SOS団ラジオ支部 ダイジェスト08」CD",
+                    "ja-latn": "The Melancholy of Haruhi Suzumiya Soundtrack & Radio Bangumi \"Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu Digest 08\" CD"
+                }
+            },
+            {
+                "catalog": "LACM-14355",
+                "link": "album/51555",
+                "release_date": "2015-07-22",
+                "titles": {
+                    "en": "The Vanishing of Nagato Yuki chan Character Song Vol.5 / Haruhi Suzumiya (CV: Aya Hirano)",
+                    "ja": "長門有希ちゃんの消失 キャラクターソング Vol.5 / 涼宮ハルヒ(CV:平野綾)",
+                    "ja-latn": "Nagato Yuki-chan no Shoushitsu Character Song Vol.5 / Haruhi Suzumiya (CV: Aya Hirano)"
+                }
+            },
+            {
+                "catalog": "LACA-9178~9",
+                "link": "album/18076",
+                "release_date": "2010-01-27",
+                "titles": {
+                    "en": "The Vanishment of Haruhi Suzumiya Original Soundtrack",
+                    "ja": "涼宮ハルヒの消失 Original Soundtrack",
+                    "ja-latn": "Suzumiya Haruhi no Shoushitsu Original Soundtrack"
+                }
+            },
+            {
+                "catalog": "SCDC-00390",
+                "link": "album/7613",
+                "release_date": "2004-11-17",
+                "titles": {
+                    "en": "W ~Wish~ Character Mini Album 1 - Touno Senna & Inohara Haruhi",
+                    "ja": "Ｗ～ウィッシュ～　キャラクターミニアルバム１　泉菜＆春陽",
+                    "ja-latn": "W ~Wish~ Character Mini Album 1 - Touno Senna & Inohara Haruhi"
+                }
+            }
+        ],
+        "artists": [
+            {
+                "aliases": [
+                    "Hally",
+                    "Haruhisa \"hally\" Tanaka",
+                    "Haruhisa \"hally\" tanaka",
+                    "HALLY",
+                    "Hally"
+                ],
+                "link": "artist/6458",
+                "names": {
+                    "en": "hally"
+                }
+            },
+            {
+                "aliases": [
+                    "七緒はるひ"
+                ],
+                "link": "artist/15941",
+                "names": {
+                    "en": "Haruhi Nanao"
+                }
+            },
+            {
+                "aliases": [
+                    "寺田はるひ"
+                ],
+                "link": "artist/3888",
+                "names": {
+                    "en": "Haruhi Terada"
+                }
+            },
+            {
+                "aliases": [
+                    "黒岩東彦",
+                    "Haruhiko \"boot\" Kuroiwa",
+                    "Haruhiko \"Boot\" Kuroiwa"
+                ],
+                "link": "artist/1190",
+                "names": {
+                    "en": "Haruhiko Kuroiwa"
+                }
+            },
+            {
+                "aliases": [
+                    "三又治彦"
+                ],
+                "link": "artist/10620",
+                "names": {
+                    "en": "Haruhiko Mimata"
+                }
+            },
+            {
+                "aliases": [
+                    "西岡治彦"
+                ],
+                "link": "artist/2337",
+                "names": {
+                    "en": "Haruhiko Nishioka"
+                }
+            },
+            {
+                "aliases": [
+                    "宗野晴彦"
+                ],
+                "link": "artist/4786",
+                "names": {
+                    "en": "Haruhiko Souno"
+                }
+            },
+            {
+                "aliases": [
+                    "和田春彦"
+                ],
+                "link": "artist/10477",
+                "names": {
+                    "en": "Haruhiko Wada"
+                }
+            }
+        ],
+        "orgs": [],
+        "products": [
+            {
+                "aliases": [
+                    "Haruhi Suzumiya涼宮ハルヒHaruhi Suzumiya"
+                ],
+                "link": "product/1364",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "Suzumiya Haruhi no Chokuretsu涼宮ハルヒの直列Suzumiya Haruhi no Chokuretsu"
+                ],
+                "link": "product/2739",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "Suzumiya Haruhi no Gekidou涼宮ハルヒの激動Suzumiya Haruhi no Gekidou"
+                ],
+                "link": "product/2741",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "Suzumiya Haruhi no Heiretsu涼宮ハルヒの並列Suzumiya Haruhi no Heiretsu"
+                ],
+                "link": "product/2740",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "Suzumiya Haruhi no Yakusoku涼宮ハルヒの約束Suzumiya Haruhi no Yakusoku"
+                ],
+                "link": "product/2738",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu涼宮ハルヒの憂鬱 SOS団ラジオ支部Suzumiya Haruhi no Yuuutsu SOS Dan Radio Shibu"
+                ],
+                "link": "product/3172",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "The Disappearance of Haruhi Suzumiya涼宮ハルヒの消失Suzumiya Haruhi no Shoushitsu"
+                ],
+                "link": "product/1365",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "The Melancholy of Haruhi Suzumiya涼宮ハルヒの憂鬱Suzumiya Haruhi no Yuuutsu"
+                ],
+                "link": "product/1363",
+                "names": {}
+            },
+            {
+                "aliases": [
+                    "The Melancholy of Haruhi-chan Suzumiya涼宮ハルヒちゃんの憂鬱Suzumiya Haruhi-chan no Yuuutsu"
+                ],
+                "link": "product/3320",
+                "names": {}
+            }
+        ]
+    },
+    "sections": [
+        "albums",
+        "artists",
+        "orgs",
+        "products"
+    ],
+    "vgmdb_link": "http://vgmdb.net/search?q=haruhi"
+}

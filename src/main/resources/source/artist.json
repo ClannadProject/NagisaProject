@@ -1,0 +1,6288 @@
+{
+    "aliases": [
+        {
+            "names": {
+                "en": "K"
+            }
+        },
+        {
+            "names": {
+                "en": "E"
+            }
+        },
+        {
+            "names": {
+                "en": "Y"
+            }
+        }
+    ],
+    "birthdate": "1975-01-03",
+    "birthplace": "Mie, Japan",
+    "discography": [
+        {
+            "catalog": "WIC-6435",
+            "date": "1999-05-26",
+            "link": "album/4970",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Kanon Original Arrange Album \"anemoscope"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "WIC-6526",
+            "date": "1999-11-23",
+            "link": "album/4972",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "Kanon – Last regrets / Place of wind which arrives",
+                "ja": "KANON – Last regrets / 風の辿り着く場所",
+                "ja-latn": "KANON – Last Regrets / Kaze no Tadoritsuku Basho"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ICD-66001",
+            "date": "1999-12-24",
+            "link": "album/8796",
+            "roles": [
+                "Composer (as Key)",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "I've Girls Compilation 1 Regret"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ICD-66002",
+            "date": "2000-07-14",
+            "link": "album/8795",
+            "roles": [
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "I've Girls Compilation 2 Verge"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KYCD-0303",
+            "date": "2000-07-28",
+            "link": "album/1785",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Ornithopter -AIR Original Compilation Album-"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "EXRC-0004",
+            "date": "2000-08-10",
+            "link": "album/4969",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dousei & MOON. Original Soundtracks",
+                "ja": "同棲 & MOON. オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0001",
+            "date": "2001-08-10",
+            "link": "album/283",
+            "roles": [
+                "Lyricist (also as KEY)"
+            ],
+            "titles": {
+                "en": "WORK-S / Humanity…"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0002",
+            "date": "2001-08-10",
+            "link": "album/284",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Natukage / nostalgia",
+                "ja": "KEY + LIA Natukage / nostalgia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0003",
+            "date": "2001-12-29",
+            "link": "album/285",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Kanon Arrange Best Album \"recollections"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0004~5",
+            "date": "2002-08-09",
+            "link": "album/287",
+            "roles": [
+                "Composer (as KEY)",
+                "Arranger (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0006",
+            "date": "2002-10-25",
+            "link": "album/543",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "Kanon ORIGINAL SOUNDTRACK",
+                "ja": "カノン オリジナル サウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0007",
+            "date": "2002-12-28",
+            "link": "album/545",
+            "roles": [
+                "Composer (as Key)",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Birthday Song,Requiem"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0008",
+            "date": "2003-08-15",
+            "link": "album/547",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Spica / Hanabi / Moon"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0010",
+            "date": "2003-12-28",
+            "link": "album/549",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Kanon AIR Piano Arrange Album Re-feel"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0011",
+            "date": "2004-04-28",
+            "link": "album/551",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "date": "2004-08-13",
+            "link": "album/555",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0016~7",
+            "date": "2004-12-28",
+            "link": "album/1183",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD remix album -memento-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0015",
+            "date": "2004-12-29",
+            "link": "album/1182",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo Append",
+                "ja": "CLANNADイメージボーカルアルバム - ソララドアペンド"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0018",
+            "date": "2005-08-12",
+            "link": "album/1184",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEY Compilation Mini Album \"Ma-Na"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0019",
+            "date": "2005-08-31",
+            "link": "album/1185",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Love Song"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0020",
+            "date": "2005-11-25",
+            "link": "album/1186",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tomoyo After Original SoundTrack",
+                "ja": "智代アフター Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0021",
+            "date": "2005-12-29",
+            "link": "album/1187",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD / Tomoyo After Piano Arrange Album \"Piano no Mori",
+                "ja": "～CLANNAD/Tomoyo After Piano Arrange Album～ ピアノの森"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0022",
+            "date": "2006-05-03",
+            "link": "album/1188",
+            "roles": [
+                "Composer (as KEY)",
+                "Arranger (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Analogue Collector's Edition – Tori no Uta / Farewell song"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0023~4",
+            "date": "2006-06-23",
+            "link": "album/1249",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0026",
+            "date": "2006-12-28",
+            "link": "album/4103",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Kanon – Last Regrets / Kaze no Tadoritsuku Basho",
+                "ja": "Last regrets ／ 風の辿り着く場所"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0028",
+            "date": "2007-05-25",
+            "link": "album/4684",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters!",
+                "ja": "リトルバスターズ！"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0032",
+            "date": "2007-07-27",
+            "link": "album/5131",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters! Original Arrange Album \"semicrystalline"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "PCCA-90029",
+            "date": "2007-09-19",
+            "link": "album/13529",
+            "roles": [
+                "Composer",
+                "Lyricist (also as Key)"
+            ],
+            "titles": {
+                "en": "Lia*COLLECTION ALBUM Vol.1 Diamond Days"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0033~5",
+            "date": "2007-09-28",
+            "link": "album/4683",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! Original Soundtrack",
+                "ja": "リトルバスターズ！ オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0036",
+            "date": "2007-10-26",
+            "link": "album/5046",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD – Mag Mell / Dango Daikazoku",
+                "ja": "クラナド オープニング&エンディングテーマ　メグメル / だんご大家族"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "FCCM-0198",
+            "date": "2007-11-21",
+            "link": "album/19888",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "CLANNAD The Movie SOUNDTRACK",
+                "ja": "劇場版『CLANNAD -クラナド-』SOUNDTRACK"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "RHCD-0004",
+            "date": "2007-12-12",
+            "link": "album/13925",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "PreFre! -the Precious Friends-",
+                "ja": "ぷれふれっ！ -the Precious Friends-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0037",
+            "date": "2007-12-29",
+            "link": "album/6230",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters! Arrange Album \"Rockstar Busters!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0038",
+            "date": "2007-12-29",
+            "link": "album/6231",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! Character Song ~Rin~ \"Rin no Hisoka na Koi no Uta / Mission:Love sniper",
+                "ja": "リトルバスターズ キャラクターソング～鈴～ 「鈴の密かな恋の唄／Mission:Love sniper」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MJCD-23038",
+            "date": "2008-01-30",
+            "link": "album/23175",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "doll / human"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0039~40",
+            "date": "2008-02-29",
+            "link": "album/7097",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MJCD-20117",
+            "date": "2008-04-23",
+            "link": "album/25455",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "GUNSLINGER GIRL -IL TEATRINO- ORIGINAL SOUNDTRACKS",
+                "ja": "ガンスリンガー・ガール イル・テアトリーノ オリジナル・サウンドトラック"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "MJCD-20120",
+            "date": "2008-04-23",
+            "link": "album/25449",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "GUNSLINGER GIRL -IL TEATRINO- VOCAL ALBUM",
+                "ja": "ガンスリンガー・ガール -イル・テアトリーノ- ヴォーカルアルバム"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0041",
+            "date": "2008-05-04",
+            "link": "album/7906",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! Analog Collector's Edition",
+                "ja": "リトルバスターズ！ アナログ盤"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0001~2",
+            "date": "2008-05-10",
+            "link": "album/8687",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "KSL LIVE WORLD 2008 Pamphlet and Memorial Disc"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0042",
+            "date": "2008-07-25",
+            "link": "album/9655",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters!-EX Arrange Album \"ontology"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "RMCD-0001",
+            "date": "2008-07-25",
+            "link": "album/9683",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "5 -Five- Maxi Single \"Kaze no Kotowari / Eien",
+                "ja": "5-ファイブ- 初回特典マキシシングル 「風の理／永遠」"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "MRCD0808",
+            "date": "2008-07-31",
+            "link": "album/10114",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Marron Vocal Collection",
+                "ja": "Marron ボーカルコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0043",
+            "date": "2008-08-15",
+            "link": "album/9653",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! Ecstasy Tracks",
+                "ja": "リトルバスターズ！エクスタシートラックス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0044",
+            "date": "2008-11-14",
+            "link": "album/10777",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH",
+                "ja": "時を刻む唄／TORCH"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "date": "2008-12-28",
+            "link": "album/11557",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0003",
+            "date": "2008-12-28",
+            "link": "album/11549",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\" -Piano Arrange Disc-",
+                "ja": "時を刻む唄／TORCH -Piano Arrange Disc-"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "QLCD-0015",
+            "date": "2009-02-25",
+            "link": "album/12400",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Place Where Wishes Come True ~Vocal&Harmony version~ / Veil ∞ Aoi",
+                "ja": "願いが叶う場所 ～Vocal&Harmony version～ ゲーム・TVアニメ「CLANNAD」 BGMヴォーカル化"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0047",
+            "date": "2009-02-28",
+            "link": "album/12301",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters!-EX Character Song ~Saya~ \"Saya no Nemureru Requiem / Saya's Song",
+                "ja": "リトルバスターズ エクスタシー キャラクターソング～沙耶～ 「沙耶の眠れるレクイエム／Saya's Song」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SRL-1003",
+            "date": "2009-06-05",
+            "link": "album/13756",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Angel Book vol.01"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "RMCD-09071~3",
+            "date": "2009-07-24",
+            "link": "album/13889",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "5 -Five- Sound Album \"yukar",
+                "ja": "yukar -ユーカラ-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "YUKAR-APOLOGY",
+            "date": "2009-08",
+            "link": "album/21349",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "5 Sound Album \"yukar\" APOLOGY DISC",
+                "ja": "5 サウンドアルバム「yukar～ユーカラ～」 APOLOGY DISC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-08-14",
+            "link": "album/14998",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Time Leap Paradise Vocal Sound Collection Complete BOX",
+                "ja": "タイムリープぱらだいす ボーカル・サウンドコレクション コンプリートBOX"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLCD-0019",
+            "date": "2009-08-15",
+            "link": "album/15102",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Veil ∞ DENPA!!!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0050",
+            "date": "2009-12-29",
+            "link": "album/16759",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters!-EX Character Song ~Sasami~ \"Neko to Garasu to Marui Tsuki / Alicemagic ~Aroma Tablet mix~",
+                "ja": "リトルバスターズ！エクスタシー キャラクターソング～佐々美～ 「猫と硝子と円い月 / Alicemagic ～Aroma Table mix～」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VA-C77-0001",
+            "date": "2009-12-29",
+            "link": "album/16761",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "VA Compilation CD Vol.1 \"Panorama"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDSD-00357",
+            "date": "2010-04-14",
+            "link": "album/17836",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Leading Harmony / Haruka Shimotsuki",
+                "ja": "導きのハーモニー / 霜月はるか",
+                "ja-latn": "Michibiki no Harmony / Haruka Shimotsuki"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0051",
+            "date": "2010-04-23",
+            "link": "album/18988",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Crow Song / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0052",
+            "date": "2010-05-12",
+            "link": "album/19235",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Thousand Enemies / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0008",
+            "date": "2010-05-21",
+            "link": "album/48974",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "KSL Live World 2010 Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0053",
+            "date": "2010-05-26",
+            "link": "album/19457",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "My Soul, Your Beats! / Brave Song [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0054",
+            "date": "2010-05-26",
+            "link": "album/19731",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "My Soul, Your Beats! / Brave Song"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0055",
+            "date": "2010-06-09",
+            "link": "album/19678",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Braver / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZB-6402",
+            "date": "2010-06-22",
+            "link": "album/45765",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Operation Sokuseki Short Drama CD",
+                "ja": "オペレーション・即席ショートドラマCD"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0058",
+            "date": "2010-06-30",
+            "link": "album/20060",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Keep The Beats! / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0059~60",
+            "date": "2010-07-28",
+            "link": "album/19312",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Angel Beats! ORIGINAL SOUNDTRACK",
+                "ja": "TVアニメ「Angel Beats!」オリジナルサウンドトラック"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7721~2",
+            "date": "2010-07-28",
+            "link": "album/21579",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Girls Dead Monster OFFICIAL BAND SCORE \"Keep The Beats!"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0009",
+            "date": "2010-08-02",
+            "link": "album/49035",
+            "roles": [
+                "Composer",
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Girls Dead Monster Starring LiSA Tour 2010 -Keep The Angel Beats!- Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ANZX-6408",
+            "date": "2010-09-22",
+            "link": "album/45768",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Operation Angel Beats! NG Taishou",
+                "ja": "オペレーション・Angel Beats! NG大賞"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ANZX-6412",
+            "date": "2010-11-24",
+            "link": "album/45771",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Operation Angel Beats! Second Season",
+                "ja": "オペレーション・Angel Beats! セカンドシーズン"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0064",
+            "date": "2010-12-08",
+            "link": "album/21577",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Last Song / Girls Dead Monster starring marina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0065",
+            "date": "2010-12-08",
+            "link": "album/21578",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Ichiban no Takaramono ~Yui final ver.~ / Girls Dead Monster starring LiSA [Limited Edition]",
+                "ja": "一番の宝物 ~Yui final ver.~ / Girls Dead Monster starring LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "VICL-63701~2",
+            "date": "2011-05-04",
+            "link": "album/39778",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Chords \\ bermei.inazawa collection"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0068",
+            "date": "2011-05-27",
+            "link": "album/25336",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Deejay Busters!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0071",
+            "date": "2011-06-24",
+            "link": "album/25395",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Key+Lia Best 2001-2010"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0073~5",
+            "date": "2011-10-28",
+            "link": "album/27623",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rewrite ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "FJCD-0001",
+            "date": "2011-12-29",
+            "link": "album/30398",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Killer Song / Jun Maeda × yanaginagi"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0076",
+            "date": "2011-12-29",
+            "link": "album/30329",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Rewrite Arrangement Album Branch"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "QLCD-0023~4",
+            "date": "2011-12-29",
+            "link": "album/30756",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "IA/00"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VQCD-0003",
+            "date": "2011-12-29",
+            "link": "album/30357",
+            "roles": [
+                "Composer (also as KEY)"
+            ],
+            "titles": {
+                "en": "HoKey PoKey -Key Cover Song Collection-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VA-C81-0001",
+            "date": "2011-12-31",
+            "link": "album/32844",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "VA Compilation CD Vol.3 Panorama"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SVWC-7828",
+            "date": "2012-02-22",
+            "link": "album/31035",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "LOVER“S”MiLE / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "FJMC-0002",
+            "date": "2012-04-25",
+            "link": "album/31871",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Owari no Hoshi no Love Song / Jun Maeda × yanaginagi [Limited Edition]",
+                "ja": "終わりの惑星のLove Song / 麻枝准×やなぎなぎ"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "FJMC-0003",
+            "date": "2012-04-25",
+            "link": "album/31872",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Owari no Hoshi no Love Song / Jun Maeda × yanaginagi",
+                "ja": "終わりの惑星のLove Song / 麻枝准×やなぎなぎ"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "MHCL-2054~5",
+            "date": "2012-04-25",
+            "link": "album/32632",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "IA/01 -BIRTH-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0012",
+            "date": "2012-07-29",
+            "link": "album/34363",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Shiawase ni Naru Ban",
+                "ja": "幸せになる番"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ICD-66032",
+            "date": "2012-08-31",
+            "link": "album/35654",
+            "roles": [
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "I've GIRL'S COMPILATION 8 LEVEL OCTAVE",
+                "ja": "I've GIRL's COMPILATION 8 『 LEVEL OCTAVE 』"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0082~3",
+            "date": "2012-10-24",
+            "link": "album/34809",
+            "roles": [
+                "Lyricist (also as Key)"
+            ],
+            "titles": {
+                "en": "circle of fifth"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0087",
+            "date": "2012-10-31",
+            "link": "album/35221",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters!/Alicemagic ~TV animation ver.~ [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0088",
+            "date": "2012-10-31",
+            "link": "album/35220",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters!/Alicemagic ~TV animation ver.~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "date": "2012-12-29",
+            "link": "album/36702",
+            "roles": [
+                "Composer (also as Key)",
+                "Lyricist (also as Key)"
+            ],
+            "titles": {
+                "en": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0089",
+            "date": "2013-04-26",
+            "link": "album/38171",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters! / Kud Wafter Piano Arrange Album \"ripresa",
+                "ja": "リトルバスターズ！/クドわふたー Piano Arrange Album “ripresa”"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0092",
+            "date": "2013-10-23",
+            "link": "album/41396",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Boys be Smile/Mezameta Asa ni wa Kimi ga Tonari ni / Suzuyu",
+                "ja": "Boys be Smile/目覚めた朝にはきみが隣に / 鈴湯"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0094",
+            "date": "2013-12-29",
+            "link": "album/43003",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! ~Refrain~ Original SoundTrack",
+                "ja": "リトルバスターズ！ ～Refrain～ Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-02-18",
+            "link": "album/45150",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0095~6",
+            "date": "2014-04-29",
+            "link": "album/45324",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! PERFECT Vocal Collection",
+                "ja": "リトルバスターズ！ パーフェクトボーカルコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0098",
+            "date": "2014-12-28",
+            "link": "album/49567",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "rare tracks / Girls Dead Monster"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLM-0099",
+            "date": "2015-04-01",
+            "link": "album/50856",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Heartily Song / Lia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MJSA-01162~3",
+            "date": "2015-04-29",
+            "link": "album/51197",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "GUNSLINGER GIRL -IL TEATRINO- ORIGINAL SOUNDTRACKS+SONORO: Kabe no Mukou, Sekai no Hate",
+                "ja": "ガンスリンガー・ガール イル・テアトリーノ オリジナル・サウンドトラック+SONORO 『壁の向こう、世界の果て』"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2015-05-29",
+            "link": "album/49938",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Million Star / Girls Dead Monster"
+            },
+            "type": "bonus"
+        }
+    ],
+    "featured_on": [
+        {
+            "catalog": "HYBR-002",
+            "date": "1999-08-13",
+            "link": "album/25953",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "real season"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WDCD-0013",
+            "date": "1999-08-13",
+            "link": "album/16389",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Moment"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0004",
+            "date": "1999-08-15",
+            "link": "album/9879",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "KEY & Tactics Arrange Music Album \"Quality Season"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0005",
+            "date": "1999-10-11",
+            "link": "album/9880",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "KEY Arrange Music Album \"Reminiscence"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ESTP-0001",
+            "date": "1999-12-24",
+            "link": "album/27372",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "forget me not"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-001",
+            "date": "1999-12-24",
+            "link": "album/6962",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Conceit Orbit"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000",
+            "link": "album/13996",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Blue Skies -Real Blue MIX-",
+                "ja": "青空 -Real Blue MIX-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LTP2-0002",
+            "date": "2000",
+            "link": "album/6572",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Experience"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MGRV-0001",
+            "date": "2000-02-27",
+            "link": "album/20850",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Tsubasa no Mukou",
+                "ja": "翼の向こう"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRRS-0002",
+            "date": "2000-04-23",
+            "link": "album/10998",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Entreaty"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HYMR-001",
+            "date": "2000-05-14",
+            "link": "album/25955",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "White Wind -Real Season 2-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CNM-005",
+            "date": "2000-08-10",
+            "link": "album/27638",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Second Creation2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0008",
+            "date": "2000-08-11",
+            "link": "album/9883",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Natsu no Kirameki ~ Kanon Piano Arrange",
+                "ja": "なつのきらめき かのん ぴあのあれんじ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HTCD-0002",
+            "date": "2000-08-12",
+            "link": "album/17530",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Free Style"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MSCD-0002",
+            "date": "2000-08-12",
+            "link": "album/17180",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "respect",
+                "ja": "Yes,I've!\" Fan Album Project Vol.1 \"respect"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WDCD-0015",
+            "date": "2000-08-12",
+            "link": "album/30590",
+            "roles": [
+                "Composer (also as KEY)"
+            ],
+            "titles": {
+                "en": "Da Capo",
+                "ja": "ダ・カーポ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-002",
+            "date": "2000-08-12",
+            "link": "album/8923",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "TurnR"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ITM-001",
+            "date": "2000-09",
+            "link": "album/49792",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Wind of Legend"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000-09-17",
+            "link": "album/27639",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Second Creation2 LE"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "APL-002A",
+            "date": "2000-10-22",
+            "link": "album/28635",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tenshi no Oshigoto -their wishes afterward- Final Edition.",
+                "ja": "天使のお仕事 -their wishes afterward- Final Edition."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DCMA-0001",
+            "date": "2000-10-22",
+            "link": "album/26300",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Porta Fortuna"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0009",
+            "date": "2000-10-22",
+            "link": "album/9884",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "KEY Arrange Music Album \"Fine Sky"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000-10-29",
+            "link": "album/27642",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Second Revolution2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GMLS-0002",
+            "date": "2000-10-29",
+            "link": "album/28315",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kanon Special - BEST SOUND of GameMusicLibrary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPKN-0001",
+            "date": "2000-11-05",
+            "link": "album/12502",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "blanket of snow"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRRS-0005",
+            "date": "2000-11-05",
+            "link": "album/11002",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perpetual Snow",
+                "ja": "Kanomix3\" Kanon Arrange Maxi Single"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000-12-30",
+            "link": "album/16660",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "R de Gomen! COMIKET59 ~With Heart V Preview Version~",
+                "ja": "Rでゴメン！ COMIKET59 ～With Heart V Preview Version～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000-12-30",
+            "link": "album/18638",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Special issue of Girl-Game \"B.L.T.",
+                "ja": "ギャルゲー増刊\"B.L.T.",
+                "ja-latn": "Galge Zoukan \"B.L.T."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2000-12-30",
+            "link": "album/33630",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Home"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AMS-CD003",
+            "date": "2000-12-30",
+            "link": "album/13978",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AMS Arrange SoundTrack of Favorite Games \"just as one likes"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CHLG-0104",
+            "date": "2000-12-30",
+            "link": "album/29804",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION -AIR- Aozora no Suzu",
+                "ja": "PERFECT SELECTION -AIR- 青空の鈴"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPNL-0001",
+            "date": "2000-12-30",
+            "link": "album/25957",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "inherit the memory"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0001",
+            "date": "2000-12-30",
+            "link": "album/11863",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Arranged Album \"AIRiness"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "JVAL-0002",
+            "date": "2000-12-30",
+            "link": "album/25911",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Remember Me"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KZCD-0001",
+            "date": "2000-12-30",
+            "link": "album/33613",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Variant Leaves"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MSCD-0003",
+            "date": "2000-12-30",
+            "link": "album/17215",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "dedicate",
+                "ja": "Yes,I've!\" Fan Album Project Vol.2 dedicate"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MSCD-0005",
+            "date": "2000-12-30",
+            "link": "album/17258",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "tribute",
+                "ja": "Yes,I've!\" Fan Album Project Ver2.55 tribute"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLFX-0020",
+            "date": "2000-12-30",
+            "link": "album/14674",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Plume",
+                "ja": "Plume ~set me free, from far distance...~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRRS-0007",
+            "date": "2000-12-30",
+            "link": "album/6239",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Cielo",
+                "ja": "Cielo \"Aire-01\" AIR Arrange Maxi Single Series"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2001",
+            "link": "album/27391",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "up in the AIR"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "JAP-0064",
+            "date": "2001",
+            "link": "album/35969",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Sleep"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRLD-01",
+            "date": "2001",
+            "link": "album/6575",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pre-Lude"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2001-01-21",
+            "link": "album/27661",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Songs"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LMCD-0001",
+            "date": "2001-02-12",
+            "link": "album/22279",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BPM130OVER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DCMA-0002",
+            "date": "2001-03-18",
+            "link": "album/26301",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Adorazione"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MGCD-0002",
+            "date": "2001-03-31",
+            "link": "album/13392",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Piano de Kanon"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TPCD-0004",
+            "date": "2001-04-01",
+            "link": "album/6214",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Innocent Atrium"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRRA-0001",
+            "date": "2001-04-30",
+            "link": "album/11007",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "White Vision"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PT-0001",
+            "date": "2001-05-13",
+            "link": "album/16144",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Passing Works"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ITM-003",
+            "date": "2001-06-24",
+            "link": "album/35788",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Oyoge! Taiyaki Uguu: Kanon Hard Arrange Hajimemashita.",
+                "ja": "泳げ！鯛焼きうぐぅ かのん ハードアレンジ始めました。"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOUNDO-01",
+            "date": "2001-07-08",
+            "link": "album/9044",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR EuroRemix"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MGRV-0002",
+            "date": "2001-07-20",
+            "link": "album/20851",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Ashikaze to Natta Junpaku no Hane ga, Kokuyoku ni Dakare Sora o Mau",
+                "ja": "桎(あしかせ)となった純白の羽根が　黒翼に抱かれ空を舞う"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPKN-0002",
+            "date": "2001-07-20",
+            "link": "album/12503",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "sea of clouds"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TPCD-0006",
+            "date": "2001-07-20",
+            "link": "album/6216",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Stake-out Prison"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2001-08-10",
+            "link": "album/49149",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "HAMMERKLAVIER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CGMA-001",
+            "date": "2001-08-10",
+            "link": "album/44317",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Atmosphere"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPNL-0002",
+            "date": "2001-08-10",
+            "link": "album/25959",
+            "roles": [
+                "Composer (as Key)",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "Brightness Falls From The Air",
+                "ja": "かがやくもの天より堕ち",
+                "ja-latn": "Kagayaku Mono Ten yori Ochi"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0003",
+            "date": "2001-08-10",
+            "link": "album/9045",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Arranged Album \"AIRiness Replice"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GMLS-0004",
+            "date": "2001-08-10",
+            "link": "album/7176",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIRness - BEST SOUND of GameMusicLibrary Special"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HYMR-002",
+            "date": "2001-08-10",
+            "link": "album/25956",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Earth Like -AIR arrange album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "JDOK-0003",
+            "date": "2001-08-10",
+            "link": "album/43800",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Licht und Schatten"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCA-0004",
+            "date": "2001-08-10",
+            "link": "album/35787",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Natsuyume Summer Dream",
+                "ja": "夏夢 Summer Dream"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MSCD-0006",
+            "date": "2001-08-10",
+            "link": "album/17259",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "various",
+                "ja": "Yes,I've!\" Fan Album Project Vol.3  \"various"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNCD-0001",
+            "date": "2001-08-10",
+            "link": "album/35251",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "FARAWAY"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0010",
+            "date": "2001-08-10",
+            "link": "album/9885",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "Key Arrange & Original Vocal Album \"Songbirds"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-003",
+            "date": "2001-08-10",
+            "link": "album/8924",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AEON"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRRS-0010",
+            "date": "2001-08-12",
+            "link": "album/6240",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Estrelia",
+                "ja": "Estrelia \"Aire-02\" AIR Arrange Maxi Single Series"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PGCD01",
+            "date": "2001-08-31",
+            "link": "album/29769",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Innocent Scene"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CHOM-0011",
+            "date": "2001-09-16",
+            "link": "album/35786",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shinkokyuu breathe in the air",
+                "ja": "深呼吸 breathe in the air"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0029",
+            "date": "2001-09-16",
+            "link": "album/13060",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Air in ooedo Express mail Special CD 2001",
+                "ja": "あぃ～ん ooedo Express mail Special CD 2001"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-004",
+            "date": "2001-09-23",
+            "link": "album/8927",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Conceit Orbit ~Ruled ver.~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MLCD-0001",
+            "date": "2001-10-11",
+            "link": "album/9916",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "ciel etoile"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2001-10-28",
+            "link": "album/44319",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Atmosphere."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ITM-004",
+            "date": "2001-11-01",
+            "link": "album/49794",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Night Wind"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DZCD-0001",
+            "date": "2001-12-29",
+            "link": "album/32268",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Plumage"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2001-12-30",
+            "link": "album/40064",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONZETSUCHU",
+                "ja": "悶絶中-MONZETSUCHU-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AKHT-0001",
+            "date": "2001-12-30",
+            "link": "album/3187",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key Metal",
+                "ja": "鍵METAL"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CCCD-0001",
+            "date": "2001-12-30",
+            "link": "album/4277",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Beat Key",
+                "ja": "Beat鍵"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ESTR-0005",
+            "date": "2001-12-30",
+            "link": "album/27389",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Atmosphere"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCA-005",
+            "date": "2001-12-30",
+            "link": "album/43947",
+            "roles": [
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Tsubasa",
+                "ja": "翼"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LMCD-0003",
+            "date": "2001-12-30",
+            "link": "album/22281",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BPM130over Special",
+                "ja": "BPM130overすぺしゃる"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MSCD-0007",
+            "date": "2001-12-30",
+            "link": "album/17276",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "possibility",
+                "ja": "Yes,I've!\" Fan Album Project Ver3.51 \"possibility"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NPA-CD009",
+            "date": "2001-12-30",
+            "link": "album/16330",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Key Mode Premium CD Vol.9",
+                "ja": "Key Mode プレミアムCD Vol.9"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0011",
+            "date": "2001-12-30",
+            "link": "album/9887",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Unchiku Company Best Selection \"Fuyu no Omoide",
+                "ja": "UnchikuCompany BestSelection ふゆのおもいで"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "URCD-0003",
+            "date": "2001-12-30",
+            "link": "album/33805",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIRISM SYNDROME"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-1001",
+            "date": "2002-03-08",
+            "link": "album/49636",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "RESOUND WAV. Compilation",
+                "ja": "総集編"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TPCD-0010",
+            "date": "2002-03-24",
+            "link": "album/6222",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Occupation RED"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NTPM-001",
+            "date": "2002-04-14",
+            "link": "album/41192",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "White Wish"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0045",
+            "date": "2002-04-28",
+            "link": "album/49469",
+            "roles": [
+                "Composer (as key)"
+            ],
+            "titles": {
+                "en": "MOTOMACHI-KANNON",
+                "ja": "元町観音"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPKN-0003",
+            "date": "2002-04-28",
+            "link": "album/12504",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "heart of heaven"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2002-04-29",
+            "link": "album/13994",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "aristocrate Remix Tracks 2 \"Chronicle Wave"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KME-0002",
+            "date": "2002-05-12",
+            "link": "album/7819",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "HOPE -AIR Arrange Album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NTPM-002",
+            "date": "2002-06-16",
+            "link": "album/41193",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Wing Beat-XE-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PSGM-0001~2",
+            "date": "2002-06-16",
+            "link": "album/16404",
+            "roles": [
+                "Composer (as KEY)",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "Key Reality"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SS-002",
+            "date": "2002-06-16",
+            "link": "album/17957",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "AIRRADE ORIGINAL SOUND TRACK",
+                "ja": "エアレイド オリジナルサウンドトラック"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2002-06-30",
+            "link": "album/17321",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "tribute+",
+                "ja": "Yes,I've!\" Fan Album Project Ver2.7 \"tribute+"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DKCS-1003",
+            "date": "2002-06-30",
+            "link": "album/35785",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Misuzu-chin no Oto Nikki!!",
+                "ja": "みすずちんの音日記！！"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0003",
+            "date": "2002-06-30",
+            "link": "album/49633",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLEAR"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2002-08-11",
+            "link": "album/40109",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MUJIRUSI RYOUHIN",
+                "ja": "無印涼品-MUJIRUSI RYOUHIN-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT-0001",
+            "date": "2002-08-11",
+            "link": "album/6797",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Key Techno",
+                "ja": "鍵テクノ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GMLA-0001",
+            "date": "2002-08-11",
+            "link": "album/11717",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "MATERIALISE FULLMOON"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LWBL-0001",
+            "date": "2002-08-11",
+            "link": "album/6376",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "B·INFINITY: Boys Character Only Image Arrangement Album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NTPM-003",
+            "date": "2002-08-11",
+            "link": "album/41191",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Wing Beat"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2002-12-30",
+            "link": "album/15106",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "U-Key Mix II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CSCD-0202",
+            "date": "2002-12-30",
+            "link": "album/9934",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "CS.U/KEY"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DMC-0001",
+            "date": "2002-12-30",
+            "link": "album/13088",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "White and Blue"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KZCD-0003",
+            "date": "2002-12-30",
+            "link": "album/33608",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Outer Limits"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LMCD-0004",
+            "date": "2002-12-30",
+            "link": "album/22282",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BPM130over Vol.3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NAMA-0001",
+            "date": "2002-12-30",
+            "link": "album/33803",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "acoustic guitar de \"air"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NPA-BSF05",
+            "date": "2002-12-30",
+            "link": "album/14584",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "nepi besu",
+                "ja": "ねぴベス"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NTPM-004",
+            "date": "2002-12-30",
+            "link": "album/41294",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CASTALIA 02 -Dance Compilation Arrange CD-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0014",
+            "date": "2002-12-30",
+            "link": "album/9892",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Soukyuu Yasou ~Tsukihime • Key Piano Arrange Album~",
+                "ja": "蒼穹夜想 ～月姫・Keyピアノアレンジアルバム～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0007",
+            "date": "2003-03-16",
+            "link": "album/6433",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "AirAria AIR Arrangement sound track"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AMCD-3",
+            "date": "2003-04-29",
+            "link": "album/48622",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pianist."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0015",
+            "date": "2003-04-29",
+            "link": "album/11762",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Piacere"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTCD-0002",
+            "date": "2003-05-04",
+            "link": "album/19213",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Keycore",
+                "ja": "鍵コア"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0008",
+            "date": "2003-06-15",
+            "link": "album/19285",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "pf II - The piano which plays memory: Arrangement section"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GT-003",
+            "date": "2003-08-17",
+            "link": "album/40110",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "-SETSUGETSUKA- with NYO",
+                "ja": "雪月崋-SETSUGETSUKA- with にょ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HKMP-OTO06",
+            "date": "2003-08-17",
+            "link": "album/12563",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kanon Family Computer Arrange",
+                "ja": "Ｋａｎｏｎファミコンアレンジ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LMCD-0006",
+            "date": "2003-08-17",
+            "link": "album/22380",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BPM130overFinal"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1003",
+            "date": "2003-08-17",
+            "link": "album/15108",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VOCALIZM2 -Love&Feelings-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-009",
+            "date": "2003-08-17",
+            "link": "album/8940",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "VAGUE2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0001",
+            "date": "2003-10-13",
+            "link": "album/12999",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Night Stream"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HKMP-OTO07",
+            "date": "2003-12-28",
+            "link": "album/12562",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "AIR Family Computer Arrange",
+                "ja": "ＡＩＲファミコンアレンジ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0001",
+            "date": "2003-12-30",
+            "link": "album/29271",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Healing"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0002",
+            "date": "2003-12-30",
+            "link": "album/29272",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Evergreen"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ARCD0001",
+            "date": "2003-12-30",
+            "link": "album/5819",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The regret of stars, but stars shine bright."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0001",
+            "date": "2003-12-30",
+            "link": "album/11589",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TECHNO BEAT's"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MBCD-0002",
+            "date": "2003-12-30",
+            "link": "album/9918",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "snow in my heart"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1004",
+            "date": "2003-12-30",
+            "link": "album/15112",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VOCALIZM3 -World&Life-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0002",
+            "date": "2004-05-02",
+            "link": "album/13000",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Melting Snow",
+                "ja": "ゆきどけ",
+                "ja-latn": "Yukidoke"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0002",
+            "date": "2004-05-27",
+            "link": "album/8955",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0003",
+            "date": "2004-08-13",
+            "link": "album/33971",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Spread Colors"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2004-08-15",
+            "link": "album/36983",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Irisphere"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0003",
+            "date": "2004-08-15",
+            "link": "album/5844",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kizuna (CLANNAD Arrange Album)",
+                "ja": "絆-kizuna- (CLANNAD-クラナド- アレンジ アルバム)",
+                "ja-latn": "Kizuna"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ARCD0003",
+            "date": "2004-08-15",
+            "link": "album/16245",
+            "roles": [
+                "Composer (as Key)",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "Minna no Moe Uta",
+                "ja": "みんなの萌うた"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0003",
+            "date": "2004-08-15",
+            "link": "album/11591",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Oto no Matsuri -Festival of Sound-",
+                "ja": "音の祭 -Festival of Sound-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GT-004",
+            "date": "2004-08-15",
+            "link": "album/16257",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shinkirou",
+                "ja": "深綺楼 -Shinkirou-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HWFL-0010",
+            "date": "2004-08-15",
+            "link": "album/29580",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fragile"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPSR-0001",
+            "date": "2004-08-15",
+            "link": "album/13614",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GO FOR IT!!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0011",
+            "date": "2004-08-15",
+            "link": "album/5310",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD – The sound story of impression I"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD09",
+            "date": "2004-08-15",
+            "link": "album/28930",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "CLANNAD ARRANGE ALBUM ''relation''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0007",
+            "date": "2004-08-15",
+            "link": "album/20804",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CMAMOTO",
+                "ja": "クマモト"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0001",
+            "date": "2004-08-25",
+            "link": "album/1382",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "1st GIG #Awake"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WPLD-0000",
+            "date": "2004-09-19",
+            "link": "album/13366",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Setsugekka",
+                "ja": "雪月花"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0003",
+            "date": "2004-10-09",
+            "link": "album/13001",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Junger Schnee",
+                "ja": "Junger Schnee ～ユンガーシュネー～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0021",
+            "date": "2004-10-11",
+            "link": "album/11769",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Piano Arrange Album \"Kou-Tan-Ei",
+                "ja": "降誕詠"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RYTH-0003",
+            "date": "2004-11-13",
+            "link": "album/5685",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "DIARY -CLANNAD Arrange ALBUM-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0003",
+            "date": "2004-12-20",
+            "link": "album/8238",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY PART. II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0012",
+            "date": "2004-12-29",
+            "link": "album/5313",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD – The sound story of impression II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2004-12-30",
+            "link": "album/15133",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears- Tentative CDR Version",
+                "ja": "VOCALIZM5 -Lovers & Tears- 暫定CDR版",
+                "ja-latn": "VOCALIZM5 -Lovers & Tears- Zantei CDR-ban"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ADSH-014",
+            "date": "2004-12-30",
+            "link": "album/10084",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "CLANNAD Piano Arrange"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AMCD-0004",
+            "date": "2004-12-30",
+            "link": "album/36981",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "HAKAGI JAZZ",
+                "ja": "葉鍵JAZZ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0019",
+            "date": "2004-12-30",
+            "link": "album/13560",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Arranged Album \"The Place Where the Lights of Wishes Gather\" Side A",
+                "ja": "クラナド・アレンジアルバム 「願いの光 集う場所」  Side A",
+                "ja-latn": "CLANNAD Arranged Album \"Negai no Hikari Tsudou Basho\" Side A"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0020",
+            "date": "2004-12-30",
+            "link": "album/13561",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Arranged Album \"The Place Where the Lights of Wishes Gather\" Side B",
+                "ja": "クラナド・アレンジアルバム 「願いの光 集う場所」  Side B",
+                "ja-latn": "CLANNAD Arranged Album \"Negai no Hikari Tsudou Basho\" Side B"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPSR-0003",
+            "date": "2004-12-30",
+            "link": "album/13617",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "voluntary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5006",
+            "date": "2004-12-30",
+            "link": "album/21947",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snowy World",
+                "ja": "ユキノセカイ",
+                "ja-latn": "Yuki no Sekai"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD10",
+            "date": "2004-12-30",
+            "link": "album/28931",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD ARRANGE ALBUM -second relation- ''LINKS''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSM-012",
+            "date": "2004-12-30",
+            "link": "album/49197",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Yuuyami no Shasou kara",
+                "ja": "夕闇の車窓から"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0008",
+            "date": "2004-12-30",
+            "link": "album/20805",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kumapan.",
+                "ja": "くまぱん。"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0004",
+            "date": "2004-12-30",
+            "link": "album/8968",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Spread Colors+"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005",
+            "link": "album/10043",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "key Improv Arrange: All 17 Tracks",
+                "ja": "key即興アレンジ全１７曲",
+                "ja-latn": "key Sokkyou Arrange Chon-17-Kyoku"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005",
+            "link": "album/10044",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "summer lights ~ Bird's Poem",
+                "ja": "夏影〜鳥の詩",
+                "ja-latn": "Natsukage ~ Tori no Uta"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005",
+            "link": "album/10045",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Yuu Piano & TAM Violin",
+                "ja": "悠ピアノ＆ＴＡＭバイオリン"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-03-13",
+            "link": "album/47158",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sensitive"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1006",
+            "date": "2005-03-13",
+            "link": "album/15136",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0022",
+            "date": "2005-03-21",
+            "link": "album/11771",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD & Higurashi no Naku Koro ni Arrange Album \"Sinfonia"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0004",
+            "date": "2005-05-01",
+            "link": "album/13002",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Winter→Spring"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TUCD-01",
+            "date": "2005-05-01",
+            "link": "album/13314",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Festa"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HTRJ-0001",
+            "date": "2005-05-28",
+            "link": "album/13449",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Le vieux piano"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-05-29",
+            "link": "album/10047",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TAM & PICO key Arrange CD",
+                "ja": "TAM & ぴこ key Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-05-29",
+            "link": "album/10048",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TAM & UNO Collab CD ~ key Air",
+                "ja": "TAM＆UNOコラボCD key Air"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0006",
+            "date": "2005-06-18",
+            "link": "album/8237",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY PART. III"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AKCD-02",
+            "date": "2005-08-01",
+            "link": "album/10337",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Tanganon"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-08-14",
+            "link": "album/5271",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIRRADE-AIR- Original Soundtrack",
+                "ja": "AIRRADE-AIR-　オリジナルサウンドトラック"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-08-14",
+            "link": "album/13059",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Ocean AIR & CLANNAD ArrangeWorks"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CCCD-0009",
+            "date": "2005-08-14",
+            "link": "album/43771",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "COOL&CREATE Trial Version",
+                "ja": "体験版"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ICDA-0003",
+            "date": "2005-08-14",
+            "link": "album/14652",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD@TRANCE",
+                "ja": "CLANNAD@TRANCE -クラトラ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ICDA-0004",
+            "date": "2005-08-14",
+            "link": "album/14653",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR@TRANCE",
+                "ja": "AIR@TRANCE -エアトラ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NAMA-0004~5",
+            "date": "2005-08-14",
+            "link": "album/31114",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Namaoto Shugi Works 2002-2005",
+                "ja": "生音主義 Works 2002-2005"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0014",
+            "date": "2005-08-14",
+            "link": "album/5290",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Piano tune collection"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1007",
+            "date": "2005-08-14",
+            "link": "album/6688",
+            "roles": [
+                "Composer",
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "VOCALIZM6 -SouthSea&SummerSong-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "VDK-0014",
+            "date": "2005-08-14",
+            "link": "album/14044",
+            "roles": [
+                "Lyricist (as key)"
+            ],
+            "titles": {
+                "en": "es"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-013",
+            "date": "2005-08-14",
+            "link": "album/8952",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VAGUE extend"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GIRL-0004",
+            "date": "2005-08-22",
+            "link": "album/6470",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Adventure Game \"CLANN\" Image Arrange Vocal Album \"Tirnanog",
+                "ja": "アドベンチャーゲーム「CLANN」イメージアレンジボーカルアルバム「Tirnanog」"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0001",
+            "date": "2005-09-18",
+            "link": "album/14148",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Luminous -hikari-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-10-08",
+            "link": "album/10079",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Touhou & key Piano Solo CD (Ver0.1)",
+                "ja": "東方＆keyピアノソロＣＤ Ver0.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-10-08",
+            "link": "album/10081",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Touhou & key Piano & Violin",
+                "ja": "東方＆key　ピアノ＆バイオリン"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSS-0001",
+            "date": "2005-10-23",
+            "link": "album/14065",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shissou Youjokyoku",
+                "ja": "疾奏幼女曲"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-11-03",
+            "link": "album/10080",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Touhou & key Piano Solo CD (Ver0.2)",
+                "ja": "東方＆keyピアノソロＣＤ Ver0.2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-11-03",
+            "link": "album/10086",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "key & Touhou 03 ~ Yuu with TAM 01",
+                "ja": "key＆東方03　悠withＴＡＭ01"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-11-03",
+            "link": "album/10087",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "key & Touhou 04 ~ Yuu with TAM 02",
+                "ja": "key＆東方04　悠withＴＡＭ02"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5013",
+            "date": "2005-11-13",
+            "link": "album/14134",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "HAPPY NIGHT"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-12-25",
+            "link": "album/10088",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Violin Collaboration",
+                "ja": "バイオリン・コラボレーション"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0006",
+            "date": "2005-12-30",
+            "link": "album/11597",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The best compilation"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GIRL-0005",
+            "date": "2005-12-30",
+            "link": "album/6469",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Real - CLANN SoundTrack+ / shoujo byou",
+                "ja": "Real - CLANN SoundTrack+ / 少女病"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ICDA-0008",
+            "date": "2005-12-30",
+            "link": "album/14654",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "KANON@TRANCE",
+                "ja": "KANON@TRANCE -カノトラ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0008",
+            "date": "2006-01-09",
+            "link": "album/15165",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sand Beige"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0007",
+            "date": "2006-01-31",
+            "link": "album/8235",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY BEFORE"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2006-02-12",
+            "link": "album/10277",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TAMUSIC 2nd Concert CD",
+                "ja": "TAMUSIC 第2回コンサートCD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0008",
+            "date": "2006-03-09",
+            "link": "album/8236",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY AFTER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0027",
+            "date": "2006-03-24",
+            "link": "album/12140",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Soukyuuteki Key-band",
+                "ja": "蒼穹的鍵盤"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0005",
+            "date": "2006-04-02",
+            "link": "album/14155",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "AnarKEY→ ←QuantumLEAF"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2006-04-29",
+            "link": "album/36980",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Tsubasa - Original Song & CLANNAD Arrange mini-Album",
+                "ja": "つばさ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AAGA-0001",
+            "date": "2006-04-29",
+            "link": "album/18546",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "be with a practice!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMCD-0003",
+            "date": "2006-04-29",
+            "link": "album/32841",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Solas"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SICD-004",
+            "date": "2006-04-29",
+            "link": "album/6371",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "IA-STYLE/L+K"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0009",
+            "date": "2006-06-11",
+            "link": "album/15166",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Malachite"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0010",
+            "date": "2006-06-11",
+            "link": "album/15167",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "COSMOS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SMA-01",
+            "date": "2006-08-11",
+            "link": "album/6458",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dango Daikazoku (CLANNAD Arrange Album)",
+                "ja": "だんご大家族 (CLANNAD-クラナド- アレンジ アルバム)"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0005",
+            "date": "2006-08-13",
+            "link": "album/5141",
+            "roles": [
+                "Composer (also as Key)"
+            ],
+            "titles": {
+                "en": "LE:mix -Limited Edition:mix-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT05-OR02",
+            "date": "2006-08-13",
+            "link": "album/39234",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Selfish Color"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0008",
+            "date": "2006-08-13",
+            "link": "album/2884",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Become Happy!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GP-01",
+            "date": "2006-08-13",
+            "link": "album/12559",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Various festa"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRIM-1001/2",
+            "date": "2006-08-13",
+            "link": "album/49162",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Real Fantasy",
+                "ja": "二次元演奏会 the CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WAVE-0015",
+            "date": "2006-08-13",
+            "link": "album/2206",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Arranged Sound Album ARIA",
+                "ja": "AIR\" Arranged Sound Album ARIA"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0009",
+            "date": "2006-08-27",
+            "link": "album/14156",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "What a Happiness!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0010",
+            "date": "2006-10-01",
+            "link": "album/13799",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kiraboshi",
+                "ja": "輝羅星"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0002",
+            "date": "2006-10-09",
+            "link": "album/10954",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Arrange Album Nostalgia -Luv Clann-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0005",
+            "date": "2006-10-21",
+            "link": "album/6726",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "key classics Kanon version"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0005~6",
+            "date": "2006-12-29",
+            "link": "album/50471",
+            "roles": [
+                "Composer",
+                "Lyricist (also as Key)"
+            ],
+            "titles": {
+                "en": "enigmaticLIA2 / LIA",
+                "ja": "enigmaticLIA2 / LIA —C71 SPECIAL LIMITED EDITION !!—"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2006-12-31",
+            "link": "album/39950",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "D.S.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KNKS-0002",
+            "date": "2006-12-31",
+            "link": "album/12497",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kagioto",
+                "ja": "かぎおと"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MTCD-002",
+            "date": "2006-12-31",
+            "link": "album/5146",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "MINAMOTRANCE CORE!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRIM-0002",
+            "date": "2006-12-31",
+            "link": "album/49163",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Real Fantasy",
+                "ja": "二次元演奏会 the DVD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0008",
+            "date": "2006-12-31",
+            "link": "album/6733",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "TAMs Lucky Bag",
+                "ja": "ＴＡＭの福袋",
+                "ja-latn": "TAM no Fukubukuro"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0009",
+            "date": "2006-12-31",
+            "link": "album/7348",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Claire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0010",
+            "date": "2006-12-31",
+            "link": "album/8443",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Violet"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-014",
+            "date": "2006-12-31",
+            "link": "album/6471",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VAGUE IN WINTER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0009",
+            "date": "2007-02-12",
+            "link": "album/6597",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Touhou Manga Matsuri Onban Bunbunmaru II",
+                "ja": "東方まんがまつり音盤文々。Ⅱ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0012",
+            "date": "2007-03-24",
+            "link": "album/6599",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Kanon Violin",
+                "ja": "Kanonバイオリン"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-04-29",
+            "link": "album/34005",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "COLOREd"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-04-29",
+            "link": "album/35799",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Key Songs Acoustic vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "int5987",
+            "date": "2007-04-29",
+            "link": "album/34359",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Message From Innocent World"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0003",
+            "date": "2007-04-29",
+            "link": "album/10955",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snow White -Luv Kanon-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0014",
+            "date": "2007-06-10",
+            "link": "album/6625",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "TAM & PICO Collaboration CD - Early Works",
+                "ja": "TAM&PICO コラボＣＤ 初期作品集",
+                "ja-latn": "TAM & PICO Collab CD - Shoki Sakuhinshuu"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HSY-005",
+            "date": "2007-06-17",
+            "link": "album/7994",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shizuyakana Ichinichi",
+                "ja": "静やかな一日"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PSC-0001",
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-08-17",
+            "link": "album/7056",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Prelude..."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPKN-0006",
+            "date": "2007-08-17",
+            "link": "album/12511",
+            "roles": [
+                "Composer (also as KEY)"
+            ],
+            "titles": {
+                "en": "Gakki Seikatsu. ~Summer 2007 Edition~",
+                "ja": "楽器生活。〜2007夏号〜"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0018",
+            "date": "2007-08-17",
+            "link": "album/6434",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "5th TAMUSIC Concert ~Key Compilation~",
+                "ja": "第５回ＴＡＭＵＳＩＣコンサート　～key編～",
+                "ja-latn": "5th TAMUSIC Concert ~key-hen~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0020",
+            "date": "2007-08-17",
+            "link": "album/6633",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "AIR Collab CD - Shoki Sakuhinshuu",
+                "ja": "AirコラボCD 初期作品集"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FLOG-0002",
+            "date": "2007-08-19",
+            "link": "album/31419",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snowdreams"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0032",
+            "date": "2007-08-19",
+            "link": "album/18774",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Luxsius"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "COCX-34391",
+            "date": "2007-08-22",
+            "link": "album/5239",
+            "roles": [
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "THE iDOLM@STER Master Artist 05 Chihaya Kisaragi"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "FF-001",
+            "date": "2007-08-24",
+            "link": "album/4821",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Prelude"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-10-08",
+            "link": "album/49465",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Labyrinth -Runner-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0040",
+            "date": "2007-10-08",
+            "link": "album/14466",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "haq. Remixes BEST CHRONICLOTH"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KNKS-0005P",
+            "date": "2007-10-08",
+            "link": "album/12494",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "NaTsuOto",
+                "ja": "なつおと"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FSCD-0005",
+            "date": "2007-10-20",
+            "link": "album/49324",
+            "roles": [
+                "Composer",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "First Sounds 5"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HSY-006",
+            "date": "2007-11-19",
+            "link": "album/19339",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sawayakana Ichinichi",
+                "ja": "騒やかな一日"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-12-31",
+            "link": "album/49326",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fe no Net Boku to Kimi to",
+                "ja": "フェノネトボクトキミト"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AECD-011",
+            "date": "2007-12-31",
+            "link": "album/6795",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Angel Rings"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT06-OR03",
+            "date": "2007-12-31",
+            "link": "album/14577",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Revolution"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FMCD-0002",
+            "date": "2007-12-31",
+            "link": "album/49330",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Breaker!",
+                "ja": "りとぶれっ！",
+                "ja-latn": "Ritoburetsu!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HTRJ-0012",
+            "date": "2007-12-31",
+            "link": "album/49329",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Gigue: Kanon Arrange Album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KTFR-03",
+            "date": "2007-12-31",
+            "link": "album/27197",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KAGINONE SENSATION!",
+                "ja": "鍵ノ音センセーション！"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RCCP-0003",
+            "date": "2007-12-31",
+            "link": "album/9381",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sound of Princess☆",
+                "ja": "さうんど おぶ ぷりんせす☆"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSCD-0007",
+            "date": "2007-12-31",
+            "link": "album/12479",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TYPE-R 3rd -Side Key-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRBL-0002",
+            "date": "2007-12-31",
+            "link": "album/10078",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snowstorm"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0033",
+            "date": "2007-12-31",
+            "link": "album/18773",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters! & Touka Gettan Piano Arrange \"Yoh-Syoh-Ka",
+                "ja": "遙翔華"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "utage-02005",
+            "date": "2007-12-31",
+            "link": "album/10561",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Healing?"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0015",
+            "date": "2007-12-31",
+            "link": "album/6291",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Colore"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0019",
+            "date": "2008-03-09",
+            "link": "album/10720",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Merry Go Round !"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0028",
+            "date": "2008-03-31",
+            "link": "album/9797",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD VIOLIN"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0011",
+            "date": "2008-04-20",
+            "link": "album/7997",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY LEGACY"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-05-11",
+            "link": "album/8522",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OTSU-M@-MIX"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-05-11",
+            "link": "album/15755",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "FREEDOM"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-05-11",
+            "link": "album/33802",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "A LitteLE diNosOUR"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KDCD-0002",
+            "date": "2008-06-01",
+            "link": "album/35896",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "雨音 ~THE MELODY OF RAIN~",
+                "ja": "雨音～THE MELODY OF RAIN～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWCD-0044",
+            "date": "2008-06-15",
+            "link": "album/17812",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "COCX-35002",
+            "date": "2008-07-23",
+            "link": "album/8248",
+            "roles": [
+                "Composer (as Key)",
+                "Lyricist (as Key)"
+            ],
+            "titles": {
+                "en": "THE iDOLM@STER Vacation for you!",
+                "ja": "アイドルマスター Vacation for you!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-08-16",
+            "link": "album/9843",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "NON, STOP☆HEROINES!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ALCE-0801",
+            "date": "2008-08-16",
+            "link": "album/10530",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Beauteous Rain"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DLMS-0007",
+            "date": "2008-08-16",
+            "link": "album/9914",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Linkup remixside Key vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EMRS-0004",
+            "date": "2008-08-16",
+            "link": "album/10223",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Colors - Little Busters! Arrange Album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FWCD-0001",
+            "date": "2008-08-16",
+            "link": "album/12518",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Summer Flowers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MBCD-0015",
+            "date": "2008-08-16",
+            "link": "album/28356",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Light Blue"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMT001",
+            "date": "2008-08-16",
+            "link": "album/12208",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "N.C.B.N.C NO CONCEPT BUT NICE CHOICE"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RYCD-0003",
+            "date": "2008-08-16",
+            "link": "album/12528",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Oukiraku",
+                "ja": "逢季樂〜おうきらく〜"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SORR-00049",
+            "date": "2008-08-16",
+            "link": "album/10165",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "scenic -key classical collect-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPMU-0004",
+            "date": "2008-08-16",
+            "link": "album/11905",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Amazing Life -Key Arrange Album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0033",
+            "date": "2008-08-16",
+            "link": "album/34336",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Ensou Shitemita 1",
+                "ja": "演奏してみた１"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WHNO-1009",
+            "date": "2008-08-16",
+            "link": "album/10603",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Latchkey Lovers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-001",
+            "date": "2008-08-17",
+            "link": "album/13219",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "blue stripes",
+                "ja": "ぶるーすとらいぷす"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CGCD-0002",
+            "date": "2008-08-17",
+            "link": "album/18528",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BestFriends! ~Kono Sora he Takaku~",
+                "ja": "BestFriends！～この空へ高く～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRIM-1004",
+            "date": "2008-08-17",
+            "link": "album/49164",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Piano Chronicle: Rekidai Meikyoku Hiitemita!!",
+                "ja": "Piano Chronicle：歴代名曲 弾いてみた！！"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-10-13",
+            "link": "album/13141",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "reprise the future"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "INDL-0002",
+            "date": "2008-10-13",
+            "link": "album/12709",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fabricated memories"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SDHC-0001",
+            "date": "2008-11-24",
+            "link": "album/36563",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "S.D.HARDCORE vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LACA-5826",
+            "date": "2008-12-17",
+            "link": "album/31242",
+            "roles": [
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "ENSON2 ~ COVER SONGS COLLECTION Vol.2 / Masaaki Endoh"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "QLCD-0014",
+            "date": "2008-12-28",
+            "link": "album/11162",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Veil ∞ assorted voices"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-12-29",
+            "link": "album/11404",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Trinity"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "COCD-0004",
+            "date": "2008-12-29",
+            "link": "album/11366",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Nadir"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0014",
+            "date": "2008-12-29",
+            "link": "album/11365",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PRISM"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FWCD-0002",
+            "date": "2008-12-29",
+            "link": "album/12520",
+            "roles": [
+                "Composer (as Key)"
+            ],
+            "titles": {
+                "en": "Autumn Flowers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMT002",
+            "date": "2008-12-29",
+            "link": "album/12210",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "let ride on the back beat"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SDFN-0003",
+            "date": "2008-12-29",
+            "link": "album/11637",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Love affair"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SGNR-001",
+            "date": "2008-12-29",
+            "link": "album/44219",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "eclair -key arrange CD-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNGLY-001",
+            "date": "2008-12-29",
+            "link": "album/27572",
+            "roles": [
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Xing Songs",
+                "ja": "Xing Songs -カップリング・ソングズ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0015",
+            "date": "2008-12-29",
+            "link": "album/11282",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY BAND"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0022~3",
+            "date": "2008-12-29",
+            "link": "album/11297",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "RE:COLLECTIONS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0035",
+            "date": "2008-12-30",
+            "link": "album/18758",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters-EX & Touhou Chireiden Piano Arrange Album \"Syoh-Rei-Fu",
+                "ja": "翔麗符"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "YUKI-0001",
+            "date": "2008-12-30",
+            "link": "album/31547",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KeySoundsLabel ArrangeCD vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-02-28",
+            "link": "album/13062",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Key 10th Memorial Score"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0048",
+            "date": "2009-02-28",
+            "link": "album/12634",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "OTSU:Blasterhead"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0004~5",
+            "date": "2009-02-28",
+            "link": "album/13063",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key 10th Memorial Fes Anniversary CD"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LOLI-0010",
+            "date": "2009-03-08",
+            "link": "album/18509",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Touhou World Music Chronicle -No.2-",
+                "ja": "東方俗楽譚 -其の弐-",
+                "ja-latn": "Touhou Zokugakutan -Sono Ni-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PCCG-90031",
+            "date": "2009-04-01",
+            "link": "album/12901",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "enigmaticLIA3 -worldwide collection- | LIA"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ZTSL-017",
+            "date": "2009-04-10",
+            "link": "album/12605",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VAGUE IN WINTER 3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ABCD003",
+            "date": "2009-05-05",
+            "link": "album/29322",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Anima Breaks E.P."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-002",
+            "date": "2009-05-05",
+            "link": "album/13218",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KeyRing Atrie vol.1",
+                "ja": "ぶるーすとらいぷす"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HLZY-0001",
+            "date": "2009-05-05",
+            "link": "album/13222",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "H -Heart and Beat Technology-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0010",
+            "date": "2009-05-05",
+            "link": "album/12733",
+            "roles": [
+                "Composer (also as key)",
+                "Lyricist (also as key)"
+            ],
+            "titles": {
+                "en": "Vivid Colors -KEY tribute album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0047",
+            "date": "2009-07-18",
+            "link": "album/14536",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Air Violin"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-08-15",
+            "link": "album/26427",
+            "roles": [
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "Sora no Maki",
+                "ja": "空の巻"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-08-15",
+            "link": "album/28621",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Wind BOX!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-003",
+            "date": "2009-08-15",
+            "link": "album/44076",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "KeyRing Atrie vol.2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HNBD-001",
+            "date": "2009-08-15",
+            "link": "album/15213",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "koe"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0007",
+            "date": "2009-08-15",
+            "link": "album/14892",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "gracious key"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MPTS001",
+            "date": "2009-08-15",
+            "link": "album/16792",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Nekology"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMT004",
+            "date": "2009-08-15",
+            "link": "album/14663",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "compact"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0036",
+            "date": "2009-08-15",
+            "link": "album/14877",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Busters-EX & Touhou Seirensen Arrange Music Album \"OrienKlad"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "YUKI-0004",
+            "date": "2009-08-16",
+            "link": "album/44201",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Natsukage ~Ano Hikoukigumo o Koeta, Sono Saki e~",
+                "ja": "夏影 ～あの飛行機雲を超えた、その先へ～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ATCD-21001",
+            "date": "2009-08-26",
+            "link": "album/15913",
+            "roles": [
+                "Lyricist (as KEY)"
+            ],
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku selection vol.1~",
+                "ja": "ANIME HOUSE PROJECT ～神曲 selection vol.1～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "UCEX-0002",
+            "date": "2009-09-23",
+            "link": "album/15445",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Memoire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ATCD-21002",
+            "date": "2009-11-25",
+            "link": "album/15914",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku selection vol.2~",
+                "ja": "ANIME HOUSE PROJECT～神曲selection vol.2～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VICP-64778",
+            "date": "2009-11-25",
+            "link": "album/29899",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.1~",
+                "ja": "ラスマス・フェイバー・プレゼンツ・プラチナ・ジャズ ～アニメ・スタンダード Vol.1～"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-12-30",
+            "link": "album/37523",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Simple Box"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-004",
+            "date": "2009-12-30",
+            "link": "album/44077",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KeyRing Atrie vol.3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DBT-2001",
+            "date": "2009-12-30",
+            "link": "album/40381",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Niji Jazz",
+                "ja": "虹Jazz"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FTCD-009",
+            "date": "2009-12-31",
+            "link": "album/43717",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Bye bye!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ATCD-21004",
+            "date": "2010-04-28",
+            "link": "album/21370",
+            "roles": [
+                "Composer",
+                "Lyricist (also as KEY)"
+            ],
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku Selection age↑mix zero~",
+                "ja": "ANIME HOUSE PROJECT ~神曲ぶちage↑mix zero~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-05-05",
+            "link": "album/19308",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Re:kanon"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-05-05",
+            "link": "album/39377",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Naisho no Aozora",
+                "ja": "ないしょの青空"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPCD-0010",
+            "date": "2010-05-05",
+            "link": "album/19314",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Air of Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZVLN-0001",
+            "date": "2010-05-05",
+            "link": "album/19310",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Zephyr Violin"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-08-14",
+            "link": "album/29697",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Re:alize"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FID-0002",
+            "date": "2010-08-14",
+            "link": "album/30166",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Mingled Burst!!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZVLN-0002",
+            "date": "2010-08-14",
+            "link": "album/20703",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Zephyr Violin Duo"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UNCD-02",
+            "date": "2010-09-19",
+            "link": "album/35611",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "World Attrition"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CRPCD-02",
+            "date": "2010-10-31",
+            "link": "album/22072",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Creation:Kanon"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TDDC-0008",
+            "date": "2010-10-31",
+            "link": "album/44050",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "floatear -Sora ga Aoi Shiawase-",
+                "ja": "floatear -空が青い幸せ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0021~2",
+            "date": "2010-12-28",
+            "link": "album/22625",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "enigmaticLIA4",
+                "ja": "C79 SPECIAL EDITION enigmaticLIA4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LDCD-001",
+            "date": "2010-12-30",
+            "link": "album/23991",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Touhou Pianoforte I -Requiem for sakura-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRCD-0001",
+            "date": "2011-05-01",
+            "link": "album/44074",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PUDDLE"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLC-00001",
+            "date": "2011-06-22",
+            "link": "album/27616",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemical Keyworlds-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLC-00002",
+            "date": "2011-06-22",
+            "link": "album/27618",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemnia L's core-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2011-07-05",
+            "link": "album/37575",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Osamuraisan Selection vol.1.1",
+                "ja": "おさむらいさんせれくしょん Vol.1.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT15-RW04",
+            "date": "2011-08-13",
+            "link": "album/39271",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Remind -2011 NATSU",
+                "ja": "Remind 2011 夏"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LLAC-0006",
+            "date": "2011-08-13",
+            "link": "album/27953",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Heavenly Beats"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "YUKI-0008",
+            "date": "2011-08-13",
+            "link": "album/28964",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Little Busters! -Takeoff-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2011-10-30",
+            "link": "album/29699",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key Piano Arrange",
+                "ja": "Keyピアノあれんじ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LLCD-0002",
+            "date": "2011-10-30",
+            "link": "album/29708",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "Lost Girls"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSLA-0001",
+            "date": "2011-10-30",
+            "link": "album/29415",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "S-studio2 Sound Collection 2001-2011 Vol.1 \"key-side",
+                "ja": "S-studio2 Sound Collection 2001-2011 Vol.1 \"key-side"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2011-11-25",
+            "link": "album/50975",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "aristocrate Look over around REMIX and ORIGINAL TRACKS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2011-12-30",
+            "link": "album/32289",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "My Favorite Symphonies vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SORR-00093",
+            "date": "2011-12-30",
+            "link": "album/30109",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "LATENCY ANGEL"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "VSCD-0007",
+            "date": "2011-12-30",
+            "link": "album/30883",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Undressed"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2011-12-31",
+            "link": "album/30980",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sweets!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BR-0014",
+            "date": "2011-12-31",
+            "link": "album/30536",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "hope of winter door"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0013",
+            "date": "2011-12-31",
+            "link": "album/30658",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Alice"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SDBG-0007",
+            "date": "2011-12-31",
+            "link": "album/30983",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Journey of Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UNCD-04",
+            "date": "2011-12-31",
+            "link": "album/35609",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Mukeikaku Toshokan absent minded -LittleBusters! arrange album-",
+                "ja": "無計画図書館 absent minded -LittleBusters! arrange album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "VICP-65036",
+            "date": "2012-02-08",
+            "link": "album/31127",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Rasmus Faber presents Platina Jazz ~Anime Standards Vol.3~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-04-30",
+            "link": "album/35610",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Memories Of Those Hometowns"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-04-30",
+            "link": "album/38980",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fragment:Key"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ATZR-0001",
+            "date": "2012-04-30",
+            "link": "album/32757",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "posto felice"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0079",
+            "date": "2012-05-25",
+            "link": "album/32432",
+            "roles": [
+                "Composer",
+                "Lyricist (also as Key)"
+            ],
+            "titles": {
+                "en": "Key + VOCALOID Best selection vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0084",
+            "date": "2012-07-29",
+            "link": "album/34241",
+            "roles": [
+                "Composer (also as KEY)",
+                "Lyricist (also as KEY)"
+            ],
+            "titles": {
+                "en": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SGNM-002",
+            "date": "2012-08-11",
+            "link": "album/34345",
+            "roles": [
+                "Composer (also as KEY)",
+                "Lyricist (also as KEY)"
+            ],
+            "titles": {
+                "en": "Euphoric Tears"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SLRC-0003",
+            "date": "2012-08-11",
+            "link": "album/34594",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "End of Summer"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "2NDF-0010",
+            "date": "2012-10-28",
+            "link": "album/43485",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sweet"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSLA-0004",
+            "date": "2012-10-28",
+            "link": "album/40086",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sennen Monogatari ~air arrange soundtrack~",
+                "ja": "千年物語 ～air arrange soundtrack～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-12-31",
+            "link": "album/37525",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KnowLedge"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-12-31",
+            "link": "album/40351",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Little Dreamers."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-12-31",
+            "link": "album/48715",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Aozora o Mezashite",
+                "ja": "青空をめざして"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BBR-04",
+            "date": "2012-12-31",
+            "link": "album/38596",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snowdrop"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0016",
+            "date": "2012-12-31",
+            "link": "album/36927",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Luxurious Cattail"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMCD-025",
+            "date": "2012-12-31",
+            "link": "album/37299",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shaka Shaka Hey!",
+                "ja": "しゃかしゃかへいっ！"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "IC-HC007",
+            "date": "2013-02-09",
+            "link": "album/37728",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "3B -Bold Break Beat-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "2NDF-0012",
+            "date": "2013-03-03",
+            "link": "album/43486",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shine"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-020",
+            "date": "2013-04-01",
+            "link": "album/38633",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Selfregards3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TKM-0003",
+            "date": "2013-04-29",
+            "link": "album/39368",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SIGMA Because",
+                "ja": "リトルバスターズ！アレンジミニアルバム[シグマビコーズ]"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WAVE-0049",
+            "date": "2013-04-29",
+            "link": "album/38962",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "trajektorio"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-08-12",
+            "link": "album/41495",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Remains"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SRCD-0005",
+            "date": "2013-08-12",
+            "link": "album/40846",
+            "roles": [
+                "Composer (as KEY)"
+            ],
+            "titles": {
+                "en": "LEVIASTORATOS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AOZR-0002",
+            "date": "2013-10-27",
+            "link": "album/44325",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Colorful"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSLA-0005",
+            "date": "2013-10-27",
+            "link": "album/48012",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TomoKano! ~Tomoyo After & Kanon arrange soundtrack~",
+                "ja": "トモカノ！ ～智代アフター&Kanon arrange soundtrack～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AOZR-0003",
+            "date": "2013-11-04",
+            "link": "album/44326",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Break Time"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "REBIRTH-01~2",
+            "date": "2014-05-24",
+            "link": "album/48647",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "「key15th」 ／ 「clannad10th」 Global Collaborative Arrange Album : Rebirth"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-07-12",
+            "link": "album/46879",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Anime and Game Collection"
+            },
+            "type": "game"
+        }
+    ],
+    "info": {
+        "Album Votes": "357 votes for 74 albums",
+        "Aliases": "KEY",
+        "Birthdate": "Jan 3, 1975",
+        "Birthplace": "Mie, Japan",
+        "Credited works": [
+            "493 albums in database",
+            "482 composer credits",
+            "6 arranger credits",
+            "1 performer credits",
+            "106 lyricist credits"
+        ],
+        "Organizations": [
+            {
+                "link": "org/957",
+                "names": {
+                    "en": "FLAMING JUNE"
+                },
+                "owner": "true"
+            }
+        ],
+        "Variations": "前田純",
+        "Weighted album rating": [
+            "9/10"
+        ]
+    },
+    "link": "artist/4",
+    "meta": {
+        "added_date": "2007-10-10T23:19",
+        "edited_date": "2012-08-07T06:55",
+        "ttl": 86400,
+        "visitors": 11963
+    },
+    "name": "Jun Maeda",
+    "name_real": "麻枝 准",
+    "name_trans": "まえだ じゅん",
+    "notes": "A former employee of the visual novel studio Tactics, Jun Maeda became one of the founding members of Key under Visual Art's. His real kanji name is written as 前田純.",
+    "organizations": [
+        {
+            "link": "org/957",
+            "names": {
+                "en": "FLAMING JUNE"
+            },
+            "owner": "true"
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/portraits/4-1231511046.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/portraits-medium/4-1231511046.jpg",
+    "sex": "male",
+    "vgmdb_link": "http://vgmdb.net/artist/4?perpage=99999"
+}
