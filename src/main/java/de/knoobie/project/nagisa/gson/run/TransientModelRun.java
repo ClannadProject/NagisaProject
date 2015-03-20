@@ -1,14 +1,31 @@
 package de.knoobie.project.nagisa.gson.run;
 
 import de.knoobie.project.nagisa.gson.model.bo.TransientArtist;
+import de.knoobie.project.nagisa.gson.model.bo.TransientOrganisation;
 import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
 import de.knoobie.project.nagisa.gson.util.SearchUtils;
 
 public class TransientModelRun {
 
     public static void main(String[] args) throws Exception {
-        test_getArtist("Band", "6310");
-        test_getArtist("Person", "5");
+        test_getOrg("1");
+//        test_getArtist("Band", "6310");
+//        test_getArtist("Person", "5");
+    }
+
+    private static void test_getOrg(String query) throws Exception {
+        TransientOrganisation org = new TransientOrganisation(SearchUtils.getOrganisation(query));
+
+        System.out.println("Organisation: " + org.getName() + " / " + org.getLink());
+        System.out.println("Desc: " + org.getDescription());
+        System.out.println("Region: " + org.getRegion());
+        System.out.println("Type: " + org.getType());
+
+        org.getReleases().stream().forEach((release) -> {
+            System.out.println(" - " + release.getNames().get(0).getName() + " | " + release.getCatalog()
+                    + " | " + release.getLink() + " | " + release.getType() + " | " + release.getRole()
+                    + (release.getEvent() != null ? "(Event: " + release.getEvent().getName() + " / Link: "+release.getEvent().getLink()+")" : ""));
+        });
     }
 
     private static void test_getArtist(String person_band, String query) throws Exception {
