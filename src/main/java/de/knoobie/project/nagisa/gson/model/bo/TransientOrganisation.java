@@ -11,6 +11,8 @@ import lombok.Data;
 public @Data
 class TransientOrganisation {
 
+    public static final String VGMDB_DIR = "org";
+
     private String link;
     private String name;
     private String description;
@@ -34,18 +36,18 @@ class TransientOrganisation {
             System.out.println("Generated empty transientorganisation. Organisation was null.");
             return;
         }
-        
+
         this.setLink(StringUtils.trim(organisation.getLink()));
         this.setName(StringUtils.trim(organisation.getName()));
         this.setDescription(StringUtils.trim(organisation.getDescription()));
         this.setRegion(StringUtils.trim(organisation.getRegion()));
         this.setType(StringUtils.trim(organisation.getType()));
         this.setVgmdbLink(StringUtils.trim(organisation.getVgmdbLink()));
-        
+
         this.setPicture(new TransientPicture(StringUtils.trim(organisation.getPictureSmall()),
                 StringUtils.trim(organisation.getPictureFull())));
         this.setMeta(new TransientMeta(organisation.getMeta()));
-        
+
         if (!ListUtils.isEmpty(organisation.getReleases())) {
             organisation.getReleases().stream().forEach((release) -> {
                 getReleases().add(new TransientOrganisationRelease(release));
