@@ -14,10 +14,18 @@ public @Data
 class TransientName {
 
     private String name;
+    private String date;
     private NameLanguage language;
 
     public TransientName(String name, NameLanguage language) {
         this.setName(name);
+        this.setLanguage(language);
+        this.setDate(StringUtils.EMPTY);
+    }
+    
+    public TransientName(String name, String date, NameLanguage language) {
+        this.setName(name);
+        this.setDate(date);
         this.setLanguage(language);
     }
 
