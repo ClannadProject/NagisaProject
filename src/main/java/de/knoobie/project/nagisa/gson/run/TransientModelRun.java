@@ -25,7 +25,7 @@ public class TransientModelRun {
     }
     
     private static void test_search(String query) throws Exception {
-        TransientSearch search = new TransientSearch(VGMdb.find(query));
+        TransientSearch search = VGMdb.search(query);
         
         System.out.println("Query: " + search.getQuery() + " / " + search.getLink());
         
