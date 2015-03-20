@@ -19,10 +19,10 @@ class TransientName {
 
     public TransientName(String name, NameLanguage language) {
         this.setName(name);
-        this.setLanguage(language);
         this.setDate(StringUtils.EMPTY);
+        this.setLanguage(language);
     }
-    
+
     public TransientName(String name, String date, NameLanguage language) {
         this.setName(name);
         this.setDate(date);
@@ -44,6 +44,10 @@ class TransientName {
     }
 
     public static List<TransientName> parseNames(Names names) {
+        return parseNames(names, StringUtils.EMPTY);
+    }
+
+    public static List<TransientName> parseNames(Names names, String date) {
         List<TransientName> list = new ArrayList<>();
 
         if (names == null) {
@@ -51,35 +55,35 @@ class TransientName {
         }
 
         if (!StringUtils.isEmpty(names.getEn())) {
-            list.add(new TransientName(StringUtils.trim(names.getEn()), NameLanguage.eng));
+            list.add(new TransientName(StringUtils.trim(names.getEn()), date, NameLanguage.eng));
         }
 
         if (!StringUtils.isEmpty(names.getEnglish())) {
-            list.add(new TransientName(StringUtils.trim(names.getEnglish()), NameLanguage.eng));
+            list.add(new TransientName(StringUtils.trim(names.getEnglish()), date, NameLanguage.eng));
         }
 
         if (!StringUtils.isEmpty(names.getEng_furigana())) {
-            list.add(new TransientName(StringUtils.trim(names.getEng_furigana()), NameLanguage.eng_furigana));
+            list.add(new TransientName(StringUtils.trim(names.getEng_furigana()), date, NameLanguage.eng_furigana));
         }
 
         if (!StringUtils.isEmpty(names.getJa())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa()), NameLanguage.jap));
+            list.add(new TransientName(StringUtils.trim(names.getJa()), date, NameLanguage.jap));
         }
 
         if (!StringUtils.isEmpty(names.getJa_furigana())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa_furigana()), NameLanguage.ja_furigana));
+            list.add(new TransientName(StringUtils.trim(names.getJa_furigana()), date, NameLanguage.ja_furigana));
         }
 
         if (!StringUtils.isEmpty(names.getJa_latn())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa_latn()), NameLanguage.ja_latn));
+            list.add(new TransientName(StringUtils.trim(names.getJa_latn()), date, NameLanguage.ja_latn));
         }
 
         if (!StringUtils.isEmpty(names.getRomaji())) {
-            list.add(new TransientName(StringUtils.trim(names.getRomaji()), NameLanguage.ja_romaji));
+            list.add(new TransientName(StringUtils.trim(names.getRomaji()), date, NameLanguage.ja_romaji));
         }
 
         if (!StringUtils.isEmpty(names.getOriginal())) {
-            list.add(new TransientName(StringUtils.trim(names.getOriginal()), NameLanguage.original));
+            list.add(new TransientName(StringUtils.trim(names.getOriginal()), date, NameLanguage.original));
         }
 
         return list;
