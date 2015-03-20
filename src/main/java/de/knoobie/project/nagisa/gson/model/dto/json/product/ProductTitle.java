@@ -7,6 +7,8 @@ public @Data
 class ProductTitle {
 
     private String date;
-    private String link;
     private Names names;
+    private String link;
+    private String platform;
+    private String region;
 }
