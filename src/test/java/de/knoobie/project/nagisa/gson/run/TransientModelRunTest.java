@@ -3,7 +3,7 @@ package de.knoobie.project.nagisa.gson.run;
 import de.knoobie.project.nagisa.gson.model.bo.TransientArtist;
 import de.knoobie.project.nagisa.gson.model.bo.TransientEvent;
 import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
-import de.knoobie.project.nagisa.gson.util.SearchUtils;
+import de.knoobie.project.nagisa.gson.util.VGMdb;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -38,7 +38,7 @@ public class TransientModelRunTest {
     
     public void testEventModel() throws Exception {
         final String id = "175";
-        TransientEvent event = new TransientEvent(SearchUtils.getEvent(id));
+        TransientEvent event = VGMdb.getEvent(id);
         
         assertEquals("Event("+id+"):getName", "Comic Market 87", event.getName());
         assertEquals("Event("+id+"):getLink", "event/175", event.getLink());
@@ -49,7 +49,7 @@ public class TransientModelRunTest {
     }
 
     public void testArtistModel() throws Exception {
-        TransientArtist artist = new TransientArtist(SearchUtils.getArtist("6310"));
+        TransientArtist artist = VGMdb.getArtist("6310");
         
         
         assertEquals("Artist(6310):getName", "abingdon boys school", artist.getName());
@@ -62,7 +62,7 @@ public class TransientModelRunTest {
     }
     
     private static void test_getArtist(String person_band, String query) throws Exception {
-        TransientArtist artist = new TransientArtist(SearchUtils.getArtist(query));
+        TransientArtist artist = VGMdb.getArtist(query);
 
         System.out.println("test_getArtist()");
         System.out.println(person_band + ": " + artist.getName() + " / " + artist.getLink());
