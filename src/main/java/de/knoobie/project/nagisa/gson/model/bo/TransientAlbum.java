@@ -15,6 +15,7 @@ class TransientAlbum {
     private String catalog;
     private String category;
     private String classification;
+    private String releaseDate;
     // contains -> 'album/12345'
     private String link;
     private String vgmdbLink;
@@ -27,6 +28,7 @@ class TransientAlbum {
     private Integer votes;
 
     private Double rating;
+    private Boolean reprint;
 
     private TransientPicture picture;
     private List<TransientPicture> pictures = new ArrayList<>();
@@ -66,6 +68,20 @@ class TransientAlbum {
         this.setType(StringUtils.trim(type));
     }
 
+    public TransientAlbum(Names names, String link, String catalog, String type,
+            String releaseDate, Boolean reprint, List<String> classifications) {
+        this(names, link, catalog, type);
+        if (names == null) {
+            this.setReleaseDate(StringUtils.EMPTY);
+            this.setReprint(Boolean.FALSE);
+            this.setClassification(StringUtils.EMPTY);
+            return;
+        }
+        this.setReleaseDate(StringUtils.trim(releaseDate));
+        this.setReprint(reprint == null ? Boolean.FALSE : reprint);
+        this.setClassification(ListUtils.getListAsString(classifications));
+    }
+
     public TransientAlbum(Album album) {
         if (album == null) {
             System.out.println("Generated empty transientalbum. Album was null.");
@@ -77,6 +93,7 @@ class TransientAlbum {
         this.setClassification(StringUtils.trim(album.getClassification()));
         this.setLink(StringUtils.trim(album.getLink()));
         this.setMediaFormat(StringUtils.trim(album.getMediaFormat()));
+        this.setReleaseDate(StringUtils.trim(album.getReleaseDate()));
         this.setDescription(StringUtils.trim(album.getNotes()));
         this.setPicture(new TransientPicture(StringUtils.trim(album.getPictureSmall()),
                 StringUtils.trim(album.getPictureFull())));
@@ -169,12 +186,15 @@ class TransientAlbum {
         }
 
         if (!ListUtils.isEmpty(album.getReprints())) {
+            this.setReprint(Boolean.TRUE);
             album.getReprints().stream().forEach((relatedAlbum) -> {
                 getReprints().add(new TransientAlbumReprint(
                         relatedAlbum.getNote(),
                         relatedAlbum.getCatalog(),
                         relatedAlbum.getLink()));
             });
+        } else {
+            this.setReprint(Boolean.FALSE);
         }
 
         if (!ListUtils.isEmpty(album.getStores())) {
