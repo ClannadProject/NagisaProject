@@ -1,4 +1,5 @@
 package de.knoobie.project.nagisa.gson.model.bo;
+
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.enums.NameLanguage;
@@ -11,6 +12,8 @@ import lombok.Data;
 
 public @Data
 class TransientProduct {
+
+    public static final String VGMDB_DIR = "product";
 
     private String description;
     private String link;
@@ -48,8 +51,13 @@ class TransientProduct {
     private List<TransientAlbum> albums = new ArrayList<>();
 
     public TransientProduct(Names names, String link) {
+        this(names, link, StringUtils.EMPTY);
+    }
+
+    public TransientProduct(Names names, String link, String type) {
         this.setNames(TransientName.parseNames(names));
         this.setLink(StringUtils.trim(link));
+        this.setType(ProductType.getProductTypeByName(type));
     }
 
     public TransientProduct(Product product) {
@@ -63,7 +71,7 @@ class TransientProduct {
         this.setReleaseDate(StringUtils.trim(product.getReleaseDate()));
         this.setDescription(StringUtils.trim(product.getDescription()));
         this.setOrganizations(ListUtils.getListAsString(product.getOrganizations()));
-        this.setType(ProductType.getArtistTypeByName(product.getType()));
+        this.setType(ProductType.getProductTypeByName(product.getType()));
         this.setVgmdbLink(StringUtils.trim(product.getVgmdbLink()));
         this.setMeta(new TransientMeta(product.getMeta()));
         this.setPicture(new TransientPicture(StringUtils.trim(product.getPictureSmall()),
