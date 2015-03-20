@@ -12,6 +12,8 @@ import lombok.Data;
 public @Data
 class TransientAlbum {
 
+    public static final String VGMDB_DIR = "album";
+
     private String catalog;
     private String category;
     private String classification;
