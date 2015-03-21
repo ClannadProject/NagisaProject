@@ -56,7 +56,7 @@ public class TransientModelRun {
         });
     }
 
-    private static void test_Product(String query) throws Exception {
+    private static void test_Product(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
         VGMdbProduct product = VGMdb.getProduct(query);
 
         System.out.println("Product: " + product.getName() + " / " + product.getLink());
