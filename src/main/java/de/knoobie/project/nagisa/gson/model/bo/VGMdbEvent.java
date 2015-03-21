@@ -9,7 +9,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientEvent {
+class VGMdbEvent {
 
     public static final String VGMDB_DIR = "event";
 
@@ -21,9 +21,9 @@ class TransientEvent {
     private String description;
     private String vgmdbLink;
 
-    private List<TransientEventRelease> releases = new ArrayList<>();
+    private List<VGMdbEventRelease> releases = new ArrayList<>();
 
-    public TransientEvent(OrganisationReleaseEvent event) {
+    public VGMdbEvent(OrganisationReleaseEvent event) {
         if (event == null) {
             return;
         }
@@ -32,7 +32,7 @@ class TransientEvent {
         this.setShortname(StringUtils.trim(event.getShortname()));
     }
 
-    public TransientEvent(Event event) {
+    public VGMdbEvent(Event event) {
         if (event == null) {
             return;
         }
@@ -46,7 +46,7 @@ class TransientEvent {
 
         if (!ListUtils.isEmpty(event.getReleases())) {
             event.getReleases().stream().forEach((release) -> {
-                getReleases().add(new TransientEventRelease(release));
+                getReleases().add(new VGMdbEventRelease(release));
             });
         }
     }

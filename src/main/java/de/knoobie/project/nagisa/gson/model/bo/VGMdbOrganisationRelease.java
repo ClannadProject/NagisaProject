@@ -7,7 +7,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientOrganisationRelease {
+class VGMdbOrganisationRelease {
 
     private String catalog;
     private String date;
@@ -16,11 +16,11 @@ class TransientOrganisationRelease {
     private String type;
 
     private Boolean reprint;
-    private TransientEvent event;
+    private VGMdbEvent event;
 
-    private List<TransientName> names = new ArrayList<>();
+    private List<VGMdbName> names = new ArrayList<>();
 
-    public TransientOrganisationRelease(OrganisationRelease release) {
+    public VGMdbOrganisationRelease(OrganisationRelease release) {
         if (release == null) {
             this.setDate(StringUtils.EMPTY);
             this.setCatalog(StringUtils.EMPTY);
@@ -31,7 +31,7 @@ class TransientOrganisationRelease {
             return;
         }
 
-        this.setNames(TransientName.parseNames(release.getNames()));
+        this.setNames(VGMdbName.parseNames(release.getNames()));
         this.setDate(StringUtils.trim(release.getDate()));
         this.setCatalog(StringUtils.trim(release.getCatalog()));
         this.setLink(StringUtils.trim(release.getLink()));
@@ -39,7 +39,7 @@ class TransientOrganisationRelease {
         this.setType(StringUtils.trim(release.getType()));
         this.setReprint(release.getReprint() == null ? Boolean.FALSE : release.getReprint());
         if (release.getEvent()!= null) {
-            this.setEvent(new TransientEvent(release.getEvent()));
+            this.setEvent(new VGMdbEvent(release.getEvent()));
         }
     }
 

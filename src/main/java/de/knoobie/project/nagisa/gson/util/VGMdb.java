@@ -4,12 +4,12 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonSyntaxException;
 import de.knoobie.project.clannadutils.common.IOUtils;
 import de.knoobie.project.clannadutils.common.NetUtils;
-import de.knoobie.project.nagisa.gson.model.bo.TransientAlbum;
-import de.knoobie.project.nagisa.gson.model.bo.TransientArtist;
-import de.knoobie.project.nagisa.gson.model.bo.TransientEvent;
-import de.knoobie.project.nagisa.gson.model.bo.TransientOrganisation;
-import de.knoobie.project.nagisa.gson.model.bo.TransientProduct;
-import de.knoobie.project.nagisa.gson.model.bo.TransientSearch;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbAlbum;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbEvent;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbOrganisation;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbProduct;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbSearch;
 import de.knoobie.project.nagisa.gson.model.dto.json.album.Album;
 import de.knoobie.project.nagisa.gson.model.dto.json.artist.Artist;
 import de.knoobie.project.nagisa.gson.model.dto.json.event.Event;
@@ -26,34 +26,34 @@ public class VGMdb {
     private static final String VGMDB_URL = "http://vgmdb.info";
     private static final String VGMDB_FORMAT_PARAMETER = "format=json";
     
-    public static TransientSearch search(String query) throws
+    public static VGMdbSearch search(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientSearch(get(createJSON(TransientSearch.VGMDB_DIR, query), SearchResult.class));
+        return new VGMdbSearch(get(createJSON(VGMdbSearch.VGMDB_DIR, query), SearchResult.class));
     }
     
-    public static TransientArtist getArtist(String query) throws
+    public static VGMdbArtist getArtist(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientArtist(get(createJSON(TransientArtist.VGMDB_DIR, query), Artist.class));
+        return new VGMdbArtist(get(createJSON(VGMdbArtist.VGMDB_DIR, query), Artist.class));
     }
 
-    public static TransientAlbum getAlbum(String query) throws
+    public static VGMdbAlbum getAlbum(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientAlbum(get(createJSON(TransientAlbum.VGMDB_DIR, query), Album.class));
+        return new VGMdbAlbum(get(createJSON(VGMdbAlbum.VGMDB_DIR, query), Album.class));
     }
 
-    public static TransientProduct getProduct(String query) throws
+    public static VGMdbProduct getProduct(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientProduct(get(createJSON(TransientProduct.VGMDB_DIR, query), Product.class));
+        return new VGMdbProduct(get(createJSON(VGMdbProduct.VGMDB_DIR, query), Product.class));
     }
 
-    public static TransientEvent getEvent(String query) throws
+    public static VGMdbEvent getEvent(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientEvent(get(createJSON(TransientEvent.VGMDB_DIR, query), Event.class));
+        return new VGMdbEvent(get(createJSON(VGMdbEvent.VGMDB_DIR, query), Event.class));
     }
 
-    public static TransientOrganisation getOrganisation(String query) throws
+    public static VGMdbOrganisation getOrganisation(String query) throws
             JsonSyntaxException, IOException, FileNotFoundException {
-        return new TransientOrganisation(get(createJSON(TransientOrganisation.VGMDB_DIR, query), Organisation.class));
+        return new VGMdbOrganisation(get(createJSON(VGMdbOrganisation.VGMDB_DIR, query), Organisation.class));
     }
 
     private static <T> T get(String json, Class<T> classOfT) throws JsonSyntaxException {

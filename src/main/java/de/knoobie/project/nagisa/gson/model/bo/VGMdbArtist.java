@@ -2,9 +2,9 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
-import de.knoobie.project.nagisa.gson.model.bo.enums.NameLanguage;
-import de.knoobie.project.nagisa.gson.model.bo.enums.WebsiteType;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbArtistType;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbNameLanguage;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbWebsiteType;
 import de.knoobie.project.nagisa.gson.model.dto.json.artist.Artist;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientArtist {
+class VGMdbArtist {
 
     public static final String VGMDB_DIR = "artist";
 
@@ -23,65 +23,65 @@ class TransientArtist {
 
     private String Variations;
     // aliases
-    private List<TransientName> aliases = new ArrayList<>();
+    private List<VGMdbName> aliases = new ArrayList<>();
 
     private List<String> CreditedWorks = new ArrayList<>();
 
-    private TransientPicture picture;
-    private TransientMeta meta;
+    private VGMdbPicture picture;
+    private VGMdbMeta meta;
 
-    private List<TransientDiscography> discography = new ArrayList<>();
-    private List<TransientDiscography> featuredOn = new ArrayList<>();
-    private List<TransientWebsite> websites = new ArrayList<>();
+    private List<VGMdbDiscography> discography = new ArrayList<>();
+    private List<VGMdbDiscography> featuredOn = new ArrayList<>();
+    private List<VGMdbWebsite> websites = new ArrayList<>();
 
-    private ArtistType type;
-    private TransientArtistPerson personInfo;
-    private TransientArtistBand bandInfo;
+    private VGMdbArtistType type;
+    private VGMdbArtistPerson personInfo;
+    private VGMdbArtistBand bandInfo;
 
     // @todo add Album Votes && weighted album rating
-    public TransientArtist(Names names, String link) {
+    public VGMdbArtist(Names names, String link) {
         this(names, new ArrayList<>(), link);
     }
 
-    public TransientArtist(Names names, List<String> aliases, String link) {
-        this.setAliases(TransientName.parseNames(names));
+    public VGMdbArtist(Names names, List<String> aliases, String link) {
+        this.setAliases(VGMdbName.parseNames(names));
 
         if (!ListUtils.isEmpty(aliases)) {
             aliases.stream().forEach((alias) -> {
-                this.getAliases().add(new TransientName(
+                this.getAliases().add(new VGMdbName(
                         StringUtils.trim(alias),
-                        NameLanguage.alias));
+                        VGMdbNameLanguage.alias));
             });
         }
         if (!ListUtils.isEmpty(this.getAliases())) {
-            this.getAliases().stream().filter((alias) -> (alias.getLanguage() == NameLanguage.original
-                    || alias.getLanguage() == NameLanguage.eng)).forEach((aliasName) -> {
+            this.getAliases().stream().filter((alias) -> (alias.getLanguage() == VGMdbNameLanguage.original
+                    || alias.getLanguage() == VGMdbNameLanguage.eng)).forEach((aliasName) -> {
                         this.setName(StringUtils.trim(aliasName.getName()));
                     });
         }
         this.setLink(link);
     }
 
-    public TransientArtist(Artist artist) {
+    public VGMdbArtist(Artist artist) {
         if (artist == null) {
             System.out.println("Generated empty transientartist. Artist was null.");
             return;
         }
         this.setName(StringUtils.trim(artist.getName()));
-        this.setAliases(TransientName.parseNames(artist.getAliases()));
+        this.setAliases(VGMdbName.parseNames(artist.getAliases()));
         this.setLink(StringUtils.trim(artist.getLink()));
         this.setVgmdbLink(StringUtils.trim(artist.getVgmdbLink()));
         this.setDescription(StringUtils.trim(artist.getNotes()));
         this.setLink(StringUtils.trim(artist.getLink()));
-        this.setMeta(new TransientMeta(artist.getMeta()));
+        this.setMeta(new VGMdbMeta(artist.getMeta()));
 
-        this.setPicture(new TransientPicture(
+        this.setPicture(new VGMdbPicture(
                 StringUtils.trim(artist.getPictureSmall()),
                 StringUtils.trim(artist.getPictureFull())));
 
         if (!ListUtils.isEmpty(artist.getDiscography())) {
             artist.getDiscography().stream().forEach((discograph) -> {
-                getDiscography().add(new TransientDiscography(
+                getDiscography().add(new VGMdbDiscography(
                         discograph.getTitles(),
                         StringUtils.trim(discograph.getLink()),
                         StringUtils.trim(discograph.getType()),
@@ -93,7 +93,7 @@ class TransientArtist {
 
         if (!ListUtils.isEmpty(artist.getFeaturedOn())) {
             artist.getFeaturedOn().stream().forEach((featured) -> {
-                getFeaturedOn().add(new TransientDiscography(
+                getFeaturedOn().add(new VGMdbDiscography(
                         featured.getTitles(),
                         StringUtils.trim(featured.getLink()),
                         StringUtils.trim(featured.getType()),
@@ -106,25 +106,25 @@ class TransientArtist {
         if (artist.getWebsites() != null) {
             if (!ListUtils.isEmpty(artist.getWebsites().getOfficial())) {
                 artist.getWebsites().getOfficial().stream().forEach((officialWebsite) -> {
-                    getWebsites().add(new TransientWebsite(
+                    getWebsites().add(new VGMdbWebsite(
                             officialWebsite.getName(),
                             officialWebsite.getLink(),
-                            WebsiteType.official));
+                            VGMdbWebsiteType.official));
                 });
             }
             if (!ListUtils.isEmpty(artist.getWebsites().getPersonal())) {
                 artist.getWebsites().getPersonal().stream().forEach((personalWebsite) -> {
-                    getWebsites().add(new TransientWebsite(
+                    getWebsites().add(new VGMdbWebsite(
                             personalWebsite.getName(),
                             personalWebsite.getLink(),
-                            WebsiteType.personal));
+                            VGMdbWebsiteType.personal));
                 });
             }
 
         }
 
         if (artist.getInfo() == null) {
-            this.setType(ArtistType.unknown);
+            this.setType(VGMdbArtistType.unknown);
             return;
         }
 
@@ -136,17 +136,17 @@ class TransientArtist {
             });
         }
 
-        switch (ArtistType.getArtistTypeByName(artist.getType())) {
+        switch (VGMdbArtistType.getArtistTypeByName(artist.getType())) {
             case individual:
-                this.setType(ArtistType.individual);
-                this.setPersonInfo(new TransientArtistPerson(artist));
+                this.setType(VGMdbArtistType.individual);
+                this.setPersonInfo(new VGMdbArtistPerson(artist));
                 break;
             case unit:
-                this.setType(ArtistType.unit);
-                this.setBandInfo(new TransientArtistBand(artist));
+                this.setType(VGMdbArtistType.unit);
+                this.setBandInfo(new VGMdbArtistBand(artist));
                 break;
             case unknown:
-                this.setType(ArtistType.unknown);
+                this.setType(VGMdbArtistType.unknown);
                 break;
         }
     }

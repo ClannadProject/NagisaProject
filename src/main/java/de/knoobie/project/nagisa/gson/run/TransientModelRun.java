@@ -1,12 +1,12 @@
 package de.knoobie.project.nagisa.gson.run;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
-import de.knoobie.project.nagisa.gson.model.bo.TransientArtist;
-import de.knoobie.project.nagisa.gson.model.bo.TransientName;
-import de.knoobie.project.nagisa.gson.model.bo.TransientOrganisation;
-import de.knoobie.project.nagisa.gson.model.bo.TransientProduct;
-import de.knoobie.project.nagisa.gson.model.bo.TransientSearch;
-import de.knoobie.project.nagisa.gson.model.bo.enums.ArtistType;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbName;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbOrganisation;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbProduct;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbSearch;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbArtistType;
 import de.knoobie.project.nagisa.gson.util.VGMdb;
 
 public class TransientModelRun {
@@ -26,7 +26,7 @@ public class TransientModelRun {
     }
 
     private static void test_search(String query) throws Exception {
-        TransientSearch search = VGMdb.search(query);
+        VGMdbSearch search = VGMdb.search(query);
 
         System.out.println("Query: " + search.getQuery() + " / " + search.getLink());
 
@@ -39,12 +39,12 @@ public class TransientModelRun {
         System.out.println("Artists:");
         search.getArtists().stream().forEach((artist) -> {
             System.out.println(" - " + artist.getName() + "("
-                    + ListUtils.getListAsString(TransientName.getOnlyNames(artist.getAliases())) + ") | " + artist.getLink());
+                    + ListUtils.getListAsString(VGMdbName.getOnlyNames(artist.getAliases())) + ") | " + artist.getLink());
         });
 
         System.out.println("Organisations:");
         search.getOrgs().stream().forEach((org) -> {
-            System.out.println(" - " + ListUtils.getListAsString(TransientName.getOnlyNames(org.getAliases())) + " | " + org.getLink());
+            System.out.println(" - " + ListUtils.getListAsString(VGMdbName.getOnlyNames(org.getAliases())) + " | " + org.getLink());
         });
 
         System.out.println("Products:");
@@ -55,7 +55,7 @@ public class TransientModelRun {
     }
 
     private static void test_Product(String query) throws Exception {
-        TransientProduct product = VGMdb.getProduct(query);
+        VGMdbProduct product = VGMdb.getProduct(query);
 
         System.out.println("Product: " + product.getName() + " / " + product.getLink());
         System.out.println("getDescription: " + product.getDescription());
@@ -90,7 +90,7 @@ public class TransientModelRun {
     }
 
     private static void test_getOrg(String query) throws Exception {
-        TransientOrganisation org = VGMdb.getOrganisation(query);
+        VGMdbOrganisation org = VGMdb.getOrganisation(query);
 
         System.out.println("Organisation: " + org.getName() + " / " + org.getLink());
         System.out.println("Desc: " + org.getDescription());
@@ -105,7 +105,7 @@ public class TransientModelRun {
     }
 
     private static void test_getArtist(String person_band, String query) throws Exception {
-        TransientArtist artist = VGMdb.getArtist(query);
+        VGMdbArtist artist = VGMdb.getArtist(query);
 
         System.out.println("test_getArtist()");
         System.out.println(person_band + ": " + artist.getName() + " / " + artist.getLink());
@@ -127,7 +127,7 @@ public class TransientModelRun {
         System.out.println("Picture: " + artist.getPicture().getSmall() + " / " + artist.getPicture().getFull());
 
         System.out.println(person_band + "Info:");
-        if (artist.getType() == ArtistType.unit) {
+        if (artist.getType() == VGMdbArtistType.unit) {
             System.out.println("Formed: " + artist.getBandInfo().getFormed());
             System.out.println("Member:");
             artist.getBandInfo().getMember().stream().forEach((member) -> {
@@ -138,7 +138,7 @@ public class TransientModelRun {
                 System.out.println(" - " + member.getNames().get(0).getName() + " | " + member.getLink());
             });
         }
-        if (artist.getType() == ArtistType.individual) {
+        if (artist.getType() == VGMdbArtistType.individual) {
             System.out.println("getBirthdate: " + artist.getPersonInfo().getBirthdate());
             System.out.println("getBloodtype: " + artist.getPersonInfo().getBloodtype());
             System.out.println("getGender: " + artist.getPersonInfo().getGender().getHumanizedName());

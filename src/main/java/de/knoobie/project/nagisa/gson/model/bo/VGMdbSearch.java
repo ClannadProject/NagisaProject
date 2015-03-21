@@ -8,7 +8,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientSearch {
+class VGMdbSearch {
 
     public static final String VGMDB_DIR = "search";
 
@@ -16,22 +16,22 @@ class TransientSearch {
     private String link;
     private String vgmdbLink;
 
-    private TransientMeta meta;
+    private VGMdbMeta meta;
 
     private List<String> sections = new ArrayList<>();
-    private List<TransientAlbum> albums = new ArrayList<>();
-    private List<TransientArtist> artists = new ArrayList<>();
-    private List<TransientOrganisation> orgs = new ArrayList<>();
-    private List<TransientProduct> products = new ArrayList<>();
+    private List<VGMdbAlbum> albums = new ArrayList<>();
+    private List<VGMdbArtist> artists = new ArrayList<>();
+    private List<VGMdbOrganisation> orgs = new ArrayList<>();
+    private List<VGMdbProduct> products = new ArrayList<>();
 
-    public TransientSearch(SearchResult searchResult) {
+    public VGMdbSearch(SearchResult searchResult) {
         if (searchResult == null) {
             return;
         }
         this.setLink(StringUtils.trim(searchResult.getLink()));
         this.setQuery(StringUtils.trim(searchResult.getQuery()));
         this.setVgmdbLink(StringUtils.trim(searchResult.getVgmdbLink()));
-        this.setMeta(new TransientMeta(searchResult.getMeta()));
+        this.setMeta(new VGMdbMeta(searchResult.getMeta()));
 
         if (!ListUtils.isEmpty(searchResult.getSections())) {
             searchResult.getSections().stream().forEach((section) -> {
@@ -45,7 +45,7 @@ class TransientSearch {
 
         if (!ListUtils.isEmpty(searchResult.getResults().getAlbums())) {
             searchResult.getResults().getAlbums().stream().forEach((album) -> {
-                getAlbums().add(new TransientAlbum(
+                getAlbums().add(new VGMdbAlbum(
                         album.getNames(),
                         album.getLink(),
                         album.getCatalog(),
@@ -58,7 +58,7 @@ class TransientSearch {
 
         if (!ListUtils.isEmpty(searchResult.getResults().getArtists())) {
             searchResult.getResults().getArtists().stream().forEach((artist) -> {
-                getArtists().add(new TransientArtist(
+                getArtists().add(new VGMdbArtist(
                         artist.getNames(),
                         artist.getAliases(),
                         artist.getLink()));
@@ -67,7 +67,7 @@ class TransientSearch {
 
         if (!ListUtils.isEmpty(searchResult.getResults().getOrgs())) {
             searchResult.getResults().getOrgs().stream().forEach((org) -> {
-                getOrgs().add(new TransientOrganisation(
+                getOrgs().add(new VGMdbOrganisation(
                         org.getNames(),
                         org.getLink()));
             });
@@ -75,7 +75,7 @@ class TransientSearch {
 
         if (!ListUtils.isEmpty(searchResult.getResults().getProducts())) {
             searchResult.getResults().getProducts().stream().forEach((product) -> {
-                getProducts().add(new TransientProduct(
+                getProducts().add(new VGMdbProduct(
                         product.getNames(),
                         product.getLink(),
                         product.getType()));

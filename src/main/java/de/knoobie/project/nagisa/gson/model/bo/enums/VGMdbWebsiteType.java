@@ -2,20 +2,16 @@ package de.knoobie.project.nagisa.gson.model.bo.enums;
 
 import de.knoobie.project.clannadutils.interfaces.AdvancedEnum;
 
-public enum NameLanguage implements AdvancedEnum {
+public enum VGMdbWebsiteType implements AdvancedEnum {
 
-    alias("Alias"),
-    eng("English"),
-    eng_furigana("English from Furigana"),
-    jap("Japanese"),
-    ja_latn("Japanese (Latein)"),
-    ja_romaji("Japanese (Romaji)"),
-    ja_furigana("Japanese (Furigana)"),
-    original("Original");
+    unknown("Unknown"),
+    review("Review"),
+    personal("Personal"),
+    official("Official");
 
     private final String humanizedName;
 
-    NameLanguage(String humanizedName) {
+    VGMdbWebsiteType(String humanizedName) {
         this.humanizedName = humanizedName;
     }
 
@@ -31,7 +27,7 @@ public enum NameLanguage implements AdvancedEnum {
 
     @Override
     public AdvancedEnum[] getValues() {
-        return NameLanguage.values();
+        return VGMdbWebsiteType.values();
     }
 
 }

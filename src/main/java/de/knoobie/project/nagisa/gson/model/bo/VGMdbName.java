@@ -2,7 +2,7 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.nagisa.gson.model.bo.enums.NameLanguage;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbNameLanguage;
 import de.knoobie.project.nagisa.gson.model.dto.json.artist.ArtistAlias;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
 import java.util.ArrayList;
@@ -10,25 +10,25 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientName {
+class VGMdbName {
 
     private String name;
     private String date;
-    private NameLanguage language;
+    private VGMdbNameLanguage language;
 
-    public TransientName(String name, NameLanguage language) {
+    public VGMdbName(String name, VGMdbNameLanguage language) {
         this.setName(name);
         this.setDate(StringUtils.EMPTY);
         this.setLanguage(language);
     }
 
-    public TransientName(String name, String date, NameLanguage language) {
+    public VGMdbName(String name, String date, VGMdbNameLanguage language) {
         this.setName(name);
         this.setDate(date);
         this.setLanguage(language);
     }
 
-    public static List<String> getOnlyNames(List<TransientName> names) {
+    public static List<String> getOnlyNames(List<VGMdbName> names) {
         List<String> result = new ArrayList<>();
 
         if (ListUtils.isEmpty(names)) {
@@ -42,8 +42,8 @@ class TransientName {
         return result;
     }
 
-    public static List<TransientName> parseNames(List<ArtistAlias> aliases) {
-        List<TransientName> list = new ArrayList<>();
+    public static List<VGMdbName> parseNames(List<ArtistAlias> aliases) {
+        List<VGMdbName> list = new ArrayList<>();
 
         if (ListUtils.isEmpty(aliases)) {
             return list;
@@ -56,47 +56,47 @@ class TransientName {
         return list;
     }
 
-    public static List<TransientName> parseNames(Names names) {
+    public static List<VGMdbName> parseNames(Names names) {
         return parseNames(names, StringUtils.EMPTY);
     }
 
-    public static List<TransientName> parseNames(Names names, String date) {
-        List<TransientName> list = new ArrayList<>();
+    public static List<VGMdbName> parseNames(Names names, String date) {
+        List<VGMdbName> list = new ArrayList<>();
 
         if (names == null) {
             return list;
         }
 
         if (!StringUtils.isEmpty(names.getEn())) {
-            list.add(new TransientName(StringUtils.trim(names.getEn()), date, NameLanguage.eng));
+            list.add(new VGMdbName(StringUtils.trim(names.getEn()), date, VGMdbNameLanguage.eng));
         }
 
         if (!StringUtils.isEmpty(names.getEnglish())) {
-            list.add(new TransientName(StringUtils.trim(names.getEnglish()), date, NameLanguage.eng));
+            list.add(new VGMdbName(StringUtils.trim(names.getEnglish()), date, VGMdbNameLanguage.eng));
         }
 
         if (!StringUtils.isEmpty(names.getEng_furigana())) {
-            list.add(new TransientName(StringUtils.trim(names.getEng_furigana()), date, NameLanguage.eng_furigana));
+            list.add(new VGMdbName(StringUtils.trim(names.getEng_furigana()), date, VGMdbNameLanguage.eng_furigana));
         }
 
         if (!StringUtils.isEmpty(names.getJa())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa()), date, NameLanguage.jap));
+            list.add(new VGMdbName(StringUtils.trim(names.getJa()), date, VGMdbNameLanguage.jap));
         }
 
         if (!StringUtils.isEmpty(names.getJa_furigana())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa_furigana()), date, NameLanguage.ja_furigana));
+            list.add(new VGMdbName(StringUtils.trim(names.getJa_furigana()), date, VGMdbNameLanguage.ja_furigana));
         }
 
         if (!StringUtils.isEmpty(names.getJa_latn())) {
-            list.add(new TransientName(StringUtils.trim(names.getJa_latn()), date, NameLanguage.ja_latn));
+            list.add(new VGMdbName(StringUtils.trim(names.getJa_latn()), date, VGMdbNameLanguage.ja_latn));
         }
 
         if (!StringUtils.isEmpty(names.getRomaji())) {
-            list.add(new TransientName(StringUtils.trim(names.getRomaji()), date, NameLanguage.ja_romaji));
+            list.add(new VGMdbName(StringUtils.trim(names.getRomaji()), date, VGMdbNameLanguage.ja_romaji));
         }
 
         if (!StringUtils.isEmpty(names.getOriginal())) {
-            list.add(new TransientName(StringUtils.trim(names.getOriginal()), date, NameLanguage.original));
+            list.add(new VGMdbName(StringUtils.trim(names.getOriginal()), date, VGMdbNameLanguage.original));
         }
 
         return list;

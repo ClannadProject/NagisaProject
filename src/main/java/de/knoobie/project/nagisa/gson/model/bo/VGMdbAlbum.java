@@ -2,7 +2,7 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.nagisa.gson.model.bo.enums.WebsiteType;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbWebsiteType;
 import de.knoobie.project.nagisa.gson.model.dto.json.album.Album;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
 import java.util.ArrayList;
@@ -10,7 +10,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientAlbum {
+class VGMdbAlbum {
 
     public static final String VGMDB_DIR = "album";
 
@@ -32,45 +32,45 @@ class TransientAlbum {
     private Double rating;
     private Boolean reprint;
 
-    private TransientPicture picture;
-    private List<TransientPicture> pictures = new ArrayList<>();
+    private VGMdbPicture picture;
+    private List<VGMdbPicture> pictures = new ArrayList<>();
 
     private List<String> platforms = new ArrayList<>();
 
-    private List<TransientName> names = new ArrayList<>();
-    private List<TransientAlbumDisc> discs = new ArrayList<>();
+    private List<VGMdbName> names = new ArrayList<>();
+    private List<VGMdbAlbumDisc> discs = new ArrayList<>();
 
     // Contains -> arrangers, composers, performers, 
-    private List<TransientPerson> performers = new ArrayList<>();
-    private List<TransientPerson> arrangers = new ArrayList<>();
-    private List<TransientPerson> composers = new ArrayList<>();
-    private List<TransientProduct> products = new ArrayList<>();
+    private List<VGMdbPerson> performers = new ArrayList<>();
+    private List<VGMdbPerson> arrangers = new ArrayList<>();
+    private List<VGMdbPerson> composers = new ArrayList<>();
+    private List<VGMdbProduct> products = new ArrayList<>();
 
-    private TransientOrganisation publisher;
-    private TransientOrganisation distributor;
-    private TransientAlbumRelease release;
-    private TransientMeta meta;
+    private VGMdbOrganisation publisher;
+    private VGMdbOrganisation distributor;
+    private VGMdbAlbumRelease release;
+    private VGMdbMeta meta;
 
-    private List<TransientAlbum> relatedAlbums = new ArrayList<>();
-    private List<TransientAlbumReprint> reprints = new ArrayList<>();
+    private List<VGMdbAlbum> relatedAlbums = new ArrayList<>();
+    private List<VGMdbAlbumReprint> reprints = new ArrayList<>();
 
-    private List<TransientStore> stores = new ArrayList<>();
-    private List<TransientWebsite> websites = new ArrayList<>();
+    private List<VGMdbStore> stores = new ArrayList<>();
+    private List<VGMdbWebsite> websites = new ArrayList<>();
 
-    public TransientAlbum(Names names, String link, String catalog, String type) {
+    public VGMdbAlbum(Names names, String link, String catalog, String type) {
         if (names == null) {
             this.setLink(StringUtils.EMPTY);
             this.setCatalog(StringUtils.EMPTY);
             this.setType(StringUtils.EMPTY);
             return;
         }
-        this.setNames(TransientName.parseNames(names));
+        this.setNames(VGMdbName.parseNames(names));
         this.setLink(StringUtils.trim(link));
         this.setCatalog(StringUtils.trim(catalog));
         this.setType(StringUtils.trim(type));
     }
 
-    public TransientAlbum(Names names, String link, String catalog, String type,
+    public VGMdbAlbum(Names names, String link, String catalog, String type,
             String releaseDate, Boolean reprint, List<String> classifications) {
         this(names, link, catalog, type);
         if (names == null) {
@@ -84,7 +84,7 @@ class TransientAlbum {
         this.setClassification(ListUtils.getListAsString(classifications));
     }
 
-    public TransientAlbum(Album album) {
+    public VGMdbAlbum(Album album) {
         if (album == null) {
             System.out.println("Generated empty transientalbum. Album was null.");
             return;
@@ -97,17 +97,17 @@ class TransientAlbum {
         this.setMediaFormat(StringUtils.trim(album.getMediaFormat()));
         this.setReleaseDate(StringUtils.trim(album.getReleaseDate()));
         this.setDescription(StringUtils.trim(album.getNotes()));
-        this.setPicture(new TransientPicture(StringUtils.trim(album.getPictureSmall()),
+        this.setPicture(new VGMdbPicture(StringUtils.trim(album.getPictureSmall()),
                 StringUtils.trim(album.getPictureFull())));
         this.setPublishFormat(StringUtils.trim(album.getPublishFormat()));
         this.setVgmdbLink(StringUtils.trim(album.getVgmdbLink()));
 
         this.setName(StringUtils.trim(album.getName()));
-        this.setNames(TransientName.parseNames(album.getNames()));
+        this.setNames(VGMdbName.parseNames(album.getNames()));
 
         if (!ListUtils.isEmpty(album.getPerformers())) {
             album.getPerformers().stream().forEach((performer) -> {
-                getPerformers().add(new TransientPerson(
+                getPerformers().add(new VGMdbPerson(
                         performer.getNames(),
                         StringUtils.trim(performer.getLink())));
             });
@@ -115,7 +115,7 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getArrangers())) {
             album.getArrangers().stream().forEach((arranger) -> {
-                getArrangers().add(new TransientPerson(
+                getArrangers().add(new VGMdbPerson(
                         arranger.getNames(),
                         StringUtils.trim(arranger.getLink())));
             });
@@ -123,27 +123,27 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getComposers())) {
             album.getComposers().stream().forEach((composer) -> {
-                getComposers().add(new TransientPerson(
+                getComposers().add(new VGMdbPerson(
                         composer.getNames(),
                         StringUtils.trim(composer.getLink())));
             });
         }
 
         if (album.getPublisher() != null) {
-            this.setPublisher(new TransientOrganisation(
+            this.setPublisher(new VGMdbOrganisation(
                     album.getPublisher().getNames(),
                     StringUtils.trim(album.getPublisher().getLink())));
         }
 
         if (album.getDistributor() != null) {
-            this.setDistributor(new TransientOrganisation(
+            this.setDistributor(new VGMdbOrganisation(
                     album.getDistributor().getNames(),
                     StringUtils.trim(album.getDistributor().getLink())));
         }
 
         if (!ListUtils.isEmpty(album.getCovers())) {
             album.getCovers().stream().forEach((cover) -> {
-                getPictures().add(new TransientPicture(
+                getPictures().add(new VGMdbPicture(
                         StringUtils.trim(cover.getName()),
                         StringUtils.trim(cover.getThumb()),
                         StringUtils.trim(cover.getMedium()),
@@ -153,7 +153,7 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getDiscs())) {
             album.getDiscs().stream().forEach((disc) -> {
-                getDiscs().add(new TransientAlbumDisc(disc));
+                getDiscs().add(new VGMdbAlbumDisc(disc));
             });
         }
 
@@ -171,7 +171,7 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getProducts())) {
             album.getProducts().stream().forEach((product) -> {
-                getProducts().add(new TransientProduct(
+                getProducts().add(new VGMdbProduct(
                         product.getNames(),
                         StringUtils.trim(product.getLink())));
             });
@@ -179,7 +179,7 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getRelated())) {
             album.getRelated().stream().forEach((relatedAlbum) -> {
-                getRelatedAlbums().add(new TransientAlbum(
+                getRelatedAlbums().add(new VGMdbAlbum(
                         relatedAlbum.getNames(),
                         relatedAlbum.getLink(),
                         relatedAlbum.getCatalog(),
@@ -190,7 +190,7 @@ class TransientAlbum {
         if (!ListUtils.isEmpty(album.getReprints())) {
             this.setReprint(Boolean.TRUE);
             album.getReprints().stream().forEach((relatedAlbum) -> {
-                getReprints().add(new TransientAlbumReprint(
+                getReprints().add(new VGMdbAlbumReprint(
                         relatedAlbum.getNote(),
                         relatedAlbum.getCatalog(),
                         relatedAlbum.getLink()));
@@ -201,7 +201,7 @@ class TransientAlbum {
 
         if (!ListUtils.isEmpty(album.getStores())) {
             album.getStores().stream().forEach((store) -> {
-                getStores().add(new TransientStore(
+                getStores().add(new VGMdbStore(
                         store.getName(),
                         store.getLink()));
             });
@@ -209,20 +209,20 @@ class TransientAlbum {
 
         if (album.getWebsites() != null) {
             album.getWebsites().getReview().stream().forEach((review) -> {
-                getWebsites().add(new TransientWebsite(
+                getWebsites().add(new VGMdbWebsite(
                         review.getName(),
                         review.getLink(),
-                        WebsiteType.review));
+                        VGMdbWebsiteType.review));
             });
         }
 
-        this.setRelease(new TransientAlbumRelease(
+        this.setRelease(new VGMdbAlbumRelease(
                 album.getReleaseDate(),
                 album.getReleasePrice()));
 
         this.setVotes(album.getVotes());
         this.setRating(album.getRating());
-        this.setMeta(new TransientMeta(album.getMeta()));
+        this.setMeta(new VGMdbMeta(album.getMeta()));
     }
 
 }

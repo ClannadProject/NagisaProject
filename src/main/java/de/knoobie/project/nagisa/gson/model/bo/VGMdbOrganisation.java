@@ -9,7 +9,7 @@ import java.util.List;
 import lombok.Data;
 
 public @Data
-class TransientOrganisation {
+class VGMdbOrganisation {
 
     public static final String VGMDB_DIR = "org";
 
@@ -20,18 +20,18 @@ class TransientOrganisation {
     private String type;
     private String vgmdbLink;
 
-    private TransientPicture picture;
-    private TransientMeta meta;
+    private VGMdbPicture picture;
+    private VGMdbMeta meta;
 
-    private List<TransientName> aliases = new ArrayList<>();
-    private List<TransientOrganisationRelease> releases = new ArrayList<>();
+    private List<VGMdbName> aliases = new ArrayList<>();
+    private List<VGMdbOrganisationRelease> releases = new ArrayList<>();
 
-    public TransientOrganisation(Names names, String link) {
-        this.setAliases(TransientName.parseNames(names));
+    public VGMdbOrganisation(Names names, String link) {
+        this.setAliases(VGMdbName.parseNames(names));
         this.setLink(StringUtils.trim(link));
     }
 
-    public TransientOrganisation(Organisation organisation) {
+    public VGMdbOrganisation(Organisation organisation) {
         if (organisation == null) {
             System.out.println("Generated empty transientorganisation. Organisation was null.");
             return;
@@ -44,13 +44,13 @@ class TransientOrganisation {
         this.setType(StringUtils.trim(organisation.getType()));
         this.setVgmdbLink(StringUtils.trim(organisation.getVgmdbLink()));
 
-        this.setPicture(new TransientPicture(StringUtils.trim(organisation.getPictureSmall()),
+        this.setPicture(new VGMdbPicture(StringUtils.trim(organisation.getPictureSmall()),
                 StringUtils.trim(organisation.getPictureFull())));
-        this.setMeta(new TransientMeta(organisation.getMeta()));
+        this.setMeta(new VGMdbMeta(organisation.getMeta()));
 
         if (!ListUtils.isEmpty(organisation.getReleases())) {
             organisation.getReleases().stream().forEach((release) -> {
-                getReleases().add(new TransientOrganisationRelease(release));
+                getReleases().add(new VGMdbOrganisationRelease(release));
             });
         }
     }
