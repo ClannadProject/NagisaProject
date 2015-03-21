@@ -25,34 +25,34 @@ public class VGMdb {
 
     private static final String VGMDB_URL = "http://vgmdb.info";
     private static final String VGMDB_FORMAT_PARAMETER = "format=json";
-    
+
     public static VGMdbSearch search(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbSearch(get(createJSON(VGMdbSearch.VGMDB_DIR, query), SearchResult.class));
     }
-    
+
     public static VGMdbArtist getArtist(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbArtist(get(createJSON(VGMdbArtist.VGMDB_DIR, query), Artist.class));
     }
 
     public static VGMdbAlbum getAlbum(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbAlbum(get(createJSON(VGMdbAlbum.VGMDB_DIR, query), Album.class));
     }
 
     public static VGMdbProduct getProduct(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbProduct(get(createJSON(VGMdbProduct.VGMDB_DIR, query), Product.class));
     }
 
     public static VGMdbEvent getEvent(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbEvent(get(createJSON(VGMdbEvent.VGMDB_DIR, query), Event.class));
     }
 
     public static VGMdbOrganisation getOrganisation(String query) throws
-            JsonSyntaxException, IOException, FileNotFoundException {
+            IllegalArgumentException, JsonSyntaxException, IOException {
         return new VGMdbOrganisation(get(createJSON(VGMdbOrganisation.VGMDB_DIR, query), Organisation.class));
     }
 
@@ -60,14 +60,18 @@ public class VGMdb {
         return new GsonBuilder().create().fromJson(json, classOfT);
     }
 
-    private static String createJSON(String hierachy, String query) throws IOException, FileNotFoundException  {
-        return readUrl(VGMDB_URL
-                + "/"
-                + NetUtils.normalizeFragment(hierachy)
-                + "/"
-                + NetUtils.normalizeFragment(query)
-                + "?"
-                + VGMDB_FORMAT_PARAMETER);
+    private static String createJSON(String hierachy, String query) throws IOException, IllegalArgumentException {
+        try {
+            return readUrl(VGMDB_URL
+                    + "/"
+                    + NetUtils.normalizeFragment(hierachy)
+                    + "/"
+                    + NetUtils.normalizeFragment(query)
+                    + "?"
+                    + VGMDB_FORMAT_PARAMETER);
+        } catch (FileNotFoundException e) {
+            throw new IllegalArgumentException("Couldn't find any data with query: " + query, e);
+        }
     }
 
     private static String readUrl(String url) throws IOException, FileNotFoundException {

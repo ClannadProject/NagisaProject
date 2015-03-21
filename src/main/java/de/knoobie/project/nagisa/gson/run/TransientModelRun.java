@@ -1,5 +1,6 @@
 package de.knoobie.project.nagisa.gson.run;
 
+import com.google.gson.JsonSyntaxException;
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbName;
@@ -8,10 +9,11 @@ import de.knoobie.project.nagisa.gson.model.bo.VGMdbProduct;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbSearch;
 import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbArtistType;
 import de.knoobie.project.nagisa.gson.util.VGMdb;
+import java.io.IOException;
 
 public class TransientModelRun {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IllegalArgumentException, JsonSyntaxException, IOException {
 
 
 //        test_getOrg("1");
@@ -22,10 +24,10 @@ public class TransientModelRun {
 //        test_Product("1020"); // Video
 //        test_Product("1021"); // Video
 //        test_Product("1028"); // Game
-//        test_search("vagran")
+        test_search("vagran");
     }
 
-    private static void test_search(String query) throws Exception {
+    private static void test_search(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
         VGMdbSearch search = VGMdb.search(query);
 
         System.out.println("Query: " + search.getQuery() + " / " + search.getLink());
