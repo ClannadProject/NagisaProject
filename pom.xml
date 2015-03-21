@@ -9,15 +9,15 @@
     <packaging>jar</packaging>
     
     <dependencies>
-        <dependency>
-            <groupId>com.google.code.gson</groupId>
-            <artifactId>gson</artifactId>
-            <version>2.3.1</version>
-        </dependency>
         <dependency> 
             <groupId>de.knoobie</groupId> 
             <artifactId>ClannadProjectUtils</artifactId> 
             <version>trunk</version> 
+        </dependency>
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.3.1</version>
         </dependency>
         <dependency> 
             <groupId>org.projectlombok</groupId> 

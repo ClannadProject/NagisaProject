@@ -1,7 +1,6 @@
 package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.StringUtils;
-import de.knoobie.project.nagisa.gson.model.dto.json.event.EventRelease;
 import de.knoobie.project.nagisa.gson.model.dto.json.product.ProductTitle;
 import java.util.ArrayList;
 import java.util.List;
