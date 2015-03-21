@@ -33,6 +33,10 @@ VGMdbEvent event = VGMdb.getEvent("4");
 VGMdbOrganisation org = VGMdb.getOrganisation("1");
 VGMdbProduct product = VGMdb.getProduct("1018");
 VGMdbSearch searchResult = VGMdb.search("Clannad After Story");
+			searchResult.getAlbums();
+			searchResult.getArtists();
+			searchResult.getOrgs();
+			searchResult.getProducts();
 
 ```
         
