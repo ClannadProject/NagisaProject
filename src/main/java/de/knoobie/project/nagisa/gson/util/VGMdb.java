@@ -4,6 +4,7 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonSyntaxException;
 import de.knoobie.project.clannadutils.common.IOUtils;
 import de.knoobie.project.clannadutils.common.NetUtils;
+import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbAlbum;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbEvent;
@@ -17,6 +18,7 @@ import de.knoobie.project.nagisa.gson.model.dto.json.organisation.Organisation;
 import de.knoobie.project.nagisa.gson.model.dto.json.product.Product;
 import de.knoobie.project.nagisa.gson.model.dto.json.search.SearchResult;
 import java.io.BufferedReader;
+import java.io.*;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -57,9 +59,41 @@ public class VGMdb {
     }
 
     private static <T> T get(String json, Class<T> classOfT) throws JsonSyntaxException {
-        return new GsonBuilder().create().fromJson(json, classOfT);
+        if (!StringUtils.isEmpty(json)) {
+            json = json.replaceAll("\\\\\"", "");
+//            stringToFile(json, "C:\\kantai-json.txt");
+//            System.out.println(json);
+        }
+        return new GsonBuilder()
+                //    .setPrettyPrinting()
+                //    .disableHtmlEscaping()
+                .create().fromJson(json, classOfT);
     }
 
+//    private static void stringToFile( String text, String fileName )
+// {
+// try
+// {
+//     File file = new File( fileName );
+//
+//    // if file doesnt exists, then create it 
+//    if ( ! file.exists( ) )
+//    {
+//        file.createNewFile( );
+//    }
+//
+//    FileWriter fw = new FileWriter( file.getAbsoluteFile( ) );
+//    BufferedWriter bw = new BufferedWriter( fw );
+//    bw.write( text );
+//    bw.close( );
+//    //System.out.println("Done writing to " + fileName); //For testing 
+// }
+// catch( IOException e )
+// {
+// System.out.println("Error: " + e);
+// e.printStackTrace( );
+// }
+//} 
     private static String createJSON(String hierachy, String query) throws IOException, IllegalArgumentException {
         try {
             return readUrl(VGMDB_URL
@@ -76,7 +110,7 @@ public class VGMdb {
 
     private static String readUrl(String url) throws IOException, FileNotFoundException {
         return IOUtils.getString(new BufferedReader(
-                new InputStreamReader(NetUtils.getInputStream(url))));
+                new InputStreamReader(NetUtils.getInputStream(url), "UTF-8")));
 
     }
 }
