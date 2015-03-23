@@ -43,9 +43,13 @@ class VGMdbAlbum {
     // Contains -> arrangers, composers, performers, 
     private List<VGMdbPerson> performers = new ArrayList<>();
     private List<VGMdbPerson> arrangers = new ArrayList<>();
+    private List<VGMdbPerson> lyricists = new ArrayList<>();
     private List<VGMdbPerson> composers = new ArrayList<>();
     private List<VGMdbProduct> products = new ArrayList<>();
 
+    // FETTES TODO lyricists
+    
+    
     private VGMdbOrganisation publisher;
     private VGMdbOrganisation distributor;
     private VGMdbAlbumRelease release;
@@ -118,6 +122,14 @@ class VGMdbAlbum {
                 getArrangers().add(new VGMdbPerson(
                         arranger.getNames(),
                         StringUtils.trim(arranger.getLink())));
+            });
+        }
+
+        if (!ListUtils.isEmpty(album.getLyricists())) {
+            album.getLyricists().stream().forEach((lyricist) -> {
+                getLyricists().add(new VGMdbPerson(
+                        lyricist.getNames(),
+                        StringUtils.trim(lyricist.getLink())));
             });
         }
 
