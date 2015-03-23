@@ -14,8 +14,7 @@ import java.io.IOException;
 public class TransientModelRun {
 
     public static void main(String[] args) throws IllegalArgumentException, JsonSyntaxException, IOException {
-
-
+//        VGMdbAlbum album = VGMdb.getAlbum("50587");
 //        test_getOrg("1");
 //        test_getArtist("Band", "6310");
 //        test_getArtist("Person", "5");
@@ -24,9 +23,9 @@ public class TransientModelRun {
 //        test_Product("1020"); // Video
 //        test_Product("1021"); // Video
 //        test_Product("1028"); // Game
-        test_search("vagran");
+        test_search("kantai");
     }
-
+    
     private static void test_search(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
         VGMdbSearch search = VGMdb.search(query);
 
