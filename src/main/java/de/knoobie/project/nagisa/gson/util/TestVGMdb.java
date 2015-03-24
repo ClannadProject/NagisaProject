@@ -23,10 +23,9 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class VGMdb {
+public class TestVGMdb {
 
-    private static final String VGMDB_URL = "http://vgmdb.info";
-    private static final String VGMDB_FORMAT_PARAMETER = "format=json";
+    private static final String VGMDB_URL = "/testjson";
 
     public static VGMdbSearch search(String query) throws
             IllegalArgumentException, JsonSyntaxException, IOException {
@@ -68,20 +67,26 @@ public class VGMdb {
 
     private static String createJSON(String hierachy, String query) throws IOException, IllegalArgumentException {
         try {
+            System.out.println("URL: "+ VGMDB_URL
+                    + "/"
+                    + NetUtils.normalizeFragment(hierachy)
+                    + "/"
+                    + NetUtils.normalizeFragment(query)
+                    + ".json");
             return readUrl(VGMDB_URL
                     + "/"
                     + NetUtils.normalizeFragment(hierachy)
                     + "/"
                     + NetUtils.normalizeFragment(query)
-                    + "?"
-                    + VGMDB_FORMAT_PARAMETER);
+                    + ".json");
         } catch (FileNotFoundException e) {
             throw new IllegalArgumentException("Couldn't find any data with query: " + query, e);
         }
     }
 
-    private static String readUrl(String url) throws IOException, FileNotFoundException {
+    private static String readUrl(String url) throws IOException, FileNotFoundException {       
         return IOUtils.getString(new BufferedReader(
-                new InputStreamReader(NetUtils.getInputStream(url), "UTF-8")));
+                new InputStreamReader(TestVGMdb.class.getResourceAsStream(url), "UTF-8")));
     }
+    
 }

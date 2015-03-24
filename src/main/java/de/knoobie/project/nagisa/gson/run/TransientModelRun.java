@@ -8,12 +8,15 @@ import de.knoobie.project.nagisa.gson.model.bo.VGMdbOrganisation;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbProduct;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbSearch;
 import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbArtistType;
+import de.knoobie.project.nagisa.gson.util.TestVGMdb;
 import de.knoobie.project.nagisa.gson.util.VGMdb;
 import java.io.IOException;
 
 public class TransientModelRun {
 
     public static void main(String[] args) throws IllegalArgumentException, JsonSyntaxException, IOException {
+        TestVGMdb.getArtist("7699");
+        
 //        VGMdbAlbum album = VGMdb.getAlbum("50587");
 //        test_getOrg("1");
 //        test_getArtist("Band", "6310");

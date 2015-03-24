@@ -1,0 +1,257 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "catalog": "SECL-1545",
+    "category": "Animation",
+    "classification": "Vocal",
+    "composers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "12:11",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "heavenly blue"
+                    },
+                    "track_length": "5:20"
+                },
+                {
+                    "names": {
+                        "English": "heavenly blue ~instrumental~"
+                    },
+                    "track_length": "5:20"
+                },
+                {
+                    "names": {
+                        "English": "heavenly blue ~TVsize~"
+                    },
+                    "track_length": "1:31"
+                }
+            ]
+        }
+    ],
+    "link": "album/46037",
+    "lyricists": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2014-05-26T19:13",
+        "edited_date": "2014-07-24T12:28",
+        "freedb": 0,
+        "ttl": 86400,
+        "visitors": 3198
+    },
+    "name": "heavenly blue / Kalafina [Limited Edition]",
+    "names": {
+        "en": "heavenly blue / Kalafina [Limited Edition]",
+        "ja": "heavenly blue / Kalafina [Limited Edition]",
+        "ja-latn": "heavenly blue / Kalafina [Limited Edition]"
+    },
+    "notes": "TV Anime \"ALDNOAH.ZERO\" Opening Theme\nGuitar: Koichi Korenaga\nDrums: Kyoichi Sato\nBass: Tomoharu \"Jr.\" Takahashi\nStrings: Kiyo Kido Strings\nChorus: Remi",
+    "performers": [
+        {
+            "link": "artist/7699",
+            "names": {
+                "en": "Kalafina"
+            }
+        },
+        {
+            "link": "artist/7687",
+            "names": {
+                "en": "Koichi Korenaga",
+                "ja": "是永巧一"
+            }
+        },
+        {
+            "link": "artist/8240",
+            "names": {
+                "en": "Kyoichi Sato",
+                "ja": "佐藤強一"
+            }
+        },
+        {
+            "link": "artist/7689",
+            "names": {
+                "en": "Tomoharu \"Jr.\" Takahashi",
+                "ja": "高橋 \"Jr.\" 知治"
+            }
+        },
+        {
+            "link": "artist/7822",
+            "names": {
+                "en": "Kiyo Kido Strings",
+                "ja": "城戸喜代ストリングス"
+            }
+        },
+        {
+            "link": "artist/3625",
+            "names": {
+                "en": "Remi"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/46037-1408290252.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/46037-1408290252.jpg",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/2772",
+            "names": {
+                "en": "ALDNOAH.ZERO",
+                "ja": "アルドノア・ゼロ",
+                "ja-latn": "ALDNOAH.ZERO"
+            }
+        }
+    ],
+    "publish_format": "Commercial, Limited Edition",
+    "publisher": {
+        "link": "org/717",
+        "names": {
+            "en": "SME Records",
+            "ja": "SME Records",
+            "ja-latn": "SME Records"
+        }
+    },
+    "rating": 3.88,
+    "related": [
+        {
+            "catalog": "DFCL-2082",
+            "link": "album/46200",
+            "names": {
+                "en": "A/Z | aLIEz / SawanoHiroyuki[nZk]",
+                "ja": "A/Z | aLIEz / SawanoHiroyuki[nZk]",
+                "ja-latn": "A/Z | aLIEz / SawanoHiroyuki[nZk]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "DFCL-2083~4",
+            "link": "album/45698",
+            "names": {
+                "en": "A/Z | aLIEz / SawanoHiroyuki[nZk] [Limited Edition]",
+                "ja": "A/Z | aLIEz / SawanoHiroyuki[nZk] [Limited Edition]",
+                "ja-latn": "A/Z | aLIEz / SawanoHiroyuki[nZk] [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70016",
+            "link": "album/46499",
+            "names": {
+                "en": "ALDNOAH.ZERO ORIGINAL SOUNDTRACK",
+                "ja": "アルドノア・ゼロ...",
+                "ja-latn": "ALDNOAH.ZERO ORIGINAL SOUNDTRACK"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZX-11402",
+            "link": "album/46973",
+            "names": {
+                "en": "ALDNOAH.ZERO REARRANGE SOUNDTRACK",
+                "ja": "アルドノア・ゼロ リアレンジ...",
+                "ja-latn": "ALDNOAH.ZERO REARRANGE SOUNDTRACK"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ANZX-11408",
+            "link": "album/47831",
+            "names": {
+                "en": "ALDNOAH.ZERO EXTRA EPISODE 03",
+                "ja": "アルドノア・ゼロ EXTRA EPISODE 03",
+                "ja-latn": "ALDNOAH.ZERO EXTRA EPISODE 03"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "DFCL-2107",
+            "link": "album/49221",
+            "names": {
+                "en": "&Z / SawanoHiroyuki[nZk]",
+                "ja": "&Z / SawanoHiroyuki[nZk]",
+                "ja-latn": "&Z / SawanoHiroyuki[nZk]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "DFCL-2108~9",
+            "link": "album/49222",
+            "names": {
+                "en": "&Z / SawanoHiroyuki[nZk] [Limited Edition]",
+                "ja": "&Z / SawanoHiroyuki[nZk] [Limited Edition]",
+                "ja-latn": "&Z / SawanoHiroyuki[nZk] [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1639",
+            "link": "album/49233",
+            "names": {
+                "en": "GENESIS / Eir Aoi",
+                "ja": "GENESIS / 藍井エイル",
+                "ja-latn": "GENESIS / Eir Aoi"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1640~1",
+            "link": "album/49234",
+            "names": {
+                "en": "GENESIS / Eir Aoi [Limited Edition]",
+                "ja": "GENESIS / 藍井エイル",
+                "ja-latn": "GENESIS / Eir Aoi [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1637~8",
+            "link": "album/49235",
+            "names": {
+                "en": "GENESIS / Eir Aoi [Limited Edition]",
+                "ja": "GENESIS / 藍井エイル",
+                "ja-latn": "GENESIS / Eir Aoi [Limited Edition]"
+            },
+            "type": "anime"
+        }
+    ],
+    "release_date": "2014-08-06",
+    "release_price": {
+        "currency": "JPY",
+        "price": 1200.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "http://www.cdjapan.co.jp/product/SECL-1545",
+            "name": "CD Japan"
+        }
+    ],
+    "vgmdb_link": "http://vgmdb.net/album/46037?perpage=99999",
+    "votes": 4
+}

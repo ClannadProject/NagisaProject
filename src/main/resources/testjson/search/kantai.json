@@ -1,0 +1,308 @@
+{
+    "link": "search/kantai",
+    "meta": {},
+    "query": "kantai",
+    "results": {
+        "albums": [
+            {
+                "catalog": "KNCD-0001",
+                "link": "album/46978",
+                "release_date": "2014-01-19",
+                "titles": {
+                    "en": "Cinematic Suite \"Kantai Shijitsu: Kongo Gata Senkan\"",
+                    "ja": "シネマティック組曲「艦隊史実　金剛型戦艦」",
+                    "ja-latn": "Cinematic Suite \"Kantai Shijitsu: Kongo Gata Senkan\""
+                }
+            },
+            {
+                "catalog": "UPCH-1521~2",
+                "link": "album/35661",
+                "release_date": "2006-10-25",
+                "titles": {
+                    "en": "Glass Fleet Original Soundtrack",
+                    "ja": "ガラスの艦隊 オリジナル・サウンドトラック",
+                    "ja-latn": "Glass no Kantai Original Soundtrack"
+                }
+            },
+            {
+                "catalog": "KACC-5193",
+                "link": "album/45625",
+                "release_date": "2014-08-03",
+                "titles": {
+                    "en": "KanColle Original Sound Track AKATSUKI",
+                    "ja": "艦隊これくしょん -艦これ- KanColle Original Sound Track 暁",
+                    "ja-latn": "Kantai Collection -KanColle- Original Sound Track Akatsuki"
+                }
+            },
+            {
+                "catalog": "KACC-5191",
+                "link": "album/47176",
+                "release_date": "2014-08-03",
+                "titles": {
+                    "en": "KanColle Vocal Collection vol.1",
+                    "ja": "艦隊これくしょん -艦これ- 艦娘想歌【壱】",
+                    "ja-latn": "Kantai Collection -KanColle- Kanmusu Omoiuta [Ichi]"
+                }
+            },
+            {
+                "catalog": "KACC-5192",
+                "link": "album/47177",
+                "release_date": "2014-08-03",
+                "titles": {
+                    "en": "KanColle Vocal Collection vol.2",
+                    "ja": "艦隊これくしょん -艦これ- 艦娘想歌【弐】",
+                    "ja-latn": "Kantai Collection -KanColle- Kanmusu Omoiuta [Ni]"
+                }
+            },
+            {
+                "catalog": "VTCL-60395",
+                "link": "album/50587",
+                "release_date": "2015-03-25",
+                "titles": {
+                    "en": "Kantai Collection -KanColle- Character Song \"Kanmusu no Uta\" Vol.1",
+                    "ja": "TVアニメーション「艦隊これくしょん -艦これ-」キャラクターソング \"艦娘乃歌\" Vol.1",
+                    "ja-latn": "Kantai Collection -KanColle- Character Song \"Kanmusu no Uta\" Vol.1"
+                }
+            },
+            {
+                "catalog": "VTCL-60402~3",
+                "link": "album/51103",
+                "release_date": "2015-03-25",
+                "titles": {
+                    "en": "Kantai Collection -KanColle- Original Soundtrack \"Kankyou\"",
+                    "ja": "TVアニメーション「艦隊これくしょん -艦これ-」オリジナルサウンドトラック \"艦響\"",
+                    "ja-latn": "Kantai Collection -KanColle- Original Soundtrack \"Kankyou\""
+                }
+            },
+            {
+                "catalog": "VTCL-60394",
+                "link": "album/50586",
+                "release_date": "2015-03-25",
+                "titles": {
+                    "en": "Kantai Collection -KanColle- Original Soundtrack \"Kankyou\" Vol.1",
+                    "ja": "TVアニメーション「艦隊これくしょん -艦これ-」オリジナルサウンドトラック \"艦響\" Vol.1",
+                    "ja-latn": "Kantai Collection -KanColle- Original Soundtrack \"Kankyou\" Vol.1"
+                }
+            },
+            {
+                "catalog": "EBCD-0030",
+                "link": "album/42237",
+                "release_date": "2013-10-31",
+                "titles": {
+                    "en": "Kantai Collection Kaisen Collection",
+                    "ja": "艦隊これくしょん 開戦これくしょん",
+                    "ja-latn": "Kantai Collection Kaisen Collection"
+                }
+            },
+            {
+                "catalog": "EE-00001",
+                "link": "album/42883",
+                "release_date": "2013-10-12",
+                "titles": {
+                    "en": "Kantai Collection ~Orchestra Arrange~",
+                    "ja": "艦隊これくしょん ～オーケストラアレンジ～",
+                    "ja-latn": "Kantai Collection ~Orchestra Arrange~"
+                }
+            },
+            {
+                "catalog": "N/A",
+                "link": "album/47405",
+                "release_date": "2014-08-15",
+                "titles": {
+                    "en": "Kantai Collector II",
+                    "ja": "艦隊これくたーII",
+                    "ja-latn": "Kantai Collector II"
+                }
+            },
+            {
+                "catalog": "2DCC-003",
+                "link": "album/42240",
+                "release_date": "2013-10-12",
+                "titles": {
+                    "en": "Kantai Compilation",
+                    "ja": "艦隊こんぴれーしょん",
+                    "ja-latn": "Kantai Compilation"
+                }
+            },
+            {
+                "catalog": "FLCD-018",
+                "link": "album/45451",
+                "release_date": "2014-05-03",
+                "titles": {
+                    "en": "Kantai Nostalgic",
+                    "ja": "艦隊ノスタルジック",
+                    "ja-latn": "Kantai Nostalgic"
+                }
+            },
+            {
+                "catalog": "KNCD-0002",
+                "link": "album/46977",
+                "release_date": "2014-08-16",
+                "titles": {
+                    "en": "Kantai Philharmonic Orchestra",
+                    "ja": "艦隊フィルハーモニー交響楽団",
+                    "ja-latn": "Kantai Philharmonic Orchestra"
+                }
+            },
+            {
+                "catalog": "KNCL-0001",
+                "link": "album/42413",
+                "release_date": "2013-10-27",
+                "titles": {
+                    "en": "Kantai Prelude",
+                    "ja": "艦隊プレリュード",
+                    "ja-latn": "Kantai Prelude"
+                }
+            },
+            {
+                "catalog": "KNCL-0002",
+                "link": "album/43280",
+                "release_date": "2013-12-30",
+                "titles": {
+                    "en": "Kantai Teatime",
+                    "ja": "艦隊ティータイム",
+                    "ja-latn": "Kantai Teatime"
+                }
+            },
+            {
+                "catalog": "CZ-7177",
+                "link": "album/44494",
+                "release_date": "1982-05",
+                "titles": {
+                    "en": "Kikou Kantai Dairugger XV Hit Music Collection",
+                    "ja": "機甲艦隊ダイラガーXV ヒット曲集",
+                    "ja-latn": "Kikou Kantai Dairugger XV Kyokushuu"
+                }
+            },
+            {
+                "catalog": "DQC-846",
+                "link": "album/42356",
+                "release_date": "2011-12-21",
+                "titles": {
+                    "en": "Rengo Kantai Shirei Chokan Yamamoto Isoroku Original Soundtrack",
+                    "ja": "聯合艦隊司令長官 山本五十六 オリジナルサウンドトラック",
+                    "ja-latn": "ISOROKU"
+                }
+            },
+            {
+                "catalog": "SMCD-0002",
+                "link": "album/42235",
+                "release_date": "2013-10-27",
+                "titles": {
+                    "en": "RESPECT2 -Kantai Collection-",
+                    "ja": "RESPECT2 -艦隊これくしょん-",
+                    "ja-latn": "RESPECT2 -Kantai Collection-"
+                }
+            },
+            {
+                "catalog": "KNCD-0003",
+                "link": "album/49773",
+                "release_date": "2014-12-29",
+                "titles": {
+                    "en": "Second Kantai Philharmonic Orchestra",
+                    "ja": "第二次艦隊フィルハーモニー交響楽団",
+                    "ja-latn": "Second Kantai Philharmonic Orchestra"
+                }
+            },
+            {
+                "catalog": "KICA-7949",
+                "link": "album/19202",
+                "release_date": "1999-05-28",
+                "titles": {
+                    "en": "Seishoujo Kantai Virgin Fleet Original Game Soundtrack",
+                    "ja": "聖少女艦隊バージンフリート オリジナル・ゲーム・サントラ",
+                    "ja-latn": "Seishoujo Kantai Virgin Fleet Original Game Soundtrack"
+                }
+            },
+            {
+                "catalog": "KMCA-9",
+                "link": "album/7734",
+                "release_date": "1999-05-28",
+                "titles": {
+                    "en": "Seishoujo Kantai Virgin Fleet Songs & Soundtracks",
+                    "ja": "聖少女艦隊バージンフリート ソングス＆サウンドトラックス",
+                    "ja-latn": "Seishoujo Kantai Virgin Fleet Songs & Soundtracks"
+                }
+            },
+            {
+                "catalog": "KICA-1104",
+                "link": "album/3698",
+                "release_date": "1992-04-22",
+                "titles": {
+                    "en": "The Silent Service Game Original Soundtrack",
+                    "ja": "沈黙の艦隊 ゲーム・オリジナル・サウンドトラック",
+                    "ja-latn": "Chinmoku no Kantai Game Original Soundtrack"
+                }
+            },
+            {
+                "catalog": "KICA-7922",
+                "link": "album/19201",
+                "release_date": "1998-11-27",
+                "titles": {
+                    "en": "VIRGIN FLEET ORIGINAL SOUNDTRACK",
+                    "ja": "OVA「聖少女艦隊バージンフリート」オリジナルサウンドトラック",
+                    "ja-latn": "OVA Seishojokantai VIRGIN FLEET ORIGINAL SOUNDTRACKS"
+                }
+            }
+        ],
+        "artists": [
+            {
+                "aliases": [
+                    "コナミ矩形波倶楽部",
+                    "KUKEIHAKURABU",
+                    "Konami",
+                    "Club Kukeiha",
+                    "Club Kukeiha",
+                    "KCE Japan Seishoujo Kantai Virgin Fleet Sound Team",
+                    "KCET Sound Team",
+                    "Konami",
+                    "Konami Industry Co.,Ltd.",
+                    "Konami Sound Staff",
+                    "Kukeiha Club",
+                    "KUKEIHAKURABU"
+                ],
+                "link": "artist/161",
+                "names": {
+                    "en": "Konami Kukeiha Club"
+                }
+            }
+        ],
+        "orgs": [],
+        "products": [
+            {
+                "link": "product/2212",
+                "names": {
+                    "en": "Kantai Collection -KanColle-",
+                    "ja": "艦隊これくしょん -艦これ-",
+                    "ja-latn": "Combined Fleet Girls Collection -KanColle-"
+                },
+                "type": "Game"
+            },
+            {
+                "link": "product/2869",
+                "names": {
+                    "en": "Kantai Collection -KanColle-",
+                    "ja": "艦隊これくしょん -艦これ-",
+                    "ja-latn": "Combined Fleet Girls Collection -KanColle-"
+                },
+                "type": "Franchise"
+            },
+            {
+                "link": "product/2870",
+                "names": {
+                    "en": "Kantai Collection -KanColle-",
+                    "ja": "艦隊これくしょん -艦これ-",
+                    "ja-latn": "Fleet Girls Collection KanColle"
+                },
+                "type": "Animation"
+            }
+        ]
+    },
+    "sections": [
+        "albums",
+        "artists",
+        "orgs",
+        "products"
+    ],
+    "vgmdb_link": "http://vgmdb.net/search?q=kantai"
+}

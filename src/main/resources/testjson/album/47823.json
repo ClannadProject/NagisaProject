@@ -1,0 +1,302 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "catalog": "SECL-1612~3",
+    "category": "Animation",
+    "classification": "Vocal",
+    "composers": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "18:01",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "believe"
+                    },
+                    "track_length": "4:49"
+                },
+                {
+                    "names": {
+                        "English": "in every nothing"
+                    },
+                    "track_length": "4:36"
+                },
+                {
+                    "names": {
+                        "English": "lapis"
+                    },
+                    "track_length": "3:47"
+                },
+                {
+                    "names": {
+                        "English": "believe ~instrumental~"
+                    },
+                    "track_length": "4:49"
+                }
+            ]
+        },
+        {
+            "disc_length": "Unknown",
+            "name": "Disc 2",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "believe Music Video"
+                    },
+                    "track_length": "Unknown"
+                }
+            ]
+        }
+    ],
+    "link": "album/47823",
+    "lyricists": [
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "media_format": "CD + DVD",
+    "meta": {
+        "added_date": "2014-08-30T13:04",
+        "edited_date": "2014-11-15T01:47",
+        "ttl": 86400,
+        "visitors": 1073
+    },
+    "name": "believe / Kalafina [Limited Edition]",
+    "names": {
+        "en": "believe / Kalafina [Limited Edition]",
+        "ja": "believe / Kalafina [Limited Edition]",
+        "ja-latn": "believe / Kalafina [Limited Edition]"
+    },
+    "notes": "Kalafina is Wakana, Keiko, Hikaru\nProduced by Yuki Kajiura\nAll Arrangement & Programming: Yuki Kajiura\nM-01 - TV Anime \"Fate/stay night [Unlimited Blade Works]\" Ending Theme\nGuitar: Koichi Korenaga\nDrums: Kyoichi Sato\nBass: Tomoharu \"Jr.\" Takahashi\nStrings: Kiyo Kido Strings\nChorus: Yuriko Kaida\nM-02\nGuitar: Koichi Korenaga\nDrums: Kyoichi Sato\nBass: Tomoharu \"Jr.\" Takahashi\nViolin: Hitoshi Konno\nViola: Masaki Shono\nCello: Masateru Nishikata\nChorus: Yuriko Kaida, Yuki Kajiura\nM-03\nGuitar: Koichi Korenaga\nChorus: Yuki Kajiura\nRecording & Mixing Engineer: Takashi Koiwa (SIGN SOUND)\nMastering Engineer: Yuji Chinone (Sony Music Studios Tokyo)",
+    "performers": [
+        {
+            "link": "artist/7699",
+            "names": {
+                "en": "Kalafina"
+            }
+        },
+        {
+            "link": "artist/7687",
+            "names": {
+                "en": "Koichi Korenaga",
+                "ja": "是永巧一"
+            }
+        },
+        {
+            "link": "artist/8240",
+            "names": {
+                "en": "Kyoichi Sato",
+                "ja": "佐藤強一"
+            }
+        },
+        {
+            "link": "artist/7689",
+            "names": {
+                "en": "Tomoharu \"Jr.\" Takahashi",
+                "ja": "高橋 \"Jr.\" 知治"
+            }
+        },
+        {
+            "link": "artist/7822",
+            "names": {
+                "en": "Kiyo Kido Strings",
+                "ja": "城戸喜代ストリングス"
+            }
+        },
+        {
+            "link": "artist/435",
+            "names": {
+                "en": "Yuriko Kaida",
+                "ja": "貝田由里子"
+            }
+        },
+        {
+            "link": "artist/4113",
+            "names": {
+                "en": "Hitoshi Konno",
+                "ja": "今野均"
+            }
+        },
+        {
+            "link": "artist/12861",
+            "names": {
+                "en": "Masaki Shono",
+                "ja": "生野正樹"
+            }
+        },
+        {
+            "link": "artist/15737",
+            "names": {
+                "en": "Masateru Nishikata",
+                "ja": "西方正輝"
+            }
+        },
+        {
+            "link": "artist/356",
+            "names": {
+                "en": "Yuki Kajiura",
+                "ja": "梶浦由記"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/47823-1412156016.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/47823-1412156016.jpg",
+    "platforms": [
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/2613",
+            "names": {
+                "en": "Fate/stay night [Unlimited Blade Works]",
+                "ja": "Fate/stay night [Unlimited Blade Works]",
+                "ja-latn": "Fate/stay night [Unlimited Blade Works]"
+            }
+        }
+    ],
+    "publish_format": "Commercial, Limited Edition",
+    "publisher": {
+        "link": "org/717",
+        "names": {
+            "en": "SME Records",
+            "ja": "SME Records",
+            "ja-latn": "SME Records"
+        }
+    },
+    "related": [
+        {
+            "catalog": "BVCL-608~9",
+            "link": "album/47754",
+            "names": {
+                "en": "ideal white / Mashiro Ayano [Limited Edition]",
+                "ja": "ideal white / 綾野ましろ",
+                "ja-latn": "ideal white / Mashiro Ayano [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "BVCL-610",
+            "link": "album/47755",
+            "names": {
+                "en": "ideal white / Mashiro Ayano",
+                "ja": "ideal white / 綾野ましろ",
+                "ja-latn": "ideal white / Mashiro Ayano"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "BVCL-611~2",
+            "link": "album/47756",
+            "names": {
+                "en": "ideal white / Mashiro Ayano [Limited Edition]",
+                "ja": "ideal white / 綾野ましろ",
+                "ja-latn": "ideal white / Mashiro Ayano [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1616",
+            "link": "album/47825",
+            "names": {
+                "en": "believe / Kalafina",
+                "ja": "believe / Kalafina",
+                "ja-latn": "believe / Kalafina"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1617~8",
+            "link": "album/47826",
+            "names": {
+                "en": "believe / Kalafina [Limited Edition]",
+                "ja": "believe / Kalafina [Limited Edition]",
+                "ja-latn": "believe / Kalafina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZX-11636",
+            "link": "album/48786",
+            "names": {
+                "en": "Fate/stay night [Unlimited Blade Works] Original Soundtrack...",
+                "ja": "Fate/stay night [Unlimited Blade Works]...",
+                "ja-latn": "Fate/stay night [Unlimited Blade Works] Original Soundtrack..."
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SECL-1691~2",
+            "link": "album/51288",
+            "names": {
+                "en": "ring your bell / Kalafina [Limited Edition]",
+                "ja": "ring your bell / Kalafina [Limited Edition]",
+                "ja-latn": "ring your bell / Kalafina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1695",
+            "link": "album/51290",
+            "names": {
+                "en": "ring your bell / Kalafina",
+                "ja": "ring your bell / Kalafina",
+                "ja-latn": "ring your bell / Kalafina"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SECL-1696~7",
+            "link": "album/51291",
+            "names": {
+                "en": "ring your bell / Kalafina [Limited Edition]",
+                "ja": "ring your bell / Kalafina [Limited Edition]",
+                "ja-latn": "ring your bell / Kalafina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SEJL-27",
+            "link": "album/51292",
+            "names": {
+                "en": "ring your bell / Kalafina [Limited Edition]",
+                "ja": "ring your bell / Kalafina [Limited Edition]",
+                "ja-latn": "ring your bell / Kalafina [Limited Edition]"
+            },
+            "type": "anime"
+        }
+    ],
+    "release_date": "2014-11-19",
+    "release_price": {
+        "currency": "JPY",
+        "price": 1500.0
+    },
+    "reprints": [
+        {
+            "catalog": "SECL-1614~5",
+            "link": "album/47824",
+            "note": "CD + Blu-ray, Nov 19, 2014"
+        }
+    ],
+    "vgmdb_link": "http://vgmdb.net/album/47823?perpage=99999",
+    "votes": 0
+}
