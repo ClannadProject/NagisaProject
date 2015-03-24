@@ -1,0 +1,200 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        }
+    ],
+    "catalog": "KICS-1212",
+    "category": "Animation",
+    "classification": "Vocal, Original Work",
+    "composers": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "http://vgmdb.net/db/assets/covers/2/8/3/2/9/28329-1313797571.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/2/8/3/2/9/28329-1313797571.jpg",
+            "name": "Booklet Front",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/2/8/3/2/9/28329-1313797571.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/2/8/3/2/9/28329-1313797684.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/2/8/3/2/9/28329-1313797684.jpg",
+            "name": "Back",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/2/8/3/2/9/28329-1313797684.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/2/8/3/2/9/28329-1313797677.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/2/8/3/2/9/28329-1313797677.jpg",
+            "name": "Booklet Back",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/2/8/3/2/9/28329-1313797677.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/2/8/3/2/9/28329-1313797695.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/2/8/3/2/9/28329-1313797695.jpg",
+            "name": "Disc",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/2/8/3/2/9/28329-1313797695.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "31:48",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "Japanese": "リリア"
+                    },
+                    "track_length": "4:20"
+                },
+                {
+                    "names": {
+                        "Japanese": "スバラシキセカイ"
+                    },
+                    "track_length": "4:28"
+                },
+                {
+                    "names": {
+                        "Japanese": "ぼくらの時間"
+                    },
+                    "track_length": "4:48"
+                },
+                {
+                    "names": {
+                        "Japanese": "ぐるぐる ～himawari ver.～"
+                    },
+                    "track_length": "4:38"
+                },
+                {
+                    "names": {
+                        "Japanese": "はばたく未来 -album mix-"
+                    },
+                    "track_length": "4:16"
+                },
+                {
+                    "names": {
+                        "Japanese": "バランス"
+                    },
+                    "track_length": "4:51"
+                },
+                {
+                    "names": {
+                        "Japanese": "柔らかい風の中で"
+                    },
+                    "track_length": "4:27"
+                }
+            ]
+        }
+    ],
+    "link": "album/28329",
+    "lyricists": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        },
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "link": "artist/10168",
+            "names": {
+                "en": "Matsuri Ouse",
+                "ja": "逢瀬祭"
+            }
+        },
+        {
+            "names": {
+                "en": "ufotable"
+            }
+        },
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2011-08-19T15:44",
+        "edited_date": "2011-08-26T03:28",
+        "freedb": 1,
+        "ttl": 86400,
+        "visitors": 729
+    },
+    "name": "Wonderful World / eufonius",
+    "names": {
+        "en": "Wonderful World / eufonius",
+        "ja": "スバラシキセカイ / eufonius",
+        "ja-latn": "Subarashiki Sekai / eufonius"
+    },
+    "notes": "All tracks composed and arranged by Hajime Kikuchi.\nLyrics: Hajime Kikuchi (1), riya (2,4-7), Matsuri Ouse (3), ufotable (3), eufonius (3)\nM03 - TV Anime 'Futakoi Alternative' ED1\nM04 - TV Anime 'Himawari!' ED\nM05 - TV Anime 'Futakoi' Arrangement\nM07 - TV Anime 'Futakoi' ED",
+    "performers": [
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/2/8/3/2/9/28329-1313797571.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/2/8/3/2/9/28329-1313797571.jpg",
+    "products": [
+        {
+            "names": {
+                "en": "Futakoi Alternative"
+            }
+        },
+        {
+            "names": {
+                "en": "Himawari!"
+            }
+        },
+        {
+            "names": {
+                "en": "Futakoi"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/21",
+        "names": {
+            "en": "Starchild Records",
+            "ja": "スターチャイルドレコード",
+            "ja-latn": "Starchild Records"
+        }
+    },
+    "rating": 5.0,
+    "related": [],
+    "release_date": "2006-05-24",
+    "release_price": {
+        "currency": "JPY",
+        "price": 2800.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "db/collection.php?do=show&albumid=28329",
+            "name": "1 for sale "
+        }
+    ],
+    "vgmdb_link": "http://vgmdb.net/album/28329?perpage=99999",
+    "votes": 1
+}

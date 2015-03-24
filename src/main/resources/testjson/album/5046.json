@@ -1,0 +1,357 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        },
+        {
+            "link": "artist/94",
+            "names": {
+                "en": "Takumaru",
+                "ja": "たくまる"
+            }
+        },
+        {
+            "link": "artist/959",
+            "names": {
+                "en": "zts"
+            }
+        }
+    ],
+    "catalog": "KSLA-0036",
+    "category": "Game, Animation",
+    "classification": "Vocal, Remix",
+    "composers": [
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        },
+        {
+            "link": "artist/4",
+            "names": {
+                "en": "Jun Maeda",
+                "ja": "麻枝准"
+            }
+        },
+        {
+            "link": "artist/3",
+            "names": {
+                "en": "Magome Togoshi",
+                "ja": "戸越まごめ"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/0/4/6/5046-1193469688.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/0/4/6/5046-1193469688.jpg",
+            "name": "Front",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/0/4/6/5046-1193469688.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/0/4/6/5046-1193471463.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/0/4/6/5046-1193471463.jpg",
+            "name": "Booklet Front & Back",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/0/4/6/5046-1193471463.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/0/4/6/5046-1193471466.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/0/4/6/5046-1193471466.jpg",
+            "name": "Disc",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/0/4/6/5046-1193471466.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "32:26",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Mag Mell ~cuckool mix 2007~",
+                        "Japanese": "メグメル ～cuckool mix 2007～",
+                        "Romaji": "Megumeru ~cuckool mix 2007~"
+                    },
+                    "track_length": "4:42"
+                },
+                {
+                    "names": {
+                        "English": "A Big Dango Family",
+                        "Japanese": "だんご大家族",
+                        "Romaji": "Dango Daikazoku"
+                    },
+                    "track_length": "4:33"
+                },
+                {
+                    "names": {
+                        "English": "Mag Mell ~cuckool mix 2007~ -TV animation Ver.-",
+                        "Japanese": "メグメル ～cuckool mix 2007～ -TV animation Ver.-",
+                        "Romaji": "Megumeru ~cuckool mix 2007~ -TV animation Ver.-"
+                    },
+                    "track_length": "1:31"
+                },
+                {
+                    "names": {
+                        "English": "A Big Dango Family -TV animation Ver.-",
+                        "Japanese": "だんご大家族 -TV animation Ver.-",
+                        "Romaji": "Dango Daikazoku -TV animation Ver.-"
+                    },
+                    "track_length": "1:29"
+                },
+                {
+                    "names": {
+                        "English": "Mag Mell ~cuckool mix 2007~ -off vocal ver.-",
+                        "Japanese": "メグメル ～cuckool mix 2007～ -off vocal ver.-",
+                        "Romaji": "Megumeru ~cuckool mix 2007~ -off vocal ver.-"
+                    },
+                    "track_length": "4:42"
+                },
+                {
+                    "names": {
+                        "English": "A Big Dango Family -off vocal ver.-",
+                        "Japanese": "だんご大家族 -off vocal ver.-",
+                        "Romaji": "Dango Daikazoku -off vocal ver.-"
+                    },
+                    "track_length": "4:33"
+                },
+                {
+                    "names": {
+                        "English": "The Girl's Fantasy ZTS Remix",
+                        "Japanese": "少女の幻想 ZTS Remix",
+                        "Romaji": "Shoujo no Gensou"
+                    },
+                    "track_length": "10:56"
+                }
+            ]
+        }
+    ],
+    "link": "album/5046",
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2007-10-26T23:18",
+        "edited_date": "2013-10-02T07:36",
+        "freedb": 3,
+        "ttl": 86400,
+        "visitors": 6102
+    },
+    "name": "CLANNAD – Mag Mell / Dango Daikazoku",
+    "names": {
+        "en": "CLANNAD – Mag Mell / Dango Daikazoku",
+        "ja": "クラナド オープニング&エンディングテーマ　メグメル / だんご大家族",
+        "ja-latn": "CLANNAD – Mag Mell / Dango Daikazoku"
+    },
+    "notes": "Contains a remix of the first track from the CLANNAD image vocal album \"Solarad\".",
+    "performers": [
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        },
+        {
+            "link": "artist/96",
+            "names": {
+                "en": "Chata",
+                "ja": "茶太"
+            }
+        },
+        {
+            "link": "artist/455",
+            "names": {
+                "en": "Marie",
+                "ja": "真理絵"
+            }
+        },
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "names": {
+                "en": "Uri Kunai"
+            }
+        },
+        {
+            "link": "artist/1751",
+            "names": {
+                "en": "Rio"
+            }
+        },
+        {
+            "link": "artist/1153",
+            "names": {
+                "en": "Morrigan"
+            }
+        },
+        {
+            "link": "artist/1745",
+            "names": {
+                "en": "Akane Fujieda",
+                "ja": "藤枝あかね"
+            }
+        },
+        {
+            "link": "artist/149",
+            "names": {
+                "en": "Haruka Shimotsuki",
+                "ja": "霜月はるか"
+            }
+        },
+        {
+            "link": "artist/94",
+            "names": {
+                "en": "Takumaru",
+                "ja": "たくまる"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/5/0/4/6/5046-1193469688.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/5/0/4/6/5046-1193469688.jpg",
+    "platforms": [
+        "PC",
+        "Series"
+    ],
+    "products": [
+        {
+            "link": "product/1021",
+            "names": {
+                "en": "CLANNAD (TV)",
+                "ja": "CLANNAD -クラナド-",
+                "ja-latn": "CLANNAD (TV)"
+            }
+        }
+    ],
+    "publish_format": "Commercial",
+    "publisher": {
+        "link": "org/1",
+        "names": {
+            "en": "Key Sounds Label",
+            "ja": "Key Sounds Label",
+            "ja-latn": "Key Sounds Label"
+        }
+    },
+    "rating": 4.88,
+    "related": [
+        {
+            "catalog": "KSLA-0009",
+            "link": "album/548",
+            "names": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo\"",
+                "ja": "CLANNADイメージボーカルアルバム - ソララド",
+                "ja-latn": "CLANNAD Image Vocal Album \"SoLaLaDo\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0011",
+            "link": "album/551",
+            "names": {
+                "en": "CLANNAD arrange album \"MABINOGI\"",
+                "ja": "CLANNAD arrange album \"MABINOGI\"",
+                "ja-latn": "CLANNAD arrange album \"MABINOGI\""
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SACD-5003",
+            "link": "album/13841",
+            "names": {
+                "en": "Gentle Breeze in Spring",
+                "ja": "はるのそよかぜ",
+                "ja-latn": "Haru no Soyokaze"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "link": "album/555",
+            "names": {
+                "en": "CLANNAD Original Soundtrack",
+                "ja": "CLANNAD Original Soundtrack",
+                "ja-latn": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "XLPS-0003",
+            "link": "album/33971",
+            "names": {
+                "en": "Spread Colors",
+                "ja": "Spread Colors",
+                "ja-latn": "Spread Colors"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD09",
+            "link": "album/28930",
+            "names": {
+                "en": "CLANNAD ARRANGE ALBUM ''relation''",
+                "ja": "CLANNAD ARRANGE ALBUM ''relation''",
+                "ja-latn": "CLANNAD ARRANGE ALBUM ''relation''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0076",
+            "link": "album/29454",
+            "names": {
+                "en": "Ikicha CLANNAD Only Tea time Arrange CD",
+                "ja": "生茶 CLANNAD Only Tea time Arrange CD",
+                "ja-latn": "Ikicha CLANNAD Only Tea time Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5004",
+            "link": "album/13842",
+            "names": {
+                "en": "Blue Skies in Summer",
+                "ja": "なつのあおぞら",
+                "ja-latn": "Natsu no Aozora"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0007",
+            "link": "album/20804",
+            "names": {
+                "en": "CMAMOTO",
+                "ja": "クマモト",
+                "ja-latn": "CMAMOTO"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "link": "album/36983",
+            "names": {
+                "en": "Irisphere",
+                "ja": "Irisphere",
+                "ja-latn": "Irisphere"
+            },
+            "type": "doujin"
+        }
+    ],
+    "release_date": "2007-10-26",
+    "release_price": {
+        "currency": "JPY",
+        "price": 1260.0
+    },
+    "reprints": [],
+    "stores": [
+        {
+            "link": "http://www.cdjapan.co.jp/detailview.html?KEY=KSLA-36",
+            "name": "CD Japan"
+        }
+    ],
+    "vgmdb_link": "http://vgmdb.net/album/5046?perpage=99999",
+    "votes": 8
+}

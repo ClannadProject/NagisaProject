@@ -1,0 +1,318 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/7",
+            "names": {
+                "en": "Hideki Higuchi",
+                "ja": "樋口秀樹"
+            }
+        },
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "kiku"
+            }
+        }
+    ],
+    "catalog": "KSLA-0011",
+    "category": "Game",
+    "classification": "Arrangement",
+    "composers": [
+        {
+            "link": "artist/4",
+            "names": {
+                "en": "Jun Maeda",
+                "ja": "麻枝准"
+            }
+        },
+        {
+            "link": "artist/2",
+            "names": {
+                "en": "Shinji Orito",
+                "ja": "折戸伸治"
+            }
+        },
+        {
+            "link": "artist/3",
+            "names": {
+                "en": "Magome Togoshi",
+                "ja": "戸越まごめ"
+            }
+        },
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        }
+    ],
+    "covers": [
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/5/1/551-1193501061.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/5/1/551-1193501061.jpg",
+            "name": "Front",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/5/1/551-1193501061.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/5/1/551-1193501062.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/5/1/551-1193501062.jpg",
+            "name": "Case Exterior",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/5/1/551-1193501062.jpg"
+        },
+        {
+            "full": "http://vgmdb.net/db/assets/covers/5/5/1/551-1193501063.jpg",
+            "medium": "http://vgmdb.net/db/assets/covers-medium/5/5/1/551-1193501063.jpg",
+            "name": "Case Interior",
+            "thumb": "http://vgmdb.net/db/assets/covers-thumb/5/5/1/551-1193501063.jpg"
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "44:37",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "Through the Curtain of Cherry Blossoms",
+                        "Japanese": "その桜簾を抜けて",
+                        "Romaji": "Sono Sakura Sudare o Nukete"
+                    },
+                    "track_length": "3:31"
+                },
+                {
+                    "names": {
+                        "English": "Racing Along the Yellow-Green Stone Path",
+                        "Japanese": "萌葱色の石畳を駆ける",
+                        "Romaji": "Moegiiro no Ishidatami o Kakeru"
+                    },
+                    "track_length": "6:09"
+                },
+                {
+                    "names": {
+                        "English": "A Sunflower-Colored Dress Fluttering in the Wind",
+                        "Japanese": "風になびく向日葵色のワンピース",
+                        "Romaji": "Kaze ni Nabiku Himawariiro no One-piece"
+                    },
+                    "track_length": "3:25"
+                },
+                {
+                    "names": {
+                        "English": "A Lilac Ornament on her Chest",
+                        "Japanese": "胸元にライラックの花飾り",
+                        "Romaji": "Munamoto ni Lilac no Hanakazari"
+                    },
+                    "track_length": "1:57"
+                },
+                {
+                    "names": {
+                        "English": "The Warmth Left in My Palms",
+                        "Japanese": "手のひらに残る温もりは",
+                        "Romaji": "Te no Hira ni Nokoru Nukumori wa"
+                    },
+                    "track_length": "4:42"
+                },
+                {
+                    "names": {
+                        "English": "Reborn in a New Life",
+                        "Japanese": "生まれ変わった新しい生命",
+                        "Romaji": "Umarekawatta Atarashii Seimei"
+                    },
+                    "track_length": "6:28"
+                },
+                {
+                    "names": {
+                        "English": "In a Cradle Overflowing with Light",
+                        "Japanese": "光りあふれる揺りかごの中で",
+                        "Romaji": "Hikari Afureru Yurikago no Naka de"
+                    },
+                    "track_length": "6:04"
+                },
+                {
+                    "names": {
+                        "English": "A Little Song Passed on from Mother to Child",
+                        "Japanese": "母から子へ受け継がれる小さな唄",
+                        "Romaji": "Haha kara Ko e Uketsugareru Chiisa na Uta"
+                    },
+                    "track_length": "7:29"
+                },
+                {
+                    "names": {
+                        "English": "Mag Mell",
+                        "Japanese": "メグメル",
+                        "Romaji": "Mag Mell"
+                    },
+                    "track_length": "4:52"
+                }
+            ]
+        }
+    ],
+    "link": "album/551",
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2006-08-05T01:41",
+        "edited_date": "2012-11-12T07:44",
+        "freedb": 8,
+        "ttl": 86400,
+        "visitors": 9545
+    },
+    "name": "CLANNAD arrange album \"MABINOGI\"",
+    "names": {
+        "en": "CLANNAD arrange album \"MABINOGI\"",
+        "ja": "CLANNAD arrange album \"MABINOGI\"",
+        "ja-latn": "CLANNAD arrange album \"MABINOGI\""
+    },
+    "notes": "All tracks Arranged by:\nHideki Higuechi\nComposers:\nJun Maeda (1, 6, 8)\nMagome Togoshi (2, 3)\nShinji Orito (4, 5,  7)\neufonius (9)\nChorus: Utako / Djmebe : H.Suzuki\nIncluded with the limited edition of the PC game CLANNAD.\nThe printed catalogue number for this album is actually KSLA-0010; however, the preceeding release (Kanon/AIR piano arrange album \"re-feel\") has the same number. Since the next release is KSLA-0012~4 (the CLANNAD game soundtrack), the proper number for this album is most likely KSLA-0011.\nTrack 9 \"Mag Mell\" is not listed in the booklet.",
+    "performers": [
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "names": {
+                "en": "Utako"
+            }
+        },
+        {
+            "names": {
+                "en": "H.Suzuki"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/5/5/1/551-1193501061.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/5/5/1/551-1193501061.jpg",
+    "platforms": [
+        "PC"
+    ],
+    "products": [
+        {
+            "link": "product/1019",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "publish_format": "Commercial, Enclosure",
+    "publisher": {
+        "link": "org/1",
+        "names": {
+            "en": "Key Sounds Label",
+            "ja": "Key Sounds Label",
+            "ja-latn": "Key Sounds Label"
+        }
+    },
+    "rating": 4.38,
+    "related": [
+        {
+            "catalog": "KSLA-0009",
+            "link": "album/548",
+            "names": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo\"",
+                "ja": "CLANNADイメージボーカルアルバム - ソララド",
+                "ja-latn": "CLANNAD Image Vocal Album \"SoLaLaDo\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SACD-5003",
+            "link": "album/13841",
+            "names": {
+                "en": "Gentle Breeze in Spring",
+                "ja": "はるのそよかぜ",
+                "ja-latn": "Haru no Soyokaze"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "link": "album/555",
+            "names": {
+                "en": "CLANNAD Original Soundtrack",
+                "ja": "CLANNAD Original Soundtrack",
+                "ja-latn": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "XLPS-0003",
+            "link": "album/33971",
+            "names": {
+                "en": "Spread Colors",
+                "ja": "Spread Colors",
+                "ja-latn": "Spread Colors"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD09",
+            "link": "album/28930",
+            "names": {
+                "en": "CLANNAD ARRANGE ALBUM ''relation''",
+                "ja": "CLANNAD ARRANGE ALBUM ''relation''",
+                "ja-latn": "CLANNAD ARRANGE ALBUM ''relation''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0076",
+            "link": "album/29454",
+            "names": {
+                "en": "Ikicha CLANNAD Only Tea time Arrange CD",
+                "ja": "生茶 CLANNAD Only Tea time Arrange CD",
+                "ja-latn": "Ikicha CLANNAD Only Tea time Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5004",
+            "link": "album/13842",
+            "names": {
+                "en": "Blue Skies in Summer",
+                "ja": "なつのあおぞら",
+                "ja-latn": "Natsu no Aozora"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0007",
+            "link": "album/20804",
+            "names": {
+                "en": "CMAMOTO",
+                "ja": "クマモト",
+                "ja-latn": "CMAMOTO"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "link": "album/36983",
+            "names": {
+                "en": "Irisphere",
+                "ja": "Irisphere",
+                "ja-latn": "Irisphere"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0011",
+            "link": "album/5310",
+            "names": {
+                "en": "CLANNAD – The sound story of impression I",
+                "ja": "CLANNAD – The sound story of impression I",
+                "ja-latn": "CLANNAD – The sound story of impression I"
+            },
+            "type": "doujin"
+        }
+    ],
+    "release_date": "2004-04-28",
+    "release_price": {
+        "currency": "JPY",
+        "price": 7500.0
+    },
+    "reprints": [],
+    "vgmdb_link": "http://vgmdb.net/album/551?perpage=99999",
+    "votes": 8
+}

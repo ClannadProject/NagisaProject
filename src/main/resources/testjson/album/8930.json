@@ -1,0 +1,191 @@
+{
+    "arrangers": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        }
+    ],
+    "catalog": "EFLA-0001",
+    "classification": "Vocal, Original Work",
+    "composers": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        },
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "link": "artist/7423",
+            "names": {
+                "en": "Kazuhiro Abe",
+                "ja": "あべかずひろ"
+            }
+        }
+    ],
+    "discs": [
+        {
+            "disc_length": "46:45",
+            "name": "Disc 1",
+            "tracks": [
+                {
+                    "names": {
+                        "English": "My Treasure",
+                        "Japanese": "ボクノタカラモノ"
+                    },
+                    "track_length": "4:59"
+                },
+                {
+                    "names": {
+                        "English": "Shadows of the Sky",
+                        "Japanese": "空の影"
+                    },
+                    "track_length": "3:58"
+                },
+                {
+                    "names": {
+                        "English": "Marumero",
+                        "Japanese": "マルメロ"
+                    },
+                    "track_length": "3:48"
+                },
+                {
+                    "names": {
+                        "English": "Little March",
+                        "Japanese": "リトルマーチ"
+                    },
+                    "track_length": "4:07"
+                },
+                {
+                    "names": {
+                        "English": "journey song (eufonius ver.)",
+                        "Japanese": "journey song (eufonius ver.)"
+                    },
+                    "track_length": "3:57"
+                },
+                {
+                    "names": {
+                        "English": "Fruit of Light",
+                        "Japanese": "光の果実"
+                    },
+                    "track_length": "4:10"
+                },
+                {
+                    "names": {
+                        "English": "Round and Round",
+                        "Japanese": "ぐるぐる"
+                    },
+                    "track_length": "5:09"
+                },
+                {
+                    "names": {
+                        "English": "Passage Through the Stars",
+                        "Japanese": "ホシワタリ"
+                    },
+                    "track_length": "4:10"
+                },
+                {
+                    "names": {
+                        "English": "Connected Sky (eufonius ver.)",
+                        "Japanese": "つなぐ空 (eufonius ver.)"
+                    },
+                    "track_length": "3:45"
+                },
+                {
+                    "names": {
+                        "English": "Al Tarf",
+                        "Japanese": "アルタルフ"
+                    },
+                    "track_length": "5:33"
+                },
+                {
+                    "names": {
+                        "English": "rond et rond",
+                        "Japanese": "rond et rond"
+                    },
+                    "track_length": "1:37"
+                },
+                {
+                    "names": {
+                        "English": "marumero ~ saphir cero",
+                        "Japanese": "marumero～saphir cero"
+                    },
+                    "track_length": "1:32"
+                }
+            ]
+        }
+    ],
+    "link": "album/8930",
+    "lyricists": [
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        },
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "link": "artist/7423",
+            "names": {
+                "en": "Kazuhiro Abe",
+                "ja": "あべかずひろ"
+            }
+        }
+    ],
+    "media_format": "CD",
+    "meta": {
+        "added_date": "2008-06-10T12:24",
+        "edited_date": "2008-06-10T12:35",
+        "freedb": 1,
+        "ttl": 86400,
+        "visitors": 1856
+    },
+    "name": "eufonius+ / eufonius",
+    "names": {
+        "en": "eufonius+ / eufonius",
+        "ja": "eufonius+ / eufonius",
+        "ja-latn": "eufonius+ / eufonius"
+    },
+    "notes": "Lyrics:\n   Hajime Kikuchi (1)\n   riya (2~8, 10~12)\n   Kazuhiro Abe (9)\nMusic:\n   Hajime Kikuchi (1, 3, 4, 6~8, 10~12)\n   riya (2, 5)\n   Kazuhiro Abe (9)\nAll tracks arranged by Hajime Kikuchi\nMixed & mastered by Masashi Okubo (大久保将)\nexcept 5, 9, 11 mixed by Hajime Kikuchi",
+    "performers": [
+        {
+            "link": "artist/6",
+            "names": {
+                "en": "eufonius"
+            }
+        }
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/covers/8/9/3/0/8930-1213086325.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/covers-medium/8/9/3/0/8930-1213086325.jpg",
+    "publish_format": "Commercial",
+    "publisher": {
+        "names": {
+            "en": "frequency⇒e"
+        }
+    },
+    "rating": 5.0,
+    "related": [],
+    "release_date": "2005-04-27",
+    "release_price": {
+        "currency": "JPY",
+        "price": 2100.0
+    },
+    "reprints": [],
+    "vgmdb_link": "http://vgmdb.net/album/8930?perpage=99999",
+    "votes": 1
+}

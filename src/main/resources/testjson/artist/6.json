@@ -1,0 +1,1553 @@
+{
+    "aliases": [
+        {
+            "names": {
+                "en": "Eufonius"
+            }
+        }
+    ],
+    "discography": [
+        {
+            "catalog": "KSLA-0011",
+            "date": "2004-04-28",
+            "link": "album/551",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "date": "2004-08-13",
+            "link": "album/555",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0016~7",
+            "date": "2004-12-28",
+            "link": "album/1183",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD remix album -memento-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EFLA-0001",
+            "date": "2005-04-27",
+            "link": "album/8930",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "eufonius+ / eufonius"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KICM-3105",
+            "date": "2005-04-27",
+            "link": "album/26455",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "New World / Bokura no Jikan",
+                "ja": "New World / ぼくらの時間"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KICA-705",
+            "date": "2005-07-21",
+            "link": "album/23147",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Futakoi Alternative Original Soundtrack HAPPY DETECTIVE LIVES",
+                "ja": "フタコイ オリジナルサウンドトラック HAPPY DETECTIVE LIVES"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "EFLA-0002",
+            "date": "2005-08-25",
+            "link": "album/8931",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Chiisana Uta * eufonius",
+                "ja": "ちいさなうた ＊ eufonius"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KICA-709~10",
+            "date": "2005-09-22",
+            "link": "album/23148",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "A STORY OF LOVE Futakoi Alternative Original Soundtrack",
+                "ja": "A STORY OF LOVE フタコイオルタナティブ オリジナルサウンドトラックⅡ"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACM-4223",
+            "date": "2005-11-02",
+            "link": "album/28551",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Idea / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACM-4239",
+            "date": "2006-01-25",
+            "link": "album/23313",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Koisuru Kokoro / eufonius",
+                "ja": "恋するココロ"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-5491",
+            "date": "2006-03-24",
+            "link": "album/22241",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "noein original soundtrack 2",
+                "ja": "ノエイン もうひとりの君へ オリジナルサウンドトラック"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-5513",
+            "date": "2006-04-26",
+            "link": "album/23292",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "KA·SI·MA·SI ~girl meets girl~ original sound track",
+                "ja": "TVアニメ「かしまし～ガール・ミーツ・ガール～」オリジナルサウンドトラック"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KICS-1212",
+            "date": "2006-05-24",
+            "link": "album/28329",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Wonderful World / eufonius",
+                "ja": "スバラシキセカイ / eufonius",
+                "ja-latn": "Subarashiki Sekai / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2006-12-31",
+            "link": "album/12609",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "narcissu -dorama CD-",
+                "ja": "narcissu ドラマCD",
+                "ja-latn": "narcissu -Drama CD-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EFLA-0003",
+            "date": "2007-01-31",
+            "link": "album/8932",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Sigma / eufonius",
+                "ja": "Σ / eufonius"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-05-26",
+            "link": "album/12608",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "narcissu Music Soundtrack",
+                "ja": "ナルキッソス 音楽サントラ"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LACA-9072~3",
+            "date": "2007-06-27",
+            "link": "album/25473",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Shinkyoku Soukai Polyphonica Original Soundtrack - Atmosphere",
+                "ja": "神曲奏界ポリフォニカ オリジナルサウンドトラック「Atmosphere」"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-9072~3",
+            "date": "2007-06-27",
+            "link": "album/25486",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Shinkyoku Soukai Polyphonica Original Soundtrack - Atmosphere",
+                "ja": "神曲奏界ポリフォニカ オリジナルサウンドトラック「Atmosphere」"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "CLANNAD-0004",
+            "date": "2007-07-14",
+            "link": "album/7141",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD THE MOVIE – Mag Mell ~frequency⇒e Ver.~",
+                "ja": "劇場版CLANNAD メグメル ～frequency⇒e Ver.～"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LACA-5661",
+            "date": "2007-08-08",
+            "link": "album/28079",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "oratorio"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0036",
+            "date": "2007-10-26",
+            "link": "album/5046",
+            "roles": [
+                "Composer",
+                "Performer"
+            ],
+            "titles": {
+                "en": "CLANNAD – Mag Mell / Dango Daikazoku",
+                "ja": "クラナド オープニング&エンディングテーマ　メグメル / だんご大家族"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "FCCM-0198",
+            "date": "2007-11-21",
+            "link": "album/19888",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "CLANNAD The Movie SOUNDTRACK",
+                "ja": "劇場版『CLANNAD -クラナド-』SOUNDTRACK"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ETU-002S2",
+            "date": "2007-11-22",
+            "link": "album/5536",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Soshite Ashita no Sekai Yori Image Album",
+                "ja": "そして明日の世界より―― IMAGE ALBUM"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LACA-5715",
+            "date": "2007-12-19",
+            "link": "album/28347",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "metafysik / eufonius"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LACM-4459",
+            "date": "2008-01-23",
+            "link": "album/7272",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Reflect Tier / eufonius",
+                "ja": "TVアニメ「true tears」オープニングテーマ eufonius ／ リフレクティア"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-5752",
+            "date": "2008-02-27",
+            "link": "album/7277",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "true tears TV anime Original Soundtrack",
+                "ja": "TVアニメ「true tears」オリジナルサウンドトラック"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-5763",
+            "date": "2008-04-16",
+            "link": "album/8029",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "true tears Image Song Collection \"Tears...for truth",
+                "ja": "Tears…for truth ～イメージソング集～"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "EFLA-0004",
+            "date": "2008-06-10",
+            "link": "album/8933",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Metrochrome / eufonius",
+                "ja": "メトロクローム / eufonius"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "date": "2008-12-28",
+            "link": "album/11557",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LACM-4568",
+            "date": "2009-02-04",
+            "link": "album/28352",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "anemoi / eufonius",
+                "ja": "アネモイ / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KDSD-00269",
+            "date": "2009-03-18",
+            "link": "album/12636",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Canvas3 ~Hakugin no Portrait~ Theme Song \"Kono Koe ga Todoitara",
+                "ja": "Canvas3 ～白銀のポートレート～ 主題歌 「この声が届いたら」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDSD-00270~1",
+            "date": "2009-04-08",
+            "link": "album/11817",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Canvas3 ~Hakugin no Portrait~ Original Sound Track",
+                "ja": "Canvas3 ～白銀のポートレート～　オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LASA-9001~2",
+            "date": "2009-07-22",
+            "link": "album/25489",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Shinkyoku Soukai Polyphonica Crimson S Original Soundtrack - a sacred promise",
+                "ja": "神曲奏界ポリフォニカ クリムゾンS オリジナルサウンドトラック - a sacred promise"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-9161~2",
+            "date": "2009-09-09",
+            "link": "album/15852",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Lantis 10th anniversary Best 090927"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDSD-00324",
+            "date": "2009-12-23",
+            "link": "album/16755",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "divinity / eufonius",
+                "ja": "ディヴィニティ / eufonius",
+                "ja-latn": "Divinity / eufonius"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LACA-15020",
+            "date": "2010-04-07",
+            "link": "album/50957",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "true tears Image Mini Album ~Nostalgic Arietta~",
+                "ja": "true tears イメージミニアルバム ～Nostalgic Arietta～"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SDCR-0030",
+            "date": "2010-04-23",
+            "link": "album/18377",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Himawari -Pebble in the Sky- Portable Original Soundtrack",
+                "ja": "ひまわり -Pebble in the Sky- Portable オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LASM-4053",
+            "date": "2010-05-01",
+            "link": "album/34255",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Harukana Hibi / eufonius",
+                "ja": "遙かな日々／eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SDCR-0031",
+            "date": "2010-06-25",
+            "link": "album/18884",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "narcissu ~Moshimo Asu ga Arunara~ Vocal Album",
+                "ja": "ナルキッソス～もしも明日があるなら～ ボーカルアルバム"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EFLA-0007",
+            "date": "2010-08-27",
+            "link": "album/20661",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Akizora ni Mau Confetti Original Soundtrack",
+                "ja": "「秋空に舞うコンフェティ」 オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ETU-003S1",
+            "date": "2010-08-27",
+            "link": "album/20897",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Akizora ni Mau Confetti Original Soundtrack",
+                "ja": "秋空に舞うコンフェティ ORIGINAL SOUNDTRACK"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ETU-003S2",
+            "date": "2010-08-27",
+            "link": "album/21010",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Akizora ni Mau Confetti Vocal Collection \"Confetti",
+                "ja": "秋空に舞うコンフェティ VOCAL COLLECTION 『コンフェティ』"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICM-3214",
+            "date": "2010-10-27",
+            "link": "album/27424",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Hiyoku no Hane / eufonius",
+                "ja": "比翼の羽根 / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-9207~8",
+            "date": "2011-03-09",
+            "link": "album/22458",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Le Fruit de la Grisaia Ending Theme Collection & Original Soundtrack",
+                "ja": "PCゲーム「グリザイアの果実」エンディングテーマ集＆オリジナルサウンドトラック",
+                "ja-latn": "PC Game \"Grisaia no Kajitsu\" Ending Theme Shuu & Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "DIFE-1005",
+            "date": "2011-07-29",
+            "link": "album/26702",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Koi de wa naku -- It's not love, but so where near. ORIGINAL SOUNDTRACK",
+                "ja": "恋ではなく ―― It's not love, but so where near. ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDSD-00464",
+            "date": "2011-08-08",
+            "link": "album/25608",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Irotoridori no Sekai Original Soundtrack",
+                "ja": "いろとりどりのセカイ オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LASA-5108",
+            "date": "2011-11-23",
+            "link": "album/30205",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "phonon / eufonius",
+                "ja": "フォノン / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACM-4906",
+            "date": "2012-02-08",
+            "link": "album/31157",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "prism sign / eufonius",
+                "ja": "プリズム・サイン / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LACA-15185",
+            "date": "2012-06-27",
+            "link": "album/31251",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Heart of Magic Garden"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KICM-3247",
+            "date": "2012-07-18",
+            "link": "album/32694",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "paradigm / eufonius",
+                "ja": "パラダイム / eufonius"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KDSD-00576",
+            "date": "2012-09-05",
+            "link": "album/33518",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Irotoridori no Hikari Theme Songs Plus",
+                "ja": "いろとりどりのヒカリ Theme Songs Plus"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDSD-00601",
+            "date": "2012-11-28",
+            "link": "album/35484",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "UNCHAINBLADES EXXIV VOCAL COLLECTION",
+                "ja": "アンチェインブレイズ エクシヴ VOCAL COLLECTION"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "date": "2012-12-29",
+            "link": "album/36702",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLM-0004",
+            "date": "2013-01-30",
+            "link": "album/36477",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Visual Art's 20th LIVE 2012 in YOKOHAMA ARENA ~Song to play with you tomorrow~",
+                "ja": "ビジュアルアーツ大感謝祭LIVE 2012 in YOKOHAMA ARENA~きみとかなでるあしたへのうた~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LACA-15283",
+            "date": "2013-03-27",
+            "link": "album/37466",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Imasugu Oniichan ni Imouto datte Iitai! Vocal Album",
+                "ja": "PCゲーム『いますぐお兄ちゃんに妹だっていいたい！』ボーカルアルバム"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LACA-9272~6",
+            "date": "2013-03-27",
+            "link": "album/36795",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "true tears 5th Anniversary Box",
+                "ja": "TVアニメ true tears 5周年記念CD-BOX"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LZM-2101",
+            "date": "2013-05-24",
+            "link": "album/39738",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Koitabi ~ True Tours Nanto Music Collection [Limited for Nanto Area]",
+                "ja": "恋旅～True Tours Nanto 音楽集 [南砺市内限定盤]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "LABX-38046~7",
+            "date": "2014-02-26",
+            "link": "album/43043",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "true tears x Hanasaku Iroha x TARITARI Joint Festival LIVE BD [Limited Edition]",
+                "ja": "true tears×花咲くいろは×TARI TARI ジョイントフェスティバル LIVE BD"
+            },
+            "type": "anime"
+        }
+    ],
+    "featured_on": [
+        {
+            "catalog": "SACD-5003",
+            "date": "2004-06-20",
+            "link": "album/13841",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Gentle Breeze in Spring",
+                "ja": "はるのそよかぜ",
+                "ja-latn": "Haru no Soyokaze"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0003",
+            "date": "2004-08-13",
+            "link": "album/33971",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Spread Colors"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0003",
+            "date": "2004-08-15",
+            "link": "album/5844",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kizuna (CLANNAD Arrange Album)",
+                "ja": "絆-kizuna- (CLANNAD-クラナド- アレンジ アルバム)",
+                "ja-latn": "Kizuna"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0003",
+            "date": "2004-08-15",
+            "link": "album/11591",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Oto no Matsuri -Festival of Sound-",
+                "ja": "音の祭 -Festival of Sound-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HWFL-0010",
+            "date": "2004-08-15",
+            "link": "album/29580",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fragile"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0076",
+            "date": "2004-08-15",
+            "link": "album/29454",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Ikicha CLANNAD Only Tea time Arrange CD",
+                "ja": "生茶 CLANNAD Only Tea time Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0011",
+            "date": "2004-08-15",
+            "link": "album/5310",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD – The sound story of impression I"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5004",
+            "date": "2004-08-15",
+            "link": "album/13842",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Blue Skies in Summer",
+                "ja": "なつのあおぞら",
+                "ja-latn": "Natsu no Aozora"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD09",
+            "date": "2004-08-15",
+            "link": "album/28930",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD ARRANGE ALBUM ''relation''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0007",
+            "date": "2004-08-15",
+            "link": "album/20804",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CMAMOTO",
+                "ja": "クマモト"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0020",
+            "date": "2004-08-15",
+            "link": "album/11768",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "RAGNAROK ONLINE & CLANNAD Arrange Album \"Sentire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-011",
+            "date": "2004-08-15",
+            "link": "album/8948",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VAGUE3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5005",
+            "date": "2004-09-19",
+            "link": "album/13843",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sky Sanctuary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RYTH-0003",
+            "date": "2004-11-13",
+            "link": "album/5685",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "DIARY -CLANNAD Arrange ALBUM-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0003",
+            "date": "2004-12-20",
+            "link": "album/8238",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY PART. II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2004-12-30",
+            "link": "album/15133",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears- Tentative CDR Version",
+                "ja": "VOCALIZM5 -Lovers & Tears- 暫定CDR版",
+                "ja-latn": "VOCALIZM5 -Lovers & Tears- Zantei CDR-ban"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ADSH-014",
+            "date": "2004-12-30",
+            "link": "album/10084",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Piano Arrange"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0019",
+            "date": "2004-12-30",
+            "link": "album/13560",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Arranged Album \"The Place Where the Lights of Wishes Gather\" Side A",
+                "ja": "クラナド・アレンジアルバム 「願いの光 集う場所」  Side A",
+                "ja-latn": "CLANNAD Arranged Album \"Negai no Hikari Tsudou Basho\" Side A"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCB-006",
+            "date": "2004-12-30",
+            "link": "album/10215",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Mag Mell",
+                "ja": "メグメル"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPSR-0003",
+            "date": "2004-12-30",
+            "link": "album/13617",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "voluntary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0008",
+            "date": "2004-12-30",
+            "link": "album/20805",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kumapan.",
+                "ja": "くまぱん。"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0004",
+            "date": "2004-12-30",
+            "link": "album/8968",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Spread Colors+"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-03-13",
+            "link": "album/47158",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sensitive"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1006",
+            "date": "2005-03-13",
+            "link": "album/15136",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0022",
+            "date": "2005-03-21",
+            "link": "album/11771",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD & Higurashi no Naku Koro ni Arrange Album \"Sinfonia"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-08-14",
+            "link": "album/13059",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Ocean AIR & CLANNAD ArrangeWorks"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2005-08-14",
+            "link": "album/13118",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Röten Kreuz"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0014",
+            "date": "2005-08-14",
+            "link": "album/5290",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD Piano tune collection"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "VDK-0014",
+            "date": "2005-08-14",
+            "link": "album/14044",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "es"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWPG-0007",
+            "date": "2005-08-28",
+            "link": "album/15163",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Lilium"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0006",
+            "date": "2005-12-30",
+            "link": "album/11597",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The best compilation"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WAS-01",
+            "date": "2006-04-29",
+            "link": "album/20307",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Motion Of Eternity"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0009",
+            "date": "2006-06-11",
+            "link": "album/15166",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Malachite"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SMA-01",
+            "date": "2006-08-11",
+            "link": "album/6458",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dango Daikazoku (CLANNAD Arrange Album)",
+                "ja": "だんご大家族 (CLANNAD-クラナド- アレンジ アルバム)"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0005",
+            "date": "2006-08-13",
+            "link": "album/5141",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "LE:mix -Limited Edition:mix-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT05-OR02",
+            "date": "2006-08-13",
+            "link": "album/39234",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Selfish Color"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KNKS-0002",
+            "date": "2006-12-31",
+            "link": "album/12497",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kagioto",
+                "ja": "かぎおと"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-04-29",
+            "link": "album/13111",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Cherry's"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-04-29",
+            "link": "album/35799",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key Songs Acoustic vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PSC-0001",
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-08-17",
+            "link": "album/6437",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Self-indulgence"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0028",
+            "date": "2008-03-31",
+            "link": "album/9797",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CLANNAD VIOLIN"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWCD-0044",
+            "date": "2008-06-15",
+            "link": "album/17812",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-08-16",
+            "link": "album/9843",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "NON, STOP☆HEROINES!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-001",
+            "date": "2008-08-17",
+            "link": "album/13219",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "blue stripes",
+                "ja": "ぶるーすとらいぷす"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0015",
+            "date": "2008-12-29",
+            "link": "album/11282",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEEPER OF METAL KEY BAND"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0022~3",
+            "date": "2008-12-29",
+            "link": "album/11297",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "RE:COLLECTIONS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-02-28",
+            "link": "album/13062",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Key 10th Memorial Score"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "HLZY-0001",
+            "date": "2009-05-05",
+            "link": "album/13222",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "H -Heart and Beat Technology-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0010",
+            "date": "2009-05-05",
+            "link": "album/12733",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Vivid Colors -KEY tribute album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCEX-0002",
+            "date": "2009-09-23",
+            "link": "album/15445",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Memoire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-05-05",
+            "link": "album/39377",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Naisho no Aozora",
+                "ja": "ないしょの青空"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPCD-0010",
+            "date": "2010-05-05",
+            "link": "album/19314",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Air of Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZVLN-0001",
+            "date": "2010-05-05",
+            "link": "album/19310",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Zephyr Violin"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LLAC-0006",
+            "date": "2011-08-13",
+            "link": "album/27953",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Heavenly Beats"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "AOZR-0002",
+            "date": "2013-10-27",
+            "link": "album/44325",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Colorful"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "REBIRTH-01~2",
+            "date": "2014-05-24",
+            "link": "album/48647",
+            "roles": [
+                "Composer (as Eufonius)"
+            ],
+            "titles": {
+                "en": "「key15th」 ／ 「clannad10th」 Global Collaborative Arrange Album : Rebirth"
+            },
+            "type": "doujin"
+        }
+    ],
+    "info": {
+        "Album Votes": "114 votes for 37 albums",
+        "Aliases": [
+            {
+                "names": {
+                    "en": "Eufonius"
+                }
+            }
+        ],
+        "Credited works": [
+            "116 albums in database",
+            "67 composer credits",
+            "1 arranger credits",
+            "51 performer credits",
+            "4 lyricist credits"
+        ],
+        "Members": [
+            {
+                "link": "artist/9",
+                "names": {
+                    "en": "riya"
+                }
+            },
+            {
+                "link": "artist/587",
+                "names": {
+                    "en": "Hajime Kikuchi",
+                    "ja": "菊地創"
+                }
+            }
+        ],
+        "Weighted album rating": [
+            "9/10"
+        ]
+    },
+    "link": "artist/6",
+    "members": [
+        {
+            "link": "artist/9",
+            "names": {
+                "en": "riya"
+            }
+        },
+        {
+            "link": "artist/587",
+            "names": {
+                "en": "Hajime Kikuchi",
+                "ja": "菊地創"
+            }
+        }
+    ],
+    "meta": {
+        "added_date": "2007-10-11T02:25",
+        "edited_date": "2007-10-29T09:09",
+        "ttl": 86400,
+        "visitors": 6177
+    },
+    "name": "eufonius",
+    "notes": "No notes available for this artist.",
+    "picture_full": "http://vgmdb.net/db/assets/portraits/6-1340708247.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/portraits-medium/6-1340708247.jpg",
+    "type": "Unit",
+    "vgmdb_link": "http://vgmdb.net/artist/6?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.eufonius.net/",
+                "name": "□■□ frequency⇒e □■□"
+            }
+        ]
+    }
+}

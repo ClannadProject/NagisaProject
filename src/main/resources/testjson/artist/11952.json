@@ -1,0 +1,545 @@
+{
+    "birthdate": "1987-06-24",
+    "birthplace": "Gifu Prefecture, Japan",
+    "discography": [
+        {
+            "catalog": "KSLA-0052",
+            "date": "2010-05-12",
+            "link": "album/19235",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Thousand Enemies / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0055",
+            "date": "2010-06-09",
+            "link": "album/19678",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Little Braver / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0058",
+            "date": "2010-06-30",
+            "link": "album/20060",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Keep The Beats! / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0009",
+            "date": "2010-08-02",
+            "link": "album/49035",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Girls Dead Monster Starring LiSA Tour 2010 -Keep The Angel Beats!- Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0065",
+            "date": "2010-12-08",
+            "link": "album/21578",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Ichiban no Takaramono ~Yui final ver.~ / Girls Dead Monster starring LiSA [Limited Edition]",
+                "ja": "一番の宝物 ~Yui final ver.~ / Girls Dead Monster starring LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7800~1",
+            "date": "2011-11-23",
+            "link": "album/30093",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "oath sign / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7804",
+            "date": "2011-11-23",
+            "link": "album/28944",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "oath sign / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7828",
+            "date": "2012-02-22",
+            "link": "album/31035",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "LOVER“S”MiLE / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0080",
+            "date": "2012-06-29",
+            "link": "album/33614",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Orpheus ~Kimi to Kanaderu Ashita e no Uta~",
+                "ja": "Orpheus ～君と奏でる明日へのうた～"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "SVWC-7871~2",
+            "date": "2012-08-08",
+            "link": "album/33538",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "crossing field / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7873~4",
+            "date": "2012-08-08",
+            "link": "album/33539",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "crossing field / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7875",
+            "date": "2012-08-08",
+            "link": "album/33537",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "crossing field / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "date": "2012-12-29",
+            "link": "album/36702",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLM-0004",
+            "date": "2013-01-30",
+            "link": "album/36477",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Visual Art's 20th LIVE 2012 in YOKOHAMA ARENA ~Song to play with you tomorrow~",
+                "ja": "ビジュアルアーツ大感謝祭LIVE 2012 in YOKOHAMA ARENA~きみとかなでるあしたへのうた~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SVWC-7948~9",
+            "date": "2013-08-07",
+            "link": "album/39614",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "träumerei / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7950~1",
+            "date": "2013-08-07",
+            "link": "album/39615",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "träumerei / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7952",
+            "date": "2013-08-07",
+            "link": "album/39617",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "träumerei / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7961~3",
+            "date": "2013-10-30",
+            "link": "album/41381",
+            "roles": [
+                "Composer",
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "LANDSPACE / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-7964",
+            "date": "2013-10-30",
+            "link": "album/41380",
+            "roles": [
+                "Composer",
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "LANDSPACE / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70001~2",
+            "date": "2014-05-07",
+            "link": "album/44403",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rising Hope / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70003~4",
+            "date": "2014-05-07",
+            "link": "album/44404",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rising Hope / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70005",
+            "date": "2014-05-07",
+            "link": "album/44405",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rising Hope / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZX-11230",
+            "date": "2014-08-27",
+            "link": "album/45724",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Yuukei Yesterday / Jin ft. LiSA",
+                "ja": "夕景イエスタデイ / じん ft. LiSA"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SVWC-70011",
+            "date": "2014-08-27",
+            "link": "album/46167",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "SWORD ART ONLINE SONG COLLECTION",
+                "ja": "ソードアート・オンライン ソングコレクション"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZX-11232",
+            "date": "2014-09-10",
+            "link": "album/45725",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Headphone Actor / Jin ft. LiSA",
+                "ja": "ヘッドフォンアクター / じん ft. LiSA"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SVWC-70031~2",
+            "date": "2014-12-10",
+            "link": "album/48444",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Shirushi / LiSA [Limited Edition]",
+                "ja": "シルシ / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70033~4",
+            "date": "2014-12-10",
+            "link": "album/48445",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Shirushi / LiSA [Limited Edition]",
+                "ja": "シルシ / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70035",
+            "date": "2014-12-10",
+            "link": "album/48446",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Shirushi / LiSA",
+                "ja": "シルシ / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70058~9",
+            "date": "2015-03-04",
+            "link": "album/50330",
+            "roles": [
+                "Composer",
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Launcher / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70060",
+            "date": "2015-03-04",
+            "link": "album/50329",
+            "roles": [
+                "Composer",
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Launcher / LiSA"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ANZX-11636",
+            "date": "2015-03-25",
+            "link": "album/48786",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Fate/stay night [Unlimited Blade Works] Original Soundtrack I",
+                "ja": "Fate/stay night [Unlimited Blade Works] オリジナルサウンドトラック I"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "ZMCL-1018~22",
+            "date": "2015-04-01",
+            "link": "album/50452",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "MEKAKUCITY M's COMPLETE BOX: MEKAKUCITY ACTORS VOCAL & SOUND COLLECTION [Limited Edition]",
+                "ja": "MEKAKUCITY M's COMPLETE BOX ~メカクシティアクターズ・ヴォーカル&サウンド コレクション~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ZMCL-1023~4",
+            "date": "2015-04-01",
+            "link": "album/50451",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "MEKAKUCITY M's 1: MEKAKUCITY ACTORS VOCAL & SOUND COLLECTION",
+                "ja": "MEKAKUCITY M's 1 ~メカクシティアクターズ・ヴォーカル&サウンド コレクション~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70081~2",
+            "date": "2015-05-27",
+            "link": "album/51645",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rally Go Round / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70083~4",
+            "date": "2015-05-27",
+            "link": "album/51646",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rally Go Round / LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "SVWC-70085",
+            "date": "2015-05-27",
+            "link": "album/51647",
+            "roles": [
+                "Performer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Rally Go Round / LiSA"
+            },
+            "type": "anime"
+        }
+    ],
+    "featured_on": [
+        {
+            "catalog": "IC-HC008",
+            "date": "2013-04-29",
+            "link": "album/38829",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "THirD MERmÉX -The Community-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QWCE-00386",
+            "date": "2014-10-01",
+            "link": "album/46821",
+            "roles": [
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "EXIT TRANCE PRESENTS SPEED ANIME TRANCE BEST 22",
+                "ja": "EXIT TRANCE PRESENTS SPEED アニメトランス BEST 22"
+            },
+            "type": "anime"
+        }
+    ],
+    "info": {
+        "Album Votes": "30 votes for 18 albums",
+        "Birthdate": "Jun 24, 1987",
+        "Birthplace": "Gifu Prefecture, Japan",
+        "Bloodtype": "B",
+        "Credited works": [
+            "38 albums in database",
+            "4 composer credits",
+            "0 arranger credits",
+            "37 performer credits",
+            "21 lyricist credits"
+        ],
+        "Weighted album rating": [
+            "8/10"
+        ]
+    },
+    "link": "artist/11952",
+    "meta": {
+        "added_date": "2011-11-23T12:23",
+        "edited_date": "2012-06-08T17:40",
+        "ttl": 86400,
+        "visitors": 3353
+    },
+    "name": "LiSA",
+    "notes": "Real Name: Risa Oribe (織部里沙)",
+    "picture_full": "http://vgmdb.net/db/assets/portraits/11952-1322083691.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/portraits-medium/11952-1322083691.jpg",
+    "sex": "female",
+    "type": "Individual",
+    "vgmdb_link": "http://vgmdb.net/artist/11952?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.lxixsxa.com/",
+                "name": "LiSA OFFICIAL WEBSITE"
+            }
+        ],
+        "Personal": [
+            {
+                "link": "http://ameblo.jp/lxixsxa/",
+                "name": "LiSAオフィシャルブログ「今日もいい日だ」Powered by Ameba"
+            }
+        ]
+    }
+}
