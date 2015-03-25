@@ -7,7 +7,8 @@ public enum VGMdbWebsiteType implements AdvancedEnum {
     unknown("Unknown"),
     review("Review"),
     personal("Personal"),
-    official("Official");
+    official("Official"),
+    reference("Reference");
 
     private final String humanizedName;
 
