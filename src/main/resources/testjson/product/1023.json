@@ -1,0 +1,646 @@
+{
+    "albums": [
+        {
+            "catalog": "KSLA-0020",
+            "classifications": [
+                "Soundtrack"
+            ],
+            "date": "2005-11-25",
+            "link": "album/1186",
+            "titles": {
+                "en": "Tomoyo After Original SoundTrack",
+                "ja": "智代アフター Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0021",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2005-12-29",
+            "link": "album/1187",
+            "titles": {
+                "en": "CLANNAD / Tomoyo After Piano Arrange Album \"Piano no Mori",
+                "ja": "～CLANNAD/Tomoyo After Piano Arrange Album～ ピアノの森"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SPWG-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-01-09",
+            "link": "album/15165",
+            "titles": {
+                "en": "Sand Beige"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-03-09",
+            "link": "album/8236",
+            "titles": {
+                "en": "KEEPER OF METAL KEY AFTER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-04-02",
+            "link": "album/14155",
+            "titles": {
+                "en": "AnarKEY→ ←QuantumLEAF"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AAGA-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-04-29",
+            "link": "album/18546",
+            "titles": {
+                "en": "be with a practice!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0010",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2006-06-11",
+            "link": "album/15167",
+            "titles": {
+                "en": "COSMOS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0023~4",
+            "classifications": [
+                "Remix"
+            ],
+            "date": "2006-06-23",
+            "link": "album/1249",
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SMA-01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-11",
+            "link": "album/6458",
+            "titles": {
+                "en": "Dango Daikazoku (CLANNAD Arrange Album)",
+                "ja": "だんご大家族 (CLANNAD-クラナド- アレンジ アルバム)"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-13",
+            "link": "album/5141",
+            "titles": {
+                "en": "LE:mix -Limited Edition:mix-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0009",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-27",
+            "link": "album/14156",
+            "titles": {
+                "en": "What a Happiness!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-12-31",
+            "link": "album/6733",
+            "titles": {
+                "en": "TAMs Lucky Bag",
+                "ja": "ＴＡＭの福袋",
+                "ja-latn": "TAM no Fukubukuro"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0009",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2006-12-31",
+            "link": "album/7348",
+            "titles": {
+                "en": "Claire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-10",
+            "link": "album/6625",
+            "titles": {
+                "en": "TAM & PICO Collaboration CD - Early Works",
+                "ja": "TAM&PICO コラボＣＤ 初期作品集",
+                "ja-latn": "TAM & PICO Collab CD - Shoki Sakuhinshuu"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PSC-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PCCA-90029",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2007-09-19",
+            "link": "album/13529",
+            "titles": {
+                "en": "Lia*COLLECTION ALBUM Vol.1 Diamond Days"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "RSCD-0007",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/12479",
+            "titles": {
+                "en": "TYPE-R 3rd -Side Key-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRBL-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/10078",
+            "titles": {
+                "en": "Snowstorm"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0019",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-03-09",
+            "link": "album/10720",
+            "titles": {
+                "en": "Merry Go Round !"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KDCD-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-06-01",
+            "link": "album/35896",
+            "titles": {
+                "en": "雨音 ~THE MELODY OF RAIN~",
+                "ja": "雨音～THE MELODY OF RAIN～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WHNO-1009",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/10603",
+            "titles": {
+                "en": "Latchkey Lovers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-17",
+            "link": "album/13219",
+            "titles": {
+                "en": "blue stripes",
+                "ja": "ぶるーすとらいぷす"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "classifications": [
+                "Vocal",
+                "Talk",
+                "Live Event"
+            ],
+            "date": "2008-12-28",
+            "link": "album/11557",
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SOH-0015",
+            "classifications": [
+                "Fan Remix"
+            ],
+            "date": "2008-12-29",
+            "link": "album/11282",
+            "titles": {
+                "en": "KEEPER OF METAL KEY BAND"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0048",
+            "classifications": [
+                "Arrange",
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2009-02-28",
+            "link": "album/12634",
+            "titles": {
+                "en": "OTSU:Blasterhead"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0004~5",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-02-28",
+            "link": "album/13063",
+            "titles": {
+                "en": "Key 10th Memorial Fes Anniversary CD"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2009-02-28",
+            "link": "album/13062",
+            "titles": {
+                "en": "Key 10th Memorial Score"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LOLI-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-03-08",
+            "link": "album/18509",
+            "titles": {
+                "en": "Touhou World Music Chronicle -No.2-",
+                "ja": "東方俗楽譚 -其の弐-",
+                "ja-latn": "Touhou Zokugakutan -Sono Ni-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0010",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-05-05",
+            "link": "album/12733",
+            "titles": {
+                "en": "Vivid Colors -KEY tribute album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RMT004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-08-15",
+            "link": "album/14663",
+            "titles": {
+                "en": "compact"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-004",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2009-12-30",
+            "link": "album/44077",
+            "titles": {
+                "en": "KeyRing Atrie vol.3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPCD-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-05-05",
+            "link": "album/19314",
+            "titles": {
+                "en": "Air of Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0021~2",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2010-12-28",
+            "link": "album/22625",
+            "titles": {
+                "en": "enigmaticLIA4",
+                "ja": "C79 SPECIAL EDITION enigmaticLIA4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLC-00002",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27618",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemnia L's core-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLC-00001",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27616",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemical Keyworlds-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0071",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2011-06-24",
+            "link": "album/25395",
+            "titles": {
+                "en": "Key+Lia Best 2001-2010"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLCD-0023~4",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2011-12-29",
+            "link": "album/30756",
+            "titles": {
+                "en": "IA/00"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MHCL-2054~5",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2012-04-25",
+            "link": "album/32632",
+            "titles": {
+                "en": "IA/01 -BIRTH-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0084",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2012-07-29",
+            "link": "album/34241",
+            "titles": {
+                "en": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SGNM-002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-08-11",
+            "link": "album/34345",
+            "titles": {
+                "en": "Euphoric Tears"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0082~3",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2012-10-24",
+            "link": "album/34809",
+            "titles": {
+                "en": "circle of fifth"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "BBR-04",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-12-31",
+            "link": "album/38596",
+            "titles": {
+                "en": "Snowdrop"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSLA-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2013-10-27",
+            "link": "album/48012",
+            "titles": {
+                "en": "TomoKano! ~Tomoyo After & Kanon arrange soundtrack~",
+                "ja": "トモカノ！ ～智代アフター&Kanon arrange soundtrack～"
+            },
+            "type": "doujin"
+        }
+    ],
+    "description": "None",
+    "franchises": [
+        {
+            "link": "product/1018",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "link": "product/1023",
+    "meta": {
+        "added_date": "2011-11-14T20:08",
+        "added_user": "CHz",
+        "edited_date": "2011-11-14T20:08",
+        "edited_user": "CHz",
+        "ttl": 86400,
+        "visitors": 1033
+    },
+    "name": "Tomoyo After: It's a Wonderful Life",
+    "name_real": "智代アフター 〜It's a Wonderful Life〜",
+    "organizations": [
+        "None"
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/logos/1023-pr-1322017401.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/logos-medium/1023-pr-1322017401.jpg",
+    "release_date": "2005-11-25",
+    "releases": [
+        {
+            "date": "2005-11-25",
+            "names": {
+                "en": "tomoyo after ~It's a Wonderful Life~",
+                "ja": "智代アフター 〜It's a Wonderful Life〜",
+                "ja-latn": "tomoyo after ~It's a Wonderful Life~"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2007-01-25",
+            "names": {
+                "en": "tomoyo after ~It's a Wonderful Life~ CS Edition",
+                "ja": "智代アフター 〜It's a Wonderful Life〜 CS Edition",
+                "ja-latn": "tomoyo after ~It's a Wonderful Life~ CS Edition"
+            },
+            "platform": "Sony PlayStation 2",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2009-03-19",
+            "names": {
+                "en": "tomoyo after ~It's a Wonderful Life~ CS Edition",
+                "ja": "智代アフター 〜It's a Wonderful Life〜 CS Edition",
+                "ja-latn": "tomoyo after ~It's a Wonderful Life~ CS Edition"
+            },
+            "platform": "Sony PlayStation Portable",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2010-04-30",
+            "names": {
+                "en": "tomoyo after ~It's a Wonderful Life~ Memorial Edition (all ages)",
+                "ja": "智代アフター 〜It's a Wonderful Life〜 メモリアルエディション全年齢対象版",
+                "ja-latn": "tomoyo after ~It's a Wonderful Life~ Memorial Edition (all ages)"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2010-09-22",
+            "names": {
+                "en": "tomoyo after ~It's a Wonderful Life~ CS Edition",
+                "ja": "智代アフター 〜It's a Wonderful Life〜 CS Edition",
+                "ja-latn": "tomoyo after ~It's a Wonderful Life~ CS Edition"
+            },
+            "platform": "Microsoft Xbox 360",
+            "region": "JPY (Japan)"
+        }
+    ],
+    "type": "Game",
+    "vgmdb_link": "http://vgmdb.net/product/1023?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://key.visualarts.gr.jp/product/tomoyo/",
+                "name": "智代アフター｜Key Official HomePage"
+            }
+        ]
+    }
+}

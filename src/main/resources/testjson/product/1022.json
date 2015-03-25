@@ -1,0 +1,230 @@
+{
+    "albums": [
+        {
+            "catalog": "PSC-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0044",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2008-11-14",
+            "link": "album/10777",
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH",
+                "ja": "時を刻む唄／TORCH"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0003",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2008-12-28",
+            "link": "album/11549",
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\" -Piano Arrange Disc-",
+                "ja": "時を刻む唄／TORCH -Piano Arrange Disc-"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "PCCG-90031",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2009-04-01",
+            "link": "album/12901",
+            "titles": {
+                "en": "enigmaticLIA3 -worldwide collection- | LIA"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "HLZY-0001",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2009-05-05",
+            "link": "album/13222",
+            "titles": {
+                "en": "H -Heart and Beat Technology-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DBT-2001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-12-30",
+            "link": "album/40381",
+            "titles": {
+                "en": "Niji Jazz",
+                "ja": "虹Jazz"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0021~2",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2010-12-28",
+            "link": "album/22625",
+            "titles": {
+                "en": "enigmaticLIA4",
+                "ja": "C79 SPECIAL EDITION enigmaticLIA4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VICL-63701~2",
+            "classifications": [
+                "Arrange",
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2011-05-04",
+            "link": "album/39778",
+            "titles": {
+                "en": "Chords \\ bermei.inazawa collection"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "QLC-00002",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27618",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemnia L's core-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLC-00001",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27616",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemical Keyworlds-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0071",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2011-06-24",
+            "link": "album/25395",
+            "titles": {
+                "en": "Key+Lia Best 2001-2010"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ATZR-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-04-30",
+            "link": "album/32757",
+            "titles": {
+                "en": "posto felice"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0082~3",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2012-10-24",
+            "link": "album/34809",
+            "titles": {
+                "en": "circle of fifth"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2012-12-29",
+            "link": "album/36702",
+            "titles": {
+                "en": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        }
+    ],
+    "description": "None",
+    "franchises": [
+        {
+            "link": "product/1018",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "link": "product/1022",
+    "meta": {
+        "added_date": "2011-11-14T20:04",
+        "added_user": "CHz",
+        "edited_date": "2011-11-15T15:08",
+        "edited_user": "CHz",
+        "ttl": 86400,
+        "visitors": 652
+    },
+    "name": "CLANNAD: After Story",
+    "name_real": "CLANNAD 〜AFTER STORY〜",
+    "organizations": [
+        "None"
+    ],
+    "release_date": "2008-10",
+    "releases": [],
+    "type": "Video",
+    "vgmdb_link": "http://vgmdb.net/product/1022?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.tbs.co.jp/clannad/",
+                "name": "TBSアニメーション 「CLANNAD AFTER STORY」公式ホームページ"
+            }
+        ]
+    }
+}

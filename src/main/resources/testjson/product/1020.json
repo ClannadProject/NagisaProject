@@ -1,0 +1,105 @@
+{
+    "albums": [
+        {
+            "catalog": "CLANNAD-0004",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2007-07-14",
+            "link": "album/7141",
+            "titles": {
+                "en": "CLANNAD THE MOVIE – Mag Mell ~frequency⇒e Ver.~",
+                "ja": "劇場版CLANNAD メグメル ～frequency⇒e Ver.～"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "CLANNAD-0005",
+            "classifications": [
+                "Soundtrack"
+            ],
+            "date": "2007-08-17",
+            "link": "album/32072",
+            "titles": {
+                "en": "CLANNAD The Movie Image Song \"Yakusoku",
+                "ja": "劇場版『CLANNAD』約束"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "FCCM-0198",
+            "classifications": [
+                "Soundtrack"
+            ],
+            "date": "2007-11-21",
+            "link": "album/19888",
+            "titles": {
+                "en": "CLANNAD The Movie SOUNDTRACK",
+                "ja": "劇場版『CLANNAD -クラナド-』SOUNDTRACK"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "QLCD-0013",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2008-09-02",
+            "link": "album/9353",
+            "titles": {
+                "en": "New Moon"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "PCCR-90031",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2008-09-03",
+            "link": "album/10934",
+            "reprint": true,
+            "titles": {
+                "en": "New Moon"
+            },
+            "type": "anime"
+        }
+    ],
+    "description": "None",
+    "franchises": [
+        {
+            "link": "product/1018",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "link": "product/1020",
+    "meta": {
+        "added_date": "2011-11-14T19:54",
+        "added_user": "CHz",
+        "edited_date": "2011-11-14T19:54",
+        "edited_user": "CHz",
+        "ttl": 86400,
+        "visitors": 383
+    },
+    "name": "CLANNAD (Film)",
+    "name_real": "劇場版 CLANNAD -クラナド-",
+    "organizations": [
+        "None"
+    ],
+    "release_date": "2007-09-15",
+    "releases": [],
+    "type": "Video",
+    "vgmdb_link": "http://vgmdb.net/product/1020?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.toei-anim.co.jp/movie/2007_clannad/",
+                "name": "劇場版　CLANNAD　-クラナド-"
+            }
+        ]
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "albums": [
+        {
+            "catalog": "SMA-01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-11",
+            "link": "album/6458",
+            "titles": {
+                "en": "Dango Daikazoku (CLANNAD Arrange Album)",
+                "ja": "だんご大家族 (CLANNAD-クラナド- アレンジ アルバム)"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PSC-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0036",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2007-10-26",
+            "link": "album/5046",
+            "titles": {
+                "en": "CLANNAD – Mag Mell / Dango Daikazoku",
+                "ja": "クラナド オープニング&エンディングテーマ　メグメル / だんご大家族"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KDCD-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-06-01",
+            "link": "album/35896",
+            "titles": {
+                "en": "雨音 ~THE MELODY OF RAIN~",
+                "ja": "雨音～THE MELODY OF RAIN～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWCD-0044",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-06-15",
+            "link": "album/17812",
+            "titles": {
+                "en": "Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "classifications": [
+                "Vocal",
+                "Talk",
+                "Live Event"
+            ],
+            "date": "2008-12-28",
+            "link": "album/11557",
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MPTS001",
+            "classifications": [
+                "Fan Remix",
+                "Vocal"
+            ],
+            "date": "2009-08-15",
+            "link": "album/16792",
+            "titles": {
+                "en": "Nekology"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-003",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2009-08-15",
+            "link": "album/44076",
+            "titles": {
+                "en": "KeyRing Atrie vol.2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ATCD-21002",
+            "classifications": [
+                "Arrange",
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2009-11-25",
+            "link": "album/15914",
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku selection vol.2~",
+                "ja": "ANIME HOUSE PROJECT～神曲selection vol.2～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ATCD-21004",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2010-04-28",
+            "link": "album/21370",
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku Selection age↑mix zero~",
+                "ja": "ANIME HOUSE PROJECT ~神曲ぶちage↑mix zero~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "ATCD-10026",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2010-11-24",
+            "link": "album/22709",
+            "titles": {
+                "en": "ANIME HOUSE PROJECT ~Kamikyoku BEST selection~",
+                "ja": "ANIME HOUSE PROJECT ～神曲BEST selection～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ATZR-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-04-30",
+            "link": "album/32757",
+            "titles": {
+                "en": "posto felice"
+            },
+            "type": "doujin"
+        }
+    ],
+    "description": "None",
+    "franchises": [
+        {
+            "link": "product/1018",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "link": "product/1021",
+    "meta": {
+        "added_date": "2011-11-14T20:02",
+        "added_user": "CHz",
+        "edited_date": "2011-11-14T20:02",
+        "edited_user": "CHz",
+        "ttl": 86400,
+        "visitors": 612
+    },
+    "name": "CLANNAD (TV)",
+    "name_real": "CLANNAD -クラナド-",
+    "organizations": [
+        "None"
+    ],
+    "release_date": "2007-10",
+    "releases": [],
+    "type": "Video",
+    "vgmdb_link": "http://vgmdb.net/product/1021?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://www.tbs.co.jp/clannad/clannad1/",
+                "name": "TBSアニメーション 「CLANNAD」公式ホームページ"
+            }
+        ]
+    }
+}

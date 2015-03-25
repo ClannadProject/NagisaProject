@@ -1,0 +1,2580 @@
+{
+    "albums": [
+        {
+            "catalog": "PSGM-0001~2",
+            "classifications": [
+                "Prototype"
+            ],
+            "date": "2002-06-16",
+            "link": "album/16404",
+            "titles": {
+                "en": "Key Reality"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0009",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2003-12-28",
+            "link": "album/548",
+            "titles": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo",
+                "ja": "CLANNADイメージボーカルアルバム - ソララド"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0011",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2004-04-28",
+            "link": "album/551",
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SACD-5003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-06-20",
+            "link": "album/13841",
+            "titles": {
+                "en": "Gentle Breeze in Spring",
+                "ja": "はるのそよかぜ",
+                "ja-latn": "Haru no Soyokaze"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "classifications": [
+                "Soundtrack",
+                "Prototype"
+            ],
+            "date": "2004-08-13",
+            "link": "album/555",
+            "titles": {
+                "en": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "XLPS-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-13",
+            "link": "album/33971",
+            "titles": {
+                "en": "Spread Colors"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSA-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/14980",
+            "titles": {
+                "en": "White Sounds"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GT-004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/16257",
+            "titles": {
+                "en": "Shinkirou",
+                "ja": "深綺楼 -Shinkirou-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CTBR-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/11591",
+            "titles": {
+                "en": "Oto no Matsuri -Festival of Sound-",
+                "ja": "音の祭 -Festival of Sound-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ARCD0003",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-08-15",
+            "link": "album/16245",
+            "titles": {
+                "en": "Minna no Moe Uta",
+                "ja": "みんなの萌うた"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-011",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/8948",
+            "titles": {
+                "en": "VAGUE3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0020",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/11768",
+            "titles": {
+                "en": "RAGNAROK ONLINE & CLANNAD Arrange Album \"Sentire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "OEMM-0076",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/29454",
+            "titles": {
+                "en": "Ikicha CLANNAD Only Tea time Arrange CD",
+                "ja": "生茶 CLANNAD Only Tea time Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/5844",
+            "titles": {
+                "en": "Kizuna (CLANNAD Arrange Album)",
+                "ja": "絆-kizuna- (CLANNAD-クラナド- アレンジ アルバム)",
+                "ja-latn": "Kizuna"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HWFL-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/29580",
+            "titles": {
+                "en": "Fragile"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0011",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/5310",
+            "titles": {
+                "en": "CLANNAD – The sound story of impression I"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0007",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/20804",
+            "titles": {
+                "en": "CMAMOTO",
+                "ja": "クマモト"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD09",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/28930",
+            "titles": {
+                "en": "CLANNAD ARRANGE ALBUM ''relation''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-15",
+            "link": "album/13842",
+            "titles": {
+                "en": "Blue Skies in Summer",
+                "ja": "なつのあおぞら",
+                "ja-latn": "Natsu no Aozora"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-08-25",
+            "link": "album/1382",
+            "titles": {
+                "en": "1st GIG #Awake"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5005",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-09-19",
+            "link": "album/13843",
+            "titles": {
+                "en": "Sky Sanctuary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-10-09",
+            "link": "album/13001",
+            "titles": {
+                "en": "Junger Schnee",
+                "ja": "Junger Schnee ～ユンガーシュネー～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0021",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-10-11",
+            "link": "album/11769",
+            "titles": {
+                "en": "CLANNAD Piano Arrange Album \"Kou-Tan-Ei",
+                "ja": "降誕詠"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RYTH-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-11-13",
+            "link": "album/5685",
+            "titles": {
+                "en": "DIARY -CLANNAD Arrange ALBUM-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-20",
+            "link": "album/8238",
+            "titles": {
+                "en": "KEEPER OF METAL KEY PART. II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0016~7",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2004-12-28",
+            "link": "album/1183",
+            "titles": {
+                "en": "CLANNAD remix album -memento-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0015",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2004-12-29",
+            "link": "album/1182",
+            "titles": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo Append",
+                "ja": "CLANNADイメージボーカルアルバム - ソララドアペンド"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "RSW-0012",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-29",
+            "link": "album/5313",
+            "titles": {
+                "en": "CLANNAD – The sound story of impression II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2004-12-30",
+            "link": "album/15133",
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears- Tentative CDR Version",
+                "ja": "VOCALIZM5 -Lovers & Tears- 暫定CDR版",
+                "ja-latn": "VOCALIZM5 -Lovers & Tears- Zantei CDR-ban"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SACD-5006",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/21947",
+            "titles": {
+                "en": "Snowy World",
+                "ja": "ユキノセカイ",
+                "ja-latn": "Yuki no Sekai"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PPSR-0003",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-12-30",
+            "link": "album/13617",
+            "titles": {
+                "en": "voluntary"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0004",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-12-30",
+            "link": "album/8968",
+            "titles": {
+                "en": "Spread Colors+"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCB-006",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-12-30",
+            "link": "album/10215",
+            "titles": {
+                "en": "Mag Mell",
+                "ja": "メグメル"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SUCD-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/20805",
+            "titles": {
+                "en": "Kumapan.",
+                "ja": "くまぱん。"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ADSH-014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/10084",
+            "titles": {
+                "en": "CLANNAD Piano Arrange"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0020",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/13561",
+            "titles": {
+                "en": "CLANNAD Arranged Album \"The Place Where the Lights of Wishes Gather\" Side B",
+                "ja": "クラナド・アレンジアルバム 「願いの光 集う場所」  Side B",
+                "ja-latn": "CLANNAD Arranged Album \"Negai no Hikari Tsudou Basho\" Side B"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0019",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2004-12-30",
+            "link": "album/13560",
+            "titles": {
+                "en": "CLANNAD Arranged Album \"The Place Where the Lights of Wishes Gather\" Side A",
+                "ja": "クラナド・アレンジアルバム 「願いの光 集う場所」  Side A",
+                "ja-latn": "CLANNAD Arranged Album \"Negai no Hikari Tsudou Basho\" Side A"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SNOW-CD10",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/28931",
+            "titles": {
+                "en": "CLANNAD ARRANGE ALBUM -second relation- ''LINKS''"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AMCD-0004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/36981",
+            "titles": {
+                "en": "HAKAGI JAZZ",
+                "ja": "葉鍵JAZZ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT01-RW01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/39245",
+            "titles": {
+                "en": "Remind -CT Remix works Vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSM-012",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2004-12-30",
+            "link": "album/49197",
+            "titles": {
+                "en": "Yuuyami no Shasou kara",
+                "ja": "夕闇の車窓から"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005",
+            "link": "album/10046",
+            "titles": {
+                "en": "key Music Piano Improv Arrange CD",
+                "ja": "key曲ピアノ即興アレンジＣＤ",
+                "ja-latn": "key Kyoku Piano Sokkyou Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005",
+            "link": "album/10043",
+            "titles": {
+                "en": "key Improv Arrange: All 17 Tracks",
+                "ja": "key即興アレンジ全１７曲",
+                "ja-latn": "key Sokkyou Arrange Chon-17-Kyoku"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UKST-1006",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2005-03-13",
+            "link": "album/15136",
+            "titles": {
+                "en": "VOCALIZM5 -Lovers & Tears-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-03-13",
+            "link": "album/47158",
+            "titles": {
+                "en": "Sensitive"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCMC-0022",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-03-21",
+            "link": "album/11771",
+            "titles": {
+                "en": "CLANNAD & Higurashi no Naku Koro ni Arrange Album \"Sinfonia"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKBM-0004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-05-01",
+            "link": "album/13002",
+            "titles": {
+                "en": "Winter→Spring"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TUCD-01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-05-01",
+            "link": "album/13314",
+            "titles": {
+                "en": "Festa"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-05-29",
+            "link": "album/10047",
+            "titles": {
+                "en": "TAM & PICO key Arrange CD",
+                "ja": "TAM & ぴこ key Arrange CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0006",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-06-18",
+            "link": "album/8237",
+            "titles": {
+                "en": "KEEPER OF METAL KEY PART. III"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0018",
+            "classifications": [
+                "Soundtrack"
+            ],
+            "date": "2005-08-12",
+            "link": "album/1184",
+            "titles": {
+                "en": "KEY Compilation Mini Album \"Ma-Na"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "UKST-1007",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2005-08-14",
+            "link": "album/6688",
+            "titles": {
+                "en": "VOCALIZM6 -SouthSea&SummerSong-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RLCD-0014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-08-14",
+            "link": "album/20558",
+            "titles": {
+                "en": "Seraphic Lawsuit"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-013",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-08-14",
+            "link": "album/8952",
+            "titles": {
+                "en": "VAGUE extend"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2005-08-14",
+            "link": "album/13059",
+            "titles": {
+                "en": "Ocean AIR & CLANNAD ArrangeWorks"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-08-14",
+            "link": "album/13118",
+            "titles": {
+                "en": "Röten Kreuz"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSW-0014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-08-14",
+            "link": "album/5290",
+            "titles": {
+                "en": "CLANNAD Piano tune collection"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ICDA-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-08-14",
+            "link": "album/14652",
+            "titles": {
+                "en": "CLANNAD@TRANCE",
+                "ja": "CLANNAD@TRANCE -クラトラ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "VDK-0014",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2005-08-14",
+            "link": "album/14044",
+            "titles": {
+                "en": "es"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWPG-0007",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2005-08-28",
+            "link": "album/15163",
+            "titles": {
+                "en": "Lilium"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-09-18",
+            "link": "album/14148",
+            "titles": {
+                "en": "Luminous -hikari-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-10-08",
+            "link": "album/10081",
+            "titles": {
+                "en": "Touhou & key Piano & Violin",
+                "ja": "東方＆key　ピアノ＆バイオリン"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-10-08",
+            "link": "album/10079",
+            "titles": {
+                "en": "Touhou & key Piano Solo CD (Ver0.1)",
+                "ja": "東方＆keyピアノソロＣＤ Ver0.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSS-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-10-23",
+            "link": "album/14065",
+            "titles": {
+                "en": "Shissou Youjokyoku",
+                "ja": "疾奏幼女曲"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-11-03",
+            "link": "album/10080",
+            "titles": {
+                "en": "Touhou & key Piano Solo CD (Ver0.2)",
+                "ja": "東方＆keyピアノソロＣＤ Ver0.2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-12-25",
+            "link": "album/10088",
+            "titles": {
+                "en": "Violin Collaboration",
+                "ja": "バイオリン・コラボレーション"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0021",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2005-12-29",
+            "link": "album/1187",
+            "titles": {
+                "en": "CLANNAD / Tomoyo After Piano Arrange Album \"Piano no Mori",
+                "ja": "～CLANNAD/Tomoyo After Piano Arrange Album～ ピアノの森"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "CTBR-0006",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2005-12-30",
+            "link": "album/11597",
+            "titles": {
+                "en": "The best compilation"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-01-09",
+            "link": "album/15165",
+            "titles": {
+                "en": "Sand Beige"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0007",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-01-31",
+            "link": "album/8235",
+            "titles": {
+                "en": "KEEPER OF METAL KEY BEFORE"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-03-09",
+            "link": "album/8236",
+            "titles": {
+                "en": "KEEPER OF METAL KEY AFTER"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-04-02",
+            "link": "album/14155",
+            "titles": {
+                "en": "AnarKEY→ ←QuantumLEAF"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SICD-004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-04-29",
+            "link": "album/6371",
+            "titles": {
+                "en": "IA-STYLE/L+K"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-04-29",
+            "link": "album/36980",
+            "titles": {
+                "en": "Tsubasa - Original Song & CLANNAD Arrange mini-Album",
+                "ja": "つばさ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WAS-01",
+            "classifications": [
+                "Fan Remix"
+            ],
+            "date": "2006-04-29",
+            "link": "album/20307",
+            "titles": {
+                "en": "Motion Of Eternity"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPWG-0009",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2006-06-11",
+            "link": "album/15166",
+            "titles": {
+                "en": "Malachite"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0023~4",
+            "classifications": [
+                "Remix"
+            ],
+            "date": "2006-06-23",
+            "link": "album/1249",
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SMA-01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-11",
+            "link": "album/6458",
+            "titles": {
+                "en": "Dango Daikazoku (CLANNAD Arrange Album)",
+                "ja": "だんご大家族 (CLANNAD-クラナド- アレンジ アルバム)"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AETR-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-13",
+            "link": "album/5141",
+            "titles": {
+                "en": "LE:mix -Limited Edition:mix-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GP-01",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-13",
+            "link": "album/12559",
+            "titles": {
+                "en": "Various festa"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SDCD-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-13",
+            "link": "album/44037",
+            "titles": {
+                "en": "Strawberry Punch",
+                "ja": "ストロベリーパンチ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRIM-1001/2",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-13",
+            "link": "album/49162",
+            "titles": {
+                "en": "Real Fantasy",
+                "ja": "二次元演奏会 the CD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0009",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-08-27",
+            "link": "album/14156",
+            "titles": {
+                "en": "What a Happiness!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-10-01",
+            "link": "album/13799",
+            "titles": {
+                "en": "Kiraboshi",
+                "ja": "輝羅星"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-10-09",
+            "link": "album/10954",
+            "titles": {
+                "en": "CLANNAD Arrange Album Nostalgia -Luv Clann-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0010",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2006-12-31",
+            "link": "album/8443",
+            "titles": {
+                "en": "Violet"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0008",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-12-31",
+            "link": "album/6733",
+            "titles": {
+                "en": "TAMs Lucky Bag",
+                "ja": "ＴＡＭの福袋",
+                "ja-latn": "TAM no Fukubukuro"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KNKS-0002",
+            "classifications": [
+                "Fan Arrange",
+                "Fan Remix"
+            ],
+            "date": "2006-12-31",
+            "link": "album/12497",
+            "titles": {
+                "en": "Kagioto",
+                "ja": "かぎおと"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0009",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2006-12-31",
+            "link": "album/7348",
+            "titles": {
+                "en": "Claire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PRIM-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2006-12-31",
+            "link": "album/49163",
+            "titles": {
+                "en": "Real Fantasy",
+                "ja": "二次元演奏会 the DVD"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0010",
+            "classifications": [
+                "Fan Arrange",
+                "Video"
+            ],
+            "date": "2007-02-12",
+            "link": "album/49201",
+            "titles": {
+                "en": "TAMovie directors.Edition"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FCCP-0024",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2007-04-25",
+            "link": "album/6789",
+            "titles": {
+                "en": "CLANNAD Drama CD Vol.1 Furukawa Nagisa",
+                "ja": "CLANNAD-クラナド- ドラマCD vol.1 古河渚"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2007-04-29",
+            "link": "album/13111",
+            "titles": {
+                "en": "Cherry's"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "int5987",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-04-29",
+            "link": "album/34359",
+            "titles": {
+                "en": "Message From Innocent World"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2007-04-29",
+            "link": "album/35799",
+            "titles": {
+                "en": "Key Songs Acoustic vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FCCP-0025",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2007-05-25",
+            "link": "album/6790",
+            "titles": {
+                "en": "CLANNAD Drama CD Vol.2 Ichinose Kotomi",
+                "ja": "CLANNAD-クラナド- ドラマCD vol.2 一ノ瀬ことみ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TAM3-0014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-10",
+            "link": "album/6625",
+            "titles": {
+                "en": "TAM & PICO Collaboration CD - Early Works",
+                "ja": "TAM&PICO コラボＣＤ 初期作品集",
+                "ja-latn": "TAM & PICO Collab CD - Shoki Sakuhinshuu"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FCCP-0026",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2007-06-22",
+            "link": "album/6791",
+            "titles": {
+                "en": "CLANNAD Drama CD Vol.3 Ibuki Fuuko",
+                "ja": "CLANNAD-クラナド- ドラマCD vol.3 伊吹風子"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "PSC-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-06-25",
+            "link": "album/50836",
+            "titles": {
+                "en": "Key Sound Selections ~first edition only Demonstration Disk~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FCCP-0027",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2007-07-25",
+            "link": "album/6792",
+            "titles": {
+                "en": "CLANNAD Drama CD Vol.4 Fujibayashi Kyou",
+                "ja": "CLANNAD-クラナド- ドラマCD vol.4 藤林杏"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "PPKN-0006",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-08-17",
+            "link": "album/12511",
+            "titles": {
+                "en": "Gakki Seikatsu. ~Summer 2007 Edition~",
+                "ja": "楽器生活。〜2007夏号〜"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0018",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-08-17",
+            "link": "album/6434",
+            "titles": {
+                "en": "5th TAMUSIC Concert ~Key Compilation~",
+                "ja": "第５回ＴＡＭＵＳＩＣコンサート　～key編～",
+                "ja-latn": "5th TAMUSIC Concert ~key-hen~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2007-08-17",
+            "link": "album/6437",
+            "titles": {
+                "en": "Self-indulgence"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FCCP-0028",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2007-08-24",
+            "link": "album/6793",
+            "titles": {
+                "en": "CLANNAD Drama CD Vol.5 Sakagami Tomoyo",
+                "ja": "CLANNAD-クラナド- ドラマCD vol.5 坂上智代"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "PCCA-90029",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2007-09-19",
+            "link": "album/13529",
+            "titles": {
+                "en": "Lia*COLLECTION ALBUM Vol.1 Diamond Days"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KNKS-0005P",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2007-10-08",
+            "link": "album/12494",
+            "titles": {
+                "en": "NaTsuOto",
+                "ja": "なつおと"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GCFT-0040",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-10-08",
+            "link": "album/14466",
+            "titles": {
+                "en": "haq. Remixes BEST CHRONICLOTH"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2007-10-08",
+            "link": "album/49465",
+            "titles": {
+                "en": "Labyrinth -Runner-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FSCD-0005",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-10-20",
+            "link": "album/49324",
+            "titles": {
+                "en": "First Sounds 5"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HSY-006",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-11-19",
+            "link": "album/19339",
+            "titles": {
+                "en": "Sawayakana Ichinichi",
+                "ja": "騒やかな一日"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RSCD-0007",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/12479",
+            "titles": {
+                "en": "TYPE-R 3rd -Side Key-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRBL-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/10078",
+            "titles": {
+                "en": "Snowstorm"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AECD-011",
+            "classifications": [
+                "Fan Arrange",
+                "Fan Remix"
+            ],
+            "date": "2007-12-31",
+            "link": "album/6795",
+            "titles": {
+                "en": "Angel Rings"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ZTSL-016",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/6283",
+            "titles": {
+                "en": "VAGUE IN WINTER 2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/6689",
+            "titles": {
+                "en": "S.B.S.P 5th ANNIVERSARY BEST ALBUM - UNatural"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CT06-OR03",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/14577",
+            "titles": {
+                "en": "Revolution"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2007-12-31",
+            "link": "album/49326",
+            "titles": {
+                "en": "Fe no Net Boku to Kimi to",
+                "ja": "フェノネトボクトキミト"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AQSH-0019",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-03-09",
+            "link": "album/10720",
+            "titles": {
+                "en": "Merry Go Round !"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0028",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2008-03-31",
+            "link": "album/9797",
+            "titles": {
+                "en": "CLANNAD VIOLIN"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KDCD-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-06-01",
+            "link": "album/35896",
+            "titles": {
+                "en": "雨音 ~THE MELODY OF RAIN~",
+                "ja": "雨音～THE MELODY OF RAIN～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SWCD-0044",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-06-15",
+            "link": "album/17812",
+            "titles": {
+                "en": "Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TAM3-0032",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/10426",
+            "titles": {
+                "en": "6th TAMUSIC Concert",
+                "ja": "第6回TAMUSICコンサート"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RYCD-0003",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/12528",
+            "titles": {
+                "en": "Oukiraku",
+                "ja": "逢季樂〜おうきらく〜"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2008-08-16",
+            "link": "album/9843",
+            "titles": {
+                "en": "NON, STOP☆HEROINES!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WHNO-1009",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/10603",
+            "titles": {
+                "en": "Latchkey Lovers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SPMU-0004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/11905",
+            "titles": {
+                "en": "Amazing Life -Key Arrange Album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "DLMS-0007",
+            "classifications": [
+                "Fan Arrange",
+                "Fan Remix"
+            ],
+            "date": "2008-08-16",
+            "link": "album/9914",
+            "titles": {
+                "en": "Linkup remixside Key vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FWCD-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/12518",
+            "titles": {
+                "en": "Summer Flowers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SICD-024",
+            "classifications": [
+                "Fan Arrange",
+                "Fan Remix"
+            ],
+            "date": "2008-08-16",
+            "link": "album/10358",
+            "titles": {
+                "en": "JiNG*2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ALCE-0801",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-16",
+            "link": "album/10530",
+            "titles": {
+                "en": "Beauteous Rain"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BSCD-001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-08-17",
+            "link": "album/13219",
+            "titles": {
+                "en": "blue stripes",
+                "ja": "ぶるーすとらいぷす"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "INDL-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-10-13",
+            "link": "album/12709",
+            "titles": {
+                "en": "Fabricated memories"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "classifications": [
+                "Vocal",
+                "Talk",
+                "Live Event"
+            ],
+            "date": "2008-12-28",
+            "link": "album/11557",
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLCD-0014",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2008-12-28",
+            "link": "album/11162",
+            "titles": {
+                "en": "Veil ∞ assorted voices"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-12-29",
+            "link": "album/11404",
+            "titles": {
+                "en": "Trinity"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SOH-0015",
+            "classifications": [
+                "Fan Remix"
+            ],
+            "date": "2008-12-29",
+            "link": "album/11282",
+            "titles": {
+                "en": "KEEPER OF METAL KEY BAND"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FWCD-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-12-29",
+            "link": "album/12520",
+            "titles": {
+                "en": "Autumn Flowers"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "XLPS-0022~3",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-12-29",
+            "link": "album/11297",
+            "titles": {
+                "en": "RE:COLLECTIONS"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SGNR-001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2008-12-29",
+            "link": "album/44219",
+            "titles": {
+                "en": "eclair -key arrange CD-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0015",
+            "classifications": [
+                "Vocal"
+            ],
+            "date": "2009-02-25",
+            "link": "album/12400",
+            "titles": {
+                "en": "The Place Where Wishes Come True ~Vocal&Harmony version~ / Veil ∞ Aoi",
+                "ja": "願いが叶う場所 ～Vocal&Harmony version～ ゲーム・TVアニメ「CLANNAD」 BGMヴォーカル化"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0048",
+            "classifications": [
+                "Arrange",
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2009-02-28",
+            "link": "album/12634",
+            "titles": {
+                "en": "OTSU:Blasterhead"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0004~5",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-02-28",
+            "link": "album/13063",
+            "titles": {
+                "en": "Key 10th Memorial Fes Anniversary CD"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2009-02-28",
+            "link": "album/13062",
+            "titles": {
+                "en": "Key 10th Memorial Score"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ZTSL-017",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-04-10",
+            "link": "album/12605",
+            "titles": {
+                "en": "VAGUE IN WINTER 3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MJCD-0010",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-05-05",
+            "link": "album/12733",
+            "titles": {
+                "en": "Vivid Colors -KEY tribute album-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HLZY-0001",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2009-05-05",
+            "link": "album/13222",
+            "titles": {
+                "en": "H -Heart and Beat Technology-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-05-07",
+            "link": "album/13365",
+            "titles": {
+                "en": "Boshuu Natsuyo Piano Collection vol. 01 \"Kizuna",
+                "ja": "暮秋夏夜 Piano Collection vol. 01 『絆 -キヅナ-』"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-08-15",
+            "link": "album/28621",
+            "titles": {
+                "en": "Wind BOX!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HNBD-001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-08-15",
+            "link": "album/15213",
+            "titles": {
+                "en": "koe"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0019",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-08-15",
+            "link": "album/15102",
+            "titles": {
+                "en": "Veil ∞ DENPA!!!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "RMT004",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-08-15",
+            "link": "album/14663",
+            "titles": {
+                "en": "compact"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LGCD-0007",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-08-15",
+            "link": "album/14892",
+            "titles": {
+                "en": "gracious key"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "UCEX-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2009-09-23",
+            "link": "album/15445",
+            "titles": {
+                "en": "Memoire"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PCCG-90047",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2009-10-21",
+            "link": "album/16365",
+            "reprint": true,
+            "titles": {
+                "en": "Veil ∞ DENPA!!!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "BSCD-004",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2009-12-30",
+            "link": "album/44077",
+            "titles": {
+                "en": "KeyRing Atrie vol.3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EFLA-0006",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2010-04-14",
+            "link": "album/18764",
+            "titles": {
+                "en": "nejimaki musica 2",
+                "ja": "ねじまきむじか2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ZVLN-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-05-05",
+            "link": "album/19310",
+            "titles": {
+                "en": "Zephyr Violin"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPCD-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-05-05",
+            "link": "album/19314",
+            "titles": {
+                "en": "Air of Life"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-05-05",
+            "link": "album/39377",
+            "titles": {
+                "en": "Naisho no Aozora",
+                "ja": "ないしょの青空"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLC-0008",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2010-05-21",
+            "link": "album/48974",
+            "titles": {
+                "en": "KSL Live World 2010 Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-08-14",
+            "link": "album/29697",
+            "titles": {
+                "en": "Re:alize"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLCD-0021~2",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2010-12-28",
+            "link": "album/22625",
+            "titles": {
+                "en": "enigmaticLIA4",
+                "ja": "C79 SPECIAL EDITION enigmaticLIA4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "YUKI-0006",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2010-12-29",
+            "link": "album/28961",
+            "titles": {
+                "en": "Chranos",
+                "ja": "Chranos ～クラノス～"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LDCD-001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-12-30",
+            "link": "album/23991",
+            "titles": {
+                "en": "Touhou Pianoforte I -Requiem for sakura-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TPCD-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2010-12-31",
+            "link": "album/40299",
+            "titles": {
+                "en": "Shiawase Iro",
+                "ja": "しあわせいろ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "PROTOTYPE-017",
+            "classifications": [
+                "Drama"
+            ],
+            "date": "2011-04-21",
+            "link": "album/50379",
+            "titles": {
+                "en": "CLANNAD Mitsumi Mamoru Sakamichi de Digest Disc",
+                "ja": "CLANNAD -クラナド- 光見守る坂道で ダイジェストディスク"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "YUKI-0007",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-05-01",
+            "link": "album/28962",
+            "titles": {
+                "en": "planetarian ~the song of a little planet~",
+                "ja": "planetarian ～ちいさなほしのうた～",
+                "ja-latn": "planetarian ~Chiisana Hoshi no Uta~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "QLC-00002",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27618",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemnia L's core-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "QLC-00001",
+            "classifications": [
+                "Unclassified"
+            ],
+            "date": "2011-06-22",
+            "link": "album/27616",
+            "titles": {
+                "en": "enigmaticLIA4 -Anthemical Keyworlds-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-07-05",
+            "link": "album/37575",
+            "titles": {
+                "en": "Osamuraisan Selection vol.1.1",
+                "ja": "おさむらいさんせれくしょん Vol.1.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-08-13",
+            "link": "album/28197",
+            "titles": {
+                "en": "Key piano forte -kanade-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LLAC-0006",
+            "classifications": [
+                "Fan Arrange",
+                "Vocal"
+            ],
+            "date": "2011-08-13",
+            "link": "album/27953",
+            "titles": {
+                "en": "Heavenly Beats"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSLA-0001",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-10-30",
+            "link": "album/29415",
+            "titles": {
+                "en": "S-studio2 Sound Collection 2001-2011 Vol.1 \"key-side",
+                "ja": "S-studio2 Sound Collection 2001-2011 Vol.1 \"key-side"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-10-30",
+            "link": "album/29699",
+            "titles": {
+                "en": "Key Piano Arrange",
+                "ja": "Keyピアノあれんじ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SORR-00093",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-12-30",
+            "link": "album/30109",
+            "titles": {
+                "en": "LATENCY ANGEL"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BR-0014",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-12-31",
+            "link": "album/30536",
+            "titles": {
+                "en": "hope of winter door"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2011-12-31",
+            "link": "album/37524",
+            "titles": {
+                "en": "Past of Wind"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-04-30",
+            "link": "album/35610",
+            "titles": {
+                "en": "Memories Of Those Hometowns"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-04-30",
+            "link": "album/38980",
+            "titles": {
+                "en": "Fragment:Key"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0079",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2012-05-25",
+            "link": "album/32432",
+            "titles": {
+                "en": "Key + VOCALOID Best selection vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0084",
+            "classifications": [
+                "Remix",
+                "Vocal"
+            ],
+            "date": "2012-07-29",
+            "link": "album/34241",
+            "titles": {
+                "en": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SGNM-002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-08-11",
+            "link": "album/34345",
+            "titles": {
+                "en": "Euphoric Tears"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "2NDF-0010",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-10-28",
+            "link": "album/43485",
+            "titles": {
+                "en": "Sweet"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "classifications": [
+                "Arrange",
+                "Vocal"
+            ],
+            "date": "2012-12-29",
+            "link": "album/36702",
+            "titles": {
+                "en": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-12-31",
+            "link": "album/37525",
+            "titles": {
+                "en": "KnowLedge"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "BBR-04",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-12-31",
+            "link": "album/38596",
+            "titles": {
+                "en": "Snowdrop"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2012-12-31",
+            "link": "album/48715",
+            "titles": {
+                "en": "Aozora o Mezashite",
+                "ja": "青空をめざして"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "2NDF-0012",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2013-03-03",
+            "link": "album/43486",
+            "titles": {
+                "en": "Shine"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2013-08-12",
+            "link": "album/41495",
+            "titles": {
+                "en": "The Remains"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FPCR-020",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2013-10-27",
+            "link": "album/42449",
+            "titles": {
+                "en": "FMPSG020 -DECADE-",
+                "ja": "FMPSG020 -DECADE- Decade of Chiptune 2003~2013"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AOZR-0002",
+            "classifications": [
+                "Fan Arrange"
+            ],
+            "date": "2013-10-27",
+            "link": "album/44325",
+            "titles": {
+                "en": "Colorful"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "classifications": [
+                "Arrange"
+            ],
+            "date": "2014-02-18",
+            "link": "album/45150",
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI"
+            },
+            "type": "game"
+        }
+    ],
+    "description": "None",
+    "franchises": [
+        {
+            "link": "product/1018",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            }
+        }
+    ],
+    "link": "product/1019",
+    "meta": {
+        "added_date": "2011-11-14T19:40",
+        "added_user": "CHz",
+        "edited_date": "2012-03-01T20:22",
+        "edited_user": "Secret Squirrel",
+        "ttl": 86400,
+        "visitors": 2086
+    },
+    "name": "CLANNAD",
+    "name_real": "クラナド",
+    "organizations": [
+        "Key"
+    ],
+    "picture_full": "http://vgmdb.net/db/assets/logos/1019-pr-1322017235.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/logos-medium/1019-pr-1322017235.jpg",
+    "release_date": "2004-04-28",
+    "releases": [
+        {
+            "date": "2004-04-28",
+            "names": {
+                "en": "CLANNAD (First Press Limited Edition)",
+                "ja": "CLANNAD 初回限定版",
+                "ja-latn": "CLANNAD (First Press Limited Edition)"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2004-08-06",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2006-02-23",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            },
+            "platform": "Sony PlayStation 2",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2008-02-29",
+            "names": {
+                "en": "CLANNAD Full Voice",
+                "ja": "CLANNAD フルボイス",
+                "ja-latn": "CLANNAD Full Voice"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2008-05-29",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            },
+            "platform": "Sony PlayStation Portable",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2008-08-28",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            },
+            "platform": "Microsoft Xbox 360",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2009-07-30",
+            "names": {
+                "en": "CLANNAD (Best Version)",
+                "ja": "CLANNAD 【ベスト版】",
+                "ja-latn": "CLANNAD (Best Version)"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2010-05-28",
+            "names": {
+                "en": "CLANNAD Memorial Edition (all ages)",
+                "ja": "CLANNAD メモリアルエディション全年齢対象版",
+                "ja-latn": "CLANNAD Memorial Edition (all ages)"
+            },
+            "platform": "PC",
+            "region": "JPY (Japan)"
+        },
+        {
+            "date": "2011-04-21",
+            "names": {
+                "en": "CLANNAD",
+                "ja": "CLANNAD",
+                "ja-latn": "CLANNAD"
+            },
+            "platform": "Sony PlayStation 3",
+            "region": "JPY (Japan)"
+        }
+    ],
+    "type": "Game",
+    "vgmdb_link": "http://vgmdb.net/product/1019?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://key.visualarts.gr.jp/product/clannad/",
+                "name": "CLANNAD｜Key Official HomePage"
+            }
+        ],
+        "Reference": [
+            {
+                "link": "http://www.mobygames.com/game/clannad",
+                "name": "MobyGames"
+            }
+        ]
+    }
+}
