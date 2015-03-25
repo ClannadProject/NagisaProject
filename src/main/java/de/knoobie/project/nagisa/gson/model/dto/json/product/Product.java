@@ -2,6 +2,7 @@ package de.knoobie.project.nagisa.gson.model.dto.json.product;
 
 import com.google.gson.annotations.SerializedName;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Meta;
+import de.knoobie.project.nagisa.gson.model.dto.json.common.Websites;
 import java.util.ArrayList;
 import java.util.List;
 import lombok.Data;
@@ -38,5 +39,7 @@ class Product {
     private String type;
     @SerializedName("vgmdb_link")
     private String vgmdbLink;
+    
+    private Websites websites;
     
 }
