@@ -15,18 +15,18 @@ import java.io.IOException;
 public class TransientModelRun {
 
     public static void main(String[] args) throws IllegalArgumentException, JsonSyntaxException, IOException {
-        TestVGMdb.getArtist("7699");
+//        TestVGMdb.getArtist("7699");
         
 //        VGMdbAlbum album = VGMdb.getAlbum("50587");
 //        test_getOrg("1");
 //        test_getArtist("Band", "6310");
 //        test_getArtist("Person", "5");
 //        test_Product("1018"); // Francise
-//        test_Product("1019"); // Game
+        test_Product("1019"); // Game
 //        test_Product("1020"); // Video
 //        test_Product("1021"); // Video
 //        test_Product("1028"); // Game
-        test_search("kantai");
+//        test_search("kantai");
     }
     
     private static void test_search(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
@@ -90,6 +90,12 @@ public class TransientModelRun {
         product.getAlbums().stream().forEach((album) -> {
             System.out.println(" - " + album.getNames().get(0).getName() + " | " + album.getCatalog()
                     + " | " + album.getLink() + " | " + album.getType());
+        });
+
+        System.out.println("Websites:");
+        product.getWebsites().stream().forEach((website) -> {
+            System.out.println(" - " + website.getName()
+                    + " | " + website.getLink() + " | " + website.getType());
         });
     }
 
