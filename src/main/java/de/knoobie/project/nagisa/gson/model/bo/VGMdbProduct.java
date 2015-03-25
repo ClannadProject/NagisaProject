@@ -4,6 +4,7 @@ import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbNameLanguage;
 import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbProductType;
+import de.knoobie.project.nagisa.gson.model.bo.enums.VGMdbWebsiteType;
 import de.knoobie.project.nagisa.gson.model.dto.json.common.Names;
 import de.knoobie.project.nagisa.gson.model.dto.json.product.Product;
 import java.util.ArrayList;
@@ -49,6 +50,8 @@ class VGMdbProduct {
      * Alben related to this Product
      */
     private List<VGMdbAlbum> albums = new ArrayList<>();
+
+    private List<VGMdbWebsite> websites = new ArrayList<>();
 
     public VGMdbProduct(Names names, String link) {
         this(names, link, StringUtils.EMPTY);
@@ -105,5 +108,34 @@ class VGMdbProduct {
                 getReleases().add(new VGMdbProductMerchandise(release));
             });
         }
+
+        if (product.getWebsites() != null) {
+            if (!ListUtils.isEmpty(product.getWebsites().getOfficial())) {
+                product.getWebsites().getOfficial().stream().forEach((officialWebsite) -> {
+                    getWebsites().add(new VGMdbWebsite(
+                            officialWebsite.getName(),
+                            officialWebsite.getLink(),
+                            VGMdbWebsiteType.official));
+                });
+            }
+            if (!ListUtils.isEmpty(product.getWebsites().getPersonal())) {
+                product.getWebsites().getPersonal().stream().forEach((personalWebsite) -> {
+                    getWebsites().add(new VGMdbWebsite(
+                            personalWebsite.getName(),
+                            personalWebsite.getLink(),
+                            VGMdbWebsiteType.personal));
+                });
+            }
+            if (!ListUtils.isEmpty(product.getWebsites().getReference())) {
+                product.getWebsites().getReference().stream().forEach((referenceWebsite) -> {
+                    getWebsites().add(new VGMdbWebsite(
+                            referenceWebsite.getName(),
+                            referenceWebsite.getLink(),
+                            VGMdbWebsiteType.reference));
+                });
+            }
+        }
     }
+    
+    
 }
