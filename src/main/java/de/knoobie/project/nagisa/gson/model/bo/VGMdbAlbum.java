@@ -60,6 +60,7 @@ class VGMdbAlbum {
 
     private List<VGMdbStore> stores = new ArrayList<>();
     private List<VGMdbWebsite> websites = new ArrayList<>();
+    private List<VGMdbEvent> events = new ArrayList<>();
 
     public VGMdbAlbum(Names names, String link, String catalog, String type) {
         if (names == null) {
@@ -138,6 +139,12 @@ class VGMdbAlbum {
                 getComposers().add(new VGMdbPerson(
                         composer.getNames(),
                         StringUtils.trim(composer.getLink())));
+            });
+        }
+
+        if (!ListUtils.isEmpty(album.getEvents())) {
+            album.getEvents().stream().forEach((event) -> {
+                getEvents().add(new VGMdbEvent(event));
             });
         }
 

@@ -1,0 +1,48 @@
+{
+    "enddate": "2007-03-20",
+    "link": "event/123",
+    "name": "Touhou Fuhai Komachi 3",
+    "notes": "Touhou Fuhai Komachi 3 held at Tokyo Metropolitan Industrial Trade Center on March 21, 2007. Official Website: http://www.egmc.co.jp/komati/komati_page.html",
+    "releases": [
+        {
+            "album_type": "doujin",
+            "catalog": "CK-0004P",
+            "link": "album/6939",
+            "publisher": {
+                "link": "org/211",
+                "names": {
+                    "en": "CYTOKINE",
+                    "ja": "CYTOKINE"
+                }
+            },
+            "release_date": "2007-03-21",
+            "release_type": "New Release",
+            "titles": {
+                "en": "PRISMA",
+                "ja": "PRISMA",
+                "ja-latn": "PRISMA"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ASHI-1003",
+            "link": "album/25822",
+            "publisher": {
+                "link": "org/595",
+                "names": {
+                    "en": "As/Hi",
+                    "ja": "As/Hi"
+                }
+            },
+            "release_date": "2007-03-21",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sore wa Yamikumo ni Moteasobareru Ayatsuri Ningyou no Gotoku",
+                "ja": "それは闇雲に玩ばれる操り人形の如く",
+                "ja-latn": "Sore wa Yamikumo ni Moteasobareru Ayatsuri Ningyou no Gotoku"
+            }
+        }
+    ],
+    "startdate": "2007-03-20",
+    "vgmdb_link": "http://vgmdb.net/event/123?perpage=99999"
+}

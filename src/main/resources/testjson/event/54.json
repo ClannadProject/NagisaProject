@@ -1,0 +1,839 @@
+{
+    "enddate": "2008-05-10",
+    "link": "event/54",
+    "name": "M3-2008 Spring",
+    "notes": "21st installment of the biannual Music Media-Mix Market (M3). Site: http://www.m3net.jp/",
+    "releases": [
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/33802",
+            "publisher": {
+                "names": {
+                    "en": "2SP+C'K"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "A LitteLE diNosOUR",
+                "ja": "A LitteLE diNosOUR",
+                "ja-latn": "A LitteLE diNosOUR"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "HLCD-0004",
+            "link": "album/11028",
+            "publisher": {
+                "link": "org/226",
+                "names": {
+                    "en": "Hachimitsu-Lemon",
+                    "ja": "はちみつれもん"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Acceleration",
+                "ja": "Acceleration",
+                "ja-latn": "Acceleration"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/13788",
+            "publisher": {
+                "link": "org/286",
+                "names": {
+                    "en": "zwolf",
+                    "ja": "zwolf"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ausf.E -Enharmonic-",
+                "ja": "Ausf.E -Enharmonic-",
+                "ja-latn": "Ausf.E -Enharmonic-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8752",
+            "publisher": {
+                "link": "org/161",
+                "names": {
+                    "en": "IRON ATTACK!",
+                    "ja": "IRON ATTACK!"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "BLADE OF ANCIENT TEMPLE",
+                "ja": "Blade Of Ancient Temple 体験版",
+                "ja-latn": "BLADE OF ANCIENT TEMPLE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "JADE-0001",
+            "link": "album/8818",
+            "publisher": {
+                "link": "org/332",
+                "names": {
+                    "en": "UNIONS JADE",
+                    "ja": "UNIONS JADE"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Chrysoprasos",
+                "ja": "Chrysoprasos",
+                "ja-latn": "Chrysoprasos"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MCRX005pm",
+            "link": "album/19229",
+            "publisher": {
+                "link": "org/428",
+                "names": {
+                    "en": "Monochrome & Colored Rec.",
+                    "ja": "Monochrome & Colored Rec."
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Club Geffenia -Promotion Disc-",
+                "ja": "Club Geffenia -Promotion Disc-",
+                "ja-latn": "Club Geffenia -Promotion Disc-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "LIEN-0003",
+            "link": "album/35540",
+            "publisher": {
+                "names": {
+                    "en": "LC:AZE"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Colo-RS",
+                "ja": "Colo-RS",
+                "ja-latn": "Colo-RS"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RSPC-0012",
+            "link": "album/8809",
+            "publisher": {
+                "link": "org/290",
+                "names": {
+                    "en": "Re:SPEC",
+                    "ja": "Re:SPEC"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Come on! Cave Story",
+                "ja": "おいでよ どうくつのものがたり",
+                "ja-latn": "Come on! Cave Story"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DCCD-01",
+            "link": "album/47732",
+            "publisher": {
+                "names": {
+                    "en": "Disorder Circulation"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "concurrency EP",
+                "ja": "concurrency EP",
+                "ja-latn": "concurrency EP"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ABCD-0001",
+            "link": "album/22481",
+            "publisher": {
+                "link": "org/694",
+                "names": {
+                    "en": "Age of Beginning",
+                    "ja": "Age of Beginning"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Crossing Sequence",
+                "ja": "Crossing Sequence",
+                "ja-latn": "Crossing Sequence"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SJVSC-0022",
+            "link": "album/8684",
+            "publisher": {
+                "link": "org/292",
+                "names": {
+                    "en": "SJV-SC",
+                    "ja": "SJV普及委員会"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DIVIT - Touhou Project -Touhou Youyoumu- Arrange Music Lab.",
+                "ja": "DIVIT - Touhou Project -Touhou Youyoumu- Arrange Music Lab.",
+                "ja-latn": "DIVIT - Touhou Project -Touhou Youyoumu- Arrange Music Lab."
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "N/A",
+            "link": "album/18158",
+            "publisher": {
+                "names": {
+                    "en": "boostized euphoria"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Eb2",
+                "ja": "Eb2 -歪:Ibitsu-",
+                "ja-latn": "Eb2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8325",
+            "publisher": {
+                "link": "org/251",
+                "names": {
+                    "en": "churchmode",
+                    "ja": "ちゃーちもーど"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "F-ZERO MODE",
+                "ja": "F-ZERO MODE",
+                "ja-latn": "F-ZERO MODE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43847",
+            "publisher": {
+                "names": {
+                    "en": "Mousou no Ryodan"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "finis vocis",
+                "ja": "finis vocis",
+                "ja-latn": "finis vocis"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/15007",
+            "publisher": {
+                "link": "org/351",
+                "names": {
+                    "en": "Taraba",
+                    "ja": "タラバ"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fly High Potion",
+                "ja": "Fly High Potion",
+                "ja-latn": "Fly High Potion"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "INDL-0001",
+            "link": "album/12708",
+            "publisher": {
+                "link": "org/272",
+                "names": {
+                    "en": "Indolence",
+                    "ja": "Indolence"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "fragile",
+                "ja": "fragile",
+                "ja-latn": "fragile"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/15755",
+            "publisher": {
+                "link": "org/403",
+                "names": {
+                    "en": "Artificial Heart",
+                    "ja": "Artificial Heart"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FREEDOM",
+                "ja": "FREEDOM",
+                "ja-latn": "FREEDOM"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "UTY01",
+            "link": "album/10967",
+            "publisher": {
+                "link": "org/610",
+                "names": {
+                    "en": "U.T.Y.",
+                    "ja": "U.T.Y."
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hocchipocchi 4BEAT",
+                "ja": "ほっちぽっち4BEAT",
+                "ja-latn": "Hocchipocchi 4BEAT"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/27532",
+            "publisher": {
+                "link": "org/849",
+                "names": {
+                    "en": "Hyutec",
+                    "ja": "ヒュウテック"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HYUTEC 31: EVOLVEMENT EDITION",
+                "ja": "HYUTEC 31: EVOLVEMENT EDITION",
+                "ja-latn": "HYUTEC 31: EVOLVEMENT EDITION"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GMIX-0003",
+            "link": "album/11377",
+            "publisher": {
+                "link": "org/169",
+                "names": {
+                    "en": "GYRO MiX",
+                    "ja": "GYRO MiX"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Invitation to the Graveyard ~ King's Field I Arrange Collection",
+                "ja": "墓所への誘い KING'S FIELD I アレンジ集",
+                "ja-latn": "Bosho he no Sasoi KING'S FIELD I Arrange Shuu"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "MIN-0013",
+            "link": "album/10416",
+            "publisher": {
+                "names": {
+                    "en": "CLOSED/UNDERGROUND"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Katakiri Damacy",
+                "ja": "片霧魂",
+                "ja-latn": "Katakiri Damacy"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "RCD-0001",
+            "link": "album/8514",
+            "publisher": {
+                "names": {
+                    "en": "RyoRca docoRo"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kininaru, Kininaru / Mayuryoca?",
+                "ja": "気になる、気になる / まゆりょか？",
+                "ja-latn": "Kininaru, Kininaru / Mayuryoca?"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SLCD-0003",
+            "link": "album/11623",
+            "publisher": {
+                "names": {
+                    "en": "Sounds of Liberation"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kouhaku Kukeiraku",
+                "ja": "紅白矩形樂",
+                "ja-latn": "Kouhaku Kukeiraku"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "YTRR-001",
+            "link": "album/15957",
+            "publisher": {
+                "link": "org/433",
+                "names": {
+                    "en": "YTR RECORDS",
+                    "ja": "YTR RECORDS"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "La concepción",
+                "ja": "La concepción",
+                "ja-latn": "La concepción"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DLMS-0005",
+            "link": "album/9935",
+            "publisher": {
+                "link": "org/427",
+                "names": {
+                    "en": "Delights music",
+                    "ja": "Delights music"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Linkup originalside House vol.1",
+                "ja": "Linkup originalside House vol.1",
+                "ja-latn": "Linkup originalside House vol.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BLCD-08",
+            "link": "album/9424",
+            "publisher": {
+                "names": {
+                    "en": "Black Label Records"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MAJESTIC MOON",
+                "ja": "MAJESTIC MOON",
+                "ja-latn": "MAJESTIC MOON"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SFCD-0003",
+            "link": "album/8417",
+            "publisher": {
+                "link": "org/243",
+                "names": {
+                    "en": "SOUND FACTORY CAROLINA",
+                    "ja": "SOUND FACTORY CAROLINA"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Majestic Pendulum",
+                "ja": "Majestic Pendulum",
+                "ja-latn": "Majestic Pendulum"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ASIA-0008",
+            "link": "album/9886",
+            "publisher": {
+                "link": "org/1399",
+                "names": {
+                    "en": "ASIA LUNAR",
+                    "ja": "ASIA LUNAR"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MINAGIRI",
+                "ja": "漲MINAGIRI",
+                "ja-latn": "MINAGIRI"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8581",
+            "publisher": {
+                "link": "org/391",
+                "names": {
+                    "en": "MINAMOTRANCE",
+                    "ja": "MINAMOTRANCE"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MINAMOTRANCE-esque New Record",
+                "ja": "ミナモトランス的な新譜",
+                "ja-latn": "MINAMOTRANCE-teki na Shinpu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8522",
+            "publisher": {
+                "link": "org/235",
+                "names": {
+                    "en": "Kraster",
+                    "ja": "Kraster"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "OTSU-M@-MIX",
+                "ja": "OTSU-M@-MIX",
+                "ja-latn": "OTSU-M@-MIX"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSEB-0003",
+            "link": "album/9065",
+            "publisher": {
+                "link": "org/509",
+                "names": {
+                    "en": "Sokuseki Enban",
+                    "ja": "即席円盤"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Puzzle de PON!",
+                "ja": "パズルでPON!",
+                "ja-latn": "Puzzle de PON!"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TDDC-0003",
+            "link": "album/12481",
+            "publisher": {
+                "link": "org/1278",
+                "names": {
+                    "en": "Teadrops",
+                    "ja": "Teadrops"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Raindrops",
+                "ja": "Raindrops",
+                "ja-latn": "Raindrops"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "N/A",
+            "link": "album/15286",
+            "publisher": {
+                "link": "org/566",
+                "names": {
+                    "en": "MEGA-Fepps",
+                    "ja": "MEGAふぇっぷす"
+                }
+            },
+            "release_date": "2008-03-09",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Recollection of Music Arena #3 feat. HuSIC",
+                "ja": "Recollection of Music Arena #3 feat. HuSIC",
+                "ja-latn": "Recollection of Music Arena #3 feat. HuSIC"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DYCD-2504",
+            "link": "album/10403",
+            "publisher": {
+                "link": "org/277",
+                "names": {
+                    "en": "Denyu Ongaku Co.",
+                    "ja": "電遊音楽Co."
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Retro Game Anthology \"8bit Dreams 2\"",
+                "ja": "Retro Game Anthology \"8bit Dreams 2\"",
+                "ja-latn": "Retro Game Anthology \"8bit Dreams 2\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8751",
+            "publisher": {
+                "link": "org/160",
+                "names": {
+                    "en": "Kissing the Mirror",
+                    "ja": "Kissing the Mirror"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Scythe for the Guilty Riversides (Preview Version)",
+                "ja": "Scythe for the Guilty Riversides 体験版",
+                "ja-latn": "Scythe for the Guilty Riversides (Preview Version)"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SCDA-1006",
+            "link": "album/8427",
+            "publisher": {
+                "link": "org/438",
+                "names": {
+                    "en": "Sonic Hispeed Omega",
+                    "ja": "Sonic Hispeed Omega"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Squ-eni Heroes Organization pt.2",
+                "ja": "Squ-eni Heroes Organization pt.2",
+                "ja-latn": "Squ-eni Heroes Organization pt.2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RCCD-1009",
+            "link": "album/8483",
+            "publisher": {
+                "link": "org/198",
+                "names": {
+                    "en": "Romancing CYBERBARD",
+                    "ja": "Romancing CYBERBARD"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tone Quell",
+                "ja": "音のクヴェル",
+                "ja-latn": "Tone Quell"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GCFT-0044",
+            "link": "album/8693",
+            "publisher": {
+                "link": "org/163",
+                "names": {
+                    "en": "Golden City Factory",
+                    "ja": "Golden City Factory"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Dreamer's Party SOUND TRACK PLUS",
+                "ja": "東方夢詠宴 SOUND TRACK PLUS",
+                "ja-latn": "Touhou Dreamer's Party SOUND TRACK PLUS"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "XITH-0001",
+            "link": "album/12299",
+            "publisher": {
+                "link": "org/497",
+                "names": {
+                    "en": "xi-on",
+                    "ja": "彩音 ～xi-on～"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Shisou 1st Spell -Airstream-",
+                "ja": "東方志奏 1st Spell -Airstream-",
+                "ja-latn": "Touhou Shisou 1st Spell -Airstream-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "CRTS-0003",
+            "link": "album/9522",
+            "publisher": {
+                "link": "org/620",
+                "names": {
+                    "en": "Link to you?",
+                    "ja": "Link to you?"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Trancer Doll's",
+                "ja": "Trancer Doll's",
+                "ja-latn": "Trancer Doll's"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "LRCD-0001",
+            "link": "album/10904",
+            "publisher": {
+                "names": {
+                    "en": "L.E.N. Records"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tribal BEAT 303",
+                "ja": "Tribal BEAT 303",
+                "ja-latn": "Tribal BEAT 303"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BBCD-0002",
+            "link": "album/8418",
+            "publisher": {
+                "names": {
+                    "en": "takrockers!!"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tribute",
+                "ja": "Xenogears Arrange Album by BB and takrockers",
+                "ja-latn": "Tribute"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SSCD-05",
+            "link": "album/34073",
+            "publisher": {
+                "names": {
+                    "en": "studio satuki"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tsu",
+                "ja": "ツ",
+                "ja-latn": "Tsu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WA-10",
+            "link": "album/7552",
+            "publisher": {
+                "names": {
+                    "en": "悠凪大学同窓の会"
+                }
+            },
+            "release_date": "2008-03-02",
+            "release_type": "Resale",
+            "titles": {
+                "en": "White Ribbon",
+                "ja": "White Ribbon",
+                "ja-latn": "White Ribbon"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/34874",
+            "publisher": {
+                "link": "org/567",
+                "names": {
+                    "en": "UFO County",
+                    "ja": "UFO County"
+                }
+            },
+            "release_date": "2008-05-11",
+            "release_type": "New Release",
+            "titles": {
+                "en": "WIND type -Goku-",
+                "ja": "WIND type -獄-",
+                "ja-latn": "WIND type -Goku-"
+            }
+        }
+    ],
+    "startdate": "2008-05-10",
+    "vgmdb_link": "http://vgmdb.net/event/54?perpage=99999"
+}

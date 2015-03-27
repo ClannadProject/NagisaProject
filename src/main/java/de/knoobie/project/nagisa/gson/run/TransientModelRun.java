@@ -2,7 +2,9 @@ package de.knoobie.project.nagisa.gson.run;
 
 import com.google.gson.JsonSyntaxException;
 import de.knoobie.project.clannadutils.common.ListUtils;
+import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
+import de.knoobie.project.nagisa.gson.model.bo.VGMdbEvent;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbName;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbOrganisation;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbProduct;
@@ -23,10 +25,12 @@ public class TransientModelRun {
 //        test_getArtist("Person", "5");
 //        test_Product("1018"); // Francise
 //        test_Product("1019"); // Game
-        test_Product("1020"); // Video
+//        test_Product("1020"); // Video
 //        test_Product("1021"); // Video
 //        test_Product("1028"); // Game
 //        test_search("kantai");
+        
+        test_Event("171");
     }
     
     private static void test_search(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
@@ -57,7 +61,26 @@ public class TransientModelRun {
                     + " | " + product.getType());
         });
     }
+    private static void test_Event(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
+        VGMdbEvent event = TestVGMdb.getEvent(query);
 
+        System.out.println("Event: " + event.getName() + " / " + event.getLink());
+        System.out.println("ShortName: " + event.getShortname());
+        System.out.println("getDescription: " + event.getDescription());
+        System.out.println("Start/End: " + event.getStartdate()+" / "+event.getEnddate());
+
+
+        System.out.println("Releases:");
+        event.getReleases().stream().forEach((release) -> {
+            System.out.println(" - " + release.getNames().get(0).getName()+ " " + release.getLink());
+            if(StringUtils.isEmpty(release.getLink())){
+                System.out.println("EMPTY<------^-----------------------------------------------------------------------------------------");   
+            }
+        });
+        
+       
+    }
+    
     private static void test_Product(String query) throws IllegalArgumentException, JsonSyntaxException, IOException {
         VGMdbProduct product = VGMdb.getProduct(query);
 

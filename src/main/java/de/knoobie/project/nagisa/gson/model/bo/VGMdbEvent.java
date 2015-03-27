@@ -2,6 +2,7 @@ package de.knoobie.project.nagisa.gson.model.bo;
 
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
+import de.knoobie.project.nagisa.gson.model.dto.json.album.AlbumReleaseEvent;
 import de.knoobie.project.nagisa.gson.model.dto.json.event.Event;
 import de.knoobie.project.nagisa.gson.model.dto.json.organisation.OrganisationReleaseEvent;
 import java.util.ArrayList;
@@ -22,7 +23,16 @@ class VGMdbEvent {
     private String vgmdbLink;
 
     private List<VGMdbEventRelease> releases = new ArrayList<>();
-
+    
+    public VGMdbEvent(AlbumReleaseEvent event) {
+        if (event == null) {
+            return;
+        }
+        this.setName(StringUtils.trim(event.getName()));
+        this.setLink(StringUtils.trim(event.getLink()));
+        this.setShortname(StringUtils.trim(event.getShortname()));
+    }
+    
     public VGMdbEvent(OrganisationReleaseEvent event) {
         if (event == null) {
             return;

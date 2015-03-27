@@ -1,0 +1,5279 @@
+{
+    "enddate": "2010-12-30",
+    "link": "event/98",
+    "name": "Comic Market 79",
+    "notes": "The semiannual Comic Market Doujin Fair in Tokyo, where a huge amount of doujin material is released. Some companies also participate in this event with convention-exclusive goods. Official website: http://www.comiket.co.jp/",
+    "releases": [
+        {
+            "album_type": "doujin",
+            "catalog": "LKCD-0004",
+            "link": "album/23442",
+            "publisher": {
+                "link": "org/482",
+                "names": {
+                    "en": "Loser Limited Company",
+                    "ja": "有限会社るざりん"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "\"Remilia Scarlet × Sakuya Izayoi\" Lust in Replica",
+                "ja": "\"Remilia Scarlet × Sakuya Izayoi\" 色狂レプリカ",
+                "ja-latn": "\"Remilia Scarlet × Sakuya Izayoi\" Irokichi Replica"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "FPBD-0167",
+            "link": "album/28807",
+            "publisher": {
+                "link": "org/26",
+                "names": {
+                    "en": "5pb. Records",
+                    "ja": "5pb. Records"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "2010 Corpse Party Mafuyu no Kaidankai",
+                "ja": "2010コープスパーティー真冬の怪談会",
+                "ja-latn": "2010 Corpse Party Mafuyu no Kaidankai"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/28619",
+            "publisher": {
+                "names": {
+                    "en": "fu-rin-ya"
+                }
+            },
+            "release_date": "2010-12",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Aclla -Taiyou no Miko to Sora no Shinpei- Original Soundtrack & Arrange Collection",
+                "ja": "Aclla -太陽の巫女と空の神兵- オリジナルサウンドトラック＆アレンジ集",
+                "ja-latn": "Aclla -Taiyou no Miko to Sora no Shinpei- Original Soundtrack & Arrange Collection"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "N/A",
+            "link": "album/37188",
+            "publisher": {
+                "names": {
+                    "en": "PEACH-PIT, dBu music"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Akatsuki no Vampiress ~Yomeichou~",
+                "ja": "暁のヴァンピレス～夜鳴鳥～",
+                "ja-latn": "Akatsuki no Vampiress ~Yomeichou~"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "KSLA-0066",
+            "link": "album/23608",
+            "publisher": {
+                "link": "org/1",
+                "names": {
+                    "en": "Key Sounds Label",
+                    "ja": "Key Sounds Label"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Albina ~Assorted Kudwaf Songs~",
+                "ja": "Albina ~Assorted Kudwaf Songs~",
+                "ja-latn": "Albina ~Assorted Kudwaf Songs~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/23964",
+            "publisher": {
+                "names": {
+                    "en": "comodone"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ALIVE",
+                "ja": "ALIVE",
+                "ja-latn": "ALIVE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SISM-0002",
+            "link": "album/21956",
+            "publisher": {
+                "names": {
+                    "en": "SITER SKAIN"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ALLTYNEX Second ORIGINAL SOUNDTRACK",
+                "ja": "アルティネクスセカンド オリジナルサウンドトラック",
+                "ja-latn": "ALLTYNEX Second ORIGINAL SOUNDTRACK"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/23755",
+            "publisher": {
+                "link": "org/394",
+                "names": {
+                    "en": "EastNewSound",
+                    "ja": "EastNewSound"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Alternative Outside 2010 Winter",
+                "ja": "Alternative Outside 2010 Winter",
+                "ja-latn": "Alternative Outside 2010 Winter"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AMRS-0001",
+            "link": "album/43454",
+            "publisher": {
+                "link": "org/736",
+                "names": {
+                    "en": "Amateras Records",
+                    "ja": "Amateras Records"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Amateras Records Sampler.01",
+                "ja": "Amateras Records Sampler.01",
+                "ja-latn": "Amateras Records Sampler.01"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/35285",
+            "publisher": {
+                "link": "org/937",
+                "names": {
+                    "en": "Sorairo Sakusen",
+                    "ja": "空色作戦"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "AMP",
+                "ja": "AMP",
+                "ja-latn": "AMP"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ORNS-0007",
+            "link": "album/22844",
+            "publisher": {
+                "link": "org/445",
+                "names": {
+                    "en": "Oriens",
+                    "ja": "オリエンス"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ancient Treasures",
+                "ja": "Ancient Treasures",
+                "ja-latn": "Ancient Treasures"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MTCD-0002",
+            "link": "album/31029",
+            "publisher": {
+                "link": "org/885",
+                "names": {
+                    "en": "Melodic Taste",
+                    "ja": "Melodic Taste"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Anime Song Orchestra",
+                "ja": "Anime Song Orchestra",
+                "ja-latn": "Anime Song Orchestra"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ALMR-007",
+            "link": "album/36625",
+            "publisher": {
+                "link": "org/952",
+                "names": {
+                    "en": "minimum electric design",
+                    "ja": "minimum electric design"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "another good morning",
+                "ja": "another good morning",
+                "ja-latn": "another good morning"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/25740",
+            "publisher": {
+                "link": "org/271",
+                "names": {
+                    "en": "AQUAELIE",
+                    "ja": "アクアエリー"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "AQUAELIE 4 ~ AQUAELIE fanDISC vol.4",
+                "ja": "あくえり４～ AQUAELIE fanDISC vol.4",
+                "ja-latn": "AQUAELIE 4 ~ AQUAELIE fanDISC vol.4"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "LNAW-0001",
+            "link": "album/30089",
+            "publisher": {
+                "names": {
+                    "en": "LINEAR"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Assaultworks [ichi]",
+                "ja": "Assaultworks [ichi]",
+                "ja-latn": "Assaultworks [ichi]"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SACD-5029",
+            "link": "album/22534",
+            "publisher": {
+                "link": "org/276",
+                "names": {
+                    "en": "SYNC.ART'S",
+                    "ja": "SYNC.ART'S"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ATTRACTOR",
+                "ja": "ATTRACTOR",
+                "ja-latn": "ATTRACTOR"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TRCD-0012",
+            "link": "album/24305",
+            "publisher": {
+                "link": "org/745",
+                "names": {
+                    "en": "TRiANCE CODE",
+                    "ja": "TRiANCE CODE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "axisX",
+                "ja": "axisX",
+                "ja-latn": "axisX"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "OGCD-0004",
+            "link": "album/24304",
+            "publisher": {
+                "link": "org/859",
+                "names": {
+                    "en": "OG-G Music Works",
+                    "ja": "OG-G Music Works"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "axisY",
+                "ja": "axisY",
+                "ja-latn": "axisY"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GCFT-0070",
+            "link": "album/23884",
+            "publisher": {
+                "link": "org/163",
+                "names": {
+                    "en": "Golden City Factory",
+                    "ja": "Golden City Factory"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Beautiful Life. - Kiyoma TOHO Remixes BEST Second",
+                "ja": "Beautiful Life. - Kiyoma TOHO Remixes BEST Second",
+                "ja-latn": "Beautiful Life. - Kiyoma TOHO Remixes BEST Second"
+            }
+        },
+        {
+            "album_type": "anime",
+            "catalog": "TMCD-0002~3",
+            "link": "album/22462",
+            "publisher": {
+                "link": "org/1080",
+                "names": {
+                    "en": "TamStar Records",
+                    "ja": "TamStar Records"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "BLACK★ROCK SHOOTER ANIMATION; ORIGINAL SOUNDTRACK & REMIXES",
+                "ja": "ブラック★ロックシューター ORIGINAL SOUNDTRACK & REMIXES",
+                "ja-latn": "BLACK★ROCK SHOOTER ANIMATION; ORIGINAL SOUNDTRACK & REMIXES"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TKCD-0006",
+            "link": "album/29316",
+            "publisher": {
+                "link": "org/594",
+                "names": {
+                    "en": "Tobu Kaitakuchi",
+                    "ja": "東部開拓地"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Bridal×Blind",
+                "ja": "Bridal×Blind",
+                "ja-latn": "Bridal×Blind"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SDHC-0023",
+            "link": "album/22517",
+            "publisher": {
+                "link": "org/167",
+                "names": {
+                    "en": "SOUND HOLIC",
+                    "ja": "SOUND HOLIC"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "BUN",
+                "ja": "文 -BUN-",
+                "ja-latn": "BUN"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22331",
+            "publisher": {
+                "link": "org/273",
+                "names": {
+                    "en": "DDBY",
+                    "ja": "DDBY"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Cafe de Touhou",
+                "ja": "Cafe de Touhou",
+                "ja-latn": "Cafe de Touhou"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LGCD-0011",
+            "link": "album/35405",
+            "publisher": {
+                "link": "org/158",
+                "names": {
+                    "en": "Lost Garden",
+                    "ja": "Lost Garden"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Calm",
+                "ja": "Calm",
+                "ja-latn": "Calm"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SJVSC-0028",
+            "link": "album/22685",
+            "publisher": {
+                "link": "org/292",
+                "names": {
+                    "en": "SJV-SC",
+                    "ja": "SJV普及委員会"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "carat",
+                "ja": "carat",
+                "ja-latn": "carat"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ORDD-0011",
+            "link": "album/23155",
+            "publisher": {
+                "names": {
+                    "en": "Orange-Juice"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Celeste -SORA EXTRA SOUND TRACK-",
+                "ja": "Celeste -ソラ エクストラ サウンドトラック-",
+                "ja-latn": "Celeste -SORA EXTRA SOUND TRACK-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "N/A",
+            "link": "album/34605",
+            "publisher": {
+                "link": "org/1033",
+                "names": {
+                    "en": "ELECTRIC RED",
+                    "ja": "ELECTRIC RED"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Celestial Wizardry ~ Magical Astronomy -EP-",
+                "ja": "大空魔術～Magical Astronomy-EP-",
+                "ja-latn": "Celestial Wizardry ~ Magical Astronomy -EP-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ERCD-004",
+            "link": "album/22640",
+            "publisher": {
+                "link": "org/646",
+                "names": {
+                    "en": "Elemental Records",
+                    "ja": "Elemental Records"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CHALLENGE",
+                "ja": "CHALLENGE",
+                "ja-latn": "CHALLENGE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TOS007",
+            "link": "album/22450",
+            "publisher": {
+                "link": "org/634",
+                "names": {
+                    "en": "TAMAONSEN",
+                    "ja": "魂音泉"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Chill★Now",
+                "ja": "Chill★Now",
+                "ja-latn": "Chill★Now"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YUKI-0006",
+            "link": "album/28961",
+            "publisher": {
+                "link": "org/1281",
+                "names": {
+                    "en": "Yukizakurasou",
+                    "ja": "Yukizakurasou"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Chranos",
+                "ja": "Chranos ～クラノス～",
+                "ja-latn": "Chranos"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/29696",
+            "publisher": {
+                "names": {
+                    "en": "BINAL CORD"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CLOISTER OF MEMORIES",
+                "ja": "CLOISTER OF MEMORIES",
+                "ja-latn": "CLOISTER OF MEMORIES"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "49EX-0001",
+            "link": "album/40822",
+            "publisher": {
+                "link": "org/458",
+                "names": {
+                    "en": "CODE-49",
+                    "ja": "CODE-49"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CODE-49 White CD vol.1",
+                "ja": "CODE-49 White CD vol.1",
+                "ja-latn": "CODE-49 White CD vol.1"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "CT13-RW03",
+            "link": "album/39980",
+            "publisher": {
+                "link": "org/1173",
+                "names": {
+                    "en": "S.C.X",
+                    "ja": "S.C.X"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Color Complex",
+                "ja": "Color Complex",
+                "ja-latn": "Color Complex"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43466",
+            "publisher": {
+                "link": "org/190",
+                "names": {
+                    "en": "Yellow Zebra",
+                    "ja": "Yellow Zebra"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "COMICMARKET 79 Omake CD",
+                "ja": "COMICMARKET 79 Omake CD",
+                "ja-latn": "COMICMARKET 79 Omake CD"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43959",
+            "publisher": {
+                "link": "org/746",
+                "names": {
+                    "en": "FELT",
+                    "ja": "FELT"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ComicMarket 79 Prize Disc",
+                "ja": "ComicMarket 79 Prize Disc",
+                "ja-latn": "ComicMarket 79 Prize Disc"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CCDV-0002~3",
+            "link": "album/22749",
+            "publisher": {
+                "link": "org/221",
+                "names": {
+                    "en": "COOL&CREATE",
+                    "ja": "COOL&CREATE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "COOL&CREATE LIVE PARTY 2010 Hyper×Hyper Amanerio 10.8 LIVE at SHIBUYA AX FINAL",
+                "ja": "COOL&CREATE LIVE PARTY 2010 ハイパー×ハイパーあまねりお 10.8 LIVE at SHIBUYA AX FINAL",
+                "ja-latn": "COOL&CREATE LIVE PARTY 2010 Hyper×Hyper Amanerio 10.8 LIVE at SHIBUYA AX FINAL"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HLZY-0006",
+            "link": "album/22544",
+            "publisher": {
+                "link": "org/357",
+                "names": {
+                    "en": "Halozy",
+                    "ja": "Halozy"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Cosmic Armonica",
+                "ja": "Cosmic Armonica",
+                "ja-latn": "Cosmic Armonica"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YTBN-ST01",
+            "link": "album/23154",
+            "publisher": {
+                "names": {
+                    "en": "YOTSUBANE（四ツ羽根）"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Crimzon Clover Original Sound Track",
+                "ja": "クリムゾンクローバー オリジナルサウンドトラック",
+                "ja-latn": "Crimzon Clover Original Sound Track"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MCCD-004",
+            "link": "album/22988",
+            "publisher": {
+                "link": "org/503",
+                "names": {
+                    "en": "monochrome-coat",
+                    "ja": "monochrome-coat"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Cutie POP's Tone",
+                "ja": "Cutie POP's Tone",
+                "ja-latn": "Cutie POP's Tone"
+            }
+        },
+        {
+            "album_type": "cancel",
+            "catalog": "DVSP-0061",
+            "link": "album/22471",
+            "publisher": {
+                "link": "org/331",
+                "names": {
+                    "en": "Diverse System",
+                    "ja": "Diverse System"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "D16",
+                "ja": "D16",
+                "ja-latn": "D16"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FRCD-0007",
+            "link": "album/32761",
+            "publisher": {
+                "link": "org/499",
+                "names": {
+                    "en": "Frontier Records",
+                    "ja": "Frontier Records"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DAYDREAM",
+                "ja": "DAYDREAM",
+                "ja-latn": "DAYDREAM"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CK-0018P",
+            "link": "album/22593",
+            "publisher": {
+                "link": "org/211",
+                "names": {
+                    "en": "CYTOKINE",
+                    "ja": "CYTOKINE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dead man's Hand",
+                "ja": "Dead man's Hand",
+                "ja-latn": "Dead man's Hand"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HLCD-0018",
+            "link": "album/22717",
+            "publisher": {
+                "link": "org/226",
+                "names": {
+                    "en": "Hachimitsu-Lemon",
+                    "ja": "はちみつれもん"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dear Past",
+                "ja": "Dear Past",
+                "ja-latn": "Dear Past"
+            }
+        },
+        {
+            "album_type": "cancel",
+            "catalog": "DVSP-0062",
+            "link": "album/22606",
+            "publisher": {
+                "link": "org/331",
+                "names": {
+                    "en": "Diverse System",
+                    "ja": "Diverse System"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dear, Mr.Wac",
+                "ja": "Dear, Mr.Wac",
+                "ja-latn": "Dear, Mr.Wac"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DMPCD-001",
+            "link": "album/40990",
+            "publisher": {
+                "names": {
+                    "en": "team dmp☆"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DENPA POINO!",
+                "ja": "電波っぽいのっ！",
+                "ja-latn": "DENPA POINO!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22648",
+            "publisher": {
+                "link": "org/573",
+                "names": {
+                    "en": "Digitalic Party",
+                    "ja": "Digitalic Party"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Digitalic -L+R- Party ~Latest+Revival~",
+                "ja": "Digitalic -L+R- Party ~Latest+Revival~",
+                "ja-latn": "Digitalic -L+R- Party ~Latest+Revival~"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "VSDA-0002",
+            "link": "album/29406",
+            "publisher": {
+                "link": "org/1376",
+                "names": {
+                    "en": "Mournfinale",
+                    "ja": "Mournfinale"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Disclude",
+                "ja": "Disclude",
+                "ja-latn": "Disclude"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "FFCM-0010",
+            "link": "album/28569",
+            "publisher": {
+                "link": "org/1369",
+                "names": {
+                    "en": "Retorno",
+                    "ja": "Retorno"
+                }
+            },
+            "release_date": "2011-01-26",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "DJCD Talesring Symphonia COMIC MARKET 79 LIMITED",
+                "ja": "DJCD テイルズリング・シンフォニア COMIC MARKET 79 LIMITED",
+                "ja-latn": "DJCD Talesring Symphonia COMIC MARKET 79 LIMITED"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PAER-0029",
+            "link": "album/24348",
+            "publisher": {
+                "link": "org/287",
+                "names": {
+                    "en": "Attrielectrock",
+                    "ja": "Attrielectrock"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dolce Rose Collection",
+                "ja": "Dolce Rose Collection",
+                "ja-latn": "Dolce Rose Collection"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KSW-0001",
+            "link": "album/22841",
+            "publisher": {
+                "link": "org/1209",
+                "names": {
+                    "en": "Kikuo Sound Works",
+                    "ja": "Kikuo Sound Works"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DOZED OFF",
+                "ja": "DOZED OFF",
+                "ja-latn": "DOZED OFF"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/47510",
+            "publisher": {
+                "names": {
+                    "en": "Chong Yoke"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dream From Afar",
+                "ja": "遥々夢",
+                "ja-latn": "Harubaru Yume"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DYGC-0004",
+            "link": "album/24926",
+            "publisher": {
+                "link": "org/757",
+                "names": {
+                    "en": "DystopiaGround",
+                    "ja": "DystopiaGround"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DystopiaGround #004",
+                "ja": "DystopiaGround #004",
+                "ja-latn": "DystopiaGround #004"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LRCD-0019",
+            "link": "album/22922",
+            "publisher": {
+                "link": "org/537",
+                "names": {
+                    "en": "Like a rabbit",
+                    "ja": "Like a rabbit"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Eigou no Karman ~ Eternal Endless Emblem",
+                "ja": "永劫の罪科 ～ Eternal Endless Emblem",
+                "ja-latn": "Eigou no Karman ~ Eternal Endless Emblem"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22448",
+            "publisher": {
+                "link": "org/624",
+                "names": {
+                    "en": "BUTAOTOME",
+                    "ja": "豚乙女"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "En",
+                "ja": "縁",
+                "ja-latn": "En"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "QLCD-0021~2",
+            "link": "album/22625",
+            "publisher": {
+                "link": "org/162",
+                "names": {
+                    "en": "queens label",
+                    "ja": "queens label"
+                }
+            },
+            "release_date": "2010-12-28",
+            "release_type": "New Release",
+            "titles": {
+                "en": "enigmaticLIA4",
+                "ja": "C79 SPECIAL EDITION enigmaticLIA4",
+                "ja-latn": "enigmaticLIA4"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SFNC-0027",
+            "link": "album/22506",
+            "publisher": {
+                "link": "org/102",
+                "names": {
+                    "en": "Silver Forest",
+                    "ja": "Silver Forest"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Eternal Night Rondo",
+                "ja": "永き夜のロンド",
+                "ja-latn": "Eternal Night Rondo"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FELT-002",
+            "link": "album/24327",
+            "publisher": {
+                "link": "org/746",
+                "names": {
+                    "en": "FELT",
+                    "ja": "FELT"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fairy Queen",
+                "ja": "Fairy Queen",
+                "ja-latn": "Fairy Queen"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MCAE-0001",
+            "link": "album/25912",
+            "publisher": {
+                "names": {
+                    "en": "Music Advance, Applice"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fantasía de Conciertos",
+                "ja": "Fantasía de Conciertos",
+                "ja-latn": "Fantasía de Conciertos"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "OMK-09",
+            "link": "album/44002",
+            "publisher": {
+                "link": "org/676",
+                "names": {
+                    "en": "OTOMEKAN",
+                    "ja": "音召缶"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fantastic Judgirity Beat",
+                "ja": "Fantastic Judgirity Beat",
+                "ja-latn": "Fantastic Judgirity Beat"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TMCCD-008",
+            "link": "album/22502",
+            "publisher": {
+                "link": "org/525",
+                "names": {
+                    "en": "TatshMusicCircle",
+                    "ja": "TatshMusicCircle"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FAR EAST OF EAST IV",
+                "ja": "FAR EAST OF EAST IV",
+                "ja-latn": "FAR EAST OF EAST IV"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ENS-0010",
+            "link": "album/22445",
+            "publisher": {
+                "link": "org/394",
+                "names": {
+                    "en": "EastNewSound",
+                    "ja": "EastNewSound"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Felsic Mirage the instrumental",
+                "ja": "フェルシックミラージュ　インストゥルメンタル",
+                "ja-latn": "Felsic Mirage the instrumental"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0070",
+            "link": "album/22304",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FF VIOLIN -FINAL FANTASTIC VIOLIN-",
+                "ja": "FF VIOLIN -FINAL FANTASTIC VIOLIN-",
+                "ja-latn": "FF VIOLIN -FINAL FANTASTIC VIOLIN-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/38800",
+            "publisher": {
+                "link": "org/873",
+                "names": {
+                    "en": "FOX RAVEL",
+                    "ja": "FOX RAVEL"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FINALE Vol.1",
+                "ja": "FINALE Vol.1",
+                "ja-latn": "FINALE Vol.1"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HAMCD-0008",
+            "link": "album/22868",
+            "publisher": {
+                "names": {
+                    "en": "HamHam Soft"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Flag Heshiori Otoko Theme Song Maxi CD",
+                "ja": "フラグへし折り男 主題歌 マキシCD",
+                "ja-latn": "Flag Heshiori Otoko Theme Song Maxi CD"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "GPCR-05",
+            "link": "album/32286",
+            "publisher": {
+                "names": {
+                    "en": "G protein coupled-receptor"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Flip-Flop Kinetics",
+                "ja": "Flip-Flop Kinetics",
+                "ja-latn": "Flip-Flop Kinetics"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SORR-00081",
+            "link": "album/31825",
+            "publisher": {
+                "link": "org/597",
+                "names": {
+                    "en": "PURE-POLLUTION",
+                    "ja": "PURE-POLLUTION"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FLOWERING UNIVERSE",
+                "ja": "FLOWERING UNIVERSE",
+                "ja-latn": "FLOWERING UNIVERSE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AMS-01",
+            "link": "album/22505",
+            "publisher": {
+                "link": "org/699",
+                "names": {
+                    "en": "Seventh-Heaven Ammy's",
+                    "ja": "セブンスヘブンAmmy's"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "fractale",
+                "ja": "フラクタル",
+                "ja-latn": "fractale"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PAEG-0014",
+            "link": "album/22516",
+            "publisher": {
+                "link": "org/201",
+                "names": {
+                    "en": "CROW'SCLAW",
+                    "ja": "CROW'SCLAW"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "From The Bottom Of The Heart",
+                "ja": "From The Bottom Of The Heart",
+                "ja-latn": "From The Bottom Of The Heart"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RSCD-0001",
+            "link": "album/28133",
+            "publisher": {
+                "names": {
+                    "en": "Ryuusan Polyomino"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fuji Shinkoukou ~ The Overwritten God.",
+                "ja": "富士新興講　～ The Overwritten God.",
+                "ja-latn": "Fuji Shinkoukou ~ The Overwritten God."
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "VQCD-0002",
+            "link": "album/25410",
+            "publisher": {
+                "names": {
+                    "en": "voix"
+                }
+            },
+            "release_date": "2011-02-25",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Fuyu no Uta / Color Blossom",
+                "ja": "冬のうた／Color blossom",
+                "ja-latn": "Fuyu no Uta / Color Blossom"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "GFPR-2010",
+            "link": "album/23552",
+            "publisher": {
+                "link": "org/308",
+                "names": {
+                    "en": "G5 Project",
+                    "ja": "G5 Project"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "G5 2010",
+                "ja": "G5 2010",
+                "ja-latn": "G5 2010"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WDCD-0034",
+            "link": "album/22519",
+            "publisher": {
+                "link": "org/134",
+                "names": {
+                    "en": "WOODSOFT",
+                    "ja": "WOODSOFT"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gekitsuiou Vol.1",
+                "ja": "撃墜王　上",
+                "ja-latn": "Gekitsuiou Vol.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "kzon-007",
+            "link": "album/23007",
+            "publisher": {
+                "link": "org/645",
+                "names": {
+                    "en": "KINZOK ON",
+                    "ja": "KINZOK ON"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "GENSOU HARDSOUND #004",
+                "ja": "GENSOU HARDSOUND #004",
+                "ja-latn": "GENSOU HARDSOUND #004"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GSH-0005",
+            "link": "album/22684",
+            "publisher": {
+                "link": "org/534",
+                "names": {
+                    "en": "Girl's short hair",
+                    "ja": "Girl's short hair"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gensou Rinne",
+                "ja": "幻想輪廻",
+                "ja-latn": "Gensou Rinne"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SBDM-0001",
+            "link": "album/22982",
+            "publisher": {
+                "names": {
+                    "en": "Sanbondo"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gensou Shoujo Wars Kou Original Sound Track",
+                "ja": "幻想少女大戦紅 オリジナルサウンドトラック",
+                "ja-latn": "Gensou Shoujo Wars Kou Original Sound Track"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MRCD-006",
+            "link": "album/24504",
+            "publisher": {
+                "link": "org/661",
+                "names": {
+                    "en": "Marasy",
+                    "ja": "まらしぃ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gensou Yuugi <Ayakashi> ~ Museum of Marasy",
+                "ja": "幻想遊戯 ＜妖＞ ～ Museum of Marasy",
+                "ja-latn": "Gensou Yuugi <Ayakashi> ~ Museum of Marasy"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "GODCD2",
+            "link": "album/20873",
+            "publisher": {
+                "link": "org/626",
+                "names": {
+                    "en": "GeOnDan",
+                    "ja": "ゲ音団"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "GEONDAN Rare Tracks 2",
+                "ja": "GeOnDan レアトラックス 2",
+                "ja-latn": "GEONDAN Rare Tracks 2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ANCO-0003",
+            "link": "album/30718",
+            "publisher": {
+                "link": "org/866",
+                "names": {
+                    "en": "UNDEAD CORPORATION",
+                    "ja": "UNDEAD CORPORATION"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gokutetsu",
+                "ja": "極鉄",
+                "ja-latn": "Gokutetsu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TEMP-0004",
+            "link": "album/22609",
+            "publisher": {
+                "link": "org/711",
+                "names": {
+                    "en": "Circletempo",
+                    "ja": "Circletempo"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Goldist -Konjiki no Chi ni Somaru Mae ni-",
+                "ja": "Goldist -金色の血に染まる前に-",
+                "ja-latn": "Goldist -Konjiki no Chi ni Somaru Mae ni-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "GTMS-0001",
+            "link": "album/23742",
+            "publisher": {
+                "names": {
+                    "en": "Gotumasa Club"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gotumasa Club",
+                "ja": "ゴツまさ倶楽部",
+                "ja-latn": "Gotumasa Club"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/23009",
+            "publisher": {
+                "link": "org/684",
+                "names": {
+                    "en": "m_box",
+                    "ja": "m_box"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gradius II m_box VIPER Arrange",
+                "ja": "グラディウス2 m_box VIPER Arrange",
+                "ja-latn": "Gradius II m_box VIPER Arrange"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HLZY-0000-2",
+            "link": "album/43476",
+            "publisher": {
+                "link": "org/357",
+                "names": {
+                    "en": "Halozy",
+                    "ja": "Halozy"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Halozy Alternative Outside 2010 Winter",
+                "ja": "Halozy Alternative Outside 2010 Winter",
+                "ja-latn": "Halozy Alternative Outside 2010 Winter"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HLZY-0007",
+            "link": "album/22545",
+            "publisher": {
+                "link": "org/357",
+                "names": {
+                    "en": "Halozy",
+                    "ja": "Halozy"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Halozy Remixes vol.1",
+                "ja": "Halozy Remixes vol.1",
+                "ja-latn": "Halozy Remixes vol.1"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "NGMS-0005",
+            "link": "album/30638",
+            "publisher": {
+                "names": {
+                    "en": "nagimiso.sys"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "hammer",
+                "ja": "hammer",
+                "ja-latn": "hammer"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARAM-0016~7",
+            "link": "album/24032",
+            "publisher": {
+                "link": "org/232",
+                "names": {
+                    "en": "AramiTama",
+                    "ja": "荒御霊"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hard Tech Spell",
+                "ja": "Hard Tech Spell",
+                "ja-latn": "Hard Tech Spell"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "N/A",
+            "link": "album/23745",
+            "publisher": {
+                "names": {
+                    "en": "NET Corporation"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Harem Ace 2 Big Bonus Music Comiket 79 Limited Edition",
+                "ja": "ハーレムエース2 Big Bonus Music コミケ79SP",
+                "ja-latn": "Harem Ace 2 Big Bonus Music Comiket 79 Limited Edition"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LOLI-0023",
+            "link": "album/22378",
+            "publisher": {
+                "link": "org/196",
+                "names": {
+                    "en": "Rolling Contact",
+                    "ja": "Rolling Contact"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HEAVEN's SOUND 02",
+                "ja": "HEAVEN's SOUND 02",
+                "ja-latn": "HEAVEN's SOUND 02"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "OOAS-1003",
+            "link": "album/22067",
+            "publisher": {
+                "link": "org/604",
+                "names": {
+                    "en": "Yohsui O'asa",
+                    "ja": "大麻葉吸"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HIGH!",
+                "ja": "HIGH!",
+                "ja-latn": "HIGH!"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "FENG-30",
+            "link": "album/22870",
+            "publisher": {
+                "names": {
+                    "en": "feng"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshizora he Kakaru Hashi Opening Theme \"Hoshizora he Kakaru Hashi\"",
+                "ja": "星空へ架かる橋 オープニングテーマ 『星空へ架かる橋』",
+                "ja-latn": "Hoshizora he Kakaru Hashi Opening Theme \"Hoshizora he Kakaru Hashi\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "K2SD-004",
+            "link": "album/22510",
+            "publisher": {
+                "link": "org/457",
+                "names": {
+                    "en": "K2 SOUND",
+                    "ja": "K2 SOUND"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HYO-RIN",
+                "ja": "氷凜",
+                "ja-latn": "HYO-RIN"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DBCD-0016",
+            "link": "album/22329",
+            "publisher": {
+                "link": "org/100",
+                "names": {
+                    "en": "dBu music",
+                    "ja": "dBu music"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hyoudansou Kekkai Yousei Sensoukyoku Scherzo of Fairy Wars",
+                "ja": "氷弾奏結界 妖精戦奏曲 Scherzo of Fairy Wars",
+                "ja-latn": "Hyoudansou Kekkai Yousei Sensoukyoku Scherzo of Fairy Wars"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ICD-66023",
+            "link": "album/34025",
+            "publisher": {
+                "link": "org/429",
+                "names": {
+                    "en": "Visual Art's",
+                    "ja": "株式会社ビジュアルアーツ"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "I've MANIA Tracks vol.III",
+                "ja": "I've MANIA Tracks vol.III",
+                "ja-latn": "I've MANIA Tracks vol.III"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SLCD-0012",
+            "link": "album/31568",
+            "publisher": {
+                "names": {
+                    "en": "Sounds of Liberation"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ibun Gensoutan",
+                "ja": "異聞幻双譚",
+                "ja-latn": "Ibun Gensoutan"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "MOONS-015",
+            "link": "album/28362",
+            "publisher": {
+                "names": {
+                    "en": "MOONSTONE"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Imouto Paradise! Opening Theme",
+                "ja": "妹ぱらだいす！ オープニングテーマ",
+                "ja-latn": "Imouto Paradise! Opening Theme"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/27578",
+            "publisher": {
+                "link": "org/850",
+                "names": {
+                    "en": "Singerly",
+                    "ja": "Singerly"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "K-ON! Fit ~ Xing Songs vol.3",
+                "ja": "\"K-ON! Fit\" Xing Songs -カップリング・ソングズ- vol.3",
+                "ja-latn": "K-ON! Fit ~ Xing Songs vol.3"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "STCD0002",
+            "link": "album/29609",
+            "publisher": {
+                "link": "org/922",
+                "names": {
+                    "en": "Studio-Tawashi",
+                    "ja": "すたじおたわし"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kanata",
+                "ja": "彼方",
+                "ja-latn": "Kanata"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/28854",
+            "publisher": {
+                "link": "org/355",
+                "names": {
+                    "en": "Mohican Sandbag",
+                    "ja": "モヒカンサンドバッグ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kengai",
+                "ja": "圏外",
+                "ja-latn": "Kengai"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "IOY-0006",
+            "link": "album/22645",
+            "publisher": {
+                "link": "org/709",
+                "names": {
+                    "en": "Younoumi",
+                    "ja": "ユウノウミ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kirisame Requiem",
+                "ja": "霧雨レクイエム",
+                "ja-latn": "Kirisame Requiem"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YHST-0004",
+            "link": "album/22589",
+            "publisher": {
+                "link": "org/687",
+                "names": {
+                    "en": "Yuuhei Satellite",
+                    "ja": "幽閉サテライト"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Koakuma Ringo",
+                "ja": "小悪魔りんご",
+                "ja-latn": "Koakuma Ringo"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "IK-15",
+            "link": "album/28172",
+            "publisher": {
+                "link": "org/349",
+                "names": {
+                    "en": "Innocent Key",
+                    "ja": "Innocent Key"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Koko Boku MUSIC PARTY",
+                "ja": "ココボクMUSICPARTY",
+                "ja-latn": "Koko Boku MUSIC PARTY"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "STAL-1002",
+            "link": "album/22605",
+            "publisher": {
+                "link": "org/596",
+                "names": {
+                    "en": "ShibayanRecords",
+                    "ja": "ShibayanRecords"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kokoro vibration",
+                "ja": "ココロバイブレーション",
+                "ja-latn": "Kokoro vibration"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AONE-0009",
+            "link": "album/22617",
+            "publisher": {
+                "link": "org/449",
+                "names": {
+                    "en": "A-One",
+                    "ja": "A-One"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "KOMPAKT DYSK",
+                "ja": "KOMPAKT DYSK",
+                "ja-latn": "KOMPAKT DYSK"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSM-011",
+            "link": "album/23707",
+            "publisher": {
+                "link": "org/359",
+                "names": {
+                    "en": "Shishimai Brothers",
+                    "ja": "ししまいブラザーズ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kougetsu",
+                "ja": "紅月",
+                "ja-latn": "Kougetsu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/24241",
+            "publisher": {
+                "names": {
+                    "en": "Studio Nenem"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Koumakyou DS-10",
+                "ja": "紅魔郷DS-10",
+                "ja-latn": "Koumakyou DS-10"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TOCD-0024",
+            "link": "album/22509",
+            "publisher": {
+                "link": "org/216",
+                "names": {
+                    "en": "C-CLAYS",
+                    "ja": "C-CLAYS"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "KOUSAI",
+                "ja": "煌彩 -KOUSAI-",
+                "ja-latn": "KOUSAI"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "18684263",
+            "link": "album/22338",
+            "publisher": {
+                "names": {
+                    "en": "light"
+                }
+            },
+            "release_date": "2011-01-28",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "light Vocal collection IV",
+                "ja": "light Vocal collection IV",
+                "ja-latn": "light Vocal collection IV"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KLCD-001",
+            "link": "album/22613",
+            "publisher": {
+                "names": {
+                    "en": "Kurogane Lab"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "LIGHTNING MIRAGE",
+                "ja": "LIGHTNING MIRAGE",
+                "ja-latn": "LIGHTNING MIRAGE"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TMCCD-009",
+            "link": "album/25738",
+            "publisher": {
+                "link": "org/525",
+                "names": {
+                    "en": "TatshMusicCircle",
+                    "ja": "TatshMusicCircle"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "LIMIT BLACK CD",
+                "ja": "LIMIT BLACK CD",
+                "ja-latn": "LIMIT BLACK CD"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TIBA007",
+            "link": "album/23491",
+            "publisher": {
+                "link": "org/340",
+                "names": {
+                    "en": "THOUSAND LEAVES",
+                    "ja": "THOUSAND LEAVES"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "LIQUIDARIZATION",
+                "ja": "LIQUIDARIZATION",
+                "ja-latn": "LIQUIDARIZATION"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSC-0006",
+            "link": "album/22615",
+            "publisher": {
+                "link": "org/741",
+                "names": {
+                    "en": "Poplica*",
+                    "ja": "Poplica*"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Live A-Round",
+                "ja": "Live A-Round",
+                "ja-latn": "Live A-Round"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSC-0005",
+            "link": "album/22594",
+            "publisher": {
+                "link": "org/602",
+                "names": {
+                    "en": "Syrufit",
+                    "ja": "Syrufit"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Love Hearts?",
+                "ja": "Love Hearts?",
+                "ja-latn": "Love Hearts?"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FGST-0001",
+            "link": "album/24027",
+            "publisher": {
+                "link": "org/739",
+                "names": {
+                    "en": "Foxtail-Grass Studio",
+                    "ja": "Foxtail-Grass Studio"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Lupinus",
+                "ja": "Lupinus　幻想写景 -風-",
+                "ja-latn": "Lupinus"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0072",
+            "link": "album/38889",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Macross Finale",
+                "ja": "マクロスFinale-フィナーレ-",
+                "ja-latn": "Macross Finale"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "STCD-0024",
+            "link": "album/22604",
+            "publisher": {
+                "link": "org/385",
+                "names": {
+                    "en": "Siestail",
+                    "ja": "Siestail"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Magic Lip Service",
+                "ja": "魔法のリップサービス",
+                "ja-latn": "Mahou no Lip Service"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SEPR-0007",
+            "link": "album/22243",
+            "publisher": {
+                "link": "org/319",
+                "names": {
+                    "en": "sound sepher",
+                    "ja": "sound sepher"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Megalomachia2",
+                "ja": "メガロマキア2",
+                "ja-latn": "Megalomachia2"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "N/A",
+            "link": "album/25667",
+            "publisher": {
+                "names": {
+                    "en": "MEGAPEER"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MEGAPEER DJ Battlers IOSYS vs HARDCORE TANO*C",
+                "ja": "メガピアDjバトラーズ イオシスvsハードコアタノシー",
+                "ja-latn": "MEGAPEER DJ Battlers IOSYS vs HARDCORE TANO*C"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RDWL-0004",
+            "link": "album/22989",
+            "publisher": {
+                "link": "org/806",
+                "names": {
+                    "en": "Diao ye zong (withered leaf)",
+                    "ja": "凋叶棕"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "meguri",
+                "ja": "廻",
+                "ja-latn": "めぐり"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SCEX-0002",
+            "link": "album/22411",
+            "publisher": {
+                "link": "org/692",
+                "names": {
+                    "en": "Project Sync",
+                    "ja": "Project Sync"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Mercy",
+                "ja": "Mercy",
+                "ja-latn": "Mercy"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "IO-5011",
+            "link": "album/32440",
+            "publisher": {
+                "link": "org/504",
+                "names": {
+                    "en": "ALBATROSICKS",
+                    "ja": "ALBATROSICKS"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MERGE THE STRAWBERRY !",
+                "ja": "MERGE THE STRAWBERRY !",
+                "ja-latn": "MERGE THE STRAWBERRY !"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/27461",
+            "publisher": {
+                "names": {
+                    "en": "Daon Life"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Metal Fantasy Apocalypse",
+                "ja": "Metal Fantasy Apocalypse",
+                "ja-latn": "Metal Fantasy Apocalypse"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/23099",
+            "publisher": {
+                "link": "org/415",
+                "names": {
+                    "en": "N.K.T. Kid",
+                    "ja": "N.K.T. Kid"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "METAL MAX JUKE BOX APPEND",
+                "ja": "METAL MAX JUKE BOX APPEND",
+                "ja-latn": "METAL MAX JUKE BOX APPEND"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "NMGM-0004",
+            "link": "album/22859",
+            "publisher": {
+                "names": {
+                    "en": "Nekonomikan"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Metamorphose",
+                "ja": "Metamorphose",
+                "ja-latn": "Metamorphose"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SCCD004",
+            "link": "album/24223",
+            "publisher": {
+                "link": "org/743",
+                "names": {
+                    "en": "surreacheese",
+                    "ja": "シュールレアチーズ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MIMOLETTE",
+                "ja": "MIMOLETTE",
+                "ja-latn": "MIMOLETTE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43545",
+            "publisher": {
+                "link": "org/1041",
+                "names": {
+                    "en": "Minstrel",
+                    "ja": "Minstrel"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Minstrel Demo vol.1",
+                "ja": "Minstrel Demo vol.1",
+                "ja-latn": "Minstrel Demo vol.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CRSS-0002",
+            "link": "album/22755",
+            "publisher": {
+                "link": "org/713",
+                "names": {
+                    "en": "Cross Current",
+                    "ja": "Cross Current"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MIRROR",
+                "ja": "MIRROR",
+                "ja-latn": "MIRROR"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BHCD13",
+            "link": "album/22991",
+            "publisher": {
+                "link": "org/426",
+                "names": {
+                    "en": "Blasterhead",
+                    "ja": "Blasterhead"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MOECOM LYNX 2010-E.P.+",
+                "ja": "Blasterhead feat. 桃井はるこ(from UNDER17)/MOECOM LYNX 2010-E.P.+",
+                "ja-latn": "MOECOM LYNX 2010-E.P.+"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/35811",
+            "publisher": {
+                "link": "org/1054",
+                "names": {
+                    "en": "Kotohiki",
+                    "ja": "狐兎疋"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Mugen Houmatsu",
+                "ja": "夢幻泡沫",
+                "ja-latn": "Mugen Houmatsu"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TCNCD007",
+            "link": "album/22632",
+            "publisher": {
+                "link": "org/516",
+                "names": {
+                    "en": "999 Recordings",
+                    "ja": "999 Recordings"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Mumyougaoka Kiken Chitai ~ATARAXIA~",
+                "ja": "無明ヶ丘危険地帯 〜ATARAXIA〜",
+                "ja-latn": "Mumyougaoka Kiken Chitai ~ATARAXIA~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SHM-0029",
+            "link": "album/22612",
+            "publisher": {
+                "link": "org/210",
+                "names": {
+                    "en": "Seventh-Heaven Maxion",
+                    "ja": "セブンスヘブンMAXION"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Muse",
+                "ja": "Muse",
+                "ja-latn": "Muse"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RGTW-0001",
+            "link": "album/23283",
+            "publisher": {
+                "link": "org/898",
+                "names": {
+                    "en": "Rokugen Alice",
+                    "ja": "六弦アリス"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Musou Enbu Tsuki no Ri -Fairy tale for fantastic children-",
+                "ja": "夢想演舞 月之理 -Fairy tale for fantastic children-",
+                "ja-latn": "Musou Enbu Tsuki no Ri -Fairy tale for fantastic children-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TCSLCD-0002",
+            "link": "album/22543",
+            "publisher": {
+                "link": "org/380",
+                "names": {
+                    "en": "HARDCORE TANO*C",
+                    "ja": "HARDCORE TANO*C"
+                }
+            },
+            "release_date": "2011-01-07",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Nanosecond Eternity",
+                "ja": "Nanosecond Eternity",
+                "ja-latn": "Nanosecond Eternity"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "NS-011",
+            "link": "album/22382",
+            "publisher": {
+                "link": "org/291",
+                "names": {
+                    "en": "nanosounds",
+                    "ja": "nanosounds"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Nanosweep11",
+                "ja": "Nanosweep11",
+                "ja-latn": "Nanosweep11"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ORECD-02",
+            "link": "album/24846",
+            "publisher": {
+                "link": "org/754",
+                "names": {
+                    "en": "Includeore",
+                    "ja": "俺++"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Narawashi -TRADITION-",
+                "ja": "慣 -TRADITION-",
+                "ja-latn": "Narawashi -TRADITION-"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "META-0015",
+            "link": "album/24508",
+            "publisher": {
+                "link": "org/749",
+                "names": {
+                    "en": "Metaphasic Child",
+                    "ja": "Metaphasic Child"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "NAVEN",
+                "ja": "NAVEN",
+                "ja-latn": "NAVEN"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26035",
+            "publisher": {
+                "link": "org/951",
+                "names": {
+                    "en": "Contranote",
+                    "ja": "Contranote"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Navy Treasures",
+                "ja": "Navy Treasures",
+                "ja-latn": "Navy Treasures"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "N/A",
+            "link": "album/34111",
+            "publisher": {
+                "names": {
+                    "en": "WHITESOFT"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Nekonade Distortion Drama CD \"It happens in Mexico travel\"",
+                "ja": "猫撫ディストーション ドラマCD ｢It happens in Mexico travel｣",
+                "ja-latn": "Nekonade Distortion Drama CD \"It happens in Mexico travel\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TFM-005",
+            "link": "album/22397",
+            "publisher": {
+                "link": "org/301",
+                "names": {
+                    "en": "Twilight Frontier",
+                    "ja": "黄昏フロンティア"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "New Super Marisa Land ORIGINAL SOUNDTRACK",
+                "ja": "魔理沙と６つのキノコ Original Soundtrack",
+                "ja-latn": "Marisa to Muttsu no Kinoko Original Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RBRC-0006",
+            "link": "album/28228",
+            "publisher": {
+                "link": "org/1272",
+                "names": {
+                    "en": "Roundbooster Architexture",
+                    "ja": "Roundbooster Architexture"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Noblesse Oblige",
+                "ja": "Noblesse Oblige",
+                "ja-latn": "Noblesse Oblige"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ANB-02",
+            "link": "album/32370",
+            "publisher": {
+                "names": {
+                    "en": "nido de topo"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Noctiluca",
+                "ja": "Noctiluca",
+                "ja-latn": "Noctiluca"
+            }
+        },
+        {
+            "album_type": "anime",
+            "catalog": "DMCS-00018",
+            "link": "album/23921",
+            "publisher": {
+                "link": "org/22",
+                "names": {
+                    "en": "Pony Canyon",
+                    "ja": "株式会社ポニーキャニオン"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "once upon a time / Aimi",
+                "ja": "once upon a time / 愛美",
+                "ja-latn": "once upon a time / Aimi"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "POAD-0005",
+            "link": "album/36149",
+            "publisher": {
+                "link": "org/1064",
+                "names": {
+                    "en": "Pocket AD",
+                    "ja": "Pocket AD"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ore no Satori ga Konnani Metal na Wake ga Nai",
+                "ja": "俺のさとりがこんなにメタルなわけがない",
+                "ja-latn": "Ore no Satori ga Konnani Metal na Wake ga Nai"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SACD-0011",
+            "link": "album/22547",
+            "publisher": {
+                "link": "org/105",
+                "names": {
+                    "en": "Sound.AVE",
+                    "ja": "Sound.AVE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Origin to Infinity",
+                "ja": "Origin to Infinity",
+                "ja-latn": "Origin to Infinity"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/27486",
+            "publisher": {
+                "names": {
+                    "en": "The University of Akihabara / UPFG"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "otoHime",
+                "ja": "otoHime-音姫-",
+                "ja-latn": "otoHime"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43832",
+            "publisher": {
+                "link": "org/871",
+                "names": {
+                    "en": "SEA SPARROWS",
+                    "ja": "SEA SPARROWS"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ottiki to Yukaina Nakamatachi!",
+                "ja": "Ottikiと愉快な仲間たち!",
+                "ja-latn": "Ottiki to Yukaina Nakamatachi!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SCCD-0003",
+            "link": "album/44228",
+            "publisher": {
+                "link": "org/864",
+                "names": {
+                    "en": "Sequence Club",
+                    "ja": "Sequence Club"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Out Of The Blue",
+                "ja": "Out Of The Blue",
+                "ja-latn": "Out Of The Blue"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TRBL-0008",
+            "link": "album/22554",
+            "publisher": {
+                "link": "org/343",
+                "names": {
+                    "en": "Tribullets",
+                    "ja": "Tribullets"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "OVER THE LIMITS!",
+                "ja": "OVER THE LIMITS!",
+                "ja-latn": "OVER THE LIMITS!"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "HZMT-0004",
+            "link": "album/22299",
+            "publisher": {
+                "link": "org/76",
+                "names": {
+                    "en": "Troubadour Record",
+                    "ja": "トルバドールレコード"
+                }
+            },
+            "release_date": "2010-12",
+            "release_type": "New Release",
+            "titles": {
+                "en": "overdrive hell 4: Hizumi Heaven Returns",
+                "ja": "overdrive hell4　ヒズミ天国リターンズ",
+                "ja-latn": "overdrive hell 4: Hizumi Heaven Returns"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "STQC-0003",
+            "link": "album/23512",
+            "publisher": {
+                "link": "org/784",
+                "names": {
+                    "en": "SAVE THE QUEEN",
+                    "ja": "SAVE THE QUEEN"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Perfect Eastern Dream",
+                "ja": "Perfect Eastern Dream",
+                "ja-latn": "Perfect Eastern Dream"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BFCD-0003",
+            "link": "album/23982",
+            "publisher": {
+                "link": "org/677",
+                "names": {
+                    "en": "BLANKFIELD",
+                    "ja": "BLANKFIELD"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "permutation suicide",
+                "ja": "permutation suicide",
+                "ja-latn": "permutation suicide"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "PNTX-0007",
+            "link": "album/33786",
+            "publisher": {
+                "link": "org/1012",
+                "names": {
+                    "en": "Phonotaxis",
+                    "ja": "Phonotaxis"
+                }
+            },
+            "release_date": "2010-05-05",
+            "release_type": "Resale",
+            "titles": {
+                "en": "Phonoetoile",
+                "ja": "Phonoetoile",
+                "ja-latn": "Phonoetoile"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "PNTX-0009",
+            "link": "album/43612",
+            "publisher": {
+                "link": "org/1012",
+                "names": {
+                    "en": "Phonotaxis",
+                    "ja": "Phonotaxis"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Phonohaze",
+                "ja": "Phonohaze",
+                "ja-latn": "Phonohaze"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "PNTX-0008",
+            "link": "album/33787",
+            "publisher": {
+                "link": "org/1012",
+                "names": {
+                    "en": "Phonotaxis",
+                    "ja": "Phonotaxis"
+                }
+            },
+            "release_date": "2010-08-14",
+            "release_type": "Resale",
+            "titles": {
+                "en": "phonoluciferase",
+                "ja": "phonoluciferase",
+                "ja-latn": "phonoluciferase"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "ETEV-00006",
+            "link": "album/46686",
+            "publisher": {
+                "link": "org/827",
+                "names": {
+                    "en": "EXIT TUNES",
+                    "ja": "エグジットチューンズ"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "plan B",
+                "ja": "plan B",
+                "ja-latn": "plan B"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MIA021",
+            "link": "album/22421",
+            "publisher": {
+                "link": "org/161",
+                "names": {
+                    "en": "IRON ATTACK!",
+                    "ja": "IRON ATTACK!"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Poltergeist",
+                "ja": "Poltergeist",
+                "ja-latn": "Poltergeist"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/46533",
+            "publisher": {
+                "link": "org/211",
+                "names": {
+                    "en": "CYTOKINE",
+                    "ja": "CYTOKINE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "POP! EP? C79 Bonus",
+                "ja": "ぽっぷ！EP? C79おまけ",
+                "ja-latn": "POP! EP? C79 Bonus"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FRWV-0001",
+            "link": "album/29352",
+            "publisher": {
+                "names": {
+                    "en": "FAIRIAL&WAVE"
+                }
+            },
+            "release_date": "2010-10-31",
+            "release_type": "Resale",
+            "titles": {
+                "en": "Prelude: Final Fantasy XI Arrange Album",
+                "ja": "Prelude: Final Fantasy XI Arrange Album",
+                "ja-latn": "Prelude: Final Fantasy XI Arrange Album"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/39367",
+            "publisher": {
+                "names": {
+                    "en": "MeHer A Naruoto"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Privacy no Ori #1",
+                "ja": "プライバシーの檻＃１",
+                "ja-latn": "Privacy no Ori #1"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "FOCD-0030",
+            "link": "album/25195",
+            "publisher": {
+                "link": "org/213",
+                "names": {
+                    "en": "FragileOnline",
+                    "ja": "FragileOnline"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ProgressiveAndroid",
+                "ja": "ProgressiveAndroid",
+                "ja-latn": "ProgressiveAndroid"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SDK-1021",
+            "link": "album/23156",
+            "publisher": {
+                "names": {
+                    "en": "Kanagawa-denshi-gizyutsu-kenkyuusyo"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "QUALIA 3 ~multi agent~ Original sound track",
+                "ja": "QUALIA 3 ~multi agent~ Original sound track",
+                "ja-latn": "QUALIA 3 ~multi agent~ Original sound track"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "LTBS-0013",
+            "link": "album/51209",
+            "publisher": {
+                "link": "org/476",
+                "names": {
+                    "en": "Tablier Communications",
+                    "ja": "タブリエ・コミュニケーションズ"
+                }
+            },
+            "release_date": "2011-01-28",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Radio Little Busters! Natsume Brothers! (21) Vol.9",
+                "ja": "ラジオ リトルバスターズ! ナツメブラザーズ! (21) Vol.9",
+                "ja-latn": "Radio Little Busters! Natsume Brothers! (21) Vol.9"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43865",
+            "publisher": {
+                "link": "org/345",
+                "names": {
+                    "en": "Iemitsu.",
+                    "ja": "Iemitsu."
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Re Comp with We Love The Toho RMXes!",
+                "ja": "Re Comp with We Love The Toho RMXes!",
+                "ja-latn": "Re Comp with We Love The Toho RMXes!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HTNT-009",
+            "link": "album/22546",
+            "publisher": {
+                "link": "org/437",
+                "names": {
+                    "en": "Hatsunetsumiko's",
+                    "ja": "発熱巫女～ず"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Re:Distance & A Blossom",
+                "ja": "Re:Distance & A Blossom",
+                "ja-latn": "Re:Distance & A Blossom"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22600",
+            "publisher": {
+                "link": "org/235",
+                "names": {
+                    "en": "Kraster",
+                    "ja": "Kraster"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Re:solution",
+                "ja": "Re:solution",
+                "ja-latn": "Re:solution"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22856",
+            "publisher": {
+                "link": "org/855",
+                "names": {
+                    "en": "PARANOIA PARADOX",
+                    "ja": "PARANOIA PARADOX"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "RE;FLECTOR",
+                "ja": "RE;FLECTOR",
+                "ja-latn": "RE;FLECTOR"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KNDY-0002",
+            "link": "album/26931",
+            "publisher": {
+                "link": "org/839",
+                "names": {
+                    "en": "KONEKODAKKAIYA",
+                    "ja": "子猫奪回屋"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Realize ~Chirei Gensoufu~",
+                "ja": "Realize ～地霊幻想譜～",
+                "ja-latn": "Realize ~Chirei Gensoufu~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CJVK-0004",
+            "link": "album/22618",
+            "publisher": {
+                "link": "org/705",
+                "names": {
+                    "en": "Cajiva's Gadget Shop",
+                    "ja": "梶迫小道具店"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Records del Mil lenni",
+                "ja": "Records del Mil lenni",
+                "ja-latn": "Records del Mil lenni"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "XLPS-0033",
+            "link": "album/22639",
+            "publisher": {
+                "link": "org/215",
+                "names": {
+                    "en": "XL Project",
+                    "ja": "XL Project"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Reflected Snow EP",
+                "ja": "Reflected Snow EP",
+                "ja-latn": "Reflected Snow EP"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HACW-TA16",
+            "link": "album/22226",
+            "publisher": {
+                "link": "org/306",
+                "names": {
+                    "en": "CarrotWine.",
+                    "ja": "趣味工房にんじんわいん"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "REIMU RACER",
+                "ja": "REIMU RACER",
+                "ja-latn": "REIMU RACER"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RMCD-0001",
+            "link": "album/23323",
+            "publisher": {
+                "link": "org/1041",
+                "names": {
+                    "en": "Minstrel",
+                    "ja": "Minstrel"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Reverence of Mana",
+                "ja": "Reverence of Mana",
+                "ja-latn": "Reverence of Mana"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "RSCD-0012",
+            "link": "album/28194",
+            "publisher": {
+                "link": "org/431",
+                "names": {
+                    "en": "RIGHT STUFF",
+                    "ja": "RIGHT STUFF"
+                }
+            },
+            "release_date": "2010-12-23",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Rin",
+                "ja": "Rin",
+                "ja-latn": "Rin"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "38CD-0008",
+            "link": "album/24024",
+            "publisher": {
+                "link": "org/395",
+                "names": {
+                    "en": "38BEETS",
+                    "ja": "38BEETS"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ring",
+                "ja": "Ring",
+                "ja-latn": "Ring"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SBFR-0020",
+            "link": "album/22490",
+            "publisher": {
+                "link": "org/281",
+                "names": {
+                    "en": "salvation by faith records",
+                    "ja": "salvation by faith records"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ruler ~The Light in the Sky is Saturn~",
+                "ja": "ものさし ～天の光はすべて土星～",
+                "ja-latn": "monosashi ~ame no hikari wa subete dosei~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "EDCD-0006",
+            "link": "album/22266",
+            "publisher": {
+                "link": "org/572",
+                "names": {
+                    "en": "El Dorado",
+                    "ja": "El Dorado"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ruthless Fear",
+                "ja": "Ruthless Fear",
+                "ja-latn": "Ruthless Fear"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "AMRD-0008",
+            "link": "album/23607",
+            "publisher": {
+                "link": "org/476",
+                "names": {
+                    "en": "Tablier Communications",
+                    "ja": "タブリエ・コミュニケーションズ"
+                }
+            },
+            "release_date": "2011-01-28",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Ryoko to Kana no Amagami Coming Sweet! Vol.8",
+                "ja": "良子と佳奈のアマガミカミングスウィート！ Vol.8",
+                "ja-latn": "Ryoko to Kana no Amagami Coming Sweet! Vol.8"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MM-14",
+            "link": "album/34855",
+            "publisher": {
+                "link": "org/419",
+                "names": {
+                    "en": "Machikado-Mapoze",
+                    "ja": "街角麻婆豆"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "RYTHMOS SUBTERRANEI",
+                "ja": "ちていのリュトモス",
+                "ja-latn": "Chitei no Rhythmos"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LTCD-0011",
+            "link": "album/22595",
+            "publisher": {
+                "link": "org/356",
+                "names": {
+                    "en": "Liz Triangle",
+                    "ja": "Liz Triangle"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "S4U",
+                "ja": "S4U",
+                "ja-latn": "S4U"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "MIZO-0010",
+            "link": "album/23610",
+            "publisher": {
+                "link": "org/476",
+                "names": {
+                    "en": "Tablier Communications",
+                    "ja": "タブリエ・コミュニケーションズ"
+                }
+            },
+            "release_date": "2011-01-28",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Sasara, Ma-ryan no Seitokai Kaichou Radio for ToHeart2 Vol.10",
+                "ja": "ささら、まーりゃんの生徒会会長ラジオ for ToHeart2 Vol.10",
+                "ja-latn": "Sasara, Ma-ryan no Seitokai Kaichou Radio for ToHeart2 Vol.10"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/34199",
+            "publisher": {
+                "names": {
+                    "en": "MNK"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Satorick Jumpen : Jealous of Desire",
+                "ja": "Satorick Jumpen : Jealous of Desire",
+                "ja-latn": "Satorick Jumpen : Jealous of Desire"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "FSP-1002",
+            "link": "album/22869",
+            "publisher": {
+                "names": {
+                    "en": "FLAT"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Secret Game Portable Main Theme Maxi Single",
+                "ja": "シークレットゲーム PORTABLE 主題歌マキシシングル",
+                "ja-latn": "Secret Game Portable Main Theme Maxi Single"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LKA002",
+            "link": "album/35849",
+            "publisher": {
+                "link": "org/1058",
+                "names": {
+                    "en": "LA KIA",
+                    "ja": "LA KIA"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Seikou Seiya",
+                "ja": "星紅聖夜",
+                "ja-latn": "Seikou Seiya"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MTST-1",
+            "link": "album/22356",
+            "publisher": {
+                "link": "org/170",
+                "names": {
+                    "en": "Magical Trick Society",
+                    "ja": "Magical Trick Society"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SG-FM UNIT",
+                "ja": "SG-FM UNIT",
+                "ja-latn": "SG-FM UNIT"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TPCD-0001",
+            "link": "album/40299",
+            "publisher": {
+                "link": "org/1192",
+                "names": {
+                    "en": "Tetra☆Pod",
+                    "ja": "テトラ☆ポット"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Shiawase Iro",
+                "ja": "しあわせいろ",
+                "ja-latn": "Shiawase Iro"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "PTCD-003",
+            "link": "album/29108",
+            "publisher": {
+                "names": {
+                    "en": "Platinum records"
+                }
+            },
+            "release_date": "2011-01-27",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Shinsengumi Drama CD Miburo Shinden: Sanka no Sho",
+                "ja": "新撰組ドラマCD 壬生狼真伝 ~散花の章~",
+                "ja-latn": "Shinsengumi Drama CD Miburo Shinden: Sanka no Sho"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "NVGS-0261",
+            "link": "album/22871",
+            "publisher": {
+                "names": {
+                    "en": "Navel"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SHUFFLE! Essence+ Original Soundtrack",
+                "ja": "SHUFFLE! Essence+ Original Soundtrack",
+                "ja-latn": "SHUFFLE! Essence+ Original Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FRCD-0006",
+            "link": "album/32760",
+            "publisher": {
+                "link": "org/499",
+                "names": {
+                    "en": "Frontier Records",
+                    "ja": "Frontier Records"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SKYSCRAPER",
+                "ja": "SKYSCRAPER",
+                "ja-latn": "SKYSCRAPER"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/35155",
+            "publisher": {
+                "link": "org/513",
+                "names": {
+                    "en": "Black Onyx",
+                    "ja": "Black Onyx"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SOPHISTICATED",
+                "ja": "SOPHISTICATED",
+                "ja-latn": "SOPHISTICATED"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSM-012",
+            "link": "album/23704",
+            "publisher": {
+                "link": "org/359",
+                "names": {
+                    "en": "Shishimai Brothers",
+                    "ja": "ししまいブラザーズ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sougetsu",
+                "ja": "蒼月",
+                "ja-latn": "Sougetsu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "EZCD-EX01",
+            "link": "album/26388",
+            "publisher": {
+                "link": "org/298",
+                "names": {
+                    "en": "EtlanZ",
+                    "ja": "エトランゼ"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sound Memorial -EtlanZ 10th Anniversary CD-",
+                "ja": "サウンドメモリアル -EtlanZ 10th Anniversary CD-",
+                "ja-latn": "Sound Memorial -EtlanZ 10th Anniversary CD-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DPCD-1004",
+            "link": "album/26985",
+            "publisher": {
+                "link": "org/299",
+                "names": {
+                    "en": "Dark PHOENiX",
+                    "ja": "Dark PHOENiX"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sound-0 Phase-11",
+                "ja": "Sound-0 Phase-11",
+                "ja-latn": "Sound-0 Phase-11"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARAM-0014~5",
+            "link": "album/23497",
+            "publisher": {
+                "link": "org/232",
+                "names": {
+                    "en": "AramiTama",
+                    "ja": "荒御霊"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SpellTech3",
+                "ja": "SpellTech3",
+                "ja-latn": "SpellTech3"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ENS-0011",
+            "link": "album/22446",
+            "publisher": {
+                "link": "org/394",
+                "names": {
+                    "en": "EastNewSound",
+                    "ja": "EastNewSound"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Split Theory",
+                "ja": "スプリットセオリー",
+                "ja-latn": "Split Theory"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MMPD0011",
+            "link": "album/24266",
+            "publisher": {
+                "link": "org/744",
+                "names": {
+                    "en": "MONOMIND",
+                    "ja": "MONOMIND"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Spookmanor",
+                "ja": "Spookmanor",
+                "ja-latn": "Spookmanor"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "SPY-0003A~B",
+            "link": "album/37580",
+            "publisher": {
+                "names": {
+                    "en": "Spray"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Spray Premium Hits!",
+                "ja": "Spray Premium Hits!",
+                "ja-latn": "Spray Premium Hits!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RTCD-0012",
+            "link": "album/24166",
+            "publisher": {
+                "link": "org/742",
+                "names": {
+                    "en": "ROUGH TIME",
+                    "ja": "ROUGH TIME"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Springtime is here",
+                "ja": "Springtime is here",
+                "ja-latn": "Springtime is here"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSEB-0015",
+            "link": "album/26176",
+            "publisher": {
+                "link": "org/281",
+                "names": {
+                    "en": "salvation by faith records",
+                    "ja": "salvation by faith records"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SSDX E.P.",
+                "ja": "SSDX E.P.",
+                "ja-latn": "SSDX E.P."
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22803",
+            "publisher": {
+                "names": {
+                    "en": "SS|EX"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SS|EX Compelation Album Volume.01",
+                "ja": "エスエスイーエックス コンピレーションアルバム ボリューム01",
+                "ja-latn": "SS|EX Compelation Album Volume.01"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LLAC-0002",
+            "link": "album/22451",
+            "publisher": {
+                "link": "org/554",
+                "names": {
+                    "en": "LiLA'c Records",
+                    "ja": "リラレコーズ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "STAR GAZE",
+                "ja": "STAR GAZE",
+                "ja-latn": "STAR GAZE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/36290",
+            "publisher": {
+                "link": "org/1065",
+                "names": {
+                    "en": "Satellite Himawari",
+                    "ja": "Satellite Himawari"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "States",
+                "ja": "States",
+                "ja-latn": "States"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FFRC-0060",
+            "link": "album/27568",
+            "publisher": {
+                "link": "org/651",
+                "names": {
+                    "en": "flap+frog",
+                    "ja": "flap+frog"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "stereophonic voyager",
+                "ja": "stereophonic voyager",
+                "ja-latn": "stereophonic voyager"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26430",
+            "publisher": {
+                "link": "org/833",
+                "names": {
+                    "en": "Get The Rabbit Out!",
+                    "ja": "Get The Rabbit Out!"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "String Play Spider Lady",
+                "ja": "String Play Spider Lady",
+                "ja-latn": "String Play Spider Lady"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "CURC-0005",
+            "link": "album/29614",
+            "publisher": {
+                "names": {
+                    "en": "Curled-Coil"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "subsequence",
+                "ja": "subsequence",
+                "ja-latn": "subsequence"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TMCD-0004",
+            "link": "album/22824",
+            "publisher": {
+                "link": "org/1080",
+                "names": {
+                    "en": "TamStar Records",
+                    "ja": "TamStar Records"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "supercell tribute ~Stowaways~ / supercell feat. Miku Hatsune",
+                "ja": "supercell tribute ~Stowaways~ / supercell feat.初音ミク",
+                "ja-latn": "supercell tribute ~Stowaways~ / supercell feat. Miku Hatsune"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SACD-4007",
+            "link": "album/37437",
+            "publisher": {
+                "link": "org/276",
+                "names": {
+                    "en": "SYNC.ART'S",
+                    "ja": "SYNC.ART'S"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sweet & Fluffy",
+                "ja": "Sweet & Fluffy",
+                "ja-latn": "Sweet & Fluffy"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "N/A",
+            "link": "album/33729",
+            "publisher": {
+                "names": {
+                    "en": "2-dimension"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "sweet*basket",
+                "ja": "sweet*basket",
+                "ja-latn": "sweet*basket"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SWHC-0006",
+            "link": "album/22518",
+            "publisher": {
+                "link": "org/702",
+                "names": {
+                    "en": "SWING HOLIC",
+                    "ja": "SWING HOLIC"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SWING HOLIC VOL.06",
+                "ja": "SWING HOLIC VOL.06",
+                "ja-latn": "SWING HOLIC VOL.06"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WAVE-00033",
+            "link": "album/23490",
+            "publisher": {
+                "link": "org/278",
+                "names": {
+                    "en": "WAVE",
+                    "ja": "WAVE"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Symphonic Rhapsody \"Peony\"",
+                "ja": "交響狂詩篇 “冬牡丹”",
+                "ja-latn": "Symphonic Rhapsody \"Peony\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "Ryu-A004",
+            "link": "album/22334",
+            "publisher": {
+                "link": "org/976",
+                "names": {
+                    "en": "5150",
+                    "ja": "5150"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Symphonic Touhou IV",
+                "ja": "シンフォニック東方Ⅳ",
+                "ja-latn": "Symphonic Touhou IV"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARNC-0001",
+            "link": "album/22778",
+            "publisher": {
+                "names": {
+                    "en": "Arnica"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Synchronicity",
+                "ja": "Synchronicity",
+                "ja-latn": "Synchronicity"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TOS007",
+            "link": "album/40084",
+            "publisher": {
+                "link": "org/634",
+                "names": {
+                    "en": "TAMAONSEN",
+                    "ja": "魂音泉"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TAMAONSEN BEKKAN -03-",
+                "ja": "魂音泉別館　-零参-",
+                "ja-latn": "TAMAONSEN BEKKAN -03-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TMCD-0000",
+            "link": "album/22822",
+            "publisher": {
+                "link": "org/1080",
+                "names": {
+                    "en": "TamStar Records",
+                    "ja": "TamStar Records"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TamStar Records Collection vol.0",
+                "ja": "TamStar Records Collection vol.0",
+                "ja-latn": "TamStar Records Collection vol.0"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MLCD-0010",
+            "link": "album/22938",
+            "publisher": {
+                "names": {
+                    "en": "Music Load"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tasogare Concert",
+                "ja": "たそがれコンサート",
+                "ja-latn": "Tasogare Concert"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FGE-0003",
+            "link": "album/22452",
+            "publisher": {
+                "link": "org/693",
+                "names": {
+                    "en": "Foreground Eclipse",
+                    "ja": "Foreground Eclipse"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tears Will Become Melodies Tonight",
+                "ja": "Tears Will Become Melodies Tonight",
+                "ja-latn": "Tears Will Become Melodies Tonight"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WECD-0002",
+            "link": "album/24163",
+            "publisher": {
+                "link": "org/540",
+                "names": {
+                    "en": "White Elephant",
+                    "ja": "White Elephant"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Temporal Distortion",
+                "ja": "Temporal Distortion",
+                "ja-latn": "Temporal Distortion"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/21606",
+            "publisher": {
+                "link": "org/657",
+                "names": {
+                    "en": "Aspina Formation Flight Team",
+                    "ja": "Aspina Formation Flight Team"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THE ANSWER - Armored Core Tribute Album -",
+                "ja": "THE ANSWER - Armored Core Tribute Album -",
+                "ja-latn": "THE ANSWER - Armored Core Tribute Album -"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SGSL-0007",
+            "link": "album/31290",
+            "publisher": {
+                "link": "org/880",
+                "names": {
+                    "en": "Shinigiwa Satellite",
+                    "ja": "死際サテライト"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THE DAY THE WORLD WENT AWAY EP",
+                "ja": "THE DAY THE WORLD WENT AWAY EP",
+                "ja-latn": "THE DAY THE WORLD WENT AWAY EP"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "DVSP-0000",
+            "link": "album/22899",
+            "publisher": {
+                "link": "org/331",
+                "names": {
+                    "en": "Diverse System",
+                    "ja": "Diverse System"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THE DIVERSE SYSTEM",
+                "ja": "The DIVERSE SYSTEM (C79 limited.)",
+                "ja-latn": "THE DIVERSE SYSTEM"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "N/A",
+            "link": "album/29799",
+            "publisher": {
+                "link": "org/566",
+                "names": {
+                    "en": "MEGA-Fepps",
+                    "ja": "MEGAふぇっぷす"
+                }
+            },
+            "release_date": "2010-12-28",
+            "release_type": "New Release",
+            "titles": {
+                "en": "The Lunar Sky is Disappeared",
+                "ja": "The Lunar Sky is Disappeared",
+                "ja-latn": "The Lunar Sky is Disappeared"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SABA-00003",
+            "link": "album/22221",
+            "publisher": {
+                "link": "org/963",
+                "names": {
+                    "en": "Mackerel Sky",
+                    "ja": "Mackerel Sky"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "The Wing of Madoola -Flapping Wings-",
+                "ja": "マドゥーラの翼 -Flapping Wings-",
+                "ja-latn": "Madoola no Tsubasa -Flapping Wings-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "IBCD-0015",
+            "link": "album/22592",
+            "publisher": {
+                "link": "org/164",
+                "names": {
+                    "en": "Sound Online",
+                    "ja": "Sound Online"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THIRD ENSEMBLE: BLEU",
+                "ja": "THIRD ENSEMBLE: BLEU",
+                "ja-latn": "THIRD ENSEMBLE: BLEU"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARCD0033",
+            "link": "album/22591",
+            "publisher": {
+                "link": "org/212",
+                "names": {
+                    "en": "Alstroemeria Records",
+                    "ja": "アルストロメリアレコーズ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THIRD ENSEMBLE: NOIR",
+                "ja": "THIRD ENSEMBLE: NOIR",
+                "ja-latn": "THIRD ENSEMBLE: NOIR"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AECD-026",
+            "link": "album/22590",
+            "publisher": {
+                "link": "org/101",
+                "names": {
+                    "en": "ALiCE'S EMOTiON",
+                    "ja": "ALiCE'S EMOTiON"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THIRD ENSEMBLE: ROUGE",
+                "ja": "THIRD ENSEMBLE: ROUGE",
+                "ja-latn": "THIRD ENSEMBLE: ROUGE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AOD015",
+            "link": "album/35848",
+            "publisher": {
+                "link": "org/160",
+                "names": {
+                    "en": "Kissing the Mirror",
+                    "ja": "Kissing the Mirror"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TO LIVE TO DIE",
+                "ja": "TO LIVE TO DIE",
+                "ja-latn": "TO LIVE TO DIE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AONE-0008",
+            "link": "album/22616",
+            "publisher": {
+                "link": "org/449",
+                "names": {
+                    "en": "A-One",
+                    "ja": "A-One"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TOHO EUROBEAT VOL.2",
+                "ja": "TOHO EUROBEAT VOL.2",
+                "ja-latn": "TOHO EUROBEAT VOL.2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TSCD-004",
+            "link": "album/22602",
+            "publisher": {
+                "link": "org/703",
+                "names": {
+                    "en": "Tutti Sound",
+                    "ja": "Tutti Sound"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Film Music Selection - Light",
+                "ja": "東方映画音楽選 - Light",
+                "ja-latn": "Toho Film Music Selection - Light"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SORR-00082",
+            "link": "album/24011",
+            "publisher": {
+                "link": "org/465",
+                "names": {
+                    "en": "Re:Volte",
+                    "ja": "Re:Volte"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Gensouroku 09 - Emotional Ties",
+                "ja": "東方幻奏録09 Emotional Ties",
+                "ja-latn": "Toho Gensouroku 09 - Emotional Ties"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "IO-0184",
+            "link": "album/22641",
+            "publisher": {
+                "link": "org/333",
+                "names": {
+                    "en": "IOSYS",
+                    "ja": "IOSYS"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Unfufufu",
+                "ja": "東方云符不普",
+                "ja-latn": "Toho Unfufufu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GCFT-0071",
+            "link": "album/23890",
+            "publisher": {
+                "link": "org/163",
+                "names": {
+                    "en": "Golden City Factory",
+                    "ja": "Golden City Factory"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Yugekitai II",
+                "ja": "東方遊撃隊　弐",
+                "ja-latn": "Toho Yugekitai II"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26145",
+            "publisher": {
+                "names": {
+                    "en": "Strawberry Bose"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho-Souzinengi The Original Soundtrack",
+                "ja": "東方蒼神縁起 オリジナルサウンドトラック",
+                "ja-latn": "Toho-Souzinengi The Original Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GFCD-0008",
+            "link": "album/31392",
+            "publisher": {
+                "link": "org/942",
+                "names": {
+                    "en": "GUNFIRE",
+                    "ja": "GUNFIRE"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TOHOBEAT FLASH -Seventh Beat-",
+                "ja": "TOHOBEAT FLASH -Seventh Beat-",
+                "ja-latn": "TOHOBEAT FLASH -Seventh Beat-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ABCD006",
+            "link": "album/29325",
+            "publisher": {
+                "link": "org/916",
+                "names": {
+                    "en": "east breaks in thousand",
+                    "ja": "east breaks in thousand"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tokyo Bufudain",
+                "ja": "東京ブフダイン",
+                "ja-latn": "Tokyo Bufudain"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26994",
+            "publisher": {
+                "link": "org/939",
+                "names": {
+                    "en": "TOMATO GUMMY",
+                    "ja": "トマト組"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TOMATO FIZZ",
+                "ja": "TOMATO FIZZ",
+                "ja-latn": "TOMATO FIZZ"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "NDCD-0006",
+            "link": "album/22714",
+            "publisher": {
+                "link": "org/444",
+                "names": {
+                    "en": "N-tone",
+                    "ja": "N-tone"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tone Box",
+                "ja": "Tone Box",
+                "ja-latn": "Tone Box"
+            }
+        },
+        {
+            "album_type": "cancel",
+            "catalog": "CTCD-0018",
+            "link": "album/22796",
+            "publisher": {
+                "names": {
+                    "en": "Cis-Trance"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TOO NEGATIVE",
+                "ja": "TOO NEGATIVE",
+                "ja-latn": "TOO NEGATIVE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SOH-0029",
+            "link": "album/22843",
+            "publisher": {
+                "link": "org/266",
+                "names": {
+                    "en": "SOUTH OF HEAVEN",
+                    "ja": "SOUTH OF HEAVEN"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Blackout",
+                "ja": "東方ブラックエンド",
+                "ja-latn": "Touhou Blackout"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MCSD-1006",
+            "link": "album/27968",
+            "publisher": {
+                "link": "org/857",
+                "names": {
+                    "en": "Kairaku Ongakudou",
+                    "ja": "快楽音楽堂"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Chaotic",
+                "ja": "東方乱奏盤",
+                "ja-latn": "Touhou Chaotic"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YZCD-0015",
+            "link": "album/22038",
+            "publisher": {
+                "link": "org/190",
+                "names": {
+                    "en": "Yellow Zebra",
+                    "ja": "Yellow Zebra"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Eikouka ~Point and Eternity~",
+                "ja": "東方詠劫歌 ～Point and Eternity～",
+                "ja-latn": "Touhou Eikouka ~Point and Eternity~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SEPR-0008",
+            "link": "album/22244",
+            "publisher": {
+                "link": "org/319",
+                "names": {
+                    "en": "sound sepher",
+                    "ja": "sound sepher"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Gensou Shiten 5 \"Fable\"",
+                "ja": "東方幻奏祀典5\"Fable\"",
+                "ja-latn": "Touhou Gensou Shiten 5 \"Fable\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0071",
+            "link": "album/23783",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Gensouka -Sister-",
+                "ja": "東方弦奏歌-Sister-",
+                "ja-latn": "Touhou Gensouka -Sister-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RMCD-0004",
+            "link": "album/35136",
+            "publisher": {
+                "link": "org/1042",
+                "names": {
+                    "en": "Ryuuha Mikakutei",
+                    "ja": "流派未確定"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Genyoumu",
+                "ja": "東方幻妖夢",
+                "ja-latn": "Touhou Genyoumu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CY-0003",
+            "link": "album/22650",
+            "publisher": {
+                "link": "org/710",
+                "names": {
+                    "en": "Tennenjemini",
+                    "ja": "天然ジェミニ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Gokuraku Suirenka",
+                "ja": "東方極楽睡蓮歌",
+                "ja-latn": "Touhou Gokuraku Suirenka"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26424",
+            "publisher": {
+                "link": "org/230",
+                "names": {
+                    "en": "kazukoubou",
+                    "ja": "和弘法"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Hitori Maruyaku 4 ~ Eiyashou Arrange Collection (Tentative Version)",
+                "ja": "東方１人○役４－永夜抄アレンジ曲集(暫定版）",
+                "ja-latn": "Touhou Hitori Maruyaku 4 ~ Eiyashou Arrange Collection (Tentative Version)"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FLCD-013",
+            "link": "album/22649",
+            "publisher": {
+                "link": "org/853",
+                "names": {
+                    "en": "Floating Cloud",
+                    "ja": "Floating Cloud"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Irish",
+                "ja": "東方アイリッシュ",
+                "ja-latn": "Touhou Irish"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HKMP-OTO47",
+            "link": "album/36693",
+            "publisher": {
+                "link": "org/171",
+                "names": {
+                    "en": "Hachimitsu-Kumasan",
+                    "ja": "はちみつくまさん"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Kenzuishi",
+                "ja": "東方鍵瑞祀",
+                "ja-latn": "Touhou Kenzuishi"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SOH-0027",
+            "link": "album/23028",
+            "publisher": {
+                "link": "org/266",
+                "names": {
+                    "en": "SOUTH OF HEAVEN",
+                    "ja": "SOUTH OF HEAVEN"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Koutetsuka San",
+                "ja": "東方鋼鉄歌参",
+                "ja-latn": "Touhou Koutetsuka San"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AREZ-0005",
+            "link": "album/24383",
+            "publisher": {
+                "link": "org/989",
+                "names": {
+                    "en": "area-zero",
+                    "ja": "領域ZERO"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Kuenka side A",
+                "ja": "東方空宴歌sideA",
+                "ja-latn": "Touhou Kuenka side A"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22677",
+            "publisher": {
+                "link": "org/710",
+                "names": {
+                    "en": "Tennenjemini",
+                    "ja": "天然ジェミニ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Magical Comical (Preview)",
+                "ja": "東方マジカル☆コミカル おためしボーカルCD",
+                "ja-latn": "Touhou Magical Comical (Preview)"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HKMP-OTO46",
+            "link": "album/36692",
+            "publisher": {
+                "link": "org/171",
+                "names": {
+                    "en": "Hachimitsu-Kumasan",
+                    "ja": "はちみつくまさん"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Mangekyou",
+                "ja": "東方萬華響",
+                "ja-latn": "Touhou Mangekyou"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22449",
+            "publisher": {
+                "link": "org/624",
+                "names": {
+                    "en": "BUTAOTOME",
+                    "ja": "豚乙女"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Nekokenban 2",
+                "ja": "東方猫鍵盤 2",
+                "ja-latn": "Touhou Nekokenban 2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/26523",
+            "publisher": {
+                "names": {
+                    "en": "Utuhowakati"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Noise",
+                "ja": "東方ノイズ",
+                "ja-latn": "Touhou Noise"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LDCD-001",
+            "link": "album/23991",
+            "publisher": {
+                "link": "org/1011",
+                "names": {
+                    "en": "Concerto of Light and Darkness",
+                    "ja": "光と闇の協奏曲"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Pianoforte I -Requiem for sakura-",
+                "ja": "Touhou Pianoforte I -Requiem for sakura-",
+                "ja-latn": "Touhou Pianoforte I -Requiem for sakura-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "UCMC-0040",
+            "link": "album/22278",
+            "publisher": {
+                "link": "org/107",
+                "names": {
+                    "en": "Unchiku Company",
+                    "ja": "うんちく商事"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Project Piano Arrangements \"Genseifu\"",
+                "ja": "東方projectピアノ譜付ピアノアレンジ「絃精譜」",
+                "ja-latn": "Touhou Project Piano Arrangements \"Genseifu\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ANCD-0005",
+            "link": "album/26025",
+            "publisher": {
+                "link": "org/659",
+                "names": {
+                    "en": "TOKYO Active NEETs",
+                    "ja": "東京アクティブNEETs"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Sanjuusou ~Sound of Phantoms Ensemble~",
+                "ja": "東方三重奏 ～Sound of Phantoms Ensemble～",
+                "ja-latn": "Touhou Sanjuusou ~Sound of Phantoms Ensemble~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CNCD-0016",
+            "link": "album/24182",
+            "publisher": {
+                "link": "org/352",
+                "names": {
+                    "en": "Conagusuri",
+                    "ja": "こなぐすり"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Shinmayaku",
+                "ja": "東方神魔薬",
+                "ja-latn": "Touhou Shinmayaku"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "XITH-0008",
+            "link": "album/22993",
+            "publisher": {
+                "link": "org/497",
+                "names": {
+                    "en": "xi-on",
+                    "ja": "彩音 ～xi-on～"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Shisou Ex Spell -Memory of the Past-",
+                "ja": "東方志奏 Ex Spell -Memory of the Past-",
+                "ja-latn": "Touhou Shisou Ex Spell -Memory of the Past-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/27237",
+            "publisher": {
+                "names": {
+                    "en": "irohamochi"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Soyoka",
+                "ja": "東方遥想花",
+                "ja-latn": "Touhou Soyoka"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KHCD-0004",
+            "link": "album/22802",
+            "publisher": {
+                "link": "org/715",
+                "names": {
+                    "en": "Kumanoheya",
+                    "ja": "クマノヘヤ"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Tajusei ~Maboroshi~",
+                "ja": "東方多重声　～幻～",
+                "ja-latn": "Touhou Tajusei ~Maboroshi~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/43479",
+            "publisher": {
+                "link": "org/1258",
+                "names": {
+                    "en": "2nd Flush",
+                    "ja": "2nd Flush"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Winter",
+                "ja": "Touhou Winter",
+                "ja-latn": "Touhou Winter"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CIAP-1003L",
+            "link": "album/21282",
+            "publisher": {
+                "link": "org/1028",
+                "names": {
+                    "en": "Zero Symphonic Battalion",
+                    "ja": "第零交響師団"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Zerokyo Kitan ~ Sophisticated Insanity",
+                "ja": "東方零響奇譚 ~ Sophisticated Insanity",
+                "ja-latn": "Touhou Zerokyo Kitan ~ Sophisticated Insanity"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "IMAE-00046",
+            "link": "album/25606",
+            "publisher": {
+                "link": "org/311",
+                "names": {
+                    "en": "SOL International",
+                    "ja": "株式会社 ソル・インターナショナル"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TRanswing -The Inner Gaze-",
+                "ja": "TRanswing -The Inner Gaze-",
+                "ja-latn": "TRanswing -The Inner Gaze-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "VD-015",
+            "link": "album/22610",
+            "publisher": {
+                "link": "org/335",
+                "names": {
+                    "en": "Vandyk",
+                    "ja": "ばんだいく"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TRTB",
+                "ja": "TRTB",
+                "ja-latn": "TRTB"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AMCD-0007",
+            "link": "album/23733",
+            "publisher": {
+                "link": "org/486",
+                "names": {
+                    "en": "Alice Music",
+                    "ja": "Alice Music"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tsuki to Hime to Eiya to",
+                "ja": "月ト姫ト永夜ト",
+                "ja-latn": "Tsuki to Hime to Eiya to"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "MJDS-1005",
+            "link": "album/22150",
+            "publisher": {
+                "names": {
+                    "en": "DEARSTAGE RECORDS"
+                }
+            },
+            "release_date": "2011-01",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Twinkle Link",
+                "ja": "トゥインクル・リンク",
+                "ja-latn": "Twinkle Link"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AGENT-0001",
+            "link": "album/35830",
+            "publisher": {
+                "link": "org/1057",
+                "names": {
+                    "en": "AGENT 0",
+                    "ja": "AGENT 0"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ultima weapon",
+                "ja": "ultima weapon",
+                "ja-latn": "ultima weapon"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/30819",
+            "publisher": {
+                "names": {
+                    "en": "COSMIC COMIC, RIFF*RAFF, ALTERNAIT"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Umineko Motion Graphic vol.8: Nakanai Kimi to Aganai no Gensou - Hibiki",
+                "ja": "Umineko Motion Graphic vol.8 「なかない君と贖いの幻想 響」",
+                "ja-latn": "Umineko Motion Graphic vol.8: Nakanai Kimi to Aganai no Gensou - Hibiki"
+            }
+        },
+        {
+            "album_type": "cancel",
+            "catalog": "RBRC-0006",
+            "link": "album/21026",
+            "publisher": {
+                "link": "org/1272",
+                "names": {
+                    "en": "Roundbooster Architexture",
+                    "ja": "Roundbooster Architexture"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Umineko no Naku Koro ni Chiru musicbox Black",
+                "ja": "うみねこのなく頃に散 musicbox Black",
+                "ja-latn": "Umineko no Naku Koro ni Chiru musicbox Black"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BFCD-0012",
+            "link": "album/22040",
+            "publisher": {
+                "names": {
+                    "en": "BROAD FIRST"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Umineko no Naku Koro ni xaki works \"xwerk\"",
+                "ja": "うみねこのなく頃に xaki 作品集 xwerk",
+                "ja-latn": "Umineko no Naku Koro ni xaki works \"xwerk\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BFCD-0012",
+            "link": "album/23112",
+            "publisher": {
+                "names": {
+                    "en": "BROAD FIRST"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Umineko no Naku Koro ni xaki works \"xwerk\" [Limited Edition]",
+                "ja": "うみねこのなく頃に xaki 作品集 xwerk",
+                "ja-latn": "Umineko no Naku Koro ni xaki works \"xwerk\" [Limited Edition]"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22924",
+            "publisher": {
+                "link": "org/513",
+                "names": {
+                    "en": "Black Onyx",
+                    "ja": "Black Onyx"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Unconfirmed Music",
+                "ja": "Unconfirmed Music",
+                "ja-latn": "Unconfirmed Music"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "C9CD-0004",
+            "link": "album/23348",
+            "publisher": {
+                "link": "org/440",
+                "names": {
+                    "en": "C9",
+                    "ja": "C9"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Underground Sound System",
+                "ja": "Underground Sound System",
+                "ja-latn": "Underground Sound System"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "VA-C79-0001",
+            "link": "album/35129",
+            "publisher": {
+                "link": "org/429",
+                "names": {
+                    "en": "Visual Art's",
+                    "ja": "株式会社ビジュアルアーツ"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "VA Compilation CD Vol.2 \"Panorama\"",
+                "ja": "VA Compilation CD Vol.2 \"Panorama\"",
+                "ja-latn": "VA Compilation CD Vol.2 \"Panorama\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SDFN-0016",
+            "link": "album/22842",
+            "publisher": {
+                "link": "org/337",
+                "names": {
+                    "en": "Sound∞Infinity",
+                    "ja": "Sound∞Infinity"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Vacabond",
+                "ja": "Vacabond",
+                "ja-latn": "Vacabond"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TMCD-0001",
+            "link": "album/22823",
+            "publisher": {
+                "link": "org/1080",
+                "names": {
+                    "en": "TamStar Records",
+                    "ja": "TamStar Records"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Version Gom",
+                "ja": "Versionゴム",
+                "ja-latn": "Version Gom"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PSYC-0003",
+            "link": "album/22619",
+            "publisher": {
+                "link": "org/706",
+                "names": {
+                    "en": "Pizuya's Cell",
+                    "ja": "ぴずやの独房"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Violet Lotus Requiem",
+                "ja": "Violet Lotus Requiem",
+                "ja-latn": "Violet Lotus Requiem"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PLCD-0001",
+            "link": "album/44747",
+            "publisher": {
+                "link": "org/968",
+                "names": {
+                    "en": "pastyle",
+                    "ja": "pastyle"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Vivid Step",
+                "ja": "Vivid Step",
+                "ja-latn": "Vivid Step"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/22327",
+            "publisher": {
+                "link": "org/468",
+                "names": {
+                    "en": "Sound Team Layer-0",
+                    "ja": "Sound Team Layer-0"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "VO-Arr/Lz_2",
+                "ja": "VO-Arr/Lz_2",
+                "ja-latn": "VO-Arr/Lz_2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DMCD-0011",
+            "link": "album/22799",
+            "publisher": {
+                "link": "org/108",
+                "names": {
+                    "en": "Dangerous Mezashi Cat",
+                    "ja": "でんじゃらす・めざし・きゃっと"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Weiβ Ritter",
+                "ja": "ヴァイス・リッター",
+                "ja-latn": "Weiβ Ritter"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/33077",
+            "publisher": {
+                "link": "org/1090",
+                "names": {
+                    "en": "Basser'S",
+                    "ja": "Basser'S"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Wind Ripper",
+                "ja": "Wind Ripper",
+                "ja-latn": "Wind Ripper"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/23994",
+            "publisher": {
+                "names": {
+                    "en": "Ash"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "WONDER LAND",
+                "ja": "WONDER LAND",
+                "ja-latn": "WONDER LAND"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LCCD-0004",
+            "link": "album/23222",
+            "publisher": {
+                "names": {
+                    "en": "Lolita Comp Records"
+                }
+            },
+            "release_date": "2010-12-31",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yose Schranz Wars",
+                "ja": "妖精酒乱大戦",
+                "ja-latn": "Yose Schranz Wars"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "YUCD-001",
+            "link": "album/22981",
+            "publisher": {
+                "link": "org/432",
+                "names": {
+                    "en": "SKETCH UP! Recordings",
+                    "ja": "SKETCH UP! Recordings"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "yukaccoEP",
+                "ja": "yukaccoEP",
+                "ja-latn": "yukaccoEP"
+            }
+        },
+        {
+            "album_type": "anime",
+            "catalog": "DMCS-00019",
+            "link": "album/23919",
+            "publisher": {
+                "link": "org/22",
+                "names": {
+                    "en": "Pony Canyon",
+                    "ja": "株式会社ポニーキャニオン"
+                }
+            },
+            "release_date": "2010-12-29",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yumekui Merry x IOSYS Yume to Utsutsu to Hatsuyume to ~Character Songs & Remixes~",
+                "ja": "「夢喰いメリー」×IOSYS 幻界と現界と初夢と ～Character Songs & Remixes～",
+                "ja-latn": "Yumekui Merry x IOSYS Yume to Utsutsu to Hatsuyume to ~Character Songs & Remixes~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "JBCD-0009",
+            "link": "album/27967",
+            "publisher": {
+                "link": "org/341",
+                "names": {
+                    "en": "J&B",
+                    "ja": "J&B"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yuukan Alice no Mousou Ver1.1",
+                "ja": "有閑アリスの妄想ver1.1",
+                "ja-latn": "Yuukan Alice no Mousou Ver1.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ECPR-0003",
+            "link": "album/22678",
+            "publisher": {
+                "link": "org/442",
+                "names": {
+                    "en": "<echo>PROJECT",
+                    "ja": "<echo>PROJECT"
+                }
+            },
+            "release_date": "2010-12-30",
+            "release_type": "New Release",
+            "titles": {
+                "en": "[rosée]",
+                "ja": "[rosée]",
+                "ja-latn": "[rosée]"
+            }
+        }
+    ],
+    "startdate": "2010-12-28",
+    "vgmdb_link": "http://vgmdb.net/event/98?perpage=99999"
+}

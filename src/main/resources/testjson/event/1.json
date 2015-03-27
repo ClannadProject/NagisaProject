@@ -1,0 +1,3234 @@
+{
+    "enddate": "2007-08-18",
+    "link": "event/1",
+    "name": "Comic Market 72",
+    "notes": "The semiannual Comic Market Doujin Fair in Tokyo, where a huge amount of doujin material is released. Some companies also participate in this event with convention-exclusive goods. Official website: http://www.comiket.co.jp/",
+    "releases": [
+        {
+            "album_type": "doujin",
+            "catalog": "KKYS-0001",
+            "link": "album/9252",
+            "publisher": {
+                "link": "org/339",
+                "names": {
+                    "en": "Kokuyasou",
+                    "ja": "黒夜葬"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "-Gothic-",
+                "ja": "-Gothic-",
+                "ja-latn": "-Gothic-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0018",
+            "link": "album/6434",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "5th TAMUSIC Concert ~Key Compilation~",
+                "ja": "第５回ＴＡＭＵＳＩＣコンサート　～key編～",
+                "ja-latn": "5th TAMUSIC Concert ~key-hen~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0019",
+            "link": "album/6725",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "5th TAMUSIC Concert ~Touhou Compilation~",
+                "ja": "第５回ＴＡＭＵＳＩＣコンサート　～東方編～",
+                "ja-latn": "5th TAMUSIC Concert ~Touhou-hen~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SHCD-0009",
+            "link": "album/6018",
+            "publisher": {
+                "link": "org/469",
+                "names": {
+                    "en": "Straw Hat",
+                    "ja": "Straw Hat"
+                }
+            },
+            "release_date": "2007-08-18",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ACE COMBAT RESPECT 2",
+                "ja": "ACE COMBAT RESPECT 2",
+                "ja-latn": "ACE COMBAT RESPECT 2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/8944",
+            "publisher": {
+                "link": "org/564",
+                "names": {
+                    "en": "S.B.S.P",
+                    "ja": "S.B.S.P"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Acoustic Air",
+                "ja": "Acoustic Air",
+                "ja-latn": "Acoustic Air"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WDCD-0029",
+            "link": "album/4929",
+            "publisher": {
+                "link": "org/134",
+                "names": {
+                    "en": "WOODSOFT",
+                    "ja": "WOODSOFT"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "AGES",
+                "ja": "エイジス",
+                "ja-latn": "AGES"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0020",
+            "link": "album/6633",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "AIR Collab CD - Shoki Sakuhinshuu",
+                "ja": "AirコラボCD 初期作品集",
+                "ja-latn": "AIR Collab CD - Shoki Sakuhinshuu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DLT-0002",
+            "link": "album/5135",
+            "publisher": {
+                "names": {
+                    "en": "project-Delta"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "AIR MAN GA TAOSENAI",
+                "ja": "エアーマンが倒せない",
+                "ja-latn": "AIR MAN GA TAOSENAI"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SACD-0001",
+            "link": "album/11630",
+            "publisher": {
+                "link": "org/276",
+                "names": {
+                    "en": "SYNC.ART'S",
+                    "ja": "SYNC.ART'S"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ALTERNATIVE 200708",
+                "ja": "ALTERNATIVE 200708",
+                "ja-latn": "ALTERNATIVE 200708"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "IK-03",
+            "link": "album/28166",
+            "publisher": {
+                "link": "org/349",
+                "names": {
+                    "en": "Innocent Key",
+                    "ja": "Innocent Key"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Ani☆Nabe",
+                "ja": "あに☆なべ ～もってけ！あにそん～",
+                "ja-latn": "Ani☆Nabe"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/5960",
+            "publisher": {
+                "link": "org/316",
+                "names": {
+                    "en": "syuryougonjinsyu",
+                    "ja": "首楞厳神呪"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Arabure",
+                "ja": "あらぶれ",
+                "ja-latn": "Arabure"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WAVE-0021~3",
+            "link": "album/5863",
+            "publisher": {
+                "link": "org/278",
+                "names": {
+                    "en": "WAVE",
+                    "ja": "WAVE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ARCHIV-EAST",
+                "ja": "ARCHIV-EAST",
+                "ja-latn": "ARCHIV-EAST"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KNCP-001",
+            "link": "album/17779",
+            "publisher": {
+                "names": {
+                    "en": "kidnap company"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Audition BRE@KER",
+                "ja": "オーディションブレイカー",
+                "ja-latn": "Audition BRE@KER"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "AXL-0007",
+            "link": "album/13906",
+            "publisher": {
+                "link": "org/479",
+                "names": {
+                    "en": "AXL",
+                    "ja": "AXL"
+                }
+            },
+            "release_date": "2007-08-24",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "AXL Vocal Collection ~Fullthrottle~",
+                "ja": "AXLボーカル集『Full throttle』",
+                "ja-latn": "AXL Vocal Collection ~Fullthrottle~"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ICDD-0003",
+            "link": "album/10571",
+            "publisher": {
+                "link": "org/143",
+                "names": {
+                    "en": "I.N.T",
+                    "ja": "I.N.T"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "BLOB",
+                "ja": "BLOB",
+                "ja-latn": "BLOB"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "BRCD-0001",
+            "link": "album/5972",
+            "publisher": {
+                "names": {
+                    "en": "SEPIA-SIS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Brain",
+                "ja": "Brain",
+                "ja-latn": "Brain"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "CTRN-0002",
+            "link": "album/6999",
+            "publisher": {
+                "names": {
+                    "en": "Studio Dual Moon, Citronette"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "BREEZE",
+                "ja": "BREEZE",
+                "ja-latn": "BREEZE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SHM-0015",
+            "link": "album/12180",
+            "publisher": {
+                "link": "org/210",
+                "names": {
+                    "en": "Seventh-Heaven Maxion",
+                    "ja": "セブンスヘブンMAXION"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Breeze to Gale",
+                "ja": "Breeze to Gale",
+                "ja-latn": "Breeze to Gale"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "ARIA-0047",
+            "link": "album/8206",
+            "publisher": {
+                "names": {
+                    "en": "ARIA"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Brighter than Dawning Blue Drama CD \"Summer Festival Ticket\"",
+                "ja": "『夜明け前より瑠璃色な』 夏コミセット2007 ドラマCD 「夏祭りチケット」",
+                "ja-latn": "Brighter than Dawning Blue Drama CD \"Summer Festival Ticket\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "EGSM-0002",
+            "link": "album/16338",
+            "publisher": {
+                "link": "org/683",
+                "names": {
+                    "en": "EasyGameStation",
+                    "ja": "EasyGameStation"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Chantelise Original Sound Tracks",
+                "ja": "シャンテリーゼ オリジナルサウンドトラック",
+                "ja-latn": "Chantelise Original Sound Tracks"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ZIZZC-0701",
+            "link": "album/6416",
+            "publisher": {
+                "link": "org/811",
+                "names": {
+                    "en": "Amnicola",
+                    "ja": "アムニコラ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Chaosic Rune ZIZZ SONG COLLECTION",
+                "ja": "カオシックルーン ZIZZ SONG COLLECTION",
+                "ja-latn": "Chaosic Rune ZIZZ SONG COLLECTION"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARCD0020",
+            "link": "album/5824",
+            "publisher": {
+                "link": "org/212",
+                "names": {
+                    "en": "Alstroemeria Records",
+                    "ja": "アルストロメリアレコーズ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Circuit Breakers",
+                "ja": "Circuit Breakers",
+                "ja-latn": "Circuit Breakers"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "CLANNAD-0005",
+            "link": "album/32072",
+            "publisher": {
+                "link": "org/250",
+                "names": {
+                    "en": "Frontier Works",
+                    "ja": "株式会社フロンティアワークス"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CLANNAD The Movie Image Song \"Yakusoku\"",
+                "ja": "劇場版『CLANNAD』約束",
+                "ja-latn": "CLANNAD The Movie Image Song \"Yakusoku\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MSTCD002",
+            "link": "album/10577",
+            "publisher": {
+                "link": "org/388",
+                "names": {
+                    "en": "MOB SQUAD TOKYO",
+                    "ja": "MOB SQUAD TOKYO"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CORE-O-RAMA VOL.2",
+                "ja": "CORE-O-RAMA VOL.2",
+                "ja-latn": "CORE-O-RAMA VOL.2"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "CZFCD-001",
+            "link": "album/5201",
+            "publisher": {
+                "link": "org/201",
+                "names": {
+                    "en": "CROW'SCLAW",
+                    "ja": "CROW'SCLAW"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "CROWZFEST",
+                "ja": "CROWZFEST",
+                "ja-latn": "CROWZFEST"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CK-0006P",
+            "link": "album/6513",
+            "publisher": {
+                "link": "org/211",
+                "names": {
+                    "en": "CYTOKINE",
+                    "ja": "CYTOKINE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Cubical another perspective has violated systematically",
+                "ja": "Cubical another perspective has violated systematically",
+                "ja-latn": "Cubical another perspective has violated systematically"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/39982",
+            "publisher": {
+                "link": "org/1176",
+                "names": {
+                    "en": "DustStar",
+                    "ja": "DustStar"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "D.S.2",
+                "ja": "D.S.2",
+                "ja-latn": "D.S.2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DVSP-0041",
+            "link": "album/6592",
+            "publisher": {
+                "link": "org/331",
+                "names": {
+                    "en": "Diverse System",
+                    "ja": "Diverse System"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "D12",
+                "ja": "D12",
+                "ja-latn": "D12"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DVSP-0042",
+            "link": "album/5991",
+            "publisher": {
+                "link": "org/331",
+                "names": {
+                    "en": "Diverse System",
+                    "ja": "Diverse System"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Diverse vs 8bit 2",
+                "ja": "Diverse vs 8bit 2",
+                "ja-latn": "Diverse vs 8bit 2"
+            }
+        },
+        {
+            "album_type": "drama",
+            "catalog": "FCOM-0003",
+            "link": "album/13688",
+            "publisher": {
+                "link": "org/250",
+                "names": {
+                    "en": "Frontier Works",
+                    "ja": "株式会社フロンティアワークス"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DJCD SP Radio de iM@SHOW! Summer 2007 Special Thanks Chapter! And Who said \"Its Not Glitzy\"?",
+                "ja": "DJCD SP　ラジオdeアイマＳＨＯＷ！ 2007年夏の感謝祭特別編！と言っておけばいいんじゃない？",
+                "ja-latn": "DJCD SP Radio de Aima SHOW! 2007-nen Natsu no Kanshasai Tokubetsu-hen! to Itte Okeba iin janai?"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ARCD0019",
+            "link": "album/5734",
+            "publisher": {
+                "link": "org/212",
+                "names": {
+                    "en": "Alstroemeria Records",
+                    "ja": "アルストロメリアレコーズ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dolls",
+                "ja": "Dolls",
+                "ja-latn": "Dolls"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "AMX-00411",
+            "link": "album/28302",
+            "publisher": {
+                "names": {
+                    "en": "Barbarian On The Groove / Astronotes"
+                }
+            },
+            "release_date": "2007-08",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Dragon Valley ~Arco-Iris~",
+                "ja": "Dragon Valley ~Arco-Iris~",
+                "ja-latn": "Dragon Valley ~Arco-Iris~"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "AATM-001",
+            "link": "album/47105",
+            "publisher": {
+                "link": "org/398",
+                "names": {
+                    "en": "TYPE-MOON",
+                    "ja": "TYPE-MOON"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "DRAMA CD ALL AROUND TYPE-MOON",
+                "ja": "DRAMA CD ALL AROUND TYPE-MOON",
+                "ja-latn": "DRAMA CD ALL AROUND TYPE-MOON"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CVCD-0003",
+            "link": "album/15597",
+            "publisher": {
+                "link": "org/424",
+                "names": {
+                    "en": "Crazy Voltage",
+                    "ja": "Crazy Voltage"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Drawing the Spell",
+                "ja": "Drawing the Spell",
+                "ja-latn": "Drawing the Spell"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "GNZT-1011",
+            "link": "album/5927",
+            "publisher": {
+                "link": "org/12",
+                "names": {
+                    "en": "Geneon Entertainment",
+                    "ja": "ジェネオンエンタテインメント株式会社"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fate/Extended Play",
+                "ja": "Fate/Extended Play",
+                "ja-latn": "Fate/Extended Play"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "CPDA-10050",
+            "link": "album/15885",
+            "publisher": {
+                "link": "org/408",
+                "names": {
+                    "en": "Capcom",
+                    "ja": "株式会社カプコン"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fate/tiger colosseum mini soundtracck",
+                "ja": "フェイト/タイガーころしあむ ミニ・サウンドトラック",
+                "ja-latn": "Fate/tiger colosseum mini soundtracck"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FMLL-01",
+            "link": "album/10590",
+            "publisher": {
+                "link": "org/361",
+                "names": {
+                    "en": "Laver's Lab",
+                    "ja": "Laver's Lab"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "FF III Tone Magician",
+                "ja": "FF III 音魔道士",
+                "ja-latn": "FF III Otomadoushi"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "ele-a003",
+            "link": "album/8270",
+            "publisher": {
+                "names": {
+                    "en": "Escu:de / Element"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Figu@Mate Soundtrack",
+                "ja": "ふぃぎゅ＠メイト サウンドトラック",
+                "ja-latn": "Figu@Mate Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/19232",
+            "publisher": {
+                "link": "org/539",
+                "names": {
+                    "en": "switchworks",
+                    "ja": "switchworks"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Forbidden Gotta",
+                "ja": "Forbidden Gotta",
+                "ja-latn": "Forbidden Gotta"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AECD-009",
+            "link": "album/6897",
+            "publisher": {
+                "link": "org/101",
+                "names": {
+                    "en": "ALiCE'S EMOTiON",
+                    "ja": "ALiCE'S EMOTiON"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Forest of Crimson",
+                "ja": "紅ノ樹海 -forest of crimson-",
+                "ja-latn": "Forest of Crimson"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/28506",
+            "publisher": {
+                "link": "org/355",
+                "names": {
+                    "en": "Mohican Sandbag",
+                    "ja": "モヒカンサンドバッグ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Full Materials Ver 1.0",
+                "ja": "Full Materials Ver 1.0",
+                "ja-latn": "Full Materials Ver 1.0"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "AXL-0008",
+            "link": "album/13907",
+            "publisher": {
+                "link": "org/479",
+                "names": {
+                    "en": "AXL",
+                    "ja": "AXL"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Fullthrottle SPECIAL DISC",
+                "ja": "Fullthrottle スペシャルディスク 会場購入特典",
+                "ja-latn": "Fullthrottle SPECIAL DISC"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PPKN-0006",
+            "link": "album/12511",
+            "publisher": {
+                "link": "org/217",
+                "names": {
+                    "en": "PopKorn",
+                    "ja": "PopKorn"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Gakki Seikatsu. ~Summer 2007 Edition~",
+                "ja": "楽器生活。〜2007夏号〜",
+                "ja-latn": "Gakki Seikatsu. ~Summer 2007 Edition~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LGCD-0004",
+            "link": "album/10957",
+            "publisher": {
+                "link": "org/158",
+                "names": {
+                    "en": "Lost Garden",
+                    "ja": "Lost Garden"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Genbushiki -The wind has shifted to East-",
+                "ja": "幻舞式 -The wind has shifted to East-",
+                "ja-latn": "Genbushiki -The wind has shifted to East-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/12051",
+            "publisher": {
+                "names": {
+                    "en": "Disaster"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Girl's Portlait -Preview- WILD ARMS 2nd IGNITION Arrange Album",
+                "ja": "Girl's Portlait -Preview- WILD ARMS 2nd IGNITION Arrange Album",
+                "ja-latn": "Girl's Portlait -Preview- WILD ARMS 2nd IGNITION Arrange Album"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TRBL-0001",
+            "link": "album/14894",
+            "publisher": {
+                "link": "org/343",
+                "names": {
+                    "en": "Tribullets",
+                    "ja": "Tribullets"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Go Berzerk!",
+                "ja": "Go Berzerk!",
+                "ja-latn": "Go Berzerk!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "OVER REV 006",
+            "link": "album/9929",
+            "publisher": {
+                "names": {
+                    "en": "Gungnir over rev"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Haitoku no Majo 'Apostate pythoness' Original Sound Track",
+                "ja": "背徳の灰女 'Apostate pythoness' Original Sound Track",
+                "ja-latn": "Haitoku no Majo 'Apostate pythoness' Original Sound Track"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SC-0001",
+            "link": "album/11692",
+            "publisher": {
+                "link": "org/193",
+                "names": {
+                    "en": "Souwer cherry",
+                    "ja": "Souwer cherry"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hajimete.",
+                "ja": "はじめて。",
+                "ja-latn": "Hajimete."
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "TEHP-0001",
+            "link": "album/8396",
+            "publisher": {
+                "names": {
+                    "en": "Terios"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Happy Princess Opening Theme Song \"True fairy tale from happy princess\"",
+                "ja": "Happy Princess Opening Theme Song \"True fairy tale from happy princess\"",
+                "ja-latn": "Happy Princess Opening Theme Song \"True fairy tale from happy princess\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/13124",
+            "publisher": {
+                "link": "org/247",
+                "names": {
+                    "en": "B.G.M.",
+                    "ja": "B.G.M."
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HappyBox preview",
+                "ja": "HappyBox preview",
+                "ja-latn": "HappyBox preview"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TANOCD-0008",
+            "link": "album/6429",
+            "publisher": {
+                "link": "org/380",
+                "names": {
+                    "en": "HARDCORE TANO*C",
+                    "ja": "HARDCORE TANO*C"
+                }
+            },
+            "release_date": "2007-08-31",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "HARDCORE SYNDROME",
+                "ja": "HARDCORE SYNDROME",
+                "ja-latn": "HARDCORE SYNDROME"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TOCD-0006",
+            "link": "album/18870",
+            "publisher": {
+                "link": "org/216",
+                "names": {
+                    "en": "C-CLAYS",
+                    "ja": "C-CLAYS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HARUKA",
+                "ja": "遙 ～HARUKA～",
+                "ja-latn": "HARUKA"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AECD-008",
+            "link": "album/6896",
+            "publisher": {
+                "link": "org/101",
+                "names": {
+                    "en": "ALiCE'S EMOTiON",
+                    "ja": "ALiCE'S EMOTiON"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HeartFull Beat!",
+                "ja": "HeartFull Beat!",
+                "ja-latn": "HeartFull Beat!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DMCD-0002",
+            "link": "album/5231",
+            "publisher": {
+                "link": "org/108",
+                "names": {
+                    "en": "Dangerous Mezashi Cat",
+                    "ja": "でんじゃらす・めざし・きゃっと"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HIGHSPEED ∇",
+                "ja": "ハイスピード ナブラ",
+                "ja-latn": "HIGHSPEED ∇"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "WFCD-007",
+            "link": "album/5049",
+            "publisher": {
+                "link": "org/1371",
+                "names": {
+                    "en": "WAYUTA",
+                    "ja": "株式会社WAYUTA"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Higurashi no Naku Koro ni Kai Meakashi-hen Ending Theme \"you\"",
+                "ja": "ひぐらしのなく頃に解 目明し編 エンディングテーマ you",
+                "ja-latn": "Higurashi no Naku Koro ni Kai Meakashi-hen Ending Theme \"you\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0016",
+            "link": "album/6438",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Higurashi wo Hiku Koro ni - Otomawashi-hen",
+                "ja": "ひぐらしをひく頃に 音廻し編",
+                "ja-latn": "Higurashi wo Hiku Koro ni - Otomawashi-hen"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "CHOM-0023",
+            "link": "album/6800",
+            "publisher": {
+                "link": "org/1013",
+                "names": {
+                    "en": "Chom-Studio",
+                    "ja": "ちょむ工房"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hizashi no Compass",
+                "ja": "陽射しのコンパス",
+                "ja-latn": "Hizashi no Compass"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "luvcd-017",
+            "link": "album/10385",
+            "publisher": {
+                "link": "org/617",
+                "names": {
+                    "en": "luvtrax",
+                    "ja": "luvtrax"
+                }
+            },
+            "release_date": "2007-08-19",
+            "release_type": "New Release",
+            "titles": {
+                "en": "HOOVER MORATORIUM",
+                "ja": "HOOVER MORATORIUM",
+                "ja-latn": "HOOVER MORATORIUM"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "OSLA-0001",
+            "link": "album/5958",
+            "publisher": {
+                "names": {
+                    "en": "octet*"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Horizon Blue*",
+                "ja": "ホリゾンブルー",
+                "ja-latn": "Horizon Blue*"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HQLA-0001",
+            "link": "album/7538",
+            "publisher": {
+                "names": {
+                    "en": "Head Quarter"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.1 Kotone Kusuhara",
+                "ja": "ほしフル ～星藤学園天文同好会～ キャラクターシングル vol.1 楠原琴音 「星空の夢」",
+                "ja-latn": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.1 Kotone Kusuhara"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HQLA-0002",
+            "link": "album/7539",
+            "publisher": {
+                "names": {
+                    "en": "Head Quarter"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.2 Mizuki Takatsuka",
+                "ja": "ほしフル ～星藤学園天文同好会～ キャラクターシングル vol.2 高塚水季 「ボクたちの季節」",
+                "ja-latn": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.2 Mizuki Takatsuka"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HQLA-0003",
+            "link": "album/7540",
+            "publisher": {
+                "names": {
+                    "en": "Head Quarter"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.3 Ruka Hoshikawa",
+                "ja": "ほしフル ～星藤学園天文同好会～ キャラクターシングル vol.3 星川瑠歌 「Meteoric shower」",
+                "ja-latn": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.3 Ruka Hoshikawa"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HQLA-0004",
+            "link": "album/7541",
+            "publisher": {
+                "names": {
+                    "en": "Head Quarter"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.4 Hinata Futaba",
+                "ja": "ほしフル ～星藤学園天文同好会～ キャラクターシングル vol.4 双葉陽 「愛という名の星座」",
+                "ja-latn": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.4 Hinata Futaba"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HQLA-0005",
+            "link": "album/7542",
+            "publisher": {
+                "names": {
+                    "en": "Head Quarter"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.5 Ryumi Suzuki",
+                "ja": "ほしフル ～星藤学園天文同好会～ キャラクターシングル vol.5 鈴木流史 「Starry heavens」",
+                "ja-latn": "Hoshiful ~Seitou Academy Astronomy Club~ Character Single Vol.5 Ryumi Suzuki"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GIRL-0009~10",
+            "link": "album/27782",
+            "publisher": {
+                "link": "org/1039",
+                "names": {
+                    "en": "shoujo byou",
+                    "ja": "少女病"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "I've Respect arrange vocal album - unify",
+                "ja": "I've Respect arrange vocal album - unify",
+                "ja-latn": "I've Respect arrange vocal album - unify"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SICD-019",
+            "link": "album/6303",
+            "publisher": {
+                "link": "org/344",
+                "names": {
+                    "en": "Iemitsu.Productions",
+                    "ja": "Iemitsu.Productions"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "IA-STYLE/B1",
+                "ja": "IA-STYLE/B1",
+                "ja-latn": "IA-STYLE/B1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SHCD-0008",
+            "link": "album/7083",
+            "publisher": {
+                "link": "org/469",
+                "names": {
+                    "en": "Straw Hat",
+                    "ja": "Straw Hat"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ICO Respect Arrange Album",
+                "ja": "ICO Respect Arrange Album",
+                "ja-latn": "ICO Respect Arrange Album"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "CHIS-0708",
+            "link": "album/8209",
+            "publisher": {
+                "names": {
+                    "en": "Chien"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Iinchou wa Shounin Sezu! Arrange Soundtrack ~IINCHO FEVER~",
+                "ja": "委員長は承認せず！アレンジサントラ IINCHO FEVER",
+                "ja-latn": "Iinchou wa Shounin Sezu! Arrange Soundtrack ~IINCHO FEVER~"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "BHCD09",
+            "link": "album/10355",
+            "publisher": {
+                "link": "org/426",
+                "names": {
+                    "en": "Blasterhead",
+                    "ja": "Blasterhead"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "into the sky",
+                "ja": "into the sky",
+                "ja-latn": "into the sky"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/29895",
+            "publisher": {
+                "link": "org/581",
+                "names": {
+                    "en": "Byou no Hito",
+                    "ja": "鋲の人"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Inu wa Kami",
+                "ja": "往ぬは神",
+                "ja-latn": "Inu wa Kami"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "CTS-0001ST",
+            "link": "album/4837",
+            "publisher": {
+                "names": {
+                    "en": "Caitsith"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Iroha Original Sound Track",
+                "ja": "いろは 秋の夕日に影ふみを　オリジナルサウンドトラック",
+                "ja-latn": "Iroha Original Sound Track"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "JMCD0021~2",
+            "link": "album/40533",
+            "publisher": {
+                "link": "org/1213",
+                "names": {
+                    "en": "J.M.'s Home",
+                    "ja": "J.M.'s Home"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "JMMIDI BEST OF BEST HITS",
+                "ja": "JMMIDI BEST OF BEST HITS",
+                "ja-latn": "JMMIDI BEST OF BEST HITS"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/15709",
+            "publisher": {
+                "link": "org/379",
+                "names": {
+                    "en": "MIZUNOE-WORKS",
+                    "ja": "みずのえわーくす"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kagayake! 5",
+                "ja": "輝け！５",
+                "ja-latn": "Kagayake! 5"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GCFT-0039",
+            "link": "album/12440",
+            "publisher": {
+                "link": "org/163",
+                "names": {
+                    "en": "Golden City Factory",
+                    "ja": "Golden City Factory"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kappa Nitori's Summer Vacation -waterimp in summervacation-",
+                "ja": "河童のにとりと夏休み -waterimp in summervacation-",
+                "ja-latn": "Kappa Nitori's Summer Vacation -waterimp in summervacation-"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "EMCE-010",
+            "link": "album/30100",
+            "publisher": {
+                "link": "org/936",
+                "names": {
+                    "en": "Eterna Musik",
+                    "ja": "えてるなむじーく"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Keitai Sound",
+                "ja": "けーたいさうんど",
+                "ja-latn": "Keitai Sound"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SCDA-1004",
+            "link": "album/11521",
+            "publisher": {
+                "link": "org/438",
+                "names": {
+                    "en": "Sonic Hispeed Omega",
+                    "ja": "Sonic Hispeed Omega"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Kuusokuzeshiki Original Sound Track ~ TOHO TEMPEST EXTRA",
+                "ja": "空即是紫記音源録～TOHO TEMPEST EXTRA",
+                "ja-latn": "Kuusokuzeshiki Original Sound Track ~ TOHO TEMPEST EXTRA"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HSCD-0006",
+            "link": "album/5128",
+            "publisher": {
+                "link": "org/948",
+                "names": {
+                    "en": "Hellion Sounds",
+                    "ja": "Hellion Sounds"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Legacy",
+                "ja": "Legacy",
+                "ja-latn": "Legacy"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LKD-006",
+            "link": "album/5287",
+            "publisher": {
+                "names": {
+                    "en": "Lukar/dow"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "LEGEND IV -Tower-",
+                "ja": "LEGEND IV -Tower-",
+                "ja-latn": "LEGEND IV -Tower-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MBCD-0012",
+            "link": "album/9937",
+            "publisher": {
+                "link": "org/109",
+                "names": {
+                    "en": "mistbell",
+                    "ja": "mistbell"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Light Blue",
+                "ja": "Light Blue",
+                "ja-latn": "Light Blue"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FLCD-001",
+            "link": "album/43735",
+            "publisher": {
+                "link": "org/853",
+                "names": {
+                    "en": "Floating Cloud",
+                    "ja": "Floating Cloud"
+                }
+            },
+            "release_date": "2007-08-19",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Linkshell de Aimashou",
+                "ja": "リンクシェルで会いましょう",
+                "ja-latn": "Linkshell de Aimashou"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DLMS-0001",
+            "link": "album/5090",
+            "publisher": {
+                "link": "org/427",
+                "names": {
+                    "en": "Delights music",
+                    "ja": "Delights music"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Linkup original side trance & progressive vol.1",
+                "ja": "Linkup original side trance & progressive vol.1",
+                "ja-latn": "Linkup original side trance & progressive vol.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "DLMS-0002",
+            "link": "album/5091",
+            "publisher": {
+                "link": "org/427",
+                "names": {
+                    "en": "Delights music",
+                    "ja": "Delights music"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Linkup remix side trance & progressive vol.1",
+                "ja": "Linkup remix side trance & progressive vol.1",
+                "ja-latn": "Linkup remix side trance & progressive vol.1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MLCD-0008/LAG-0002",
+            "link": "album/18613",
+            "publisher": {
+                "names": {
+                    "en": "tieLeaf"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Lip-Aura ~The World Symbolized by These Hands~",
+                "ja": "Lip-Aura ～その手が象る世界～",
+                "ja-latn": "Lip-Aura ~Sono Te ga Katadoru Sekai~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CTBR-0011",
+            "link": "album/11613",
+            "publisher": {
+                "link": "org/189",
+                "names": {
+                    "en": "CTBR",
+                    "ja": "シーティービーアール"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "LOVE",
+                "ja": "LOVE",
+                "ja-latn": "LOVE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "NMGM-0002",
+            "link": "album/14649",
+            "publisher": {
+                "names": {
+                    "en": "Neko no Mikan"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Lovers Again",
+                "ja": "らばーずあげいん",
+                "ja-latn": "Lovers Again"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "EMCA-0002",
+            "link": "album/6980",
+            "publisher": {
+                "link": "org/39",
+                "names": {
+                    "en": "EGG MUSIC",
+                    "ja": "エッグミュージック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Madou Monogatari Ongakukan RETURNS PLUS",
+                "ja": "魔導物語音楽館 RETURNS PLUS",
+                "ja-latn": "Madou Monogatari Ongakukan RETURNS PLUS"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "GCMD-1001",
+            "link": "album/14722",
+            "publisher": {
+                "names": {
+                    "en": "GONZO ROSSO"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Master of Epic Original Soundtrack",
+                "ja": "Master of Epic Original Soundtrack",
+                "ja-latn": "Master of Epic Original Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "49CD-0003",
+            "link": "album/9741",
+            "publisher": {
+                "link": "org/458",
+                "names": {
+                    "en": "CODE-49",
+                    "ja": "CODE-49"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "MEGA BEAT RUSH!!",
+                "ja": "MEGA BEAT RUSH!!",
+                "ja-latn": "MEGA BEAT RUSH!!"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WAVE-0024",
+            "link": "album/6255",
+            "publisher": {
+                "link": "org/278",
+                "names": {
+                    "en": "WAVE",
+                    "ja": "WAVE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "message",
+                "ja": "message",
+                "ja-latn": "message"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SRND-0701",
+            "link": "album/5112",
+            "publisher": {
+                "link": "org/279",
+                "names": {
+                    "en": "Serenade",
+                    "ja": "セレナーデ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "moonshine",
+                "ja": "moonshine",
+                "ja-latn": "moonshine"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SZCD-0002",
+            "link": "album/33007",
+            "publisher": {
+                "link": "org/991",
+                "names": {
+                    "en": "Shinzou Choukokuka",
+                    "ja": "神像彫刻家"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Mugen Gikyokushou ~ If.. you hope ~",
+                "ja": "夢幻戯曲抄 ～ If.. you hope ～",
+                "ja-latn": "Mugen Gikyokushou ~ If.. you hope ~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "XLPS-0012",
+            "link": "album/7075",
+            "publisher": {
+                "link": "org/215",
+                "names": {
+                    "en": "XL Project",
+                    "ja": "XL Project"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Multiple Far East",
+                "ja": "Multiple Far East",
+                "ja-latn": "Multiple Far East"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "ZIZZC-0702",
+            "link": "album/26135",
+            "publisher": {
+                "link": "org/811",
+                "names": {
+                    "en": "Amnicola",
+                    "ja": "アムニコラ"
+                }
+            },
+            "release_date": "2007-08-19",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Musk Ox no Yumegatari / Alaska Smile",
+                "ja": "ジャコウウシの夢語り / アラスカスマイル",
+                "ja-latn": "Musk Ox no Yumegatari / Alaska Smile"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "EFS-00002",
+            "link": "album/12532",
+            "publisher": {
+                "link": "org/447",
+                "names": {
+                    "en": "efs",
+                    "ja": "efs"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Mystic Heart",
+                "ja": "Mystic Heart",
+                "ja-latn": "Mystic Heart"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "SPUS-20920",
+            "link": "album/31678",
+            "publisher": {
+                "names": {
+                    "en": "UNiSONSHIFT"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Nanairo Theater★RADIO! - Nanatsuiro★Drops Special Drama CD",
+                "ja": "なないろシアター★RADIO！ ななついろ★ドロップス　スペシャルドラマCD",
+                "ja-latn": "Nanairo Theater★RADIO! - Nanatsuiro★Drops Special Drama CD"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "MNCA-9022",
+            "link": "album/14087",
+            "publisher": {
+                "names": {
+                    "en": "Mediaworks"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Nanatsuiro★Drops pure!! Radio Drama CD 'One Day During Summer Vacation'",
+                "ja": "ななついろ★ドロップス pure!! ラジオドラマCD「あるなつやすみのいちにち」",
+                "ja-latn": "Nanatsuiro★Drops pure!! Radio Drama CD 'One Day During Summer Vacation'"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "NS-005",
+            "link": "album/4551",
+            "publisher": {
+                "link": "org/291",
+                "names": {
+                    "en": "nanosounds",
+                    "ja": "nanosounds"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "NanoSweep.5",
+                "ja": "NanoSweep.5",
+                "ja-latn": "NanoSweep.5"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "N/A",
+            "link": "album/5756",
+            "publisher": {
+                "link": "org/353",
+                "names": {
+                    "en": "Cotton Software",
+                    "ja": "コットンソフト"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Natsumegu & Reconquista - Cotton Soundtrack CD",
+                "ja": "コットンサウンドトラックCD ナツメグ＆レコンキスタ",
+                "ja-latn": "Natsumegu & Reconquista - Cotton Soundtrack CD"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "NVGS-0115",
+            "link": "album/5840",
+            "publisher": {
+                "names": {
+                    "en": "Navel"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Navel Remixies Disc",
+                "ja": "「ネブ＊リスク」 Navel Remixies Disc",
+                "ja-latn": "Navel Remixies Disc"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SWCD-0039",
+            "link": "album/17810",
+            "publisher": {
+                "link": "org/477",
+                "names": {
+                    "en": "Silly Walker",
+                    "ja": "Silly Walker"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Nisekaijuutaku",
+                "ja": "ニセカイジュウタク",
+                "ja-latn": "Nisekaijuutaku"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "JPSCD-0002",
+            "link": "album/5095",
+            "publisher": {
+                "names": {
+                    "en": "JPS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Niðhöggr II",
+                "ja": "ニーズヘッグII",
+                "ja-latn": "Niðhöggr II"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SJVSC-0020",
+            "link": "album/9033",
+            "publisher": {
+                "link": "org/292",
+                "names": {
+                    "en": "SJV-SC",
+                    "ja": "SJV普及委員会"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "occulta - Touhou Project -Touhou Eiyashou- Arrange Music Lab.",
+                "ja": "occulta - Touhou Project -Touhou Eiyashou- Arrange Music Lab.",
+                "ja-latn": "occulta - Touhou Project -Touhou Eiyashou- Arrange Music Lab."
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "CFS-010ST",
+            "link": "album/4532",
+            "publisher": {
+                "names": {
+                    "en": "CUFFS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Oniichan Daisuki! ~LOVE? or LIKE?~ Soundtrack",
+                "ja": "おにいちゃん だぁいすき！ ～LOVE? or LIKE?～ サウンドトラック",
+                "ja-latn": "Oniichan Daisuki! ~LOVE? or LIKE?~ Soundtrack"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HKMP-OTO21",
+            "link": "album/8753",
+            "publisher": {
+                "link": "org/171",
+                "names": {
+                    "en": "Hachimitsu-Kumasan",
+                    "ja": "はちみつくまさん"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "OUT ~Maruhiro Music CD~",
+                "ja": "ＯＵＴ　〜○弘音楽ＣＤ〜",
+                "ja-latn": "OUT ~Maruhiro Music CD~"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "OVCD-04-05",
+            "link": "album/15899",
+            "publisher": {
+                "names": {
+                    "en": "OVERDRIVE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "OVERDRIVE Self Bootleg 01",
+                "ja": "オーバードライヴ・セルフブートレッグ01",
+                "ja-latn": "OVERDRIVE Self Bootleg 01"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/7056",
+            "publisher": {
+                "link": "org/235",
+                "names": {
+                    "en": "Kraster",
+                    "ja": "Kraster"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Prelude...",
+                "ja": "Prelude...",
+                "ja-latn": "Prelude..."
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FCDR-0708",
+            "link": "album/6554",
+            "publisher": {
+                "link": "org/997",
+                "names": {
+                    "en": "Firecracker",
+                    "ja": "Firecracker"
+                }
+            },
+            "release_date": "2007-08-18",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Preview 2007",
+                "ja": "Preview 2007 (Sonic Cyclical Constructions 2 preview edition)",
+                "ja-latn": "Preview 2007"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "PURPLE-CD010",
+            "link": "album/7545",
+            "publisher": {
+                "link": "org/1226",
+                "names": {
+                    "en": "Purple software",
+                    "ja": "Purple software"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Primitive Link – Lovable Colors",
+                "ja": "プリミティブリンク ボーカル集 「LOVABLE COLORS」",
+                "ja-latn": "Primitive Link – Lovable Colors"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "PU-007",
+            "link": "album/4709",
+            "publisher": {
+                "names": {
+                    "en": "Pulltop"
+                }
+            },
+            "release_date": "2007-08-24",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "PRINCESS WALTZ Drama CD Vol.2 ~an intermezzo~",
+                "ja": "PRINCESS WALTZ ドラマCD ～an intermezzo～",
+                "ja-latn": "PRINCESS WALTZ Drama CD Vol.2 ~an intermezzo~"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "PLT-0015M",
+            "link": "album/26195",
+            "publisher": {
+                "names": {
+                    "en": "Pajamas Soft"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Prism Ark Love² Maximum! ED Theme 'Smile Wind'",
+                "ja": "Smile wind プリズム・アーク らぶらぶマキシマム!EDテーマ",
+                "ja-latn": "Prism Ark Love² Maximum! ED Theme 'Smile Wind'"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "HBDC-029",
+            "link": "album/21268",
+            "publisher": {
+                "link": "org/6",
+                "names": {
+                    "en": "HOBiRECORDS",
+                    "ja": "ほびれこーど"
+                }
+            },
+            "release_date": "2007-08-24",
+            "release_type": "New Release",
+            "titles": {
+                "en": "PRISM ARK Rainbow Drama CD",
+                "ja": "PRISM ARK れいんぼ～☆ドラマCD",
+                "ja-latn": "PRISM ARK Rainbow Drama CD"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "@NERD-03",
+            "link": "album/10356",
+            "publisher": {
+                "link": "org/425",
+                "names": {
+                    "en": "AVSS",
+                    "ja": "AVSS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Privilege of Intersect Fractional.Vol.2",
+                "ja": "Privilege of Intersect Fractional.Vol.2",
+                "ja-latn": "Privilege of Intersect Fractional.Vol.2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KMNR-0001",
+            "link": "album/6323",
+            "publisher": {
+                "link": "org/282",
+                "names": {
+                    "en": "kemono records",
+                    "ja": "ケモノレコーズ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "PROJECT \"klonoa fan disc 3\" ~10th anniversary disc~",
+                "ja": "クロノアファンディスク３～風のクロノア 生誕１０周年記念ディスク～",
+                "ja-latn": "Klonoa Fan Disc 3 ~Kaze no Klonoa Seitan 10 Shuunen Kinen Disc~"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "DARKCD-0004",
+            "link": "album/8916",
+            "publisher": {
+                "link": "org/382",
+                "names": {
+                    "en": "Druggy's Acid RacK",
+                    "ja": "Druggy's Acid RacK"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Psychedelic Sensation",
+                "ja": "Psychedelic Sensation",
+                "ja-latn": "Psychedelic Sensation"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "GRWOC62",
+            "link": "album/4533",
+            "publisher": {
+                "link": "org/632",
+                "names": {
+                    "en": "light",
+                    "ja": "light"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "R.U.R.U.R Original Sound Track",
+                "ja": "R.U.R.U.R ～ル・ル・ル・ル～ このこのために、せめてきれいな星空をオリジナルサウンドトラック",
+                "ja-latn": "R.U.R.U.R Original Sound Track"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "EMCA-0001",
+            "link": "album/8450",
+            "publisher": {
+                "link": "org/39",
+                "names": {
+                    "en": "EGG MUSIC",
+                    "ja": "エッグミュージック"
+                }
+            },
+            "release_date": "2007-08-24",
+            "release_type": "Pre-release",
+            "titles": {
+                "en": "Rare Tracks / Tanaka, Katsumi",
+                "ja": "RARE TRACKS / 田中勝己",
+                "ja-latn": "Rare Tracks / Tanaka, Katsumi"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RPTL-003",
+            "link": "album/10930",
+            "publisher": {
+                "names": {
+                    "en": "Ripple Tale"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "re: ripple works re:collection album",
+                "ja": "re: ripple works re:collection album",
+                "ja-latn": "re: ripple works re:collection album"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "UNCD-0005",
+            "link": "album/8963",
+            "publisher": {
+                "names": {
+                    "en": "UNIONEST.NET"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Real Cadenza",
+                "ja": "りあるかでんつぁ",
+                "ja-latn": "Real Cadenza"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "XLPS-0013",
+            "link": "album/7447",
+            "publisher": {
+                "link": "org/215",
+                "names": {
+                    "en": "XL Project",
+                    "ja": "XL Project"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Rendezvous",
+                "ja": "Rendezvous",
+                "ja-latn": "Rendezvous"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "PPCD-0701",
+            "link": "album/5089",
+            "publisher": {
+                "link": "org/300",
+                "names": {
+                    "en": "PHOENIX Project",
+                    "ja": "PHOENIX Project"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Resolution Trigger",
+                "ja": "Resolution Trigger",
+                "ja-latn": "Resolution Trigger"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LGCD0005",
+            "link": "album/5426",
+            "publisher": {
+                "link": "org/338",
+                "names": {
+                    "en": "Lunatic Gate",
+                    "ja": "Lunatic Gate"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Rock Beat 2",
+                "ja": "Rock Beat 2",
+                "ja-latn": "Rock Beat 2"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "CNCD-0005",
+            "link": "album/10562",
+            "publisher": {
+                "link": "org/352",
+                "names": {
+                    "en": "Conagusuri",
+                    "ja": "こなぐすり"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Rockman no Kusuri",
+                "ja": "ロックマンノクスリ",
+                "ja-latn": "Rockman no Kusuri"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "AQSH-0014",
+            "link": "album/11167",
+            "publisher": {
+                "link": "org/197",
+                "names": {
+                    "en": "Angelic Quasar",
+                    "ja": "Angelic Quasar"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sakura Nightmare",
+                "ja": "桜 Nightmare",
+                "ja-latn": "Sakura Nightmare"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SWCD-0038",
+            "link": "album/24124",
+            "publisher": {
+                "link": "org/477",
+                "names": {
+                    "en": "Silly Walker",
+                    "ja": "Silly Walker"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Satou Gashi",
+                "ja": "砂糖菓子",
+                "ja-latn": "Satou Gashi"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SECD-0002",
+            "link": "album/14808",
+            "publisher": {
+                "link": "org/1019",
+                "names": {
+                    "en": "Sound./Ecriture",
+                    "ja": "Sound./Ecriture"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Scherzo ~ Gensokyo Kaigyakukyoku",
+                "ja": "Scherzo～幻想郷諧謔曲",
+                "ja-latn": "Scherzo ~ Gensokyo Kaigyakukyoku"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/6437",
+            "publisher": {
+                "names": {
+                    "en": "Moon Drops"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Self-indulgence",
+                "ja": "Self-indulgence",
+                "ja-latn": "Self-indulgence"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0015",
+            "link": "album/6604",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Shin Touhou Komoriuta",
+                "ja": "新　東方子守唄",
+                "ja-latn": "Shin Touhou Komoriuta"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SICD-020",
+            "link": "album/11043",
+            "publisher": {
+                "link": "org/344",
+                "names": {
+                    "en": "Iemitsu.Productions",
+                    "ja": "Iemitsu.Productions"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SI-STYLE/B1",
+                "ja": "SI-STYLE/B1",
+                "ja-latn": "SI-STYLE/B1"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FLOG-0002",
+            "link": "album/31419",
+            "publisher": {
+                "link": "org/973",
+                "names": {
+                    "en": "Toki wo Kakeru Aitsu",
+                    "ja": "時をかけるアイツ"
+                }
+            },
+            "release_date": "2007-08-19",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Snowdreams",
+                "ja": "Snowdreams",
+                "ja-latn": "Snowdreams"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "LYCD-0013",
+            "link": "album/9973",
+            "publisher": {
+                "link": "org/468",
+                "names": {
+                    "en": "Sound Team Layer-0",
+                    "ja": "Sound Team Layer-0"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Sora he no tsubasa - Falcom Arrange Collection II",
+                "ja": "Sora he no tsubasa - Falcom Arrange Collection II",
+                "ja-latn": "Sora he no tsubasa - Falcom Arrange Collection II"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SDHC-0008",
+            "link": "album/11896",
+            "publisher": {
+                "link": "org/167",
+                "names": {
+                    "en": "SOUND HOLIC",
+                    "ja": "SOUND HOLIC"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "SOUND HOLIC MEETS TOHO ~Touhouteki Guren Rekkadan~",
+                "ja": "SOUND HOLIC MEETS TOHO ～東方的紅蓮烈火弾～",
+                "ja-latn": "SOUND HOLIC MEETS TOHO ~Touhouteki Guren Rekkadan~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "RLCD-0017",
+            "link": "album/20557",
+            "publisher": {
+                "link": "org/541",
+                "names": {
+                    "en": "Rolando",
+                    "ja": "ろうらん堂"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Suzumiya Haruka no Eien -Koi no Haruka Densetsu-",
+                "ja": "涼宮ハルカの永遠 -恋のハルカ伝説-",
+                "ja-latn": "Suzumiya Haruka no Eien -Koi no Haruka Densetsu-"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "OTR-03",
+            "link": "album/9071",
+            "publisher": {
+                "link": "org/425",
+                "names": {
+                    "en": "AVSS",
+                    "ja": "AVSS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Techno a la carte -Intersect Fractional.Vol.2-",
+                "ja": "Techno a la carte -Intersect Fractional.Vol.2-",
+                "ja-latn": "Techno a la carte -Intersect Fractional.Vol.2-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SWCD-0037",
+            "link": "album/17785",
+            "publisher": {
+                "link": "org/477",
+                "names": {
+                    "en": "Silly Walker",
+                    "ja": "Silly Walker"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TEI!TEI!TEI!",
+                "ja": "TEI!TEI!TEI!",
+                "ja-latn": "TEI!TEI!TEI!"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "PURPLE-012CD",
+            "link": "album/29675",
+            "publisher": {
+                "link": "org/1226",
+                "names": {
+                    "en": "Purple software",
+                    "ja": "Purple software"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tenshi no Tamago ~The Angel's Egg~ Original Sound Track",
+                "ja": "天使のたまご Original Sound Track",
+                "ja-latn": "Tenshi no Tamago ~The Angel's Egg~ Original Sound Track"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "TPCD-0025",
+            "link": "album/8510",
+            "publisher": {
+                "link": "org/261",
+                "names": {
+                    "en": "5/4TAKEPOD",
+                    "ja": "5/4TAKEPOD"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "The Absurd Outer Space",
+                "ja": "不条理から成る宇宙",
+                "ja-latn": "Fujouri kara Naru Uchuu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KMCD-0002",
+            "link": "album/34066",
+            "publisher": {
+                "link": "org/587",
+                "names": {
+                    "en": "KARMART",
+                    "ja": "KARMART"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "THE APARTMENT \"TOUHOU\"",
+                "ja": "THE APARTMENT \"TOUHOU\"",
+                "ja-latn": "THE APARTMENT \"TOUHOU\""
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "OP0772A",
+            "link": "album/29677",
+            "publisher": {
+                "names": {
+                    "en": "Front Wing"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "TimeLeap Theme Song Single & Boot Bench",
+                "ja": "タイムリープ 主題歌シングル＆ブートベンチ",
+                "ja-latn": "TimeLeap Theme Song Single & Boot Bench"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "N/A",
+            "link": "album/11080",
+            "publisher": {
+                "names": {
+                    "en": "C-CUBE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tit Groping CD",
+                "ja": "乳もみ CD",
+                "ja-latn": "Chichi momi CD"
+            }
+        },
+        {
+            "album_type": "bonus",
+            "catalog": "TH2V-0003",
+            "link": "album/6920",
+            "publisher": {
+                "link": "org/250",
+                "names": {
+                    "en": "Frontier Works",
+                    "ja": "株式会社フロンティアワークス"
+                }
+            },
+            "release_date": "2007-08-19",
+            "release_type": "New Release",
+            "titles": {
+                "en": "ToHeart2 OVA Comic Market 72 Limited CD Konotama2",
+                "ja": "このみと環の夏はやっぱり水着であります！略して「このたま2」",
+                "ja-latn": "Konomi to Tamaki no Natsu wa Yappari Mizugi de Arimasu! Ryakushite \"Konotama2\""
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "KMCB-011",
+            "link": "album/10177",
+            "publisher": {
+                "names": {
+                    "en": "Key Music"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Kenbunroku Vol.5",
+                "ja": "東方見聞録　五ノ巻",
+                "ja-latn": "Toho Kenbunroku Vol.5"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YZCD-0004",
+            "link": "album/11664",
+            "publisher": {
+                "link": "org/190",
+                "names": {
+                    "en": "Yellow Zebra",
+                    "ja": "Yellow Zebra"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toho Splash!",
+                "ja": "東方スプラッシュ！",
+                "ja-latn": "Toho Splash!"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "SJCD-0708",
+            "link": "album/9751",
+            "publisher": {
+                "names": {
+                    "en": "SWORD OF JUSTICE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Toshinori Hiramatsu & Fellows SWORD OF JUSTICE",
+                "ja": "Toshinori Hiramatsu & Fellows SWORD OF JUSTICE",
+                "ja-latn": "Toshinori Hiramatsu & Fellows SWORD OF JUSTICE"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "OEMM-0110",
+            "link": "album/34542",
+            "publisher": {
+                "link": "org/241",
+                "names": {
+                    "en": "ooedo Express mail",
+                    "ja": "大江戸宅急便"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Biyori",
+                "ja": "東方日和",
+                "ja-latn": "Touhou Biyori"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HKMP-OTO20",
+            "link": "album/8741",
+            "publisher": {
+                "link": "org/171",
+                "names": {
+                    "en": "Hachimitsu-Kumasan",
+                    "ja": "はちみつくまさん"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Boss Arrange Album ~Touhou Soccer~",
+                "ja": "東方ボスアレンジアルバム～東方サッカー～",
+                "ja-latn": "Touhou Boss Arrange Album ~Touhou Soccer~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "ZERO-0006",
+            "link": "album/12421",
+            "publisher": {
+                "link": "org/214",
+                "names": {
+                    "en": "Zeroshiki's House",
+                    "ja": "っ´Д｀)っゼロ式の家。"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Hard Rock -visual cross- ~Kyouki no Ai ni Idakareta Monotachi~",
+                "ja": "東方ハードロック　-visual cross-　～叫気の愛に抱かれた者達～",
+                "ja-latn": "Touhou Hard Rock -visual cross- ~Kyouki no Ai ni Idakareta Monotachi~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MKTD-0701",
+            "link": "album/16752",
+            "publisher": {
+                "link": "org/231",
+                "names": {
+                    "en": "MAIKAZE",
+                    "ja": "舞風"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Kasou Kouduki",
+                "ja": "東方華想神月",
+                "ja-latn": "Touhou Kasou Kouduki"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "YZRE-0002",
+            "link": "album/43470",
+            "publisher": {
+                "link": "org/190",
+                "names": {
+                    "en": "Yellow Zebra",
+                    "ja": "Yellow Zebra"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Kuuensou",
+                "ja": "東方空演奏",
+                "ja-latn": "Touhou Kuuensou"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "GCFT-0038",
+            "link": "album/6271",
+            "publisher": {
+                "link": "org/163",
+                "names": {
+                    "en": "Golden City Factory",
+                    "ja": "Golden City Factory"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Midnight MAXIMUMTUNE Gaiden - Oozora Kyoukai -skyborder-",
+                "ja": "東方ミッドナイト MAXIMUMTUNE 外伝 大空響界 -skyborder-",
+                "ja-latn": "Touhou Midnight MAXIMUMTUNE Gaiden - Oozora Kyoukai -skyborder-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "BOCD-0005",
+            "link": "album/14817",
+            "publisher": {
+                "link": "org/878",
+                "names": {
+                    "en": "Bunchou Online.",
+                    "ja": "文鳥Online。"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Mugenkyo ~Fact from Fiction~",
+                "ja": "東方夢現境 ～Fact from Fiction～",
+                "ja-latn": "Touhou Mugenkyo ~Fact from Fiction~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SSM-002",
+            "link": "album/22277",
+            "publisher": {
+                "link": "org/359",
+                "names": {
+                    "en": "Shishimai Brothers",
+                    "ja": "ししまいブラザーズ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Natsufu Ikka",
+                "ja": "東方夏風一過",
+                "ja-latn": "Touhou Natsufu Ikka"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HACW-TA1005",
+            "link": "album/13540",
+            "publisher": {
+                "link": "org/306",
+                "names": {
+                    "en": "CarrotWine.",
+                    "ja": "趣味工房にんじんわいん"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Orchestra Symphonic Quest I ~The Sword of Hell and the Sister of the Scarlet Devil~",
+                "ja": "東方オーケストラ Symphonic Quest I ～冥界の剣と紅魔の妹君～",
+                "ja-latn": "Touhou Orchestra Symphonic Quest I ~Meikai no Ken to Kouma no Imouto-kun~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SKYT-0004",
+            "link": "album/14876",
+            "publisher": {
+                "link": "org/884",
+                "names": {
+                    "en": "sekken-ya",
+                    "ja": "石鹸屋"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Punchline",
+                "ja": "トウホウパンチライン",
+                "ja-latn": "Touhou Punchline"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "IO-0140",
+            "link": "album/14815",
+            "publisher": {
+                "link": "org/333",
+                "names": {
+                    "en": "IOSYS",
+                    "ja": "IOSYS"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Suisuisusu",
+                "ja": "東方萃翠酒酔",
+                "ja-latn": "Touhou Suisuisusu"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "HKMP-OTO19",
+            "link": "album/8740",
+            "publisher": {
+                "link": "org/171",
+                "names": {
+                    "en": "Hachimitsu-Kumasan",
+                    "ja": "はちみつくまさん"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Theater",
+                "ja": "東方劇場",
+                "ja-latn": "Touhou Gekijou"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SFNC-0007",
+            "link": "album/9839",
+            "publisher": {
+                "link": "org/102",
+                "names": {
+                    "en": "Silver Forest",
+                    "ja": "Silver Forest"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Tsukimigaoka",
+                "ja": "東方月見が丘",
+                "ja-latn": "Touhou Tsukimigaoka"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TAM3-0017",
+            "link": "album/6602",
+            "publisher": {
+                "link": "org/110",
+                "names": {
+                    "en": "TAMUSIC",
+                    "ja": "タムシック"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Touhou Violin 5",
+                "ja": "東方バイオリン５",
+                "ja-latn": "Touhou Violin 5"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "Lvlt-0009",
+            "link": "album/5105",
+            "publisher": {
+                "link": "org/378",
+                "names": {
+                    "en": "Levo Lution",
+                    "ja": "Levo Lution"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Tranquilize",
+                "ja": "Tranquilize",
+                "ja-latn": "Tranquilize"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "TRIANGLEVC03",
+            "link": "album/13202",
+            "publisher": {
+                "names": {
+                    "en": "Triangle"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Triangle Vocal Collection Vol.3",
+                "ja": "Triangle Vocal Collection Vol.3",
+                "ja-latn": "Triangle Vocal Collection Vol.3"
+            }
+        },
+        {
+            "album_type": "works",
+            "catalog": "IK-02",
+            "link": "album/28170",
+            "publisher": {
+                "link": "org/349",
+                "names": {
+                    "en": "Innocent Key",
+                    "ja": "Innocent Key"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Trinity Colors",
+                "ja": "トリニティカラーズ",
+                "ja-latn": "Trinity Colors"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/9234",
+            "publisher": {
+                "link": "org/235",
+                "names": {
+                    "en": "Kraster",
+                    "ja": "Kraster"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Twinkle Heart",
+                "ja": "Twinkle Heart",
+                "ja-latn": "Twinkle Heart"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "PLT-0016M",
+            "link": "album/5828",
+            "publisher": {
+                "names": {
+                    "en": "Lillian / PEPPERMINT"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Twinkle☆Crusaders Part 2 theme song \"Growth of mind\" + Lillian-chan Bonus Voice CD",
+                "ja": "ティンクルくるせいだーす第二部主題歌 Growth of mind + リリアンちゃんおまけボイスCD",
+                "ja-latn": "Twinkle☆Crusaders Part 2 theme song \"Growth of mind\" + Lillian-chan Bonus Voice CD"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "AQSA-0002",
+            "link": "album/13517",
+            "publisher": {
+                "link": "org/347",
+                "names": {
+                    "en": "AQLOOP",
+                    "ja": "永久る～ぷ"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "UNIversal SONority -TWilight INSanity SOUNDTRACK-",
+                "ja": "UNIversal SONority -TWilight INSanity SOUNDTRACK-",
+                "ja-latn": "UNIversal SONority -TWilight INSanity SOUNDTRACK-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MIA003",
+            "link": "album/10029",
+            "publisher": {
+                "link": "org/161",
+                "names": {
+                    "en": "IRON ATTACK!",
+                    "ja": "IRON ATTACK!"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "UNLEASHED IN THE EAST",
+                "ja": "UNLEASHED IN THE EAST",
+                "ja-latn": "UNLEASHED IN THE EAST"
+            }
+        },
+        {
+            "album_type": "game",
+            "catalog": "N/A",
+            "link": "album/6122",
+            "publisher": {
+                "names": {
+                    "en": "Dimension9"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "VICE VERSA - The Law of Contradiction Original Sound Track & Arranged Special Tracks",
+                "ja": "VICE VERSA - The Law of Contradiction Original Sound Track & Arranged Special Tracks",
+                "ja-latn": "VICE VERSA - The Law of Contradiction Original Sound Track & Arranged Special Tracks"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "FTMP-0008",
+            "link": "album/49086",
+            "publisher": {
+                "names": {
+                    "en": "Futon"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "West End Girls",
+                "ja": "West End Girls",
+                "ja-latn": "West End Girls"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/12023",
+            "publisher": {
+                "link": "org/207",
+                "names": {
+                    "en": "Ruins on the Lotus Position",
+                    "ja": "Ruins on the Lotus Position"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Where Birds Returned",
+                "ja": "Where Birds Returned",
+                "ja-latn": "Where Birds Returned"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "SACD-003",
+            "link": "album/9906",
+            "publisher": {
+                "link": "org/105",
+                "names": {
+                    "en": "Sound.AVE",
+                    "ja": "Sound.AVE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Win Your Heart -Trigger Heart Exelica Arrange Album-",
+                "ja": "Win Your Heart -Trigger Heart Exelica Arrange Album-",
+                "ja-latn": "Win Your Heart -Trigger Heart Exelica Arrange Album-"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "TOKO-0001",
+            "link": "album/17243",
+            "publisher": {
+                "link": "org/446",
+                "names": {
+                    "en": "Kota-rocK",
+                    "ja": "Kota-rocK"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yami Fukaki Matsuri ~Darkness Illusion~",
+                "ja": "闇深祭 ～Darkness Illusion～",
+                "ja-latn": "Yami Fukaki Matsuri ~Darkness Illusion~"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "WADW-0001",
+            "link": "album/6270",
+            "publisher": {
+                "link": "org/278",
+                "names": {
+                    "en": "WAVE",
+                    "ja": "WAVE"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yoru wo Koete",
+                "ja": "夜を越えて",
+                "ja-latn": "Yoru wo Koete"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MGRA-0003",
+            "link": "album/30904",
+            "publisher": {
+                "link": "org/701",
+                "names": {
+                    "en": "M.Graveyard",
+                    "ja": "M.Graveyard"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yours -HIGURASHI NO NAKUKORNI KAI- original remake sound version & extra sounds",
+                "ja": "Yours ひぐらしのなく頃に オリジナル・リメイク・サウンドヴァージョン",
+                "ja-latn": "Yours -HIGURASHI NO NAKUKORNI KAI- original remake sound version & extra sounds"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "N/A",
+            "link": "album/25882",
+            "publisher": {
+                "link": "org/801",
+                "names": {
+                    "en": "Atelier Oguu",
+                    "ja": "Atelier Oguu"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Yuyukankan",
+                "ja": "幽々閑々",
+                "ja-latn": "Yuyukankan"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "COCD-0003",
+            "link": "album/5181",
+            "publisher": {
+                "link": "org/618",
+                "names": {
+                    "en": "compllege",
+                    "ja": "compllege"
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Zenith",
+                "ja": "Zenith",
+                "ja-latn": "Zenith"
+            }
+        },
+        {
+            "album_type": "doujin",
+            "catalog": "MCRX002",
+            "link": "album/4558",
+            "publisher": {
+                "link": "org/428",
+                "names": {
+                    "en": "Monochrome & Colored Rec.",
+                    "ja": "Monochrome & Colored Rec."
+                }
+            },
+            "release_date": "2007-08-17",
+            "release_type": "New Release",
+            "titles": {
+                "en": "Zodiac Brave",
+                "ja": "Zodiac Brave",
+                "ja-latn": "Zodiac Brave"
+            }
+        }
+    ],
+    "startdate": "2007-08-16",
+    "vgmdb_link": "http://vgmdb.net/event/1?perpage=99999"
+}
