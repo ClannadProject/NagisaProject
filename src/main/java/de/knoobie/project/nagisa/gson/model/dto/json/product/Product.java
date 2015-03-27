@@ -16,11 +16,11 @@ class Product {
 
     private List<ProductAlbum> albums = new ArrayList<>();
     private String description;
-    private List<ProductTitle> francises = new ArrayList<>();
+    private List<ProductTitle> franchises = new ArrayList<>();
     private String link;
     private Meta meta;   
     private String name;
-    @SerializedName("real_name")
+    @SerializedName("name_real")
     private String realName;
     // only by Francise
     private List<ProductTitle> titles = new ArrayList<>();

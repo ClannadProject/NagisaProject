@@ -22,8 +22,8 @@ public class TransientModelRun {
 //        test_getArtist("Band", "6310");
 //        test_getArtist("Person", "5");
 //        test_Product("1018"); // Francise
-        test_Product("1019"); // Game
-//        test_Product("1020"); // Video
+//        test_Product("1019"); // Game
+        test_Product("1020"); // Video
 //        test_Product("1021"); // Video
 //        test_Product("1028"); // Game
 //        test_search("kantai");
@@ -68,10 +68,15 @@ public class TransientModelRun {
 
         System.out.println("Type: " + product.getType().getHumanizedName());
 
-        System.out.println("Francise:");
-        product.getFrancises().stream().forEach((francise) -> {
-            System.out.println(" - " + francise.getNames().get(0).getName() + " | " + francise.getLink()
-                    + " | " + francise.getPlatform() + " | " + francise.getRegion());
+        System.out.println("Names:");
+        product.getNames().stream().forEach((franchise) -> {
+            System.out.println(" - " + franchise.getName() + " | " + franchise.getLanguage());
+        });
+        
+        System.out.println("Franchise:");
+        product.getFranchises().stream().forEach((franchise) -> {
+            System.out.println(" - " + franchise.getNames().get(0).getName() + " | " + franchise.getLink()
+                    + " | " + franchise.getPlatform() + " | " + franchise.getRegion());
         });
 
         System.out.println("Titles:");

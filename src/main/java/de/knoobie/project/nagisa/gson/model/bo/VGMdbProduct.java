@@ -39,7 +39,7 @@ class VGMdbProduct {
     /**
      * Francise des Products -> z.B. 'Shigatsu wa Kimi no Uso' / 'Clannad'
      */
-    private List<VGMdbProductMerchandise> francises = new ArrayList<>();
+    private List<VGMdbProductMerchandise> franchises = new ArrayList<>();
     /**
      * Release einer Serie / eines Games -> z.B. Shigatsu wa Kimi no Uso Anime
      * Serie / Clannad Game
@@ -98,9 +98,9 @@ class VGMdbProduct {
                 getTitles().add(new VGMdbProductMerchandise(merchandise));
             });
         }
-        if (!ListUtils.isEmpty(product.getFrancises())) {
-            product.getFrancises().stream().forEach((francise) -> {
-                getFrancises().add(new VGMdbProductMerchandise(francise));
+        if (!ListUtils.isEmpty(product.getFranchises())) {
+            product.getFranchises().stream().forEach((franchise) -> {
+                getFranchises().add(new VGMdbProductMerchandise(franchise));
             });
         }
         if (!ListUtils.isEmpty(product.getReleases())) {
