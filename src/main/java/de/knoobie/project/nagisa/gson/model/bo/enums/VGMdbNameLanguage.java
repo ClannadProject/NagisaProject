@@ -11,7 +11,8 @@ public enum VGMdbNameLanguage implements AdvancedEnum {
     ja_latn("Japanese (Latein)"),
     ja_romaji("Japanese (Romaji)"),
     ja_furigana("Japanese (Furigana)"),
-    original("Original");
+    original("Original"),
+    variation("Variation");
 
     private final String humanizedName;
 

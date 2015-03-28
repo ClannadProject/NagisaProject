@@ -21,7 +21,7 @@ class VGMdbArtist {
     private String description;
     private String vgmdbLink;
 
-    private String Variations;
+    private String[] Variations;
     // aliases
     private List<VGMdbName> aliases = new ArrayList<>();
 
@@ -128,7 +128,7 @@ class VGMdbArtist {
             return;
         }
 
-        this.setVariations(StringUtils.trim(artist.getInfo().getVariations()));
+        this.setVariations(artist.getInfo().getVariations());
 
         if (!ListUtils.isEmpty(artist.getInfo().getCreditedWorks())) {
             artist.getInfo().getCreditedWorks().stream().forEach((creditedWorks) -> {

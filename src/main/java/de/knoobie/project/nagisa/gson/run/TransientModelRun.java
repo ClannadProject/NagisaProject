@@ -1,6 +1,7 @@
 package de.knoobie.project.nagisa.gson.run;
 
 import com.google.gson.JsonSyntaxException;
+import de.knoobie.project.clannadutils.common.ArrayUtils;
 import de.knoobie.project.clannadutils.common.ListUtils;
 import de.knoobie.project.clannadutils.common.StringUtils;
 import de.knoobie.project.nagisa.gson.model.bo.VGMdbArtist;
@@ -147,7 +148,7 @@ public class TransientModelRun {
 
         System.out.println("test_getArtist()");
         System.out.println(person_band + ": " + artist.getName() + " / " + artist.getLink());
-
+        
         artist.getAliases().stream().forEach((name) -> {
             System.out.println(" - Alias: " + name.getName() + " | " + name.getLanguage().getHumanizedName());
         });

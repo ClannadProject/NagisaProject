@@ -5,6 +5,6 @@ import lombok.Data;
 public @Data class AlbumReleasePrice {
 
     private String currency;
-    private Double price;
+    private String price;
 
 }

@@ -12,7 +12,7 @@ public @Data class ArtistInfo {
     private String AlbumVotes;
     private String Birthdate;
     private String Bloodtype;    
-    private String Variations;
+    private String[] Variations;
     private String Formed;
     
     @SerializedName("Former Members")
