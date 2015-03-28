@@ -1,0 +1,6087 @@
+{
+    "aliases": [
+        {
+            "names": {
+                "en": "Konami Sound Staff"
+            }
+        },
+        {
+            "names": {
+                "en": "Konami Industry Co.,Ltd."
+            }
+        },
+        {
+            "names": {
+                "en": "Kukeiha Club"
+            }
+        },
+        {
+            "names": {
+                "en": "KCET Sound Team"
+            }
+        },
+        {
+            "names": {
+                "en": "KCE Japan Seishoujo Kantai Virgin Fleet Sound Team"
+            }
+        }
+    ],
+    "discography": [
+        {
+            "catalog": "KHY-1010",
+            "date": "1986-05-21",
+            "link": "album/3778",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Original Sound of Gradius",
+                "ja": "オリジナル・サウンド・オブ・グラディウス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "28XA-85",
+            "date": "1986-07-25",
+            "link": "album/2574",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Konami GAME MUSIC VOL.1",
+                "ja": "コナミ・ゲーム・ミュージック VOL.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "28XA-86",
+            "date": "1986-09-10",
+            "link": "album/2573",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Konami GAME MUSIC VOL.2",
+                "ja": "コナミ・ゲーム・ミュージック　ＶＯＬ．２"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1987-03",
+            "link": "album/10844",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Beep Special Project - Konami Game Music Sono Sheet",
+                "ja": "Beep 特別企画 コナミ・ゲームミュージック・ソノシート"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "28XA-135",
+            "date": "1987-03-25",
+            "link": "album/3834",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "The Konamic Game Freaks",
+                "ja": "コナミック・ゲーム・フリークス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "ALR-22911",
+            "date": "1987-03-25",
+            "link": "album/3836",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "The Konamic Game Freaks",
+                "ja": "コナミック・ゲーム・フリークス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KHY-1016",
+            "date": "1987-05-05",
+            "link": "album/5483",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Original Sound of Gradius ■ Arcade Version ■",
+                "ja": "オリジナル・サウンド・オブ・グラディウス ■ アーケード版 ■"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KHY-1021",
+            "date": "1987-10-05",
+            "link": "album/5493",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Original Sound of Gradius 2 ■ MSX Version ■",
+                "ja": "オリジナル・サウンド・オブ・グラディウス２ ■ ＭＳＸ版 ■"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1988-01",
+            "link": "album/10851",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Beep Special Project - GAME SOUND COLLECTION",
+                "ja": "Beep 特別付録 GAME SOUND COLLECTION"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "28XA-201",
+            "date": "1988-03-10",
+            "link": "album/3863",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "KONAMI GAME MUSIC VOL.4 A JAX",
+                "ja": "コナミ・ゲーム・ミュージックVOL.4～A・JAX～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "K30X-7702",
+            "date": "1988-03-21",
+            "link": "album/698",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Music from Super Contra & A-JAX",
+                "ja": "ミュージック・フロム・スーパー魂斗羅&A-JAX"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1988-07",
+            "link": "album/10854",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Beep Special Project - SUPER GAME MUSIC",
+                "ja": "Beep 特別付録 SUPER GAME MUSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "BY30-5202",
+            "date": "1988-07-21",
+            "link": "album/279",
+            "roles": [
+                "Composer (as Konami Industry Co.",
+                "Ltd.)"
+            ],
+            "titles": {
+                "en": "Space Odyssey Gradius II ~GOFER no Yabou~",
+                "ja": "スペース・オデッセイ グラディウス II ~GOFERの野望~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "K30X-7705",
+            "date": "1988-08-05",
+            "link": "album/2575",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Collection Vol.1",
+                "ja": "コナミ・ゲーム・ミュージック・コレクション Vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "28XA-214",
+            "date": "1988-08-25",
+            "link": "album/3876",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KONAMI GAME MUSIC SPECIAL",
+                "ja": "コナミ・ゲーム・ミュージック・スペシャル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "BY30-5207",
+            "date": "1988-11-21",
+            "link": "album/220",
+            "roles": [
+                "Composer (as Konami Industry Co.",
+                "Ltd.)"
+            ],
+            "titles": {
+                "en": "SUITE GRADIUS Fantasia",
+                "ja": "組曲・グラディウス ファンタジア",
+                "ja-latn": "Kumikyoku Gradius Fantasia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "140A-7705",
+            "date": "1989-05-21",
+            "link": "album/5530",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "From MSX Gofer no Yabou Episode II",
+                "ja": "From MSX ゴーファーの野望 エピソードII"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "140A-7706",
+            "date": "1989-05-21",
+            "link": "album/5529",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "F-1 Spirit & F-1 Spirit 3D Special",
+                "ja": "F1スピリット&F1スピリット3Dスペシャル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "276A-7703",
+            "date": "1989-05-21",
+            "link": "album/93",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Thunder Cross",
+                "ja": "サンダークロス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "140A-7709",
+            "date": "1989-07-21",
+            "link": "album/3675",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Famicom Music Memorial Best VOL.1",
+                "ja": "コナミ・ファミコン・メモリアル・ベスト VOL.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "276A-7708",
+            "date": "1989-07-21",
+            "link": "album/3781",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Collection Vol.0",
+                "ja": "コナミ・ゲーム・ミュージック・コレクション Vol.0"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "276A-7713",
+            "date": "1989-09-21",
+            "link": "album/217",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Snatcher",
+                "ja": "スナッチャー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "220A-7721~3",
+            "date": "1989-12-21",
+            "link": "album/5549",
+            "roles": [
+                "Composer",
+                "Performer"
+            ],
+            "titles": {
+                "en": "Konami Special Music The 1000-Ryo Chest",
+                "ja": "こなみ・すぺしゃる・みゅ～じっく千両箱",
+                "ja-latn": "Konami Special Music Senryoubako"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1001",
+            "date": "1990-02-21",
+            "link": "album/325",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "GRADIUS III",
+                "ja": "グラディウス III"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1005",
+            "date": "1990-03-21",
+            "link": "album/121",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Famicom Best",
+                "ja": "悪魔城ドラキュラ  ファミコン・ベスト"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1007",
+            "date": "1990-04-05",
+            "link": "album/1150",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Famicom Music Memorial Best VOL.2",
+                "ja": "コナミ・ファミコン・ミュージック・メモリアル・ベスト VOL.2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1008",
+            "date": "1990-04-21",
+            "link": "album/1151",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "Mouryou Senki Madara",
+                "ja": "魍魎戦記マダラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1010",
+            "date": "1990-06-05",
+            "link": "album/391",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Symphonic Poem GRADIUS III",
+                "ja": "交響詩グラディウス III"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1011",
+            "date": "1990-07-21",
+            "link": "album/1043",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Parodius da! -Shinwa kara Owaraihe-",
+                "ja": "パロディウスだ！－神話からお笑いへ－"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1017",
+            "date": "1990-10-21",
+            "link": "album/3670",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perfect Selection Snatcher & SD Snatcher",
+                "ja": "パーフェクト・セレクション スナッチャー& SDスナッチャー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1020",
+            "date": "1990-11-21",
+            "link": "album/2561",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kukeiha Club",
+                "ja": "矩形波倶楽部"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-9005~8",
+            "date": "1990-12-21",
+            "link": "album/815",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Konami Special Music The 1000-Ryo Chest Heisei 3rd Year Edition",
+                "ja": "こなみ・すぺしゃる・みゅ～じっく千両箱・平成三年版",
+                "ja-latn": "Konami Special Music Senryo-Bako Heisei 3 Nen-Ban"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1023",
+            "date": "1991-02-21",
+            "link": "album/3671",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Famicom Music Memorial Best VOL.3",
+                "ja": "コナミ・ファミコン・ミュージック・メモリアル・ベスト VOL.3"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1024~5",
+            "date": "1991-03-05",
+            "link": "album/3688",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MA·DA·RA",
+                "ja": "摩陀羅",
+                "ja-latn": "Madara"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7501",
+            "date": "1991-04-05",
+            "link": "album/750",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Solid Snake: Metal Gear 2",
+                "ja": "ソリッド スネーク メタルギア2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7502",
+            "date": "1991-05-05",
+            "link": "album/2577",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Collection Vol.3",
+                "ja": "コナミ・ゲーム・ミュージック・コレクションＶｏｌ．３"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1028",
+            "date": "1991-05-25",
+            "link": "album/3689",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Lagrange Point",
+                "ja": "ラグランジュポイント"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7503",
+            "date": "1991-06-05",
+            "link": "album/2024",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Detana!! Twinbee",
+                "ja": "出たな！！ツインビー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1032",
+            "date": "1991-06-21",
+            "link": "album/1044",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perfect Selection Parodius da! -Shinwa kara Owarai he-",
+                "ja": "パーフェクト・セレクション  パロディウスだ！－神話からお笑いへ－"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KIDA-1001",
+            "date": "1991-08-05",
+            "link": "album/8788",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Goemon Ondo",
+                "ja": "ゴエモン音頭"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7504",
+            "date": "1991-09-03",
+            "link": "album/2507",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Mouryou Senki Madara Special",
+                "ja": "魍魎戦記 MADARA スペシャル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1036",
+            "date": "1991-09-05",
+            "link": "album/830",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perfect Selection Dracula",
+                "ja": "パーフェクト・セレクション　ドラキュラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1041",
+            "date": "1991-09-21",
+            "link": "album/3692",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Ganbare Goemon: Yukihime Kyushutsu Emaki",
+                "ja": "がんばれゴエモン ゆき姫救出絵巻"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7505",
+            "date": "1991-10-05",
+            "link": "album/2578",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Collection Vol.4",
+                "ja": "コナミ・ゲーム・ミュージック・コレクション Vol.4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1046~7",
+            "date": "1991-10-21",
+            "link": "album/3696",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Ending Collection",
+                "ja": "コナミ・エンディング・コレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1048",
+            "date": "1991-11-21",
+            "link": "album/590",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION GRADIUS",
+                "ja": "パーフェクト・セレクション　グラディウス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7506~7",
+            "date": "1991-12-05",
+            "link": "album/122",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Best 2",
+                "ja": "悪魔城ドラキュラ・ベスト2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1053~5",
+            "date": "1991-12-21",
+            "link": "album/3697",
+            "roles": [
+                "Composer",
+                "Performer"
+            ],
+            "titles": {
+                "en": "KONAMI ALL STARS ~THE SENRYO-BAKO HEISEI 4 NEN BAN~",
+                "ja": "コナミ・オールスターズ ～千両箱平成四年版～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "P01-8",
+            "date": "1992",
+            "link": "album/5987",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Snatcher Sound Clip",
+                "ja": "スナッチャー・サウンドクリップ"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7508",
+            "date": "1992-01-21",
+            "link": "album/94",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "XEXEX",
+                "ja": "ゼクセクス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1057",
+            "date": "1992-02-21",
+            "link": "album/893",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perfect Selection Twinbee",
+                "ja": "パーフェクト・セレクション ツインビー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7601",
+            "date": "1992-03-25",
+            "link": "album/2049",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "SARAMANDA ~Again~",
+                "ja": "沙羅曼蛇～Again～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1103",
+            "date": "1992-04-22",
+            "link": "album/2942",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Perfect Selection Dracula ~NEW CLASSIC~",
+                "ja": "パーフェクト・セレクション　ドラキュラ　ニュークラシック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7602",
+            "date": "1992-05-21",
+            "link": "album/86",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER X68000 COLLECTION ver.1.0",
+                "ja": "ミディパワー・X68000　コレクション バージョン1.0"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1109",
+            "date": "1992-07-22",
+            "link": "album/3055",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION XEXEX",
+                "ja": "パーフェクト・セレクション　ゼクセクス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7605",
+            "date": "1992-09-26",
+            "link": "album/2579",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Collection Vol.5",
+                "ja": "コナミ・ゲーム・ミュージック・コレクション Vol.5"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7606",
+            "date": "1992-10-21",
+            "link": "album/4386",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "Axelay",
+                "ja": "アクスレイ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1112",
+            "date": "1992-11-06",
+            "link": "album/3699",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION GRADIUS PART 2",
+                "ja": "パーフェクトセレクション　グラディウス第2章"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TIM-SFC05",
+            "date": "1992-11-10",
+            "link": "album/5267",
+            "roles": [
+                "Composer (as Kukeiha Club)"
+            ],
+            "titles": {
+                "en": "Super Famicom Magazine Vol.5 Special Supplement",
+                "ja": "スーパーファミコンマガジン Vol.5 特別付録"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7610",
+            "date": "1992-11-21",
+            "link": "album/219",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Syber Punk Adventure Snatcher -Zoom Tracks-",
+                "ja": "ザ・サイバーパンクアドベンチャー スナッチャー －ズームトラックス－"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-9016~8",
+            "date": "1992-12-24",
+            "link": "album/3190",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami All-Stars 1993: Music Station of Dreams",
+                "ja": "コナミ・オールスターズ1993~夢のミュージック・ステーション",
+                "ja-latn": "Konami All-Stars 1993~Yume no Music Station"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7611",
+            "date": "1993-01-21",
+            "link": "album/87",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER ver.2.0 X68000 COLLECTION",
+                "ja": "ミディパワー・バージョン2.0 X68000コレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7612",
+            "date": "1993-02-05",
+            "link": "album/4139",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Winbee's Neo Cinema Club ~Evergreen~",
+                "ja": "ウインビーのネオシネマ倶楽部 ～エバーグリーン編～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1119",
+            "date": "1993-02-24",
+            "link": "album/3701",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION Sound Racing History",
+                "ja": "パーフェクト・セレクション・サウンド・レーシング・ヒストリー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1122",
+            "date": "1993-03-24",
+            "link": "album/2572",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "KONAMI GM HITS FACTORY I",
+                "ja": "コナミGMヒッツファクトリーI"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TIM-SFC07",
+            "date": "1993-04-20",
+            "link": "album/5269",
+            "roles": [
+                "Composer (as Kukeiha Club)"
+            ],
+            "titles": {
+                "en": "Super Famicom Magazine Vol.7 Special Supplement",
+                "ja": "スーパーファミコンマガジン Vol.7 特別付録"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7613",
+            "date": "1993-04-21",
+            "link": "album/2025",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pop'n Twinbee",
+                "ja": "ポップンツインビー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7614",
+            "date": "1993-06-23",
+            "link": "album/4133",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pop'n TWINBEE GRAFFITI",
+                "ja": "ポップン・ツインビー・グラフィティ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7615",
+            "date": "1993-07-21",
+            "link": "album/88",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER ver.3.0 X68000 COLLECTION",
+                "ja": "ミディパワー・バージョン3.0 X68000コレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7616~7",
+            "date": "1993-08-21",
+            "link": "album/4389",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KONAMI AMUSEMENT SOUNDS '93...NATSU",
+                "ja": "コナミ・アミューズメントサウンズ'93…夏"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7618",
+            "date": "1993-09-03",
+            "link": "album/2508",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Mouryou Senki Madara 2 Sound Fantasia",
+                "ja": "魍魎戦記 MADARA2 Sound Fantasia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1131",
+            "date": "1993-10-21",
+            "link": "album/2571",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "KONAMI GM HITS FACTORY II",
+                "ja": "コナミGMヒッツファクトリーII"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7622~3",
+            "date": "1993-11-03",
+            "link": "album/2938",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula X",
+                "ja": "悪魔城ドラキュラX"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1135",
+            "date": "1993-12-22",
+            "link": "album/3716",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS IN CLASSIC II",
+                "ja": "グラディウス・イン・クラシック II"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1136",
+            "date": "1993-12-22",
+            "link": "album/2568",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION KONAMI SHOOTING BATTLE",
+                "ja": "パーフェクト・セレクション　コナミ　シューティング・バトル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7624",
+            "date": "1993-12-22",
+            "link": "album/3718",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS IN CLASSIC I",
+                "ja": "グラディウス・イン・クラシック I"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1994",
+            "link": "album/5836",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "La Compil Player One"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7626",
+            "date": "1994-01-21",
+            "link": "album/4137",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.1",
+                "ja": "ツインビーPARADISE Vol.1"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7627",
+            "date": "1994-01-21",
+            "link": "album/4393",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KYUKYOKU SENTAI DA DAN DAAN",
+                "ja": "究極戦隊ダダンダーン"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TIM-SFC14",
+            "date": "1994-02",
+            "link": "album/7441",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Super Famicom Magazine Volume 14: Konami New Game Sound Special & New Game Sound Museum",
+                "ja": "スーパーファミコンマガジン2月情報号特別付録"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7628~9",
+            "date": "1994-02-05",
+            "link": "album/4394",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Rainbow Bell Adventure",
+                "ja": "ツインビー レインボーベルアドベンチャー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7630",
+            "date": "1994-02-23",
+            "link": "album/4467",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.2",
+                "ja": "ツインビーPARADISE Vol.2"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7631~2",
+            "date": "1994-02-23",
+            "link": "album/4468",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Amusement Sounds '94... Spring",
+                "ja": "コナミ・アミューズメントサウンズ'94…春",
+                "ja-latn": "Konami Amusement Sounds '94... Haru"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "TIM-SFC15",
+            "date": "1994-03",
+            "link": "album/7448",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Super Famicom Magazine Volume 15: Starting with Famous Music!!  Final Fantasy VI & New Game Sound Museum",
+                "ja": "スーパーファミコンマガジン3月情報号特別付録 名曲を先取り!! ファイナルファンタジーVI & NEW GAME SOUND MUSEUM"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7633",
+            "date": "1994-03-24",
+            "link": "album/4469",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.3",
+                "ja": "ツインビーPARADISE Vol.3"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7634",
+            "date": "1994-03-24",
+            "link": "album/1271",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER ver.4.0",
+                "ja": "ミディパワー・バージョン4.0"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7635",
+            "date": "1994-04-21",
+            "link": "album/4470",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.4",
+                "ja": "ツインビーPARADISE Vol.4"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7636",
+            "date": "1994-04-21",
+            "link": "album/4471",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE / SING! VOCAL BATTLE COMPILATION",
+                "ja": "ツインビー パラダイス／熱唱！ボーカルバトル編",
+                "ja-latn": "TWINBEE PARADISE / NESSHOU! VOCAL BATTLE HEN"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7637",
+            "date": "1994-05-25",
+            "link": "album/4472",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.5",
+                "ja": "ツインビーPARADISE Vol.5"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7639",
+            "date": "1994-05-25",
+            "link": "album/2017",
+            "roles": [
+                "Composer",
+                "Performer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise -Music Box-",
+                "ja": "ツインビーパラダイス －ミュージック・ボックス－"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "TIM-SFC18",
+            "date": "1994-06",
+            "link": "album/7947",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Super Famicom Magazine Volume 18: Attraction Tune!! Synth Version Special Edition & New Game Sound Museum & Opening Theme Special Edition",
+                "ja": "スーパーファミコンマガジン6月情報号特別付録 - 魅惑の旋律!! シンセバージョン特集 & NEW GAME SOUND MUSEUM & オープニングソング特集"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7640",
+            "date": "1994-06-03",
+            "link": "album/4474",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CD DRAMA TOKIMEKI MEMORIAL",
+                "ja": "CDドラマ ときめきメモリアル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7638",
+            "date": "1994-06-22",
+            "link": "album/4473",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Vol.6",
+                "ja": "ツインビーPARADISE Vol.6"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7641",
+            "date": "1994-07-02",
+            "link": "album/1045",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Gokujou Parodius",
+                "ja": "極上パロディウス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1145",
+            "date": "1994-07-21",
+            "link": "album/552",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION DRACULA BATTLE",
+                "ja": "パーフェクトセレクション　ドラキュラ・バトル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7642",
+            "date": "1994-08-05",
+            "link": "album/4140",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Winbee's Neo Cinema Club 2 ~Paradise~",
+                "ja": "ウインビーのネオシネマ倶楽部2 ～パラダイス編～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7643",
+            "date": "1994-08-05",
+            "link": "album/4475",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KOUDA MARIKO NO Radio Canvas Vol.1",
+                "ja": "国府田マリ子のRadio Canvas Vol.1"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7644",
+            "date": "1994-09-21",
+            "link": "album/340",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL SOUND COLLECTION",
+                "ja": "ときめきメモリアル SOUNDコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7645",
+            "date": "1994-10-21",
+            "link": "album/89",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER ver.5.0",
+                "ja": "ミディパワー・バージョン5.0"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7648",
+            "date": "1994-12-21",
+            "link": "album/4788",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE 2 Vol.1",
+                "ja": "ツインビーPARADISE 2 Vol.1"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7649",
+            "date": "1994-12-21",
+            "link": "album/4820",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shiawase no Paradise / Winbee",
+                "ja": "しあわせの楽園(パラダイス) / ウィンビー"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KICA-1152",
+            "date": "1995-01-07",
+            "link": "album/827",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION SNATCHER BATTLE",
+                "ja": "パーフェクトセレクション　スナッチャー・バトル"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7651",
+            "date": "1995-01-21",
+            "link": "album/4789",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE 2 Vol.2",
+                "ja": "ツインビーPARADISE 2 Vol.2"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7652",
+            "date": "1995-01-21",
+            "link": "album/4493",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise 2 Sing! Praise! Laugh! Edition",
+                "ja": "ツインビーパラダイス 熱唱！激唱！爆唱！編"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7653",
+            "date": "1995-02-03",
+            "link": "album/1398",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "POLICENAUTS",
+                "ja": "ポリスノーツ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7655",
+            "date": "1995-02-22",
+            "link": "album/4790",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE 2 Vol.3",
+                "ja": "ツインビーPARADISE 2 Vol.3"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7656",
+            "date": "1995-03-16",
+            "link": "album/4791",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE 2 Vol.4",
+                "ja": "ツインビーPARADISE 2 Vol.4"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7659",
+            "date": "1995-04-21",
+            "link": "album/4792",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE 2 Vol.5",
+                "ja": "ツインビーPARADISE 2 Vol.5"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7661",
+            "date": "1995-06-07",
+            "link": "album/2021",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Yahho! ~Original Game Sound Track~",
+                "ja": "ツインビー・ヤッホー! ～オリジナル・ゲーム・サントラ～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1162",
+            "date": "1995-06-21",
+            "link": "album/553",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION DRACULA BATTLE II",
+                "ja": "パーフェクトセレクション　ドラキュラ バトル II"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7662",
+            "date": "1995-06-21",
+            "link": "album/4775",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL JUN. ~featuring Mira Kagami~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル JUN. 〜featuring 鏡 魅羅〜"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7664",
+            "date": "1995-07-21",
+            "link": "album/4776",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL JUL. ~featuring Saki Nijino~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル JUL. 〜featuring 虹野沙希〜"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7669",
+            "date": "1995-07-21",
+            "link": "album/2022",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KUKEIHA CLUB pro-fusion ~TWINBEE YAHHO!~",
+                "ja": "矩形波倶楽部 pro-fusion ～ツインビーヤッホー！～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7670",
+            "date": "1995-08-04",
+            "link": "album/1272",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER Pro Best Selection",
+                "ja": "ミディ パワープロ ベスト・セレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7665",
+            "date": "1995-08-23",
+            "link": "album/4777",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL AUG. ~featuring Nozomi Kiyokawa~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル AUG. 〜featuring 清川 望〜"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7672",
+            "date": "1995-08-23",
+            "link": "album/2016",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Taisen Puzzledama ~featuring Princess Melora~",
+                "ja": "ツインビー 対戦ぱずるだま　～featuringメローラ姫～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7666",
+            "date": "1995-09-21",
+            "link": "album/4778",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL SEP. ~featuring Yūko Asahina~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル SEP. 〜featuring 朝日奈夕子〜"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7674",
+            "date": "1995-10-05",
+            "link": "album/4141",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Winbee's Neo Cinema Club 3 ~Tokimeki~",
+                "ja": "ウインビーのネオシネマ倶楽部3 ～ときめき編～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7667",
+            "date": "1995-10-25",
+            "link": "album/9191",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL OCT. ~featuring Miharu Tatebayashi~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル OCT. ～featuring 館林見晴～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7675~6",
+            "date": "1995-10-25",
+            "link": "album/1976",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial ~forever with you~ Original Game Soundtrack",
+                "ja": "ときめきメモリアル ～forever with you～ オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7677",
+            "date": "1995-11-03",
+            "link": "album/2018",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TWINBEE PARADISE Sound Fantasia",
+                "ja": "ツインビーパラダイス・サウンドファンタジア"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-1171",
+            "date": "1995-11-22",
+            "link": "album/2569",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION KONAMI SHOOTING BATTLE II",
+                "ja": "パーフェクトセレクション コナミ・シューティング・バトル II"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7668",
+            "date": "1995-11-22",
+            "link": "album/9192",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL NOV. ~featuring Mio Kisaragi~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル NOV. ～featuring 如月未緒～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7683",
+            "date": "1995-12-21",
+            "link": "album/4780",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL DEC. ~featuring Yukari Koshiki~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル DEC. ～featuring 古式ゆかり～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5067",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.01 Shiori Fujisaki",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.01 藤崎 詩織"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5068",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.02 Mio Kisaragi",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.02 如月 未緒"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5069",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.03 Yukari Koshiki",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.03 古式 ゆかり"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5070",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.04 Nozomi Kiyokawa",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.04 清川 望"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5072",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.05 Yuko Asahina",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.05 朝日奈 夕子"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5074",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.06 Megumi Mikihara",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.06 美樹原 愛"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5075",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.07 Yuina Himoo",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.07 紐緒 結奈"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5076",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.08 Ayako Katagiri",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.08 片桐 彩子"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5077",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.09 Saki Nijino",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.09 虹野 沙希"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5078",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.10 Mira Kagami",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.10 鏡 魅羅"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5079",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.11 Yumi Saotome",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.11 早乙女 優美"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5080",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange No.12 Miharu Tatebayashi",
+                "ja": "Tokimeki Memorial disc collection orgel arrange No.12 館林 見晴"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5081",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange Sp.01 Special",
+                "ja": "Tokimeki Memorial disc collection orgel arrange Sp.01 スペシャル"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "1996",
+            "link": "album/5082",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial disc collection orgel arrange Sp.02 Special Vol.2",
+                "ja": "Tokimeki Memorial disc collection orgel arrange Sp.02 スペシャル Vol.2"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "WT 200",
+            "date": "1996",
+            "link": "album/12039",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Mega Video Game Music Volume 1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7684",
+            "date": "1996-01-24",
+            "link": "album/9251",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL JAN. ~featuring Yuina Himoo~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル JAN. ～featuring 紐緒結奈～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7690",
+            "date": "1996-01-24",
+            "link": "album/7077",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Speed King / Taisen Puzzle-dama Original Game Soundtrack",
+                "ja": "スピードキング / 対戦ぱずるだま オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7691",
+            "date": "1996-01-24",
+            "link": "album/4874",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dragoon Might Original Soundtrack",
+                "ja": "ドラグーンマイト オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7689",
+            "date": "1996-02-03",
+            "link": "album/7150",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Jikkyou Oshaberi Parodius Original Game Soundtrack",
+                "ja": "実況おしゃべりパロディウス　オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7692",
+            "date": "1996-02-16",
+            "link": "album/8167",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "Twinbee Vocal Paradise featuring MARIKO KOUDA",
+                "ja": "ツインビー・ヴォーカル・パラダイス～フィーチャリングＭａｒｉｋｏ　Ｋｏｕｄａ"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7685",
+            "date": "1996-02-21",
+            "link": "album/4773",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL FEB. ~featuring Yoshio Saotome~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル FEB. ～featuring 早乙女好雄～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7686",
+            "date": "1996-03-23",
+            "link": "album/9253",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL MAR. ~featuring Yumi Saotome~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル MAR. ～featuring 早乙女優美～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7695",
+            "date": "1996-04-05",
+            "link": "album/4331",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SALAMANDER 2 ORIGINAL GAME SOUNDTRACK",
+                "ja": "沙羅曼蛇2 オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7687",
+            "date": "1996-04-24",
+            "link": "album/9256",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL APR. ~featuring Rei Ijuuin~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル APR. ～featuring 伊集院レイ～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7701",
+            "date": "1996-05-02",
+            "link": "album/341",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL SOUND COLLECTION 2",
+                "ja": "ときめきメモリアル SOUNDコレクション 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7688",
+            "date": "1996-05-22",
+            "link": "album/4774",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "STEREO DRAMA MOTTO! TOKIMEKI MEMORIAL MAY. ~featuring Megumi Mikihara~",
+                "ja": "ステレオドラマ もっと!ときめきメモリアル MAY. ～featuring 美樹原愛～"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7702",
+            "date": "1996-05-22",
+            "link": "album/3073",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KUKEIHA CLUB pro-fusion ~SALAMANDER~",
+                "ja": "矩形波倶楽部 pro-fusion ~沙羅曼蛇~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7703",
+            "date": "1996-05-22",
+            "link": "album/1041",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Sexy Parodius Original Game Soundtrack",
+                "ja": "セクシーパロディウス　オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7704",
+            "date": "1996-06-05",
+            "link": "album/8170",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Susume! Taisen Puzzledama Original Game Soundtrack",
+                "ja": "進め！対戦ぱずるだま　オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7706",
+            "date": "1996-06-21",
+            "link": "album/342",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL SOUND COLLECTION 3",
+                "ja": "ときめきメモリアル SOUNDコレクション 3"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7708",
+            "date": "1996-07-05",
+            "link": "album/1273",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER Pro 2 ~SALAMANDER2 TWINBEE YAHHO!~",
+                "ja": "ミディ パワープロ2 ～沙羅曼蛇2　ツインビーヤッホー！"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7707",
+            "date": "1996-08-07",
+            "link": "album/401",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL piano collection",
+                "ja": "ときめきメモリアル piano collection"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7711",
+            "date": "1996-08-07",
+            "link": "album/1288",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.1",
+                "ja": "月刊ときめきメモリアル No.1",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.1"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7721",
+            "date": "1996-08-21",
+            "link": "album/7948",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise 3 Vocal Festival! Wasshoi Edition",
+                "ja": "ツインビーPARADISE3 ボーカル祭りだ! ワッショイ編"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7712",
+            "date": "1996-09-05",
+            "link": "album/1289",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.2",
+                "ja": "月刊ときめきメモリアル No.2",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.2"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-1189",
+            "date": "1996-09-21",
+            "link": "album/865",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PERFECT SELECTION KONAMI BATTLE the BEST",
+                "ja": "パーフェクトセレクション　コナミ・バトル・ザ・ベスト"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7713",
+            "date": "1996-10-02",
+            "link": "album/1291",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.3",
+                "ja": "月刊ときめきメモリアル No.3",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.3"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7714",
+            "date": "1996-11-01",
+            "link": "album/1292",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.4",
+                "ja": "月刊ときめきメモリアル No.4",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.4"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7724",
+            "date": "1996-11-01",
+            "link": "album/1397",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Policenauts F/N"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7729",
+            "date": "1996-11-21",
+            "link": "album/90",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER Pro 3 ~Policenauts~",
+                "ja": "ミディ パワープロ3 ～ポリスノーツ～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7715",
+            "date": "1996-12-15",
+            "link": "album/1293",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.5",
+                "ja": "月刊ときめきメモリアル No.5",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.5"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7730",
+            "date": "1996-12-21",
+            "link": "album/1042",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Jikkyou Oshaberi Parodius ~Forever With Me~ Original Game Soundtrack",
+                "ja": "実況おしゃべりパロディウス～ｆｏｒｅｖｅｒ　ｗｉｔｈ　ｍｅ～オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7734~6",
+            "date": "1996-12-21",
+            "link": "album/403",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial ~forever with you~ Original Game Soundtrack 2",
+                "ja": "ときめきメモリアル ～forever with you～ オリジナル・ゲーム・サントラ 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7716",
+            "date": "1997-01-01",
+            "link": "album/1294",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.6",
+                "ja": "月刊ときめきメモリアル No.6",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.6"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7749",
+            "date": "1997-01-22",
+            "link": "album/343",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL SOUND COLLECTION 4",
+                "ja": "ときめきメモリアル SOUNDコレクション 4"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7743",
+            "date": "1997-02-05",
+            "link": "album/1295",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.7",
+                "ja": "月刊ときめきメモリアル No.7",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.7"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7754",
+            "date": "1997-02-21",
+            "link": "album/8189",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise 3 Soundtrack Selection",
+                "ja": "ツインビーPARADISE3 サウンドトラックセレクション"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7744",
+            "date": "1997-03-05",
+            "link": "album/1296",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.8",
+                "ja": "月刊ときめきメモリアル No.8",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.8"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICS-7604~5",
+            "date": "1997-03-05",
+            "link": "album/17325",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Mariko Kouda Concert Tour '95~'96 \"Owaranai Encore",
+                "ja": "Mariko Kouda Concert Tour '95～'96 \"終わらないアンコール"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VX010-J1",
+            "date": "1997-03-10",
+            "link": "album/5034",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Dracula ~Music Collection~",
+                "ja": "悪魔城ドラキュラ ~ミュージック コレクション~"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LM-909",
+            "date": "1997-03-26",
+            "link": "album/4814",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Stereo Drama Twinbee Paradise 3 Vol.10 Special CD Single",
+                "ja": "ステレオドラマ ツインビー パラダイス 3 Vol.10 スペシャル CD シングル"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7745",
+            "date": "1997-04-09",
+            "link": "album/1297",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.9",
+                "ja": "月刊ときめきメモリアル No.9",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.9"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7761",
+            "date": "1997-04-09",
+            "link": "album/4819",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise 3 Vocal Bomb!",
+                "ja": "ツインビーPARADISE3 ボーカルボム!"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7746",
+            "date": "1997-05-03",
+            "link": "album/1298",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.10",
+                "ja": "月刊ときめきメモリアル No.10",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.10"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7759",
+            "date": "1997-05-03",
+            "link": "album/8192",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kyuukyoku Parodius",
+                "ja": "究極パロディウス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7765",
+            "date": "1997-05-21",
+            "link": "album/400",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial MIDI collection",
+                "ja": "ときめきメモリアル MIDIコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7747",
+            "date": "1997-06-04",
+            "link": "album/1299",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.11",
+                "ja": "月刊ときめきメモリアル No.11",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.11"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7766~7",
+            "date": "1997-06-04",
+            "link": "album/4829",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami All Star Festa '97",
+                "ja": "コナミオールスターフェスタ '97"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7748",
+            "date": "1997-07-02",
+            "link": "album/1300",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.12",
+                "ja": "月刊ときめきメモリアル No.12",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.12"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7770",
+            "date": "1997-08-06",
+            "link": "album/1301",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.13",
+                "ja": "月刊ときめきメモリアル No.13",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.13"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7771",
+            "date": "1997-09-03",
+            "link": "album/1302",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.14",
+                "ja": "月刊ときめきメモリアル No.14",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.14"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KMX-001",
+            "date": "1997-09-12",
+            "link": "album/5716",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dracula X / Vampire Killer"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7791",
+            "date": "1997-09-26",
+            "link": "album/91",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI Power Pro 4 ~Tokimeki Memorial~",
+                "ja": "ミディ パワープロ4 ～ときめきメモリアル～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7772",
+            "date": "1997-10-03",
+            "link": "album/1303",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.15",
+                "ja": "月刊ときめきメモリアル No.15",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.15"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7801",
+            "date": "1997-10-03",
+            "link": "album/2940",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music Remix Series Vol.1 Dracula X Remixies",
+                "ja": "コナミ ゲーム ミュジック リミックス シリーズ 悪魔城ドラキュラX　リミックス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7809",
+            "date": "1997-10-22",
+            "link": "album/2943",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula MIDI collection",
+                "ja": "悪魔城ドラキュラ MIDIコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7773",
+            "date": "1997-11-06",
+            "link": "album/1304",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.16",
+                "ja": "月刊ときめきメモリアル No.16",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.16"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7820",
+            "date": "1997-12-22",
+            "link": "album/2560",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Kukeiha Club & Konami Kukeiha Club Best Vol.1",
+                "ja": "矩形波倶楽部＆コナミ矩形波倶楽部 BEST Vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7776",
+            "date": "1997-12-31",
+            "link": "album/1966",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial MIDI collection 2",
+                "ja": "ときめきメモリアル MIDIコレクション2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7775",
+            "date": "1998-01-01",
+            "link": "album/1306",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MONTHLY TOKIMEKI MEMORIAL No.18",
+                "ja": "月刊ときめきメモリアル No.18",
+                "ja-latn": "GEKKAN TOKIMEKI MEMORIAL No.18"
+            },
+            "type": "drama"
+        },
+        {
+            "catalog": "KICA-7825",
+            "date": "1998-01-01",
+            "link": "album/1967",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial Piano Collection 2",
+                "ja": "ときめきメモリアル　ｐｉａｎｏ　ｃｏｌｌｅｃｔｉｏｎ　２"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7837",
+            "date": "1998-02-04",
+            "link": "album/1274",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER Pro 5 ~SALAMANDER~",
+                "ja": "ミディ パワープロ5 ～沙羅曼蛇～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7840",
+            "date": "1998-02-21",
+            "link": "album/858",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS ~Remixes~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICS-7610",
+            "date": "1998-02-25",
+            "link": "album/15388",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "My Best Friend / Mariko Kouda",
+                "ja": "マイベストフレンド ／ 國府田マリ子"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7853",
+            "date": "1998-03-04",
+            "link": "album/4786",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise 5th. Anniversary",
+                "ja": "ツインビー パラダイス 5th. アニバーサリー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7854",
+            "date": "1998-04-03",
+            "link": "album/1978",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SHIORI FUJISAKI piano collection",
+                "ja": "藤崎詩織　ピアノ コレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7873",
+            "date": "1998-07-03",
+            "link": "album/1975",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KUKEIHA CLUB pro-fusion ~TOKIMEKI MEMORIAL~",
+                "ja": "矩形波倶楽部 pro-fusion ~ときめきメモリアル~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7888",
+            "date": "1998-08-21",
+            "link": "album/2104",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Snatcher >> Policenauts Music Compilation of Hideo Kojima/Black Disc",
+                "ja": "SNATCHER>>POLICENAUTS 小島秀夫監督作品 音楽集 黒盤"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VX105-J1",
+            "date": "1998-09-03",
+            "link": "album/5993",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "METAL GEAR / METAL GEAR 2 SOLID SNAKE Music Collection"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KICA-7890",
+            "date": "1998-09-04",
+            "link": "album/5638",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Kukeiha Club & Konami Kukeiha Club Best Vol.2",
+                "ja": "矩形波倶楽部＆コナミ矩形波倶楽部 BEST Vol.2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7909~10",
+            "date": "1998-09-23",
+            "link": "album/7335",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Konami MSX Super Best Antiques",
+                "ja": "コナミMSXスーパーベストアンティークス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7897",
+            "date": "1998-10-09",
+            "link": "album/13150",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MARIKO KOUDA INSTRUMENTAL TRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7899",
+            "date": "1998-10-09",
+            "link": "album/4136",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee Paradise Pastel Best song Pastel color",
+                "ja": "ツインビーＰＡＲＡＤＩＳＥ　パステル　ベスト　ソングス　パステルカラー"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7920",
+            "date": "1998-11-27",
+            "link": "album/1958",
+            "roles": [
+                "Composer (as KCET Sound Team)"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL DRAMA SERIES vol.2: IRODORI NO LOVE SONG ORIGINAL SOUNDTRACK",
+                "ja": "ときめきメモリアルドラマシリーズ　彩のラブソング オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-7929",
+            "date": "1998-12-23",
+            "link": "album/749",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Metal Gear >> Solid Snake Music Compilation of Hideo Kojima/Red Disc",
+                "ja": "METALGEAR >> SOLID SNAKE 小島秀夫監督作品 音楽集 赤盤"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-5",
+            "date": "1999-04-23",
+            "link": "album/1276",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MIDI POWER Pro 7 ~GRADIUS~",
+                "ja": "ミディ パワープロ7 ～グラディウス～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-4",
+            "date": "1999-05-23",
+            "link": "album/1959",
+            "roles": [
+                "Composer (as KCET Sound Team)"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial Drama Series Vol. 3: Poem of Departure Original Game Soundtrack",
+                "ja": "ときめきメモリアルドラマシリーズＶｏｌ．３「旅立ちの詩」オリジナル・ゲーム・サウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-9",
+            "date": "1999-05-28",
+            "link": "album/7734",
+            "roles": [
+                "Composer (as KCE Japan Seishoujo Kantai Virgin Fleet Sound Team)",
+                "Arranger (as KCE Japan Seishoujo Kantai Virgin Fleet Sound Team)"
+            ],
+            "titles": {
+                "en": "Seishoujo Kantai Virgin Fleet Songs & Soundtracks",
+                "ja": "聖少女艦隊バージンフリート ソングス＆サウンドトラックス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-13",
+            "date": "1999-07-02",
+            "link": "album/6837",
+            "roles": [
+                "Composer",
+                "Lyricist"
+            ],
+            "titles": {
+                "en": "10th ANNIVERSARY KONAMI LABEL VOCAL HISTORY COLLECTION",
+                "ja": "10thアニバーサリー コナミレーベル ボーカルヒストリーコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-14",
+            "date": "1999-07-02",
+            "link": "album/1391",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "10th ANNIVERSARY KONAMI LABEL THEME SONG COLLECTION",
+                "ja": "10thアニバーサリー コナミレーベル テーマソングコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-33",
+            "date": "1999-11-26",
+            "link": "album/6871",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Harlem Beat MUSIC VOX"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "VPCG-84693~5",
+            "date": "2000-02-21",
+            "link": "album/16687",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "decade character song collection 1989-1998 / Aya Hisakawa"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00050",
+            "date": "2000-11-01",
+            "link": "album/3808",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "Konami GAME MUSIC VOL.1",
+                "ja": "コナミ・ゲーム・ミュージック　ＶＯＬ．１"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KICA-1242",
+            "date": "2001-01-10",
+            "link": "album/1620",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Melody Of Legend ~ Chapter of Dream"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00060",
+            "date": "2001-01-11",
+            "link": "album/3810",
+            "roles": [
+                "Composer (as Konami Sound Staff)"
+            ],
+            "titles": {
+                "en": "KONAMI GAME MUSIC VOL.2",
+                "ja": "コナミ・ゲーム・ミュージック　ＶＯＬ．２"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-92",
+            "date": "2001-03-16",
+            "link": "album/1946",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL 2 MUSIC COLLECTION 1",
+                "ja": "ときめきメモリアル2 MUSICコレクション1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-93",
+            "date": "2001-03-16",
+            "link": "album/1947",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "TOKIMEKI MEMORIAL 2 MUSIC COLLECTION 2",
+                "ja": "ときめきメモリアル2 MUSICコレクション2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-104~5",
+            "date": "2001-05-23",
+            "link": "album/662",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania Chronicle: Akumajo Dracula Original Soundtrack",
+                "ja": "悪魔城年代記　悪魔城ドラキュラ Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-119",
+            "date": "2001-10-03",
+            "link": "album/8380",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial 2 Substories ~Memories Ringing On~ Original Game Soundtrack",
+                "ja": "ときめきメモリアル２　Ｓｕｂｓｔｏｒｉｅｓ～Ｍｅｍｏｒｉｅｓ　Ｒｉｎｇｉｎｇ　Ｏｎ～"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-155~6",
+            "date": "2002-04-24",
+            "link": "album/276",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS ARCADE SOUNDTRACK",
+                "ja": "グラディウス　アーケードサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-162",
+            "date": "2002-06-26",
+            "link": "album/2947",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania: Circle of the Moon & Castlevania: Concerto of Midnight Sun Original Soundtrack",
+                "ja": "悪魔城ドラキュラ Circle of the Moon & Castlevania 白夜の協奏曲(コンチェルト) オリジナルサウンドトラック",
+                "ja-latn": "Akumajo Dracula Circle of the Moon & Castlevania Byakuya no Concerto Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-176",
+            "date": "2002-10-23",
+            "link": "album/1962",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Tokimeki Memorial GUITAR COLLECTION",
+                "ja": "ときめきメモリアル GUITAR COLLECTION"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-004",
+            "date": "2002-11-07",
+            "link": "album/7193",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "CANDY / Yajuh-Ohkoku",
+                "ja": "CANDY／野獣王国"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-017",
+            "date": "2002-12-18",
+            "link": "album/917",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Piano Collection ~Avertunerio Antes Lance Mao~",
+                "ja": "幻想水滸伝 Piano Collection ~Avertunerio Antes Lance Mao~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-018",
+            "date": "2003-01-22",
+            "link": "album/922",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Vocal Collection ~Distant Star: Echoes Of Love~",
+                "ja": "幻想水滸伝 ボーカルコレクション ~彼方の星　Echoes Of Love~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-022",
+            "date": "2003-03-05",
+            "link": "album/896",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Music Collection ~Celtic Collection~",
+                "ja": "幻想水滸伝 音楽集 ~ケルティックコレクション~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-911",
+            "date": "2003-03-31",
+            "link": "album/915",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Orgel Collection",
+                "ja": "幻想水滸伝 オルゴールコレクション"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KOLA-030",
+            "date": "2003-04-09",
+            "link": "album/2048",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SALAMANDER ARCADE SOUNDTRACK",
+                "ja": "沙羅曼蛇　アーケードサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-036",
+            "date": "2003-08-20",
+            "link": "album/897",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Music Collection ~Celtic Collection 2~",
+                "ja": "幻想水滸伝 音楽集 ~ケルティックコレクション2~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-049",
+            "date": "2003-11-27",
+            "link": "album/895",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Genso Suikoden Music Collection ~Asian Collection~",
+                "ja": "幻想水滸伝 音楽集 ~エイジアンコレクション~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "CM-2113",
+            "date": "2004-10-01",
+            "link": "album/2570",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Music Masterpiece Collection",
+                "ja": "コナミミュージック 名曲コレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00375",
+            "date": "2004-11-17",
+            "link": "album/2784",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "GAME SOUND LEGEND ARRANGE SERIES \"SPEED&WIND",
+                "ja": "GAME SOUND LEGEND ARRANGE SERIES 「SPEED&WIND」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KOLA-091",
+            "date": "2005-01-07",
+            "link": "album/1901",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "UNDER THE BLUE SKY ~include GRADIUS arrange~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00410~7",
+            "date": "2005-03-24",
+            "link": "album/8087",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "LEGEND OF GAME MUSIC PREMIUM BOX",
+                "ja": "レジェンドオブゲームミュージック~プレミアムボックス~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "AVCD-17673/B",
+            "date": "2005-03-30",
+            "link": "album/2192",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Rumble Roses Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00465",
+            "date": "2005-11-23",
+            "link": "album/8165",
+            "roles": [
+                "Composer",
+                "Arranger",
+                "Performer"
+            ],
+            "titles": {
+                "en": "The Konamic Game Freaks",
+                "ja": "コナミック・ゲーム・フリークス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SCDC-00472",
+            "date": "2005-11-23",
+            "link": "album/3866",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "GAME SOUND LEGEND SERIES Konami Game Music VOL4 ~A-JAX~",
+                "ja": "GAME SOUND LEGEND SERIES コナミ・ゲームミュージック VOL.4 ~A-JAX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "POCE-7334",
+            "date": "2005-12-07",
+            "link": "album/9447",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Smooth Jazz Living 01"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "POCE-7335",
+            "date": "2005-12-07",
+            "link": "album/9448",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Smooth Jazz Living 02"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1453~4",
+            "date": "2006-01-27",
+            "link": "album/5225",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania Akatsuki no Minuet & Akumajo Dracula Sougetsu no Juujika Original Soundtrack",
+                "ja": "キャッスルヴァニア～暁月の円舞曲～＆悪魔城ドラキュラ～蒼月の十字架～オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "POCE-7336",
+            "date": "2006-02-22",
+            "link": "album/9450",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Smooth Jazz Living 03"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMUS-0001",
+            "date": "2006-11-28",
+            "link": "album/4219",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania 20th Anniversary Deluxe Music Collection"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "SCDC-00530",
+            "date": "2006-12-20",
+            "link": "album/4036",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS TRIBUTE",
+                "ja": "グラディウス トリビュート"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1535~6",
+            "date": "2007-02-14",
+            "link": "album/31861",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "HIDECHAN! Radio. 2.5 TWO-HAN PRINCESS SINGLES + MUSIC & DRAMA CD",
+                "ja": "ひでちゃん！ラジオ 2.5 ツーハン プリンセス シングルス プラス ミュージック アンド ドラマ シーディ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1541~2",
+            "date": "2007-03-23",
+            "link": "album/4421",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Gallery of Labyrinth Original Soundtrack",
+                "ja": "悪魔城ドラキュラ ～ギャラリー オブ ラビリンス～ オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2007-05-15",
+            "link": "album/12153",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Game Music: Classic Castlevania"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1609~10",
+            "date": "2007-11-08",
+            "link": "album/4715",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula X Chronicle Original Soundtrack",
+                "ja": "悪魔城ドラキュラXクロニクル オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1623~4",
+            "date": "2008-02-21",
+            "link": "album/5724",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "DanceDanceRevolution SuperNOVA2 Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-102",
+            "date": "2008-02-27",
+            "link": "album/6365",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The History of Winning Eleven Original Soundtracks",
+                "ja": "ザヒストリーオブウイニングイレブン オリジナルサウンドトラックス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "UPCH-1606",
+            "date": "2008-05-21",
+            "link": "album/7554",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami Addiction ~For Electro Lovers~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "5 08136 2",
+            "date": "2008-07-24",
+            "link": "album/5395",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VIDEO GAMES LIVE: VOLUME ONE"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008-07-28",
+            "link": "album/16221",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VIDEO GAMES LIVE: VOLUME ONE (iTunes)"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1713~4",
+            "date": "2008-10-23",
+            "link": "album/10018",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo-Dracula Ubawareta kokuin Original Soundtrack",
+                "ja": "悪魔城ドラキュラ 奪われた刻印 オリジナルサウンドトラック"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LC-1715",
+            "date": "2009-01-15",
+            "link": "album/10987",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Judgment Original Soundtrack",
+                "ja": "悪魔城ドラキュラ ジャッジメント オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1742",
+            "date": "2009-02-27",
+            "link": "album/11292",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS house ReMix"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-179",
+            "date": "2009-07-29",
+            "link": "album/14851",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Pachislot Ganbare Goemon Original Soundtrack",
+                "ja": "パチスロがんばれゴエモン オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SRIN-1063",
+            "date": "2009-09-02",
+            "link": "album/14040",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Violin de Hiitemita ep2 ~ Maou no Gyakushuu / Scream no Hito",
+                "ja": "ヴァイオリンで弾いてみたep2 魔王の逆襲／スクリームの人"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1791~2",
+            "date": "2009-10-23",
+            "link": "album/15304",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GuitarFreaksV6 & DrumManiaV6 BLAZING!!!! Original Soundtracks"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "DERP-10005",
+            "date": "2009-11-25",
+            "link": "album/15644",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PiA-COM I / PIA-COMS",
+                "ja": "ピアコンI / ピアコンズ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1862",
+            "date": "2010-02-04",
+            "link": "album/16419",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Boku wo Sagashi ni / Sana",
+                "ja": "ボクをさがしに / Sana"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1850",
+            "date": "2010-03-24",
+            "link": "album/17109",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dracula Densetsu ReBirth & Contra ReBirth Original Soundtrack",
+                "ja": "ドラキュラ伝説 ReBirth ＆ 魂斗羅 ReBirth オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-228",
+            "date": "2010-07-21",
+            "link": "album/19574",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pachislot Akumajo Dracula II Original Soundtrack",
+                "ja": "パチスロ悪魔城ドラキュラ II ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EBCD-0001",
+            "date": "2010-09-11",
+            "link": "album/20629",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PRESS START The 5th Anniversary"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "DERP-10006",
+            "date": "2010-09-22",
+            "link": "album/20042",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "PiA-COM II / PIA-COMS",
+                "ja": "ピアコンII / ピアコンズ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-10-05",
+            "link": "album/20762",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania ~Lords of Shadow~ Soundtrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-10-19",
+            "link": "album/20980",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VIDEO GAMES LIVE: LEVEL 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SF 12324",
+            "date": "2010-10-19",
+            "link": "album/20979",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VIDEO GAMES LIVE: LEVEL 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-240~1",
+            "date": "2010-10-27",
+            "link": "album/20918",
+            "roles": [
+                "Performer"
+            ],
+            "titles": {
+                "en": "GuitarFreaksXG & DrumManiaXG Original Soundtracks rising edition",
+                "ja": "GuitarFreaksXG & DrumManiaXG オリジナルサントラ rising edition"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-270~2",
+            "date": "2010-12-22",
+            "link": "album/23013",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Slot Uta♪",
+                "ja": "スロうた♪"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1957",
+            "date": "2011-01-13",
+            "link": "album/21874",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Tribute Vol.1",
+                "ja": "悪魔城ドラキュラトリビュート Vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1958",
+            "date": "2011-01-13",
+            "link": "album/21875",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula Tribute Vol.2",
+                "ja": "悪魔城ドラキュラトリビュート Vol.2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1960",
+            "date": "2011-01-13",
+            "link": "album/21877",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula: Harmony of Despair Original Soundtrack",
+                "ja": "悪魔城ドラキュラ ハーモニー オブ ディスペアー オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-1852~4",
+            "date": "2011-03-24",
+            "link": "album/26358",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OTOMEDIUS ORIGINAL SOUNDTRACK",
+                "ja": "オトメディウス オリジナルサウンドトラック"
+            },
+            "type": "cancel"
+        },
+        {
+            "catalog": "LC-1852~4",
+            "date": "2011-04-18",
+            "link": "album/23202",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OTOMEDIUS ORIGINAL SOUNDTRACK",
+                "ja": "オトメディウス オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-2039~48",
+            "date": "2011-09-22",
+            "link": "album/26784",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KONAMI SHOOTING COLLECTION",
+                "ja": "コナミシューティングコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "GFCA-301",
+            "date": "2011-12-21",
+            "link": "album/29714",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pachislot Ganbare Goemon 2 Original Soundtrack",
+                "ja": "パチスロ がんばれゴエモン2 オリジナルサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-2102~3",
+            "date": "2012-11-21",
+            "link": "album/35992",
+            "roles": [
+                "Arranger",
+                "Programmer"
+            ],
+            "titles": {
+                "en": "GuitarFreaksXG3 & DrumManiaXG3 Original Soundtracks 2nd season"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KJP-0015US",
+            "date": "2013-02-19",
+            "link": "album/37952",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Metal Gear Rising: Revengeance Soundtrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "LC-2156~7",
+            "date": "2013-02-27",
+            "link": "album/37071",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "beatmania IIDX 20 tricoro ORIGINAL SOUNDTRACK Vol.1 [Limited Edition]"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "DR-0775~6",
+            "date": "2013-06-29",
+            "link": "album/48244",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Monster Retsuden Oreca Battle Original Soundtrack Orekangeki Music!",
+                "ja": "モンスター烈伝 オレカバトル オリジナルサウンドトラック オレカンゲキミュージック！"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-10-29",
+            "link": "album/42506",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania ~Lords of Shadow~ Exclusive Director's Cut Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SE-3070-2",
+            "date": "2013-10-29",
+            "link": "album/40717",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania ~Lords of Shadow~ Ultimate Edition Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "LC-2196~97",
+            "date": "2013-12-25",
+            "link": "album/42705",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "beatmania IIDX 21 SPADA ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-04-30",
+            "link": "album/45730",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "FALSION SOUNDTRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-04-30",
+            "link": "album/45731",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "COSMICWARS SOUNDTRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EMCA-0015",
+            "date": "2014-05-19",
+            "link": "album/44870",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "MSX RACING SPIRIT SOUNDTRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EMCA-0016-1~2",
+            "date": "2014-05-19",
+            "link": "album/44869",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "WAIWAI WORLD 1&2 SOUND COLLECTION",
+                "ja": "ワイワイワールド1＆2　サウンドコレクション"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-05-30",
+            "link": "album/46264",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Konami no Uranai Sensation SOUNDTRACKS",
+                "ja": "コナミの占いセンセーション SOUNDTRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-05-30",
+            "link": "album/46613",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "QUARTH SOUNDTRACKS",
+                "ja": "QUARTH SOUNDTRACKS （FC版）"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-06-30",
+            "link": "album/46614",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "King's Valley The Seal of El Giza SOUNDTRACKS",
+                "ja": "王家の谷 エルギーザの封印 SOUNDTRACKS (MSX版)"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-06-30",
+            "link": "album/46615",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Dracula II Noroi no Fuuin SOUNDTRACKS",
+                "ja": "ドラキュラII　呪いの封印 SOUNDTRACKS （FC国内版）"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-06-30",
+            "link": "album/46616",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania II Simon's Quest SOUNDTRACKS",
+                "ja": "Castlevania II Simon's Quest SOUNDTRACKS （NES海外版）"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EMCA-0017",
+            "date": "2014-07-01",
+            "link": "album/46610",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Esper Dream 1 & 2 Sound Memorial",
+                "ja": "エスパードリーム1＆2　さうんどめもりある"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-07-31",
+            "link": "album/47198",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "GRADIUS II SOUNDTRACKS",
+                "ja": "GRADIUSII SOUNDTRACKS (FC版)"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-08-14",
+            "link": "album/47556",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Special: Boku Dracula-kun SOUNDTRACKS",
+                "ja": "悪魔城すぺしゃる ぼくドラキュラくん SOUNDTRACKS (FC版)"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EMCA-0018",
+            "date": "2014-09-01",
+            "link": "album/47557",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Konami Famicom Chronicle Vol.1: Disk System Compilation",
+                "ja": "コナミ・ファミコン・クロニクル Vol.1 ディスクシステム編"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-10-07",
+            "link": "album/48560",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Densetsu SOUND TRACKS",
+                "ja": "悪魔城伝説 SOUND TRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-10-07",
+            "link": "album/48562",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania III Dracula's Curse SOUND TRACKS"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EMCA-0019",
+            "date": "2014-10-31",
+            "link": "album/48296",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Konami Famicom Chronicle Vol.2: Disk System Compilation",
+                "ja": "コナミ・ファミコン・クロニクル Vol.2 ディスクシステム編"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-12-19",
+            "link": "album/50276",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MOTOCROSS MANIACS 1&2 SOUNDTRACKS",
+                "ja": "モトクロスマニアックス1&2 SOUNDTRACKS"
+            },
+            "type": "game"
+        }
+    ],
+    "featured_on": [
+        {
+            "catalog": "N/A",
+            "date": "1996-12-29",
+            "link": "album/13972",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SJV Sound Adventure Series Vol.1"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WDCD-0009",
+            "date": "1997",
+            "link": "album/34052",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Hot Snow"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KICA-7861",
+            "date": "1998-04-03",
+            "link": "album/2020",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Twinbee RPG Original Game Soundtrack",
+                "ja": "ツインビーRPG オリジナル・ゲーム・サントラ"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "SDCD-0003",
+            "date": "1999-12-24",
+            "link": "album/29785",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The End of the Century"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCA-51",
+            "date": "2000-03-16",
+            "link": "album/2612",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEYBOARDMANIA Original Soundtracks"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KRAID1",
+            "date": "2000-06-15",
+            "link": "album/4636",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Minibosses"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KMCA-60",
+            "date": "2000-06-16",
+            "link": "album/7248",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "beatmania III // new songs collection"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-74",
+            "date": "2000-12-06",
+            "link": "album/1625",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEYBOARDMANIA 2nd MIX + consumer1 new songs"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KMCA-90",
+            "date": "2001-04-25",
+            "link": "album/1615",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "KEYBOARDMANIA 3rd MIX Original Soundtracks"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2002",
+            "link": "album/49559",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Attack The GRADIUS ~Challengers 2002~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WMCD-0001",
+            "date": "2002-10-20",
+            "link": "album/39754",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Onkochishin Nendaiki Castlevania",
+                "ja": "温故知新年代記 Castlevania"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KOLA-005",
+            "date": "2002-11-07",
+            "link": "album/7201",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "A.P.J. Labyrinthos"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MTK2-TK-001",
+            "date": "2002-12-30",
+            "link": "album/29671",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pocket Watch Gaiden Metal Attitude: Spirit",
+                "ja": "懐中時計外伝 Metal Attitude・魂"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RLCD-0011",
+            "date": "2002-12-30",
+            "link": "album/19301",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Nemesis"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SSH-666",
+            "date": "2002-12-30",
+            "link": "album/5632",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "MADE in Saitama",
+                "ja": "冥土陰埼玉～MADE in Saitama",
+                "ja-latn": "Meido In Saitama~MADE in Saitama"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2003",
+            "link": "album/5807",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Gromix Collection #2"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ger028",
+            "date": "2004-04-06",
+            "link": "album/4610",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Advantage"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KOLA-066~7",
+            "date": "2004-05-19",
+            "link": "album/1330",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "beatmania IIDX 10th style Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "CDR-08",
+            "date": "2004-08-15",
+            "link": "album/13040",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SHOOTINGBATTLE 3rdATTACK -STGBTL3-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KOLA-081",
+            "date": "2004-08-18",
+            "link": "album/273",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GRADIUS V SOUNDTRACKS",
+                "ja": "グラディウス ファイブ　サウンドトラックス"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MTSR-2",
+            "date": "2004-12-30",
+            "link": "album/4621",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Dracula -Odi et amo-",
+                "ja": "悪魔城ドラキュラ -Odi et amo-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EZCD-0011",
+            "date": "2005-04-24",
+            "link": "album/14357",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Game Music \"Chronicle",
+                "ja": "ゲームミュージック ”クロニクル”"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "FHCA-0001",
+            "date": "2005-05-01",
+            "link": "album/10600",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Onkochishin Nendaiki Castlevania",
+                "ja": "温故知新年代記 Castlevania"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WRCD-0005",
+            "date": "2005-12-30",
+            "link": "album/5320",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Detana!! K-STYLE ~School Mizugi de Ooabare!!~",
+                "ja": "出たな!! K-STYLE 〜スクール水着で大あばれ!!〜"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ger050",
+            "date": "2006-01-24",
+            "link": "album/4611",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Elf Titled"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LC-1491~2",
+            "date": "2006-08-11",
+            "link": "album/4212",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "beatmania IIDX 13 DistorteD ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "eJdcl-017",
+            "date": "2006-08-13",
+            "link": "album/9563",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Lost Vampire Killer: Dracula arrangement album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EZCD-0015",
+            "date": "2006-12-31",
+            "link": "album/14456",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Game Music Battle ManiaX Second Duel",
+                "ja": "ゲームミュージック バトルマニアックス・セカンドデュエル"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WGCD-0002",
+            "date": "2007",
+            "link": "album/7352",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "wasag mixed tape"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ASIA-0001",
+            "date": "2007-04-29",
+            "link": "album/14000",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Four Polyphonic Magic 3",
+                "ja": "ふぉ～ぽりふぉにっくまじっく3"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LC-1586~8",
+            "date": "2007-09-28",
+            "link": "album/6393",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "pop'n music 15 ADVENTURE AC ♥ CS pop'n music 14 FEVER!",
+                "ja": "ポップンミュージック15 ADVENTUREサウンドトラック"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "MTSC-8",
+            "date": "2007-12-30",
+            "link": "album/5986",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Energy Force -GRADIUS & SALAMANDER-",
+                "ja": "エナジーフォス -グラディス&サラマンダ-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "RLCD-0018",
+            "date": "2007-12-31",
+            "link": "album/11034",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Fiori Celesti -Shooting Best-",
+                "ja": "Fiori Celesti -天空の華-",
+                "ja-latn": "Fiori Celesti -Tenkuu no Hana-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2008",
+            "link": "album/14757",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Rock'n Twinbee"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WIZ003",
+            "date": "2008-01-03",
+            "link": "album/6152",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Robotic Operating Buddy"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "AKLF-023",
+            "date": "2008-08-16",
+            "link": "album/10144",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Gradius III -From Legend to Myth-",
+                "ja": "GRADIUSⅢ -伝説から神話へ"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EZCD-0017",
+            "date": "2008-08-16",
+            "link": "album/10406",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Game Music Battle climaX",
+                "ja": "ゲームミュージック バトル クライマックス"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ASIA-0020",
+            "date": "2008-12-29",
+            "link": "album/15310",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "SKA-MUSE!! / SKA-G"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009",
+            "link": "album/26544",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Metal Girl Solid"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-05-19",
+            "link": "album/13530",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "More Games"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GFCA-173",
+            "date": "2009-06-24",
+            "link": "album/13235",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pachislot Akumajo Dracula Original Soundtrack",
+                "ja": "パチスロ悪魔城ドラキュラ ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-08-15",
+            "link": "album/15048",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "DLC Operetta Pack",
+                "ja": "DLC オペレッタパック"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "EZCD-0019",
+            "date": "2009-12-30",
+            "link": "album/17409",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Shooting Best Collection 1st Stage",
+                "ja": "シューティング・ベスト -1st Stage-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-05-05",
+            "link": "album/19305",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "BigWave"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRBL-0007",
+            "date": "2010-08-14",
+            "link": "album/20564",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OVERBLAST!! x2 Shooting Game Arrange Compilation Album"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-08-25",
+            "link": "album/41545",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VG Soundtrack Legacy"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "CPCD-0011",
+            "date": "2010-10-31",
+            "link": "album/36532",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Credit",
+                "ja": "クレジット"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2010-12-31",
+            "link": "album/23009",
+            "roles": [
+                "Composer (as Konami Industry Co.",
+                "Ltd.)"
+            ],
+            "titles": {
+                "en": "Gradius II m_box VIPER Arrange",
+                "ja": "グラディウス2 m_box VIPER Arrange"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "NKRN04",
+            "date": "2011-05-01",
+            "link": "album/29331",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "NKRN 4",
+                "ja": "贄 Killer 9 #4",
+                "ja-latn": "Nie Killer 9 #4"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ETZCD-SP04",
+            "date": "2011-08-13",
+            "link": "album/29427",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "EtlanZ Special Disc 2011 -10th Anniversary-",
+                "ja": "エトランゼ スペシャルディスク 2011 -10th Anniversary-"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "MTST-2",
+            "date": "2011-12-31",
+            "link": "album/30962",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "FCDS FM TUNES"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WDCD-0037",
+            "date": "2011-12-31",
+            "link": "album/30656",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Akumajo Onkochishin Nendaiki",
+                "ja": "悪魔城 温故知新年代記"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "GFCA-310",
+            "date": "2012-02-22",
+            "link": "album/30763",
+            "roles": [
+                "Composer",
+                "Arranger"
+            ],
+            "titles": {
+                "en": "Pachislot Akumajo Dracula III Original Soundtrack",
+                "ja": "パチスロ悪魔城ドラキュラ III ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "EZCD-0020",
+            "date": "2012-08-11",
+            "link": "album/36440",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Blood X Blood Akumajo Music History",
+                "ja": "Blood X Blood 悪魔城音樂史",
+                "ja-latn": "Blood X Blood Akumajo Ongaku-shi"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "HMCD-0001",
+            "date": "2012-08-12",
+            "link": "album/47080",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "GameMusicRemixes Vol.1 STG-Cluster"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2012-12-10",
+            "link": "album/38437",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Best of Hyde209 Vol 1."
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "SBFR-0041",
+            "date": "2013-04-29",
+            "link": "album/41339",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "We Bros. eXtend"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-06-15",
+            "link": "album/40070",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Cyberpast"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-09-16",
+            "link": "album/41830",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Castlevania"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-09-21",
+            "link": "album/41722",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "LET ME TELL YOU A STORY"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "LOUDR-1213",
+            "date": "2013-09-30",
+            "link": "album/42062",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "VGM Acapella: Volume 3"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-10-10",
+            "link": "album/42710",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Free ReMix Collection"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-10-27",
+            "link": "album/45552",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "P'z Music Collection Volume.1 ~GAME MUSIC Orchestra~"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "KNGIA-0005",
+            "date": "2013-10-31",
+            "link": "album/42516",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Vampire Variations Volume II"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2013-12-07",
+            "link": "album/45558",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "The Faraway Overworld"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "TRBL-0013",
+            "date": "2013-12-31",
+            "link": "album/45047",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "OVERBLAST!!! The 3rd Stage"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "WDCD-0040",
+            "date": "2013-12-31",
+            "link": "album/47445",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Pastel Bee!!",
+                "ja": "パステルBee!!"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-02-27",
+            "link": "album/45578",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Live from: The Great American Music Hall"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-04-20",
+            "link": "album/45579",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Where Evil Dwells"
+            },
+            "type": "doujin"
+        },
+        {
+            "catalog": "ME-007",
+            "date": "2014-10-15",
+            "link": "album/48672",
+            "roles": [
+                "Composer"
+            ],
+            "titles": {
+                "en": "Songs for the Recently Deceased"
+            },
+            "type": "game"
+        }
+    ],
+    "info": {
+        "Album Votes": "1967 votes for 216 albums",
+        "Aliases": [
+            {
+                "names": {
+                    "en": "Konami Sound Staff"
+                }
+            },
+            {
+                "names": {
+                    "en": "Konami Industry Co.,Ltd."
+                }
+            },
+            {
+                "names": {
+                    "en": "Kukeiha Club"
+                }
+            },
+            {
+                "names": {
+                    "en": "KCET Sound Team"
+                }
+            },
+            {
+                "names": {
+                    "en": "KCE Japan Seishoujo Kantai Virgin Fleet Sound Team"
+                }
+            }
+        ],
+        "Credited works": [
+            "374 albums in database",
+            "371 composer credits",
+            "41 arranger credits",
+            "12 performer credits",
+            "5 lyricist credits"
+        ],
+        "Former Members": [
+            {
+                "link": "artist/413",
+                "names": {
+                    "en": "Aki Hata",
+                    "ja": "畑亜貴"
+                }
+            },
+            {
+                "link": "artist/452",
+                "names": {
+                    "en": "akiropito",
+                    "ja": "あきろぴと"
+                }
+            },
+            {
+                "link": "artist/1074",
+                "names": {
+                    "en": "Harumi Ueko",
+                    "ja": "上高治巳"
+                }
+            },
+            {
+                "link": "artist/3446",
+                "names": {
+                    "en": "Hideyuki Eto",
+                    "ja": "衛藤英幸"
+                }
+            },
+            {
+                "link": "artist/3157",
+                "names": {
+                    "en": "Hirofumi Taniguchi",
+                    "ja": "谷口博史"
+                }
+            },
+            {
+                "link": "artist/2206",
+                "names": {
+                    "en": "Hiroshi Tamawari",
+                    "ja": "田廻弘志"
+                }
+            },
+            {
+                "link": "artist/1874",
+                "names": {
+                    "en": "Iku Mizutani",
+                    "ja": "水谷郁"
+                }
+            },
+            {
+                "link": "artist/5923",
+                "names": {
+                    "en": "Kozo Nakamura",
+                    "ja": "中村康三"
+                }
+            },
+            {
+                "link": "artist/3021",
+                "names": {
+                    "en": "Masanori Adachi",
+                    "ja": "安達昌宣"
+                }
+            },
+            {
+                "link": "artist/758",
+                "names": {
+                    "en": "Mayuko Kageshita",
+                    "ja": "陰下真由子"
+                }
+            },
+            {
+                "link": "artist/191",
+                "names": {
+                    "en": "Miki Higashino",
+                    "ja": "東野美紀"
+                }
+            },
+            {
+                "link": "artist/1804",
+                "names": {
+                    "en": "Naoki Maeda",
+                    "ja": "前田尚紀"
+                }
+            },
+            {
+                "link": "artist/1587",
+                "names": {
+                    "en": "Norio Hanzawa",
+                    "ja": "半沢紀雄"
+                }
+            },
+            {
+                "link": "artist/7111",
+                "names": {
+                    "en": "Takashi Tateishi",
+                    "ja": "立石孝"
+                }
+            },
+            {
+                "link": "artist/325",
+                "names": {
+                    "en": "Taro Kudo",
+                    "ja": "工藤太郎"
+                }
+            },
+            {
+                "link": "artist/6058",
+                "names": {
+                    "en": "Tomoya Tomita",
+                    "ja": "冨田朋也"
+                }
+            },
+            {
+                "link": "artist/1270",
+                "names": {
+                    "en": "Kinuyo Yamashita",
+                    "ja": "山下絹代"
+                }
+            },
+            {
+                "link": "artist/2891",
+                "names": {
+                    "en": "Kiyohiro Sada",
+                    "ja": "禎清宏"
+                }
+            },
+            {
+                "link": "artist/4767",
+                "names": {
+                    "en": "Kazuki Muraoka",
+                    "ja": "村岡一樹"
+                }
+            },
+            {
+                "link": "artist/224",
+                "names": {
+                    "en": "Tsuyoshi Sekito",
+                    "ja": "関戸剛"
+                }
+            },
+            {
+                "link": "artist/162",
+                "names": {
+                    "en": "Motoaki Furukawa",
+                    "ja": "古川もとあき"
+                }
+            },
+            {
+                "link": "artist/9980",
+                "names": {
+                    "en": "Kouji Murata",
+                    "ja": "村田幸史"
+                }
+            },
+            {
+                "link": "artist/334",
+                "names": {
+                    "en": "Michiru Yamane",
+                    "ja": "山根ミチル"
+                }
+            },
+            {
+                "link": "artist/10755",
+                "names": {
+                    "en": "Satoko Minami",
+                    "ja": "みなみさとこ"
+                }
+            },
+            {
+                "link": "artist/3905",
+                "names": {
+                    "en": "Yuji Takenouchi",
+                    "ja": "竹ノ内裕治"
+                }
+            },
+            {
+                "link": "artist/294",
+                "names": {
+                    "en": "Kenichiro Fukui",
+                    "ja": "福井健一郎"
+                }
+            },
+            {
+                "link": "artist/147",
+                "names": {
+                    "en": "Junya Nakano",
+                    "ja": "仲野順也"
+                }
+            },
+            {
+                "link": "artist/3087",
+                "names": {
+                    "en": "Keizo Nakamura",
+                    "ja": "中村圭三"
+                }
+            }
+        ],
+        "Members": [
+            {
+                "link": "artist/10924",
+                "names": {
+                    "en": "Tsutomu Ogura",
+                    "ja": "小倉努"
+                }
+            },
+            {
+                "link": "artist/7631",
+                "names": {
+                    "en": "Takayuki Fujii",
+                    "ja": "藤井隆之"
+                }
+            },
+            {
+                "link": "artist/10808",
+                "names": {
+                    "en": "Akihiro Juichiya",
+                    "ja": "十一谷明広"
+                }
+            },
+            {
+                "names": {
+                    "en": "Akiko Ito"
+                }
+            },
+            {
+                "link": "artist/10926",
+                "names": {
+                    "en": "Naomitsu Ariyama",
+                    "ja": "有山尚光"
+                }
+            },
+            {
+                "link": "artist/10331",
+                "names": {
+                    "en": "Atsushi Fujio",
+                    "ja": "藤尾敦"
+                }
+            },
+            {
+                "link": "artist/196",
+                "names": {
+                    "en": "Atsushi Sato",
+                    "ja": "佐藤敦史"
+                }
+            },
+            {
+                "names": {
+                    "en": "Ayako Hashimoto"
+                }
+            },
+            {
+                "names": {
+                    "en": "Ayako Nishigaki"
+                }
+            },
+            {
+                "link": "artist/11718",
+                "names": {
+                    "en": "Eagle Sawao",
+                    "ja": "イーグル沢夫"
+                }
+            },
+            {
+                "names": {
+                    "en": "FK-King"
+                }
+            },
+            {
+                "names": {
+                    "en": "Flamingo"
+                }
+            },
+            {
+                "names": {
+                    "en": "Gaziruru"
+                }
+            },
+            {
+                "link": "artist/1558",
+                "names": {
+                    "en": "Hana Hashikawa",
+                    "ja": "橋川花"
+                }
+            },
+            {
+                "names": {
+                    "en": "Hideaki Shikama (鹿間 英章)"
+                }
+            },
+            {
+                "link": "artist/10818",
+                "names": {
+                    "en": "Hidehiro Funauchi",
+                    "ja": "船内秀浩"
+                }
+            },
+            {
+                "names": {
+                    "en": "Hideto Inoue (井上 秀登)"
+                }
+            },
+            {
+                "link": "artist/8153",
+                "names": {
+                    "en": "Hiroe Noguchi",
+                    "ja": "野口洋江"
+                }
+            },
+            {
+                "link": "artist/11391",
+                "names": {
+                    "en": "Jun Chuma",
+                    "ja": "中馬淳"
+                }
+            },
+            {
+                "link": "artist/1765",
+                "names": {
+                    "en": "Jun Funahashi",
+                    "ja": "船橋淳"
+                }
+            },
+            {
+                "link": "artist/2790",
+                "names": {
+                    "en": "Junichiro Kaneda",
+                    "ja": "兼田潤一郎"
+                }
+            },
+            {
+                "names": {
+                    "en": "Kaori Kinouchi (木内 薫)"
+                }
+            },
+            {
+                "link": "artist/3354",
+                "names": {
+                    "en": "Kazuhiro Senoo",
+                    "ja": "妹尾和浩"
+                }
+            },
+            {
+                "link": "artist/11716",
+                "names": {
+                    "en": "Kazuhito Imai",
+                    "ja": "今井一仁"
+                }
+            },
+            {
+                "link": "artist/2744",
+                "names": {
+                    "en": "Ken-ichi Matsubara",
+                    "ja": "松原健一"
+                }
+            },
+            {
+                "names": {
+                    "en": "Keroppy Inoue (けろっぴ いのうえ)"
+                }
+            },
+            {
+                "names": {
+                    "en": "Kiyohiko Yamane (山根 清彦)"
+                }
+            },
+            {
+                "names": {
+                    "en": "M. Shirakawa"
+                }
+            },
+            {
+                "link": "artist/9939",
+                "names": {
+                    "en": "Mariko Egawa",
+                    "ja": "江川麻理子"
+                }
+            },
+            {
+                "link": "artist/7675",
+                "names": {
+                    "en": "Masae Nakashima",
+                    "ja": "中島正恵"
+                }
+            },
+            {
+                "link": "artist/1817",
+                "names": {
+                    "en": "Masahiro Ikariko",
+                    "ja": "碇子正広"
+                }
+            },
+            {
+                "names": {
+                    "en": "Masanari Iwata (岩田 昌成)"
+                }
+            },
+            {
+                "link": "artist/4573",
+                "names": {
+                    "en": "Masanori Oouchi",
+                    "ja": "大内正徳"
+                }
+            },
+            {
+                "link": "artist/1796",
+                "names": {
+                    "en": "Mutsuhiko Izumi",
+                    "ja": "泉陸奥彦"
+                }
+            },
+            {
+                "link": "artist/2449",
+                "names": {
+                    "en": "Nazo² Suzuki",
+                    "ja": "なぞなぞ鈴木"
+                }
+            },
+            {
+                "link": "artist/747",
+                "names": {
+                    "en": "Norikazu Miura",
+                    "ja": "三浦憲和"
+                }
+            },
+            {
+                "names": {
+                    "en": "Noriko Gushiken"
+                }
+            },
+            {
+                "names": {
+                    "en": "Noriko Takahashi (高橋 紀子)"
+                }
+            },
+            {
+                "link": "artist/15387",
+                "names": {
+                    "en": "nor"
+                }
+            },
+            {
+                "link": "artist/1764",
+                "names": {
+                    "en": "Seiichi Fukami",
+                    "ja": "深見誠一"
+                }
+            },
+            {
+                "names": {
+                    "en": "S. Masuda"
+                }
+            },
+            {
+                "link": "artist/11441",
+                "names": {
+                    "en": "Satoe Terashima",
+                    "ja": "寺島里恵"
+                }
+            },
+            {
+                "link": "artist/6294",
+                "names": {
+                    "en": "Satoko Miyawaki",
+                    "ja": "宮脇聡子"
+                }
+            },
+            {
+                "link": "artist/1559",
+                "names": {
+                    "en": "Sayaka Yamaoka",
+                    "ja": "山岡さやか"
+                }
+            },
+            {
+                "link": "artist/1562",
+                "names": {
+                    "en": "Seiya Murai",
+                    "ja": "村井聖夜"
+                }
+            },
+            {
+                "names": {
+                    "en": "Shigehiro Takenouchi"
+                }
+            },
+            {
+                "names": {
+                    "en": "Shigemasa Matsuo (松尾 成真)"
+                }
+            },
+            {
+                "names": {
+                    "en": "Shigeru Fukutake (福武 茂)"
+                }
+            },
+            {
+                "link": "artist/4852",
+                "names": {
+                    "en": "Shinji Tasaka"
+                }
+            },
+            {
+                "link": "artist/10801",
+                "names": {
+                    "en": "Shinya Sakamoto",
+                    "ja": "坂元信也"
+                }
+            },
+            {
+                "names": {
+                    "en": "T"
+                }
+            },
+            {
+                "names": {
+                    "en": "Takahito Uenishi (上西 隆仁)"
+                }
+            },
+            {
+                "names": {
+                    "en": "Tomoko Nishikawa"
+                }
+            },
+            {
+                "link": "artist/7088",
+                "names": {
+                    "en": "Tomoko Sano",
+                    "ja": "佐野朋子"
+                }
+            },
+            {
+                "link": "artist/2745",
+                "names": {
+                    "en": "Tonma-kun no Papa",
+                    "ja": "とんまくんのパパ"
+                }
+            },
+            {
+                "link": "artist/2805",
+                "names": {
+                    "en": "Yoshiyuki Hagiwara"
+                }
+            },
+            {
+                "names": {
+                    "en": "Y. Uno"
+                }
+            },
+            {
+                "names": {
+                    "en": "Yasuhiko Manno"
+                }
+            },
+            {
+                "link": "artist/5706",
+                "names": {
+                    "en": "Yoshiaki Hatano",
+                    "ja": "はたのよしあき"
+                }
+            },
+            {
+                "link": "artist/13314",
+                "names": {
+                    "en": "Yoshinori Sasaki",
+                    "ja": "佐々木嘉則"
+                }
+            },
+            {
+                "link": "artist/6076",
+                "names": {
+                    "en": "You Takamine",
+                    "ja": "ゆー・たかみん"
+                }
+            },
+            {
+                "link": "artist/2074",
+                "names": {
+                    "en": "Yuichi Asami",
+                    "ja": "浅見祐一"
+                }
+            },
+            {
+                "names": {
+                    "en": "Yuichi Sakakura (坂倉 雄一)"
+                }
+            },
+            {
+                "link": "artist/2242",
+                "names": {
+                    "en": "Yukie Morimoto",
+                    "ja": "森本ゆきえ"
+                }
+            },
+            {
+                "names": {
+                    "en": "Yuko Chan"
+                }
+            },
+            {
+                "names": {
+                    "en": "Yuko Kurahashi"
+                }
+            },
+            {
+                "link": "artist/1073",
+                "names": {
+                    "en": "Kazuhiko Uehara",
+                    "ja": "上原和彦"
+                }
+            },
+            {
+                "link": "artist/3229",
+                "names": {
+                    "en": "Hidenori Maezawa",
+                    "ja": "前澤ヒデノリ"
+                }
+            },
+            {
+                "link": "artist/1557",
+                "names": {
+                    "en": "Mikio Saito",
+                    "ja": "斎藤幹雄"
+                }
+            },
+            {
+                "link": "artist/333",
+                "names": {
+                    "en": "Tappi Iwase",
+                    "ja": "岩瀬立飛"
+                }
+            },
+            {
+                "link": "artist/4248",
+                "names": {
+                    "en": "Yoshihiko Koezuka",
+                    "ja": "肥塚良彦"
+                }
+            },
+            {
+                "link": "artist/746",
+                "names": {
+                    "en": "Masahiko Kimura",
+                    "ja": "木村雅彦"
+                }
+            },
+            {
+                "link": "artist/1549",
+                "names": {
+                    "en": "Nobuyuki Akena",
+                    "ja": "安慶名伸行"
+                }
+            },
+            {
+                "link": "artist/1552",
+                "names": {
+                    "en": "Saiko Miki",
+                    "ja": "三木彩子"
+                }
+            }
+        ],
+        "Variations": [
+            "KUKEIHAKURABU",
+            "Konami",
+            "Club Kukeiha"
+        ],
+        "Weighted album rating": [
+            "8/10"
+        ]
+    },
+    "link": "artist/161",
+    "members": [
+        {
+            "link": "artist/10924",
+            "names": {
+                "en": "Tsutomu Ogura",
+                "ja": "小倉努"
+            }
+        },
+        {
+            "link": "artist/7631",
+            "names": {
+                "en": "Takayuki Fujii",
+                "ja": "藤井隆之"
+            }
+        },
+        {
+            "link": "artist/10808",
+            "names": {
+                "en": "Akihiro Juichiya",
+                "ja": "十一谷明広"
+            }
+        },
+        {
+            "names": {
+                "en": "Akiko Ito"
+            }
+        },
+        {
+            "link": "artist/10926",
+            "names": {
+                "en": "Naomitsu Ariyama",
+                "ja": "有山尚光"
+            }
+        },
+        {
+            "link": "artist/10331",
+            "names": {
+                "en": "Atsushi Fujio",
+                "ja": "藤尾敦"
+            }
+        },
+        {
+            "link": "artist/196",
+            "names": {
+                "en": "Atsushi Sato",
+                "ja": "佐藤敦史"
+            }
+        },
+        {
+            "names": {
+                "en": "Ayako Hashimoto"
+            }
+        },
+        {
+            "names": {
+                "en": "Ayako Nishigaki"
+            }
+        },
+        {
+            "link": "artist/11718",
+            "names": {
+                "en": "Eagle Sawao",
+                "ja": "イーグル沢夫"
+            }
+        },
+        {
+            "names": {
+                "en": "FK-King"
+            }
+        },
+        {
+            "names": {
+                "en": "Flamingo"
+            }
+        },
+        {
+            "names": {
+                "en": "Gaziruru"
+            }
+        },
+        {
+            "link": "artist/1558",
+            "names": {
+                "en": "Hana Hashikawa",
+                "ja": "橋川花"
+            }
+        },
+        {
+            "names": {
+                "en": "Hideaki Shikama (鹿間 英章)"
+            }
+        },
+        {
+            "link": "artist/10818",
+            "names": {
+                "en": "Hidehiro Funauchi",
+                "ja": "船内秀浩"
+            }
+        },
+        {
+            "names": {
+                "en": "Hideto Inoue (井上 秀登)"
+            }
+        },
+        {
+            "link": "artist/8153",
+            "names": {
+                "en": "Hiroe Noguchi",
+                "ja": "野口洋江"
+            }
+        },
+        {
+            "link": "artist/11391",
+            "names": {
+                "en": "Jun Chuma",
+                "ja": "中馬淳"
+            }
+        },
+        {
+            "link": "artist/1765",
+            "names": {
+                "en": "Jun Funahashi",
+                "ja": "船橋淳"
+            }
+        },
+        {
+            "link": "artist/2790",
+            "names": {
+                "en": "Junichiro Kaneda",
+                "ja": "兼田潤一郎"
+            }
+        },
+        {
+            "names": {
+                "en": "Kaori Kinouchi (木内 薫)"
+            }
+        },
+        {
+            "link": "artist/3354",
+            "names": {
+                "en": "Kazuhiro Senoo",
+                "ja": "妹尾和浩"
+            }
+        },
+        {
+            "link": "artist/11716",
+            "names": {
+                "en": "Kazuhito Imai",
+                "ja": "今井一仁"
+            }
+        },
+        {
+            "link": "artist/2744",
+            "names": {
+                "en": "Ken-ichi Matsubara",
+                "ja": "松原健一"
+            }
+        },
+        {
+            "names": {
+                "en": "Keroppy Inoue (けろっぴ いのうえ)"
+            }
+        },
+        {
+            "names": {
+                "en": "Kiyohiko Yamane (山根 清彦)"
+            }
+        },
+        {
+            "names": {
+                "en": "M. Shirakawa"
+            }
+        },
+        {
+            "link": "artist/9939",
+            "names": {
+                "en": "Mariko Egawa",
+                "ja": "江川麻理子"
+            }
+        },
+        {
+            "link": "artist/7675",
+            "names": {
+                "en": "Masae Nakashima",
+                "ja": "中島正恵"
+            }
+        },
+        {
+            "link": "artist/1817",
+            "names": {
+                "en": "Masahiro Ikariko",
+                "ja": "碇子正広"
+            }
+        },
+        {
+            "names": {
+                "en": "Masanari Iwata (岩田 昌成)"
+            }
+        },
+        {
+            "link": "artist/4573",
+            "names": {
+                "en": "Masanori Oouchi",
+                "ja": "大内正徳"
+            }
+        },
+        {
+            "link": "artist/1796",
+            "names": {
+                "en": "Mutsuhiko Izumi",
+                "ja": "泉陸奥彦"
+            }
+        },
+        {
+            "link": "artist/2449",
+            "names": {
+                "en": "Nazo² Suzuki",
+                "ja": "なぞなぞ鈴木"
+            }
+        },
+        {
+            "link": "artist/747",
+            "names": {
+                "en": "Norikazu Miura",
+                "ja": "三浦憲和"
+            }
+        },
+        {
+            "names": {
+                "en": "Noriko Gushiken"
+            }
+        },
+        {
+            "names": {
+                "en": "Noriko Takahashi (高橋 紀子)"
+            }
+        },
+        {
+            "link": "artist/15387",
+            "names": {
+                "en": "nor"
+            }
+        },
+        {
+            "link": "artist/1764",
+            "names": {
+                "en": "Seiichi Fukami",
+                "ja": "深見誠一"
+            }
+        },
+        {
+            "names": {
+                "en": "S. Masuda"
+            }
+        },
+        {
+            "link": "artist/11441",
+            "names": {
+                "en": "Satoe Terashima",
+                "ja": "寺島里恵"
+            }
+        },
+        {
+            "link": "artist/6294",
+            "names": {
+                "en": "Satoko Miyawaki",
+                "ja": "宮脇聡子"
+            }
+        },
+        {
+            "link": "artist/1559",
+            "names": {
+                "en": "Sayaka Yamaoka",
+                "ja": "山岡さやか"
+            }
+        },
+        {
+            "link": "artist/1562",
+            "names": {
+                "en": "Seiya Murai",
+                "ja": "村井聖夜"
+            }
+        },
+        {
+            "names": {
+                "en": "Shigehiro Takenouchi"
+            }
+        },
+        {
+            "names": {
+                "en": "Shigemasa Matsuo (松尾 成真)"
+            }
+        },
+        {
+            "names": {
+                "en": "Shigeru Fukutake (福武 茂)"
+            }
+        },
+        {
+            "link": "artist/4852",
+            "names": {
+                "en": "Shinji Tasaka"
+            }
+        },
+        {
+            "link": "artist/10801",
+            "names": {
+                "en": "Shinya Sakamoto",
+                "ja": "坂元信也"
+            }
+        },
+        {
+            "names": {
+                "en": "T"
+            }
+        },
+        {
+            "names": {
+                "en": "Takahito Uenishi (上西 隆仁)"
+            }
+        },
+        {
+            "names": {
+                "en": "Tomoko Nishikawa"
+            }
+        },
+        {
+            "link": "artist/7088",
+            "names": {
+                "en": "Tomoko Sano",
+                "ja": "佐野朋子"
+            }
+        },
+        {
+            "link": "artist/2745",
+            "names": {
+                "en": "Tonma-kun no Papa",
+                "ja": "とんまくんのパパ"
+            }
+        },
+        {
+            "link": "artist/2805",
+            "names": {
+                "en": "Yoshiyuki Hagiwara"
+            }
+        },
+        {
+            "names": {
+                "en": "Y. Uno"
+            }
+        },
+        {
+            "names": {
+                "en": "Yasuhiko Manno"
+            }
+        },
+        {
+            "link": "artist/5706",
+            "names": {
+                "en": "Yoshiaki Hatano",
+                "ja": "はたのよしあき"
+            }
+        },
+        {
+            "link": "artist/13314",
+            "names": {
+                "en": "Yoshinori Sasaki",
+                "ja": "佐々木嘉則"
+            }
+        },
+        {
+            "link": "artist/6076",
+            "names": {
+                "en": "You Takamine",
+                "ja": "ゆー・たかみん"
+            }
+        },
+        {
+            "link": "artist/2074",
+            "names": {
+                "en": "Yuichi Asami",
+                "ja": "浅見祐一"
+            }
+        },
+        {
+            "names": {
+                "en": "Yuichi Sakakura (坂倉 雄一)"
+            }
+        },
+        {
+            "link": "artist/2242",
+            "names": {
+                "en": "Yukie Morimoto",
+                "ja": "森本ゆきえ"
+            }
+        },
+        {
+            "names": {
+                "en": "Yuko Chan"
+            }
+        },
+        {
+            "names": {
+                "en": "Yuko Kurahashi"
+            }
+        },
+        {
+            "link": "artist/1073",
+            "names": {
+                "en": "Kazuhiko Uehara",
+                "ja": "上原和彦"
+            }
+        },
+        {
+            "link": "artist/3229",
+            "names": {
+                "en": "Hidenori Maezawa",
+                "ja": "前澤ヒデノリ"
+            }
+        },
+        {
+            "link": "artist/1557",
+            "names": {
+                "en": "Mikio Saito",
+                "ja": "斎藤幹雄"
+            }
+        },
+        {
+            "link": "artist/333",
+            "names": {
+                "en": "Tappi Iwase",
+                "ja": "岩瀬立飛"
+            }
+        },
+        {
+            "link": "artist/4248",
+            "names": {
+                "en": "Yoshihiko Koezuka",
+                "ja": "肥塚良彦"
+            }
+        },
+        {
+            "link": "artist/746",
+            "names": {
+                "en": "Masahiko Kimura",
+                "ja": "木村雅彦"
+            }
+        },
+        {
+            "link": "artist/1549",
+            "names": {
+                "en": "Nobuyuki Akena",
+                "ja": "安慶名伸行"
+            }
+        },
+        {
+            "link": "artist/1552",
+            "names": {
+                "en": "Saiko Miki",
+                "ja": "三木彩子"
+            }
+        }
+    ],
+    "meta": {
+        "added_date": "2007-10-19T10:12",
+        "edited_date": "2009-03-25T15:38",
+        "ttl": 86400,
+        "visitors": 19629
+    },
+    "name": "Konami Kukeiha Club",
+    "name_real": "コナミ矩形波倶楽部",
+    "name_trans": "こなみくけいはくらぶ",
+    "notes": "Literally \"Konami Square Wave Club,\" collective name for the Konami sound production staff. Not to be confused with Kukeiha Club, Konami's in house band which performed arranged and original works.",
+    "picture_full": "http://vgmdb.net/db/assets/portraits/161-1263162415.jpg",
+    "picture_small": "http://vgmdb.net/db/assets/portraits-medium/161-1263162415.jpg",
+    "type": "Unit",
+    "vgmdb_link": "http://vgmdb.net/artist/161?perpage=99999"
+}

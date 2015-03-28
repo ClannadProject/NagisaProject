@@ -1,0 +1,1275 @@
+{
+    "description": "Music label of visual novel studio VisualArt's/Key with a strong Comic Market presence, releasing mostly game soundtracks, enclosure bonuses and theme singles for their more recent animation adaptations.",
+    "link": "org/1",
+    "meta": {
+        "added_date": "2007-12-25T09:46",
+        "edited_date": "2008-10-23T08:40",
+        "ttl": 86400,
+        "visitors": 19069
+    },
+    "name": "Key Sounds Label",
+    "picture_full": "http://vgmdb.net/db/assets/logos/1-1399279576.png",
+    "picture_small": "http://vgmdb.net/db/assets/logos-medium/1-1399279576.png",
+    "region": "Japan",
+    "releases": [
+        {
+            "catalog": "KSLA-0002",
+            "date": "2001-08-10",
+            "event": {
+                "link": "event/22",
+                "name": "Comic Market 60",
+                "shortname": "C60"
+            },
+            "link": "album/284",
+            "role": "Publisher",
+            "titles": {
+                "en": "Natukage / nostalgia",
+                "ja": "KEY + LIA Natukage / nostalgia",
+                "ja-latn": "Natukage / nostalgia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0001",
+            "date": "2001-08-10",
+            "event": {
+                "link": "event/22",
+                "name": "Comic Market 60",
+                "shortname": "C60"
+            },
+            "link": "album/283",
+            "role": "Publisher",
+            "titles": {
+                "en": "WORK-S / Humanity…",
+                "ja": "WORK-S / Humanity…",
+                "ja-latn": "WORK-S / Humanity…"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0003",
+            "date": "2001-12-29",
+            "event": {
+                "link": "event/21",
+                "name": "Comic Market 61",
+                "shortname": "C61"
+            },
+            "link": "album/285",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kanon Arrange Best Album \"recollections\"",
+                "ja": "Kanon Arrange Best Album \"recollections\"",
+                "ja-latn": "Kanon Arrange Best Album \"recollections\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0004~5",
+            "date": "2002-08-09",
+            "event": {
+                "link": "event/20",
+                "name": "Comic Market 62",
+                "shortname": "C62"
+            },
+            "link": "album/287",
+            "role": "Publisher",
+            "titles": {
+                "en": "AIR Original Soundtrack",
+                "ja": "AIR Original Soundtrack",
+                "ja-latn": "AIR Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0006",
+            "date": "2002-10-25",
+            "link": "album/543",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kanon ORIGINAL SOUNDTRACK",
+                "ja": "カノン オリジナル サウンドトラック",
+                "ja-latn": "Kanon ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0007",
+            "date": "2002-12-28",
+            "event": {
+                "link": "event/19",
+                "name": "Comic Market 63",
+                "shortname": "C63"
+            },
+            "link": "album/545",
+            "role": "Publisher",
+            "titles": {
+                "en": "Birthday Song,Requiem",
+                "ja": "Birthday Song,Requiem",
+                "ja-latn": "Birthday Song,Requiem"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0008",
+            "date": "2003-08-15",
+            "event": {
+                "link": "event/18",
+                "name": "Comic Market 64",
+                "shortname": "C64"
+            },
+            "link": "album/547",
+            "role": "Publisher",
+            "titles": {
+                "en": "Spica / Hanabi / Moon",
+                "ja": "Spica / Hanabi / Moon",
+                "ja-latn": "Spica / Hanabi / Moon"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0010",
+            "date": "2003-12-28",
+            "event": {
+                "link": "event/17",
+                "name": "Comic Market 65",
+                "shortname": "C65"
+            },
+            "link": "album/549",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kanon AIR Piano Arrange Album Re-feel",
+                "ja": "Kanon AIR Piano Arrange Album Re-feel",
+                "ja-latn": "Kanon AIR Piano Arrange Album Re-feel"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0009",
+            "date": "2003-12-28",
+            "event": {
+                "link": "event/17",
+                "name": "Comic Market 65",
+                "shortname": "C65"
+            },
+            "link": "album/548",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo\"",
+                "ja": "CLANNADイメージボーカルアルバム - ソララド",
+                "ja-latn": "CLANNAD Image Vocal Album \"SoLaLaDo\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0011",
+            "date": "2004-04-28",
+            "link": "album/551",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI\"",
+                "ja": "CLANNAD arrange album \"MABINOGI\"",
+                "ja-latn": "CLANNAD arrange album \"MABINOGI\""
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0012~4",
+            "date": "2004-08-13",
+            "event": {
+                "link": "event/16",
+                "name": "Comic Market 66",
+                "shortname": "C66"
+            },
+            "link": "album/555",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD Original Soundtrack",
+                "ja": "CLANNAD Original Soundtrack",
+                "ja-latn": "CLANNAD Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0016~7",
+            "date": "2004-12-28",
+            "event": {
+                "link": "event/15",
+                "name": "Comic Market 67",
+                "shortname": "C67"
+            },
+            "link": "album/1183",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD remix album -memento-",
+                "ja": "CLANNAD remix album -memento-",
+                "ja-latn": "CLANNAD remix album -memento-"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0015",
+            "date": "2004-12-29",
+            "event": {
+                "link": "event/15",
+                "name": "Comic Market 67",
+                "shortname": "C67"
+            },
+            "link": "album/1182",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD Image Vocal Album \"SoLaLaDo Append\"",
+                "ja": "CLANNADイメージボーカルアルバム - ソララドアペンド",
+                "ja-latn": "CLANNAD Image Vocal Album \"SoLaLaDo Append\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0018",
+            "date": "2005-08-12",
+            "event": {
+                "link": "event/14",
+                "name": "Comic Market 68",
+                "shortname": "C68"
+            },
+            "link": "album/1184",
+            "role": "Publisher",
+            "titles": {
+                "en": "KEY Compilation Mini Album \"Ma-Na\"",
+                "ja": "KEY Compilation Mini Album \"Ma-Na\"",
+                "ja-latn": "KEY Compilation Mini Album \"Ma-Na\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0019",
+            "date": "2005-08-31",
+            "link": "album/1185",
+            "role": "Publisher",
+            "titles": {
+                "en": "Love Song",
+                "ja": "Love Song",
+                "ja-latn": "Love Song"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0020",
+            "date": "2005-11-25",
+            "link": "album/1186",
+            "role": "Publisher",
+            "titles": {
+                "en": "Tomoyo After Original SoundTrack",
+                "ja": "智代アフター Original SoundTrack",
+                "ja-latn": "Tomoyo After Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0021",
+            "date": "2005-12-29",
+            "event": {
+                "link": "event/13",
+                "name": "Comic Market 69",
+                "shortname": "C69"
+            },
+            "link": "album/1187",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD / Tomoyo After Piano Arrange Album \"Piano no Mori\"",
+                "ja": "～CLANNAD/Tomoyo After Piano Arrange Album～ ピアノの森",
+                "ja-latn": "CLANNAD / Tomoyo After Piano Arrange Album \"Piano no Mori\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0022",
+            "date": "2006-05-03",
+            "link": "album/1188",
+            "role": "Publisher",
+            "titles": {
+                "en": "AIR Analogue Collector's Edition – Tori no Uta / Farewell song",
+                "ja": "AIR Analogue Collector's Edition – Tori no Uta / Farewell song",
+                "ja-latn": "AIR Analogue Collector's Edition – Tori no Uta / Farewell song"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0023~4",
+            "date": "2006-06-23",
+            "link": "album/1249",
+            "role": "Publisher",
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 1",
+                "ja": "OTSU Club Music Compilation Vol. 1",
+                "ja-latn": "OTSU Club Music Compilation Vol. 1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0025",
+            "date": "2006-08-11",
+            "event": {
+                "link": "event/5",
+                "name": "Comic Market 70",
+                "shortname": "C70"
+            },
+            "link": "album/1281",
+            "role": "Publisher",
+            "titles": {
+                "en": "planetarian original soundtrack",
+                "ja": "planetarian original soundtrack",
+                "ja-latn": "planetarian original soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0026",
+            "date": "2006-12-28",
+            "link": "album/4103",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kanon – Last Regrets / Kaze no Tadoritsuku Basho",
+                "ja": "Last regrets ／ 風の辿り着く場所",
+                "ja-latn": "Kanon – Last Regrets / Kaze no Tadoritsuku Basho"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0027",
+            "date": "2006-12-29",
+            "event": {
+                "link": "event/3",
+                "name": "Comic Market 71",
+                "shortname": "C71"
+            },
+            "link": "album/4065",
+            "role": "Publisher",
+            "titles": {
+                "en": "planetarian ~the reverie of a little planet~ Drama CD – a snow globe",
+                "ja": "planetarian ～ちいさなほしのゆめ～ ドラマCD 「a snow globe」",
+                "ja-latn": "planetarian -chiisana hoshi no yume- drama CD 「a snow globe」"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "PCCA-90027",
+            "date": "2007-05-25",
+            "link": "album/13528",
+            "reprint": true,
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters!",
+                "ja": "リトルバスターズ！",
+                "ja-latn": "Little Busters!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0028",
+            "date": "2007-05-25",
+            "link": "album/4684",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters!",
+                "ja": "リトルバスターズ！",
+                "ja-latn": "Little Busters!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0027",
+            "date": "2007-05-25",
+            "link": "album/5164",
+            "reprint": true,
+            "role": "Publisher",
+            "titles": {
+                "en": "planetarian Drama CD Box 1 – a snow globe",
+                "ja": "プラネタリアン ドラマ CD 第一章 雪圏球",
+                "ja-latn": "planetarian Drama CD Box 1 – a snow globe"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0032",
+            "date": "2007-07-27",
+            "link": "album/5131",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Original Arrange Album \"semicrystalline\"",
+                "ja": "Little Busters! Original Arrange Album \"semicrystalline\"",
+                "ja-latn": "Little Busters! Original Arrange Album \"semicrystalline\""
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0030~1",
+            "date": "2007-07-27",
+            "link": "album/5166",
+            "role": "Publisher",
+            "titles": {
+                "en": "planetarian Drama CD Box 3 – man of the stars",
+                "ja": "プラネタリアン ドラマCD 最終章 星の人",
+                "ja-latn": "planetarian Drama CD Box 3 – man of the stars"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0029",
+            "date": "2007-07-27",
+            "link": "album/5165",
+            "role": "Publisher",
+            "titles": {
+                "en": "planetarian Drama CD Box 2 – Jerusalem",
+                "ja": "プラネタリアン ドラマCD 第二章 エルサレム",
+                "ja-latn": "planetarian Drama CD Box 2 – Jerusalem"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0033~5",
+            "date": "2007-09-28",
+            "link": "album/4683",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Original Soundtrack",
+                "ja": "リトルバスターズ！ オリジナルサウンドトラック",
+                "ja-latn": "Little Busters! Original Soundtrack"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0036",
+            "date": "2007-10-26",
+            "link": "album/5046",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD – Mag Mell / Dango Daikazoku",
+                "ja": "クラナド オープニング&エンディングテーマ　メグメル / だんご大家族",
+                "ja-latn": "CLANNAD – Mag Mell / Dango Daikazoku"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0038",
+            "date": "2007-12-29",
+            "event": {
+                "link": "event/2",
+                "name": "Comic Market 73",
+                "shortname": "C73"
+            },
+            "link": "album/6231",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Character Song ~Rin~ \"Rin no Hisoka na Koi no Uta / Mission:Love sniper\"",
+                "ja": "リトルバスターズ キャラクターソング～鈴～ 「鈴の密かな恋の唄／Mission:Love sniper」",
+                "ja-latn": "Little Busters! Character Song ~Rin~ \"Rin no Hisoka na Koi no Uta / Mission:Love sniper\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0037",
+            "date": "2007-12-29",
+            "event": {
+                "link": "event/2",
+                "name": "Comic Market 73",
+                "shortname": "C73"
+            },
+            "link": "album/6230",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Arrange Album \"Rockstar Busters!\"",
+                "ja": "Little Busters! Arrange Album \"Rockstar Busters!\"",
+                "ja-latn": "Little Busters! Arrange Album \"Rockstar Busters!\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0039~40",
+            "date": "2008-02-29",
+            "link": "album/7097",
+            "role": "Publisher",
+            "titles": {
+                "en": "OTSU Club Music Compilation Vol. 2",
+                "ja": "OTSU Club Music Compilation Vol. 2",
+                "ja-latn": "OTSU Club Music Compilation Vol. 2"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0041",
+            "date": "2008-05-04",
+            "link": "album/7906",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Analog Collector's Edition",
+                "ja": "リトルバスターズ！ アナログ盤",
+                "ja-latn": "Little Busters! Analog Collector's Edition"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0001~2",
+            "date": "2008-05-10",
+            "link": "album/8687",
+            "role": "Publisher",
+            "titles": {
+                "en": "KSL LIVE WORLD 2008 Pamphlet and Memorial Disc",
+                "ja": "KSL LIVE WORLD 2008 Pamphlet and Memorial Disc",
+                "ja-latn": "KSL LIVE WORLD 2008 Pamphlet and Memorial Disc"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0042",
+            "date": "2008-07-25",
+            "link": "album/9655",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters!-EX Arrange Album \"ontology\"",
+                "ja": "Little Busters!-EX Arrange Album \"ontology\"",
+                "ja-latn": "Little Busters!-EX Arrange Album \"ontology\""
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0043",
+            "date": "2008-08-15",
+            "event": {
+                "link": "event/29",
+                "name": "Comic Market 74",
+                "shortname": "C74"
+            },
+            "link": "album/9653",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Ecstasy Tracks",
+                "ja": "リトルバスターズ！エクスタシートラックス",
+                "ja-latn": "Little Busters! Ecstasy Tracks"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0044",
+            "date": "2008-11-14",
+            "link": "album/10777",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\"",
+                "ja": "時を刻む唄／TORCH",
+                "ja-latn": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\""
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0003",
+            "date": "2008-12-28",
+            "event": {
+                "link": "event/35",
+                "name": "Comic Market 75",
+                "shortname": "C75"
+            },
+            "link": "album/11549",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\" -Piano Arrange Disc-",
+                "ja": "時を刻む唄／TORCH -Piano Arrange Disc-",
+                "ja-latn": "CLANNAD ~After Story~ \"Toki wo Kizamu Uta / TORCH\" -Piano Arrange Disc-"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0045~6",
+            "date": "2008-12-28",
+            "event": {
+                "link": "event/35",
+                "name": "Comic Market 75",
+                "shortname": "C75"
+            },
+            "link": "album/11557",
+            "role": "Publisher",
+            "titles": {
+                "en": "KSL Live World 2008 ~Way to the Little Busters! EX~",
+                "ja": "KSL Live World 2008 ~Way to the Little Busters! EX~",
+                "ja-latn": "KSL Live World 2008 ~Way to the Little Busters! EX~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLC-0004~5",
+            "date": "2009-02-28",
+            "link": "album/13063",
+            "role": "Publisher",
+            "titles": {
+                "en": "Key 10th Memorial Fes Anniversary CD",
+                "ja": "Key 10th Memorial Fes Anniversary CD",
+                "ja-latn": "Key 10th Memorial Fes Anniversary CD"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0048",
+            "date": "2009-02-28",
+            "link": "album/12634",
+            "role": "Publisher",
+            "titles": {
+                "en": "OTSU:Blasterhead",
+                "ja": "OTSU:Blasterhead",
+                "ja-latn": "OTSU:Blasterhead"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0047",
+            "date": "2009-02-28",
+            "link": "album/12301",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters!-EX Character Song ~Saya~ \"Saya no Nemureru Requiem / Saya's Song\"",
+                "ja": "リトルバスターズ エクスタシー キャラクターソング～沙耶～ 「沙耶の眠れるレクイエム／Saya's Song」",
+                "ja-latn": "Little Busters!-EX Character Song ~Saya~ \"Saya no Nemureru Requiem / Saya's Song\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2009-02-28",
+            "link": "album/13062",
+            "role": "Publisher",
+            "titles": {
+                "en": "Key 10th Memorial Score",
+                "ja": "Key 10th Memorial Score",
+                "ja-latn": "Key 10th Memorial Score"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0050",
+            "date": "2009-12-29",
+            "event": {
+                "link": "event/66",
+                "name": "Comic Market 77",
+                "shortname": "C77"
+            },
+            "link": "album/16759",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters!-EX Character Song ~Sasami~ \"Neko to Garasu to Marui Tsuki / Alicemagic ~Aroma Tablet mix~\"",
+                "ja": "リトルバスターズ！エクスタシー キャラクターソング～佐々美～ 「猫と硝子と円い月 / Alicemagic ～Aroma Table mix～」",
+                "ja-latn": "Little Busters!-EX Character Song ~Sasami~ \"Neko to Garasu to Marui Tsuki / Alicemagic ~Aroma Tablet mix~\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0049",
+            "date": "2009-12-29",
+            "event": {
+                "link": "event/66",
+                "name": "Comic Market 77",
+                "shortname": "C77"
+            },
+            "link": "album/16758",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! Character Song ~Kanata~ \"raison / Pickles wo Oishikusuru Tsukurikata\"",
+                "ja": "リトルバスターズ！ キャラクターソング～佳奈多～ 「raison/ピクルスをおいしくするつくりかた」",
+                "ja-latn": "Little Busters! Character Song ~Kanata~ \"raison / Pickles wo Oishikusuru Tsukurikata\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0056",
+            "date": "2010-04-23",
+            "link": "album/18962",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kud Wafter Opening Theme \"one's future\"",
+                "ja": "クドわふたー オープニングテーマ 「one's future」",
+                "ja-latn": "Kud Wafter Opening Theme \"one's future\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0051",
+            "date": "2010-04-23",
+            "link": "album/18988",
+            "role": "Imprint",
+            "titles": {
+                "en": "Crow Song / Girls Dead Monster",
+                "ja": "Crow Song / Girls Dead Monster",
+                "ja-latn": "Crow Song / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0052",
+            "date": "2010-05-12",
+            "link": "album/19235",
+            "role": "Imprint",
+            "titles": {
+                "en": "Thousand Enemies / Girls Dead Monster",
+                "ja": "Thousand Enemies / Girls Dead Monster",
+                "ja-latn": "Thousand Enemies / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0008",
+            "date": "2010-05-21",
+            "link": "album/48974",
+            "role": "Publisher",
+            "titles": {
+                "en": "KSL Live World 2010 Pamphlet Music Disc",
+                "ja": "KSL Live World 2010 Pamphlet Music Disc",
+                "ja-latn": "KSL Live World 2010 Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0054",
+            "date": "2010-05-26",
+            "link": "album/19731",
+            "role": "Imprint",
+            "titles": {
+                "en": "My Soul, Your Beats! / Brave Song",
+                "ja": "My Soul, Your Beats! / Brave Song",
+                "ja-latn": "My Soul, Your Beats! / Brave Song"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0053",
+            "date": "2010-05-26",
+            "link": "album/19457",
+            "role": "Imprint",
+            "titles": {
+                "en": "My Soul, Your Beats! / Brave Song [Limited Edition]",
+                "ja": "My Soul, Your Beats! / Brave Song [Limited Edition]",
+                "ja-latn": "My Soul, Your Beats! / Brave Song [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0055",
+            "date": "2010-06-09",
+            "link": "album/19678",
+            "role": "Imprint",
+            "titles": {
+                "en": "Little Braver / Girls Dead Monster",
+                "ja": "Little Braver / Girls Dead Monster",
+                "ja-latn": "Little Braver / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0057",
+            "date": "2010-06-25",
+            "link": "album/20008",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kud Wafter Original SoundTrack",
+                "ja": "クドわふたー オリジナル サウンドトラック",
+                "ja-latn": "Kud Wafter Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0058",
+            "date": "2010-06-30",
+            "link": "album/20060",
+            "role": "Imprint",
+            "titles": {
+                "en": "Keep The Beats! / Girls Dead Monster",
+                "ja": "Keep The Beats! / Girls Dead Monster",
+                "ja-latn": "Keep The Beats! / Girls Dead Monster"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0059~60",
+            "date": "2010-07-28",
+            "link": "album/19312",
+            "role": "Imprint",
+            "titles": {
+                "en": "Angel Beats! ORIGINAL SOUNDTRACK",
+                "ja": "TVアニメ「Angel Beats!」オリジナルサウンドトラック",
+                "ja-latn": "Angel Beats! ORIGINAL SOUNDTRACK"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLC-0009",
+            "date": "2010-08-02",
+            "link": "album/49035",
+            "role": "Imprint",
+            "titles": {
+                "en": "Girls Dead Monster Starring LiSA Tour 2010 -Keep The Angel Beats!- Pamphlet Music Disc",
+                "ja": "Girls Dead Monster Starring LiSA Tour 2010 -Keep The Angel Beats!- Pamphlet Music Disc",
+                "ja-latn": "Girls Dead Monster Starring LiSA Tour 2010 -Keep The Angel Beats!- Pamphlet Music Disc"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0065",
+            "date": "2010-12-08",
+            "link": "album/21578",
+            "role": "Imprint",
+            "titles": {
+                "en": "Ichiban no Takaramono ~Yui final ver.~ / Girls Dead Monster starring LiSA [Limited Edition]",
+                "ja": "一番の宝物 ~Yui final ver.~ / Girls Dead Monster starring LiSA",
+                "ja-latn": "Ichiban no Takaramono ~Yui final ver.~ / Girls Dead Monster starring LiSA [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0064",
+            "date": "2010-12-08",
+            "link": "album/21577",
+            "role": "Imprint",
+            "titles": {
+                "en": "Last Song / Girls Dead Monster starring marina [Limited Edition]",
+                "ja": "Last Song / Girls Dead Monster starring marina [Limited Edition]",
+                "ja-latn": "Last Song / Girls Dead Monster starring marina [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0061~3",
+            "date": "2010-12-24",
+            "link": "album/21935",
+            "role": "Imprint",
+            "titles": {
+                "en": "KSL Live World 2010 ~Way to the kud Wafter~",
+                "ja": "KSL Live World 2010 ~Way to the kud Wafter~",
+                "ja-latn": "KSL Live World 2010 ~Way to the kud Wafter~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0066",
+            "date": "2010-12-29",
+            "event": {
+                "link": "event/98",
+                "name": "Comic Market 79",
+                "shortname": "C79"
+            },
+            "link": "album/23608",
+            "role": "Imprint",
+            "titles": {
+                "en": "Albina ~Assorted Kudwaf Songs~",
+                "ja": "Albina ~Assorted Kudwaf Songs~",
+                "ja-latn": "Albina ~Assorted Kudwaf Songs~"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0067",
+            "date": "2011-01-28",
+            "link": "album/23763",
+            "role": "Imprint",
+            "titles": {
+                "en": "Rewrite Opening Theme song \"Philosophyz\"",
+                "ja": "Rewrite Opening Theme song \"Philosophyz\"",
+                "ja-latn": "Rewrite Opening Theme song \"Philosophyz\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0069",
+            "date": "2011-05-27",
+            "link": "album/25337",
+            "role": "Imprint",
+            "titles": {
+                "en": "Rewrite 2nd Opening Theme song \"Rewrite\"",
+                "ja": "Rewrite 2nd Opening Theme song \"Rewrite\"",
+                "ja-latn": "Rewrite 2nd Opening Theme song \"Rewrite\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0068",
+            "date": "2011-05-27",
+            "link": "album/25336",
+            "role": "Imprint",
+            "titles": {
+                "en": "Deejay Busters!",
+                "ja": "Deejay Busters!",
+                "ja-latn": "Deejay Busters!"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0071",
+            "date": "2011-06-24",
+            "link": "album/25395",
+            "role": "Imprint",
+            "titles": {
+                "en": "Key+Lia Best 2001-2010",
+                "ja": "Key+Lia Best 2001-2010",
+                "ja-latn": "Key+Lia Best 2001-2010"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0070",
+            "date": "2011-06-24",
+            "link": "album/25230",
+            "role": "Imprint",
+            "titles": {
+                "en": "Soil",
+                "ja": "Soil",
+                "ja-latn": "Soil"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0073~5",
+            "date": "2011-10-28",
+            "event": {
+                "link": "event/134",
+                "name": "Comic Market 80",
+                "shortname": "C80"
+            },
+            "link": "album/27623",
+            "role": "Imprint",
+            "titles": {
+                "en": "Rewrite ORIGINAL SOUNDTRACK",
+                "ja": "Rewrite ORIGINAL SOUNDTRACK",
+                "ja-latn": "Rewrite ORIGINAL SOUNDTRACK"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0078",
+            "date": "2011-12-29",
+            "event": {
+                "link": "event/146",
+                "name": "Comic Market 81",
+                "shortname": "C81"
+            },
+            "link": "album/29966",
+            "role": "Publisher",
+            "titles": {
+                "en": "Albina ~Assorted Kudwaf Songs~",
+                "ja": "Albina ~Assorted Kudwaf Songs~",
+                "ja-latn": "Albina ~Assorted Kudwaf Songs~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0077",
+            "date": "2011-12-29",
+            "event": {
+                "link": "event/146",
+                "name": "Comic Market 81",
+                "shortname": "C81"
+            },
+            "link": "album/29965",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kud Wafter Original Sound Track",
+                "ja": "クドわふたー Original Sound Track",
+                "ja-latn": "Kud Wafter Original Sound Track"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0076",
+            "date": "2011-12-29",
+            "event": {
+                "link": "event/146",
+                "name": "Comic Market 81",
+                "shortname": "C81"
+            },
+            "link": "album/30329",
+            "role": "Imprint",
+            "titles": {
+                "en": "Rewrite Arrangement Album Branch",
+                "ja": "Rewrite Arrangement Album Branch",
+                "ja-latn": "Rewrite Arrangement Album Branch"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0079",
+            "date": "2012-05-25",
+            "link": "album/32432",
+            "role": "Publisher",
+            "titles": {
+                "en": "Key + VOCALOID Best selection vol.1",
+                "ja": "Key + VOCALOID Best selection vol.1",
+                "ja-latn": "Key + VOCALOID Best selection vol.1"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0080",
+            "date": "2012-06-29",
+            "link": "album/33614",
+            "role": "Publisher",
+            "titles": {
+                "en": "Orpheus ~Kimi to Kanaderu Ashita e no Uta~",
+                "ja": "Orpheus ～君と奏でる明日へのうた～",
+                "ja-latn": "Orpheus ~Kimi to Kanaderu Ashita e no Uta~"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0081",
+            "date": "2012-07-27",
+            "link": "album/32384",
+            "role": "Publisher",
+            "titles": {
+                "en": "Rewrite Harvest festa! Original SoundTrack \"Feast\"",
+                "ja": "Rewrite Harvest festa! 追加サウンドトラック",
+                "ja-latn": "Rewrite Harvest festa! Original SoundTrack \"Feast\""
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0085~6",
+            "date": "2012-07-29",
+            "link": "album/34234",
+            "role": "Publisher",
+            "titles": {
+                "en": "Visual Art's 20th Anniversary Remixes",
+                "ja": "Visual Art's 20th Anniversary Remixes",
+                "ja-latn": "Visual Art's 20th Anniversary Remixes"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0084",
+            "date": "2012-07-29",
+            "link": "album/34241",
+            "role": "Publisher",
+            "titles": {
+                "en": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi",
+                "ja": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi",
+                "ja-latn": "KEYNOTE -Key Sounds Remix Album- / Soshi Hosoi"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0082~3",
+            "date": "2012-10-24",
+            "link": "album/34809",
+            "role": "Publisher",
+            "titles": {
+                "en": "circle of fifth",
+                "ja": "circle of fifth",
+                "ja-latn": "circle of fifth"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0088",
+            "date": "2012-10-31",
+            "link": "album/35220",
+            "role": "Imprint",
+            "titles": {
+                "en": "Little Busters!/Alicemagic ~TV animation ver.~",
+                "ja": "Little Busters!/Alicemagic ~TV animation ver.~",
+                "ja-latn": "Little Busters!/Alicemagic ~TV animation ver.~"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0087",
+            "date": "2012-10-31",
+            "link": "album/35221",
+            "role": "Imprint",
+            "titles": {
+                "en": "Little Busters!/Alicemagic ~TV animation ver.~ [Limited Edition]",
+                "ja": "Little Busters!/Alicemagic ~TV animation ver.~ [Limited Edition]",
+                "ja-latn": "Little Busters!/Alicemagic ~TV animation ver.~ [Limited Edition]"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0091",
+            "date": "2012-12-29",
+            "event": {
+                "link": "event/156",
+                "name": "Comic Market 83",
+                "shortname": "C83"
+            },
+            "link": "album/36703",
+            "role": "Imprint",
+            "titles": {
+                "en": "Rewrite & Rewrite Harvest festa! Arrange Album dye mixture",
+                "ja": "Rewrite & Rewrite Harvest festa! Arrange Album dye mixture",
+                "ja-latn": "Rewrite & Rewrite Harvest festa! Arrange Album dye mixture"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLA-0090",
+            "date": "2012-12-29",
+            "event": {
+                "link": "event/156",
+                "name": "Comic Market 83",
+                "shortname": "C83"
+            },
+            "link": "album/36702",
+            "role": "Imprint",
+            "titles": {
+                "en": "KeyCLASSIC",
+                "ja": "KeyCLASSIC",
+                "ja-latn": "KeyCLASSIC"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLM-0004",
+            "date": "2013-01-30",
+            "link": "album/36477",
+            "role": "Imprint",
+            "titles": {
+                "en": "Visual Art's 20th LIVE 2012 in YOKOHAMA ARENA ~Song to play with you tomorrow~",
+                "ja": "ビジュアルアーツ大感謝祭LIVE 2012 in YOKOHAMA ARENA~きみとかなでるあしたへのうた~",
+                "ja-latn": "Visual Art's 20th LIVE 2012 in YOKOHAMA ARENA ~Song to play with you tomorrow~"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0089",
+            "date": "2013-04-26",
+            "link": "album/38171",
+            "role": "Publisher",
+            "titles": {
+                "en": "Little Busters! / Kud Wafter Piano Arrange Album \"ripresa\"",
+                "ja": "リトルバスターズ！/クドわふたー Piano Arrange Album “ripresa”",
+                "ja-latn": "Little Busters! / Kud Wafter Piano Arrange Album \"ripresa\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0092",
+            "date": "2013-10-23",
+            "link": "album/41396",
+            "role": "Publisher",
+            "titles": {
+                "en": "Boys be Smile/Mezameta Asa ni wa Kimi ga Tonari ni / Suzuyu",
+                "ja": "Boys be Smile/目覚めた朝にはきみが隣に / 鈴湯",
+                "ja-latn": "Boys be Smile/Mezameta Asa ni wa Kimi ga Tonari ni / Suzuyu"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0093",
+            "date": "2013-11-06",
+            "link": "album/41397",
+            "role": "Publisher",
+            "titles": {
+                "en": "Kimi to no Nakushi Mono/Namidairo no Tsubasa / Ayaka Kitazawa",
+                "ja": "君とのなくしもの/涙色の翼 / 北沢綾香",
+                "ja-latn": "Kimi to no Nakushi Mono/Namidairo no Tsubasa / Ayaka Kitazawa"
+            },
+            "type": "anime"
+        },
+        {
+            "catalog": "KSLA-0094",
+            "date": "2013-12-29",
+            "event": {
+                "link": "event/167",
+                "name": "Comic Market 85",
+                "shortname": "C85"
+            },
+            "link": "album/43003",
+            "role": "Imprint",
+            "titles": {
+                "en": "Little Busters! ~Refrain~ Original SoundTrack",
+                "ja": "リトルバスターズ！ ～Refrain～ Original SoundTrack",
+                "ja-latn": "Little Busters! ~Refrain~ Original SoundTrack"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2014-02-18",
+            "link": "album/45150",
+            "role": "Publisher",
+            "titles": {
+                "en": "CLANNAD arrange album \"MABINOGI\"",
+                "ja": "CLANNAD arrange album \"MABINOGI\"",
+                "ja-latn": "CLANNAD arrange album \"MABINOGI\""
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLA-0095~6",
+            "date": "2014-04-29",
+            "link": "album/45324",
+            "role": "Imprint",
+            "titles": {
+                "en": "Little Busters! PERFECT Vocal Collection",
+                "ja": "リトルバスターズ！ パーフェクトボーカルコレクション",
+                "ja-latn": "Little Busters! PERFECT Vocal Collection"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "KSLM-0097",
+            "date": "2014-06-25",
+            "link": "album/46617",
+            "role": "Imprint",
+            "titles": {
+                "en": "nature couleur / Ayaka Kitazawa",
+                "ja": "nature couleur / 北沢綾香",
+                "ja-latn": "nature couleur / Ayaka Kitazawa"
+            },
+            "type": "works"
+        },
+        {
+            "catalog": "KSLA-0098",
+            "date": "2014-12-28",
+            "event": {
+                "link": "event/175",
+                "name": "Comic Market 87",
+                "shortname": "C87"
+            },
+            "link": "album/49567",
+            "role": "Imprint",
+            "titles": {
+                "en": "rare tracks / Girls Dead Monster",
+                "ja": "rare tracks / Girls Dead Monster",
+                "ja-latn": "rare tracks / Girls Dead Monster"
+            },
+            "type": "bonus"
+        },
+        {
+            "catalog": "KSLM-0099",
+            "date": "2015-04-01",
+            "link": "album/50856",
+            "role": "Imprint",
+            "titles": {
+                "en": "Heartily Song / Lia",
+                "ja": "Heartily Song / Lia",
+                "ja-latn": "Heartily Song / Lia"
+            },
+            "type": "game"
+        },
+        {
+            "catalog": "N/A",
+            "date": "2015-05-29",
+            "link": "album/49938",
+            "role": "Imprint",
+            "titles": {
+                "en": "Million Star / Girls Dead Monster",
+                "ja": "Million Star / Girls Dead Monster",
+                "ja-latn": "Million Star / Girls Dead Monster"
+            },
+            "type": "bonus"
+        }
+    ],
+    "type": "Label / Imprint",
+    "vgmdb_link": "http://vgmdb.net/org/1?perpage=99999",
+    "websites": {
+        "Official": [
+            {
+                "link": "http://key.soundslabel.com/",
+                "name": "Key Sounds Label HomePage"
+            }
+        ]
+    }
+}
