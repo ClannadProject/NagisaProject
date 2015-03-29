@@ -142,8 +142,8 @@ class VGMdbAlbum {
             });
         }
 
-        if (!ListUtils.isEmpty(album.getEvents())) {
-            album.getEvents().stream().forEach((event) -> {
+        if (!ListUtils.isEmpty(album.getRelease_events())) {
+            album.getRelease_events().stream().forEach((event) -> {
                 getEvents().add(new VGMdbEvent(event));
             });
         }

@@ -51,6 +51,6 @@ public @Data class Album {
     private List<AlbumStore> stores = new ArrayList<>();    
     
     private List<String> platforms = new ArrayList<>();
-    private List<AlbumReleaseEvent> events = new ArrayList<>();
+    private List<AlbumReleaseEvent> release_events = new ArrayList<>();
 
 }
