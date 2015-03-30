@@ -202,7 +202,8 @@ class VGMdbAlbum {
                         relatedAlbum.getNames(),
                         relatedAlbum.getLink(),
                         relatedAlbum.getCatalog(),
-                        relatedAlbum.getType()));
+                        relatedAlbum.getType(),
+                        relatedAlbum.getDate(),null, null));
             });
         }
 

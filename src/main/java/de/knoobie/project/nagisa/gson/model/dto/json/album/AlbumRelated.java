@@ -9,5 +9,6 @@ public @Data class AlbumRelated {
     private String link;
     private Names names;
     private String type;
+    private String date;
 
 }
