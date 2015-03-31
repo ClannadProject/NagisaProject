@@ -10,6 +10,7 @@ public @Data class Names {
     @SerializedName("English (from furigana)")
     private String eng_furigana;
     private String ja;
+    private String Japanese;
     @SerializedName("ja-latn")
     private String ja_latn;
     @SerializedName("Japanese (furigana)")

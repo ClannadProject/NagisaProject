@@ -83,6 +83,10 @@ class VGMdbName {
             list.add(new VGMdbName(StringUtils.trim(names.getJa()), date, VGMdbNameLanguage.jap));
         }
 
+        if (!StringUtils.isEmpty(names.getJapanese())) {
+            list.add(new VGMdbName(StringUtils.trim(names.getJapanese()), date, VGMdbNameLanguage.jap));
+        }
+
         if (!StringUtils.isEmpty(names.getJa_furigana())) {
             list.add(new VGMdbName(StringUtils.trim(names.getJa_furigana()), date, VGMdbNameLanguage.ja_furigana));
         }
